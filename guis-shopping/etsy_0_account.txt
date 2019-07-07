@@ -1,0 +1,1 @@
+com.etsy.android/com.etsy.android.ui.user.UserActivity

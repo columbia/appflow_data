@@ -1,0 +1,1 @@
+com.alibaba.aliexpresshd/com.alibaba.aliexpresshd.module.common.SettingsActivity

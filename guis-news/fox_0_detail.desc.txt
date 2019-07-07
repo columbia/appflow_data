@@ -1,0 +1,6 @@
+12 back
+15 share
+25 ctxmenu
+40 image
+44 title
+47 text

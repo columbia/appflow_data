@@ -1,0 +1,1 @@
+com.usablenet.mobile.walgreen/com.walgreens.android.application.cordova.ui.activity.impl.CommonWebActivity

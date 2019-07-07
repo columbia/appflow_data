@@ -1,0 +1,1 @@
+com.wanelo.android/com.wanelo.android.ui.activity.WebViewActivity

@@ -1,0 +1,11 @@
+11 back
+185 cart_item
+195 item_title
+202 item_image
+209 item_price
+214 item_count
+232 item_remove
+247 cart_shipping
+252 cart_subtotal
+266 cart_subtotal
+269 checkout

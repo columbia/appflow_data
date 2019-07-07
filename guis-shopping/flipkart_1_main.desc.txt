@@ -1,0 +1,4 @@
+19 menu
+26 cart
+29 cart_count
+32 searchbox

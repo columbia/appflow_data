@@ -1,0 +1,7 @@
+7 back
+10 signin
+23 firstname
+27 lastname
+32 email
+37 password
+51 register

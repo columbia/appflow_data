@@ -1,0 +1,5 @@
+24 card_no
+28 card_month
+30 card_year
+33 card_cvv
+38 card_save

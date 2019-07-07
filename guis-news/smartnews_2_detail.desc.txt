@@ -1,0 +1,5 @@
+11 back
+12 share
+126 title
+130 image
+131 text

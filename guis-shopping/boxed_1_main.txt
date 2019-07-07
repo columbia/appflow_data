@@ -1,0 +1,1 @@
+com.boxed.prod/com.boxed.v2.ui.home.HomeActivity

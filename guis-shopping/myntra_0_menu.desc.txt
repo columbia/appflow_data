@@ -1,0 +1,11 @@
+52 menu_list
+55 cat_item
+56 cat_title
+58 cat_item
+59 cat_title
+61 cat_item
+62 cat_title
+64 cat_item
+65 cat_title
+76 giftcard
+80 contact

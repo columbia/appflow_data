@@ -1,0 +1,6 @@
+9 menu
+13 search
+14 cart
+19 account
+16 cart_count
+19 account

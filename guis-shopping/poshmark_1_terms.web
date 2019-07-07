@@ -1,0 +1,3393 @@
+- page:
+    base_h: 1461
+    base_w: 1080
+    base_x: 0
+    base_y: 189
+    html_h: 5474.0
+    html_w: 412.0
+    nodes:
+      1:
+        backendNodeId: 482
+        baseURL: https://www.poshmark.com/mapp/privacy_policy
+        childNodeCount: 2
+        children:
+        - &id001
+          backendNodeId: 483
+          childrenids: []
+          localName: ''
+          nodeId: 2
+          nodeName: html
+          nodeType: 10
+          nodeValue: ''
+          parent: 1
+          props: {}
+          publicId: ''
+          systemId: ''
+        - &id002
+          attributes: []
+          backendNodeId: 484
+          childNodeCount: 2
+          children:
+          - &id003
+            attributes: []
+            backendNodeId: 485
+            childNodeCount: 6
+            childrenids: [6, 8, 9, 10, 11, 12]
+            h: 0.0
+            localName: head
+            nodeId: 4
+            nodeName: HEAD
+            nodeType: 1
+            nodeValue: ''
+            parent: 3
+            props: {}
+            value: ''
+            w: 0.0
+            x: 0.0
+            y: 0.0
+          - &id004
+            attributes: [class, platform-android background_texture, is_agent_gp_app,
+              '1', style, 'zoom: 1;']
+            backendNodeId: 486
+            childNodeCount: 1
+            childrenids: [13]
+            h: 5474.0
+            localName: body
+            nodeId: 5
+            nodeName: BODY
+            nodeType: 1
+            nodeValue: ''
+            parent: 3
+            props: {class: platform-android background_texture, is_agent_gp_app: '1',
+              style: 'zoom: 1;'}
+            value: ''
+            w: 412.0
+            x: 0.0
+            y: 0.0
+          childrenids: [4, 5]
+          frameId: '8313.2'
+          h: 5474.0
+          localName: html
+          nodeId: 3
+          nodeName: HTML
+          nodeType: 1
+          nodeValue: ''
+          parent: 1
+          props: {}
+          value: ''
+          w: 412.0
+          x: 0.0
+          y: 0.0
+        childrenids: [2, 3]
+        documentURL: https://www.poshmark.com/mapp/privacy_policy
+        localName: ''
+        nodeId: 1
+        nodeName: '#document'
+        nodeType: 9
+        nodeValue: ''
+        parent: -1
+        props: {}
+        xmlVersion: ''
+      2: *id001
+      3: *id002
+      4: *id003
+      5: *id004
+      6:
+        attributes: []
+        backendNodeId: 487
+        childNodeCount: 1
+        children:
+        - &id005
+          backendNodeId: 488
+          childrenids: []
+          localName: ''
+          nodeId: 7
+          nodeName: '#text'
+          nodeType: 3
+          nodeValue: Privacy Policy
+          parent: 6
+          props: {}
+        childrenids: [7]
+        h: 0.0
+        localName: title
+        nodeId: 6
+        nodeName: TITLE
+        nodeType: 1
+        nodeValue: ''
+        parent: 4
+        props: {}
+        value: ''
+        w: 0.0
+        x: 0.0
+        y: 0.0
+      7: *id005
+      8:
+        attributes: [href, //d2zlsagv0ouax1.cloudfront.net/assets/mapp_application_v2-ee6b3d70261b0456be7284ef736e47de.css,
+          media, screen, rel, stylesheet, type, text/css]
+        backendNodeId: 489
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: link
+        nodeId: 8
+        nodeName: LINK
+        nodeType: 1
+        nodeValue: ''
+        parent: 4
+        props: {href: //d2zlsagv0ouax1.cloudfront.net/assets/mapp_application_v2-ee6b3d70261b0456be7284ef736e47de.css,
+          media: screen, rel: stylesheet, type: text/css}
+      9:
+        attributes: [src, //ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js]
+        backendNodeId: 490
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: script
+        nodeId: 9
+        nodeName: SCRIPT
+        nodeType: 1
+        nodeValue: ''
+        parent: 4
+        props: {src: //ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js}
+      10:
+        attributes: [src, //d2zlsagv0ouax1.cloudfront.net/assets/mapp_application-b179195875b8bbdae2269d2bc82c652e.js,
+          type, text/javascript]
+        backendNodeId: 491
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: script
+        nodeId: 10
+        nodeName: SCRIPT
+        nodeType: 1
+        nodeValue: ''
+        parent: 4
+        props: {src: //d2zlsagv0ouax1.cloudfront.net/assets/mapp_application-b179195875b8bbdae2269d2bc82c652e.js,
+          type: text/javascript}
+      11:
+        attributes: [content, authenticity_token, name, csrf-param]
+        backendNodeId: 492
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: meta
+        nodeId: 11
+        nodeName: META
+        nodeType: 1
+        nodeValue: ''
+        parent: 4
+        props: {content: authenticity_token, name: csrf-param}
+      12:
+        attributes: [content, hXyLF4UQ0cISxt3C+xu3WN73Z54nnlZEm06cEu1VwN8=, name,
+          csrf-token]
+        backendNodeId: 493
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: meta
+        nodeId: 12
+        nodeName: META
+        nodeType: 1
+        nodeValue: ''
+        parent: 4
+        props: {content: hXyLF4UQ0cISxt3C+xu3WN73Z54nnlZEm06cEu1VwN8=, name: csrf-token}
+      13:
+        attributes: [class, 'main-con ']
+        backendNodeId: 494
+        childNodeCount: 1
+        children:
+        - &id006
+          attributes: [class, static-page-con privacy]
+          backendNodeId: 495
+          childNodeCount: 1
+          children:
+          - &id007
+            attributes: []
+            backendNodeId: 496
+            childNodeCount: 45
+            children:
+            - &id008
+              attributes: [align, center]
+              backendNodeId: 497
+              childNodeCount: 2
+              children:
+              - &id009
+                backendNodeId: 498
+                childrenids: []
+                localName: ''
+                nodeId: 17
+                nodeName: '#text'
+                nodeType: 3
+                nodeValue: 'This Privacy
+
+                  Policy was last updated on July 24, 2014. '
+                parent: 16
+                props: {}
+              - &id010
+                attributes: []
+                backendNodeId: 499
+                childNodeCount: 0
+                children: []
+                childrenids: []
+                h: 14.0
+                localName: br
+                nodeId: 18
+                nodeName: BR
+                nodeType: 1
+                nodeValue: ''
+                parent: 16
+                props: {}
+                value: ''
+                w: 0.0
+                x: 371.03125
+                y: 12.0
+              childrenids: [17, 18]
+              h: 18.0
+              localName: p
+              nodeId: 16
+              nodeName: P
+              nodeType: 1
+              nodeValue: ''
+              parent: 15
+              props: {align: center}
+              value: ''
+              w: 392.0
+              x: 10.0
+              y: 10.0
+            - &id011
+              attributes: []
+              backendNodeId: 500
+              childNodeCount: 1
+              children:
+              - &id012
+                attributes: []
+                backendNodeId: 501
+                childNodeCount: 2
+                children:
+                - &id013
+                  attributes: []
+                  backendNodeId: 502
+                  childNodeCount: 1
+                  children:
+                  - &id014
+                    backendNodeId: 503
+                    childrenids: []
+                    localName: ''
+                    nodeId: 22
+                    nodeName: '#text'
+                    nodeType: 3
+                    nodeValue: Our Policy
+                    parent: 21
+                    props: {}
+                  childrenids: [22]
+                  h: 14.0
+                  localName: u
+                  nodeId: 21
+                  nodeName: U
+                  nodeType: 1
+                  nodeValue: ''
+                  parent: 20
+                  props: {}
+                  value: ''
+                  w: 65.21875
+                  x: 10.0
+                  y: 40.0
+                - &id015
+                  backendNodeId: 504
+                  childrenids: []
+                  localName: ''
+                  nodeId: 23
+                  nodeName: '#text'
+                  nodeType: 3
+                  nodeValue: ':'
+                  parent: 20
+                  props: {}
+                childrenids: [21, 23]
+                h: 14.0
+                localName: b
+                nodeId: 20
+                nodeName: B
+                nodeType: 1
+                nodeValue: ''
+                parent: 19
+                props: {}
+                value: ''
+                w: 68.71875
+                x: 10.0
+                y: 40.0
+              childrenids: [20]
+              h: 18.0
+              localName: p
+              nodeId: 19
+              nodeName: P
+              nodeType: 1
+              nodeValue: ''
+              parent: 15
+              props: {}
+              value: ''
+              w: 392.0
+              x: 10.0
+              y: 38.0
+            - &id016
+              attributes: []
+              backendNodeId: 505
+              childNodeCount: 2
+              children:
+              - &id017
+                backendNodeId: 506
+                childrenids: []
+                localName: ''
+                nodeId: 25
+                nodeName: '#text'
+                nodeType: 3
+                nodeValue: 'Welcome to
+
+                  the service provided by Poshmark, Inc. ("Poshmark", "we", "us"
+
+                  and/or "our"). This privacy policy has been created to provide information
+
+                  about our company, our website and the services we provide (including
+
+                  through our mobile applications) (collectively, the "Services")
+
+                  to our users ("you" and/or "your"). This Privacy Policy sets
+
+                  forth Poshmark''s policy with respect to information, including
+                  personally
+
+                  identifiable data ("Personal Data"), that is collected from users
+
+                  of the Services. '
+                parent: 24
+                props: {}
+              - &id018
+                attributes: []
+                backendNodeId: 507
+                childNodeCount: 0
+                children: []
+                childrenids: []
+                h: 14.0
+                localName: br
+                nodeId: 26
+                nodeName: BR
+                nodeType: 1
+                nodeValue: ''
+                parent: 24
+                props: {}
+                value: ''
+                w: 0.0
+                x: 92.203125
+                y: 212.0
+              childrenids: [25, 26]
+              h: 162.0
+              localName: p
+              nodeId: 24
+              nodeName: P
+              nodeType: 1
+              nodeValue: ''
+              parent: 15
+              props: {}
+              value: ''
+              w: 392.0
+              x: 10.0
+              y: 66.0
+            - &id019
+              attributes: []
+              backendNodeId: 508
+              childNodeCount: 1
+              children:
+              - &id020
+                attributes: []
+                backendNodeId: 509
+                childNodeCount: 2
+                children:
+                - &id021
+                  attributes: []
+                  backendNodeId: 510
+                  childNodeCount: 1
+                  children:
+                  - &id022
+                    backendNodeId: 511
+                    childrenids: []
+                    localName: ''
+                    nodeId: 30
+                    nodeName: '#text'
+                    nodeType: 3
+                    nodeValue: 'Information
+
+                      We Collect'
+                    parent: 29
+                    props: {}
+                  childrenids: [30]
+                  h: 14.0
+                  localName: u
+                  nodeId: 29
+                  nodeName: U
+                  nodeType: 1
+                  nodeValue: ''
+                  parent: 28
+                  props: {}
+                  value: ''
+                  w: 144.9375
+                  x: 10.0
+                  y: 240.0
+                - &id023
+                  backendNodeId: 512
+                  childrenids: []
+                  localName: ''
+                  nodeId: 31
+                  nodeName: '#text'
+                  nodeType: 3
+                  nodeValue: ':'
+                  parent: 28
+                  props: {}
+                childrenids: [29, 31]
+                h: 14.0
+                localName: b
+                nodeId: 28
+                nodeName: B
+                nodeType: 1
+                nodeValue: ''
+                parent: 27
+                props: {}
+                value: ''
+                w: 148.4375
+                x: 10.0
+                y: 240.0
+              childrenids: [28]
+              h: 18.0
+              localName: p
+              nodeId: 27
+              nodeName: P
+              nodeType: 1
+              nodeValue: ''
+              parent: 15
+              props: {}
+              value: ''
+              w: 392.0
+              x: 10.0
+              y: 238.0
+            - &id024
+              attributes: []
+              backendNodeId: 513
+              childNodeCount: 1
+              children:
+              - &id025
+                backendNodeId: 514
+                childrenids: []
+                localName: ''
+                nodeId: 33
+                nodeName: '#text'
+                nodeType: 3
+                nodeValue: 'When you interact
+
+                  with us through the Services, we may collect Personal Data and other
+
+                  information from you, as further described below:'
+                parent: 32
+                props: {}
+              childrenids: [33]
+              h: 54.0
+              localName: p
+              nodeId: 32
+              nodeName: P
+              nodeType: 1
+              nodeValue: ''
+              parent: 15
+              props: {}
+              value: ''
+              w: 392.0
+              x: 10.0
+              y: 266.0
+            - &id026
+              attributes: []
+              backendNodeId: 515
+              childNodeCount: 2
+              children:
+              - &id027
+                attributes: []
+                backendNodeId: 516
+                childNodeCount: 1
+                children:
+                - &id028
+                  backendNodeId: 517
+                  childrenids: []
+                  localName: ''
+                  nodeId: 36
+                  nodeName: '#text'
+                  nodeType: 3
+                  nodeValue: 'Personal
+
+                    Data That You Provide Through the Services: '
+                  parent: 35
+                  props: {}
+                childrenids: [36]
+                h: 14.0
+                localName: b
+                nodeId: 35
+                nodeName: B
+                nodeType: 1
+                nodeValue: ''
+                parent: 34
+                props: {}
+                value: ''
+                w: 345.59375
+                x: 10.0
+                y: 332.0
+              - &id029
+                backendNodeId: 518
+                childrenids: []
+                localName: ''
+                nodeId: 37
+                nodeName: '#text'
+                nodeType: 3
+                nodeValue: '
+
+                  We collect Personal Data from you when you voluntarily provide such
+
+                  information, such as when you register for access to our Services
+                  and/or
+
+                  third party services (for example, username and email address provided
+
+                  by services such as Facebook Connect), provide us with credit card
+                  and
+
+                  other payment information, use certain Services including withdrawal
+                  of
+
+                  funds, contact us with inquiries
+
+                  or respond to one of our surveys.  Wherever Poshmark collects Personal
+
+                  Data we make an effort to provide a link to this Privacy Policy. '
+                parent: 34
+                props: {}
+              childrenids: [35, 37]
+              h: 180.0
+              localName: p
+              nodeId: 34
+              nodeName: P
+              nodeType: 1
+              nodeValue: ''
+              parent: 15
+              props: {}
+              value: ''
+              w: 392.0
+              x: 10.0
+              y: 330.0
+            - &id030
+              attributes: []
+              backendNodeId: 519
+              childNodeCount: 1
+              children:
+              - &id031
+                attributes: []
+                backendNodeId: 520
+                childNodeCount: 1
+                children:
+                - &id032
+                  backendNodeId: 521
+                  childrenids: []
+                  localName: ''
+                  nodeId: 40
+                  nodeName: '#text'
+                  nodeType: 3
+                  nodeValue: 'By voluntarily
+
+                    providing us with Personal Data, you are consenting to our use
+                    of it
+
+                    in accordance with this Privacy Policy. If you provide Personal
+                    Data,
+
+                    you acknowledge and agree that such Personal Data may be transferred
+
+                    from your current location to the offices and servers of Poshmark
+                    and
+
+                    the authorized third parties referred to herein located in the
+                    United
+
+                    States. '
+                  parent: 39
+                  props: {}
+                childrenids: [40]
+                h: 122.0
+                localName: b
+                nodeId: 39
+                nodeName: B
+                nodeType: 1
+                nodeValue: ''
+                parent: 38
+                props: {}
+                value: ''
+                w: 379.984375
+                x: 10.0
+                y: 522.0
+              childrenids: [39]
+              h: 126.0
+              localName: p
+              nodeId: 38
+              nodeName: P
+              nodeType: 1
+              nodeValue: ''
+              parent: 15
+              props: {}
+              value: ''
+              w: 392.0
+              x: 10.0
+              y: 520.0
+            - &id033
+              attributes: []
+              backendNodeId: 522
+              childNodeCount: 3
+              children:
+              - &id034
+                attributes: []
+                backendNodeId: 523
+                childNodeCount: 2
+                children:
+                - &id035
+                  backendNodeId: 524
+                  childrenids: []
+                  localName: ''
+                  nodeId: 43
+                  nodeName: '#text'
+                  nodeType: 3
+                  nodeValue: 'Non-Identifiable
+
+                    or Aggregated Data'
+                  parent: 42
+                  props: {}
+                - &id036
+                  attributes: []
+                  backendNodeId: 525
+                  childNodeCount: 1
+                  children:
+                  - &id037
+                    backendNodeId: 526
+                    childrenids: []
+                    localName: ''
+                    nodeId: 45
+                    nodeName: '#text'
+                    nodeType: 3
+                    nodeValue: ': '
+                    parent: 44
+                    props: {}
+                  childrenids: [45]
+                  h: 14.0
+                  localName: i
+                  nodeId: 44
+                  nodeName: I
+                  nodeType: 1
+                  nodeValue: ''
+                  parent: 42
+                  props: {}
+                  value: ''
+                  w: 7.09375
+                  x: 240.9375
+                  y: 658.0
+                childrenids: [43, 44]
+                h: 14.0
+                localName: b
+                nodeId: 42
+                nodeName: B
+                nodeType: 1
+                nodeValue: ''
+                parent: 41
+                props: {}
+                value: ''
+                w: 238.03125
+                x: 10.0
+                y: 658.0
+              - &id038
+                backendNodeId: 527
+                childrenids: []
+                localName: ''
+                nodeId: 46
+                nodeName: '#text'
+                nodeType: 3
+                nodeValue: 'When you interact with Poshmark through
+
+                  the Services, we receive and store certain personally non-identifiable
+
+                  information. Such information, which is collected passively using
+                  various
+
+                  technologies, cannot presently be used to specifically identify
+                  you.
+
+                  Poshmark may store such information itself or such information may
+                  be
+
+                  included in databases owned and maintained by Poshmark affiliates,
+                  agents
+
+                  or service providers. The Services may use such information and
+                  pool
+
+                  it with other information to track, for example, the number of transactions
+
+                  that are effected through the Service, the number of messages you
+                  send
+
+                  and receive, the total number of users of our Services, the domain
+
+                  names of our visitors'' Internet service providers, and how our
+                  users
+
+                  use and interact with the Services.  Also, in an ongoing effort
+
+                  to better understand and serve the users of the Services, Poshmark
+                  may
+
+                  conduct research on its customer demographics, interests and behavior
+
+                  based on the Personal Data and other information provided to us.
+                  This
+
+                  research may be compiled and analyzed on an aggregate basis.  Poshmark
+
+                  may share this non-identifiable and aggregate data with its affiliates,
+
+                  agents and business partners, but this type of non-identifiable
+                  and
+
+                  aggregate information does not identify you personally.  Poshmark
+
+                  may also disclose aggregated user statistics in order to describe
+                  our
+
+                  services to current and prospective business partners, and to other
+
+                  third parties for other lawful purposes. '
+                parent: 41
+                props: {}
+              - &id039
+                attributes: []
+                backendNodeId: 528
+                childNodeCount: 0
+                children: []
+                childrenids: []
+                h: 14.0
+                localName: br
+                nodeId: 47
+                nodeName: BR
+                nodeType: 1
+                nodeValue: ''
+                parent: 41
+                props: {}
+                value: ''
+                w: 0.0
+                x: 282.015625
+                y: 1090.0
+              childrenids: [42, 46, 47]
+              h: 450.0
+              localName: p
+              nodeId: 41
+              nodeName: P
+              nodeType: 1
+              nodeValue: ''
+              parent: 15
+              props: {}
+              value: ''
+              w: 392.0
+              x: 10.0
+              y: 656.0
+            - &id040
+              attributes: []
+              backendNodeId: 529
+              childNodeCount: 2
+              children:
+              - &id041
+                backendNodeId: 530
+                childrenids: []
+                localName: ''
+                nodeId: 49
+                nodeName: '#text'
+                nodeType: 3
+                nodeValue: '      In
+
+                  operating the Services (and in particular in making our website
+                  available),
+
+                  we may also use a technology called "cookies."  A cookie
+
+                  is a piece of information that the computer that hosts our Services
+
+                  gives to your browser when you access the Services. Our cookies
+                  help
+
+                  provide additional functionality to the Services and help us analyze
+
+                  Services usage more accurately.  For instance, our Services may
+
+                  set a cookie on your browser that allows you to access the Services
+
+                  without needing to remember and then enter a password more than
+                  once
+
+                  during a visit to the Services. In all cases in which we use cookies,
+
+                  we will not collect Personal Data except with your permission. On
+                  most
+
+                  web browsers, you will find a "help" section on the toolbar.
+
+                  Please refer to this section for information on how to receive notification
+
+                  when you are receiving a new cookie and how to turn cookies off.
+
+                  We recommend that you leave cookies turned on because they allow
+                  you
+
+                  to take advantage of some of the Services features. '
+                parent: 48
+                props: {}
+              - &id042
+                attributes: []
+                backendNodeId: 531
+                childNodeCount: 0
+                children: []
+                childrenids: []
+                h: 14.0
+                localName: br
+                nodeId: 50
+                nodeName: BR
+                nodeType: 1
+                nodeValue: ''
+                parent: 48
+                props: {}
+                value: ''
+                w: 0.0
+                x: 122.53125
+                y: 1406.0
+              childrenids: [49, 50]
+              h: 306.0
+              localName: p
+              nodeId: 48
+              nodeName: P
+              nodeType: 1
+              nodeValue: ''
+              parent: 15
+              props: {}
+              value: ''
+              w: 392.0
+              x: 10.0
+              y: 1116.0
+            - &id043
+              attributes: []
+              backendNodeId: 532
+              childNodeCount: 2
+              children:
+              - &id044
+                backendNodeId: 533
+                childrenids: []
+                localName: ''
+                nodeId: 52
+                nodeName: '#text'
+                nodeType: 3
+                nodeValue: "\n  We may also employ the use of anonymous identifiers,\
+                  \ which are random\n  strings of characters that are used for the\
+                  \ same purposes as cookies\n  on platforms, including certain mobile\
+                  \ devices, where cookie technology\n  is not available."
+                parent: 51
+                props: {}
+              - &id045
+                attributes: []
+                backendNodeId: 534
+                childNodeCount: 0
+                children: []
+                childrenids: []
+                h: 14.0
+                localName: br
+                nodeId: 53
+                nodeName: BR
+                nodeType: 1
+                nodeValue: ''
+                parent: 51
+                props: {}
+                value: ''
+                w: 0.0
+                x: 317.140625
+                y: 1488.0
+              childrenids: [52, 53]
+              h: 72.0
+              localName: p
+              nodeId: 51
+              nodeName: P
+              nodeType: 1
+              nodeValue: ''
+              parent: 15
+              props: {}
+              value: ''
+              w: 392.0
+              x: 10.0
+              y: 1432.0
+            - &id046
+              attributes: []
+              backendNodeId: 535
+              childNodeCount: 2
+              children:
+              - &id047
+                backendNodeId: 536
+                childrenids: []
+                localName: ''
+                nodeId: 55
+                nodeName: '#text'
+                nodeType: 3
+                nodeValue: "\n  We may use Web beacons or similar technology on the\
+                  \ Services. Web beacons are small, invisible graphic images that\
+                  \ may be used on the Service or in emails relating to the Service\
+                  \ to collect certain personally non-identifiable information and\
+                  \ monitor user activity on the Services, such as to count visits,\
+                  \ understand usage effectiveness and to tell if an email has been\
+                  \ opened and acted upon."
+                parent: 54
+                props: {}
+              - &id048
+                attributes: []
+                backendNodeId: 537
+                childNodeCount: 0
+                children: []
+                childrenids: []
+                h: 14.0
+                localName: br
+                nodeId: 56
+                nodeName: BR
+                nodeType: 1
+                nodeValue: ''
+                parent: 54
+                props: {}
+                value: ''
+                w: 0.0
+                x: 160.53125
+                y: 1624.0
+              childrenids: [55, 56]
+              h: 126.0
+              localName: p
+              nodeId: 54
+              nodeName: P
+              nodeType: 1
+              nodeValue: ''
+              parent: 15
+              props: {}
+              value: ''
+              w: 392.0
+              x: 10.0
+              y: 1514.0
+            - &id049
+              attributes: []
+              backendNodeId: 538
+              childNodeCount: 2
+              children:
+              - &id050
+                backendNodeId: 539
+                childrenids: []
+                localName: ''
+                nodeId: 58
+                nodeName: '#text'
+                nodeType: 3
+                nodeValue: "\n  We may collect device-specific information (such as\
+                  \ your hardware model, operating system version, unique device identifiers,\
+                  \ and mobile network information including phone number). We may\
+                  \ associate your device identifiers or phone number with your Poshmark\
+                  \ account."
+                parent: 57
+                props: {}
+              - &id051
+                attributes: []
+                backendNodeId: 540
+                childNodeCount: 0
+                children: []
+                childrenids: []
+                h: 14.0
+                localName: br
+                nodeId: 59
+                nodeName: BR
+                nodeType: 1
+                nodeValue: ''
+                parent: 57
+                props: {}
+                value: ''
+                w: 0.0
+                x: 237.0
+                y: 1724.0
+              childrenids: [58, 59]
+              h: 90.0
+              localName: p
+              nodeId: 57
+              nodeName: P
+              nodeType: 1
+              nodeValue: ''
+              parent: 15
+              props: {}
+              value: ''
+              w: 392.0
+              x: 10.0
+              y: 1650.0
+            - &id052
+              attributes: []
+              backendNodeId: 541
+              childNodeCount: 3
+              children:
+              - &id053
+                attributes: []
+                backendNodeId: 542
+                childNodeCount: 1
+                children:
+                - &id054
+                  backendNodeId: 543
+                  childrenids: []
+                  localName: ''
+                  nodeId: 62
+                  nodeName: '#text'
+                  nodeType: 3
+                  nodeValue: 'Do Not Track Signals:'
+                  parent: 61
+                  props: {}
+                childrenids: [62]
+                h: 14.0
+                localName: b
+                nodeId: 61
+                nodeName: B
+                nodeType: 1
+                nodeValue: ''
+                parent: 60
+                props: {}
+                value: ''
+                w: 135.6875
+                x: 10.0
+                y: 1752.0
+              - &id055
+                backendNodeId: 544
+                childrenids: []
+                localName: ''
+                nodeId: 63
+                nodeName: '#text'
+                nodeType: 3
+                nodeValue: " We may (and we may allow third party service\n  providers\
+                  \ to) use cookies or similar technologies to collect information\n\
+                  \  about your browsing activities over time and across different\
+                  \ websites\n  following your use of the Service.  Our Service currently\
+                  \ does not respond\n  to \"Do Not Track\" (DNT) signals and operates\
+                  \ as described in this Privacy\n  Policy whether or not a DNT signal\
+                  \ is received. If we do so in the future,\n  we will describe how\
+                  \ we do so in this Privacy Policy."
+                parent: 60
+                props: {}
+              - &id056
+                attributes: []
+                backendNodeId: 545
+                childNodeCount: 0
+                children: []
+                childrenids: []
+                h: 14.0
+                localName: br
+                nodeId: 64
+                nodeName: BR
+                nodeType: 1
+                nodeValue: ''
+                parent: 60
+                props: {}
+                value: ''
+                w: 0.0
+                x: 281.640625
+                y: 1878.0
+              childrenids: [61, 63, 64]
+              h: 144.0
+              localName: p
+              nodeId: 60
+              nodeName: P
+              nodeType: 1
+              nodeValue: ''
+              parent: 15
+              props: {}
+              value: ''
+              w: 392.0
+              x: 10.0
+              y: 1750.0
+            - &id057
+              attributes: []
+              backendNodeId: 546
+              childNodeCount: 1
+              children:
+              - &id058
+                attributes: []
+                backendNodeId: 547
+                childNodeCount: 2
+                children:
+                - &id059
+                  attributes: []
+                  backendNodeId: 548
+                  childNodeCount: 1
+                  children:
+                  - &id060
+                    backendNodeId: 549
+                    childrenids: []
+                    localName: ''
+                    nodeId: 68
+                    nodeName: '#text'
+                    nodeType: 3
+                    nodeValue: 'Our Use
+
+                      of Your Personal Data and Other Information'
+                    parent: 67
+                    props: {}
+                  childrenids: [68]
+                  h: 14.0
+                  localName: u
+                  nodeId: 67
+                  nodeName: U
+                  nodeType: 1
+                  nodeValue: ''
+                  parent: 66
+                  props: {}
+                  value: ''
+                  w: 337.328125
+                  x: 10.0
+                  y: 1906.0
+                - &id061
+                  backendNodeId: 550
+                  childrenids: []
+                  localName: ''
+                  nodeId: 69
+                  nodeName: '#text'
+                  nodeType: 3
+                  nodeValue: ':'
+                  parent: 66
+                  props: {}
+                childrenids: [67, 69]
+                h: 14.0
+                localName: b
+                nodeId: 66
+                nodeName: B
+                nodeType: 1
+                nodeValue: ''
+                parent: 65
+                props: {}
+                value: ''
+                w: 340.828125
+                x: 10.0
+                y: 1906.0
+              childrenids: [66]
+              h: 18.0
+              localName: p
+              nodeId: 65
+              nodeName: P
+              nodeType: 1
+              nodeValue: ''
+              parent: 15
+              props: {}
+              value: ''
+              w: 392.0
+              x: 10.0
+              y: 1904.0
+            - &id062
+              attributes: []
+              backendNodeId: 551
+              childNodeCount: 1
+              children:
+              - &id063
+                backendNodeId: 552
+                childrenids: []
+                localName: ''
+                nodeId: 71
+                nodeName: '#text'
+                nodeType: 3
+                nodeValue: 'Poshmark uses
+
+                  the Personal Data you provide in a manner that is consistent with
+                  this
+
+                  Privacy Policy. If you provide Personal Data for a certain reason,
+                  we
+
+                  may use the Personal Data in connection with the reason for which
+                  it
+
+                  was provided. For instance, if you contact us by email or other
+                  messaging
+
+                  means, we will use the Personal Data you provide to answer your
+                  question
+
+                  or resolve your problem, or if you confirm a transaction using the
+                  Services,
+
+                  we will use the financial data you provide to consummate the transaction.
+
+                  Also, if you provide Personal Data in order to obtain access to
+                  the
+
+                  Services, we will use your Personal Data to provide you with access
+
+                  to such services and to monitor your use of such services.  Poshmark
+
+                  and its subsidiaries and affiliates (the "Related Companies") may
+
+                  also use your Personal Data and other personally non-identifiable
+                  information
+
+                  collected through the Services to help us customize the Services,
+                  improve
+
+                  the content and functionality of the Services, better understand
+                  our
+
+                  users, prevent fraud and improve the Services. Poshmark and its
+                  Related Companies may
+
+                  use this information to communicate with you regarding the Services
+
+                  or to tell you about services we believe will be of interest to
+                  you.
+
+                  If we do so, any marketing communication we send you will contain
+                  instructions
+
+                  permitting you to "opt-out" of receiving future marketing
+
+                  communications.  In addition, if at any time you wish not to receive
+
+                  any future marketing communications or you wish to have your name
+                  deleted
+
+                  from our mailing lists, please contact us as indicated below.
+
+                  Note however that as user of the Service you cannot opt-out of some
+
+                  administrative communications that are reasonably necessary to the
+                  Service,
+
+                  such as billing or service notifications. '
+                parent: 70
+                props: {}
+              childrenids: [71]
+              h: 522.0
+              localName: p
+              nodeId: 70
+              nodeName: P
+              nodeType: 1
+              nodeValue: ''
+              parent: 15
+              props: {}
+              value: ''
+              w: 392.0
+              x: 10.0
+              y: 1932.0
+            - &id064
+              attributes: []
+              backendNodeId: 553
+              childNodeCount: 1
+              children:
+              - &id065
+                backendNodeId: 554
+                childrenids: []
+                localName: ''
+                nodeId: 73
+                nodeName: '#text'
+                nodeType: 3
+                nodeValue: 'Please also
+
+                  note that to the extent you include any Personal Data or other information
+
+                  in a listing or any other content that you upload to the Service,
+                  we
+
+                  have the right to publish that listing and other content (including
+
+                  without limitation any Personal Data or other information including
+
+                  in the listing) in connection with the operation of the Service
+                  or any
+
+                  other products or services of Poshmark, or the promotion, advertising
+
+                  or marketing thereof (including publishing that listing and other
+                  content
+
+                  on the Internet or on Third Party Services such as Facebook, sharing
+
+                  it with blogs, etc.).  In addition, users have the ability as part
+
+                  of the Service to share your listings with others.'
+                parent: 72
+                props: {}
+              childrenids: [73]
+              h: 198.0
+              localName: p
+              nodeId: 72
+              nodeName: P
+              nodeType: 1
+              nodeValue: ''
+              parent: 15
+              props: {}
+              value: ''
+              w: 392.0
+              x: 10.0
+              y: 2464.0
+            - &id066
+              attributes: []
+              backendNodeId: 555
+              childNodeCount: 2
+              children:
+              - &id067
+                backendNodeId: 556
+                childrenids: []
+                localName: ''
+                nodeId: 75
+                nodeName: '#text'
+                nodeType: 3
+                nodeValue: 'If Poshmark
+
+                  intends on using any Personal Data in any manner that is not consistent
+
+                  with this Privacy Policy, you will be informed of such anticipated
+                  use
+
+                  prior to or at the time at which the Personal Data is collected. '
+                parent: 74
+                props: {}
+              - &id068
+                attributes: []
+                backendNodeId: 557
+                childNodeCount: 0
+                children: []
+                childrenids: []
+                h: 14.0
+                localName: br
+                nodeId: 76
+                nodeName: BR
+                nodeType: 1
+                nodeValue: ''
+                parent: 74
+                props: {}
+                value: ''
+                w: 0.0
+                x: 198.71875
+                y: 2728.0
+              childrenids: [75, 76]
+              h: 72.0
+              localName: p
+              nodeId: 74
+              nodeName: P
+              nodeType: 1
+              nodeValue: ''
+              parent: 15
+              props: {}
+              value: ''
+              w: 392.0
+              x: 10.0
+              y: 2672.0
+            - &id069
+              attributes: []
+              backendNodeId: 558
+              childNodeCount: 1
+              children:
+              - &id070
+                attributes: []
+                backendNodeId: 559
+                childNodeCount: 2
+                children:
+                - &id071
+                  attributes: []
+                  backendNodeId: 560
+                  childNodeCount: 1
+                  children:
+                  - &id072
+                    backendNodeId: 561
+                    childrenids: []
+                    localName: ''
+                    nodeId: 80
+                    nodeName: '#text'
+                    nodeType: 3
+                    nodeValue: 'Our Disclosure
+
+                      of Your Personal Data and Other Information'
+                    parent: 79
+                    props: {}
+                  childrenids: [80]
+                  h: 14.0
+                  localName: u
+                  nodeId: 79
+                  nodeName: U
+                  nodeType: 1
+                  nodeValue: ''
+                  parent: 78
+                  props: {}
+                  value: ''
+                  w: 379.046875
+                  x: 10.0
+                  y: 2756.0
+                - &id073
+                  backendNodeId: 562
+                  childrenids: []
+                  localName: ''
+                  nodeId: 81
+                  nodeName: '#text'
+                  nodeType: 3
+                  nodeValue: ':'
+                  parent: 78
+                  props: {}
+                childrenids: [79, 81]
+                h: 14.0
+                localName: b
+                nodeId: 78
+                nodeName: B
+                nodeType: 1
+                nodeValue: ''
+                parent: 77
+                props: {}
+                value: ''
+                w: 382.546875
+                x: 10.0
+                y: 2756.0
+              childrenids: [78]
+              h: 18.0
+              localName: p
+              nodeId: 77
+              nodeName: P
+              nodeType: 1
+              nodeValue: ''
+              parent: 15
+              props: {}
+              value: ''
+              w: 392.0
+              x: 10.0
+              y: 2754.0
+            - &id074
+              attributes: []
+              backendNodeId: 563
+              childNodeCount: 1
+              children:
+              - &id075
+                backendNodeId: 564
+                childrenids: []
+                localName: ''
+                nodeId: 83
+                nodeName: '#text'
+                nodeType: 3
+                nodeValue: 'Poshmark is
+
+                  not in the business of selling your information. We consider this
+                  information
+
+                  to be a vital part of our relationship with you. There are, however,
+
+                  certain circumstances in which we may share your Personal Data with
+
+                  certain third parties without further notice to you, as set forth
+                  below: '
+                parent: 82
+                props: {}
+              childrenids: [83]
+              h: 90.0
+              localName: p
+              nodeId: 82
+              nodeName: P
+              nodeType: 1
+              nodeValue: ''
+              parent: 15
+              props: {}
+              value: ''
+              w: 392.0
+              x: 10.0
+              y: 2782.0
+            - &id076
+              attributes: []
+              backendNodeId: 565
+              childNodeCount: 2
+              children:
+              - &id077
+                attributes: []
+                backendNodeId: 566
+                childNodeCount: 1
+                children:
+                - &id078
+                  backendNodeId: 567
+                  childrenids: []
+                  localName: ''
+                  nodeId: 86
+                  nodeName: '#text'
+                  nodeType: 3
+                  nodeValue: 'Business
+
+                    Transfers:'
+                  parent: 85
+                  props: {}
+                childrenids: [86]
+                h: 14.0
+                localName: b
+                nodeId: 85
+                nodeName: B
+                nodeType: 1
+                nodeValue: ''
+                parent: 84
+                props: {}
+                value: ''
+                w: 122.5625
+                x: 10.0
+                y: 2884.0
+              - &id079
+                backendNodeId: 568
+                childrenids: []
+                localName: ''
+                nodeId: 87
+                nodeName: '#text'
+                nodeType: 3
+                nodeValue: ' As we develop our business, we might sell or buy businesses
+
+                  or assets. In the event of a corporate sale, merger, reorganization,
+
+                  dissolution or similar event, Personal Data may be part of the transferred
+
+                  assets.  '
+                parent: 84
+                props: {}
+              childrenids: [85, 87]
+              h: 72.0
+              localName: p
+              nodeId: 84
+              nodeName: P
+              nodeType: 1
+              nodeValue: ''
+              parent: 15
+              props: {}
+              value: ''
+              w: 392.0
+              x: 10.0
+              y: 2882.0
+            - &id080
+              attributes: []
+              backendNodeId: 569
+              childNodeCount: 2
+              children:
+              - &id081
+                attributes: []
+                backendNodeId: 570
+                childNodeCount: 1
+                children:
+                - &id082
+                  backendNodeId: 571
+                  childrenids: []
+                  localName: ''
+                  nodeId: 90
+                  nodeName: '#text'
+                  nodeType: 3
+                  nodeValue: 'Related
+
+                    Companies: '
+                  parent: 89
+                  props: {}
+                childrenids: [90]
+                h: 14.0
+                localName: b
+                nodeId: 89
+                nodeName: B
+                nodeType: 1
+                nodeValue: ''
+                parent: 88
+                props: {}
+                value: ''
+                w: 130.234375
+                x: 10.0
+                y: 2966.0
+              - &id083
+                backendNodeId: 572
+                childrenids: []
+                localName: ''
+                nodeId: 91
+                nodeName: '#text'
+                nodeType: 3
+                nodeValue: 'We may also share your Personal Data with our Related
+
+                  Companies for purposes consistent with this Privacy Policy. '
+                parent: 88
+                props: {}
+              childrenids: [89, 91]
+              h: 54.0
+              localName: p
+              nodeId: 88
+              nodeName: P
+              nodeType: 1
+              nodeValue: ''
+              parent: 15
+              props: {}
+              value: ''
+              w: 392.0
+              x: 10.0
+              y: 2964.0
+            - &id084
+              attributes: []
+              backendNodeId: 573
+              childNodeCount: 2
+              children:
+              - &id085
+                attributes: []
+                backendNodeId: 574
+                childNodeCount: 1
+                children:
+                - &id086
+                  backendNodeId: 575
+                  childrenids: []
+                  localName: ''
+                  nodeId: 94
+                  nodeName: '#text'
+                  nodeType: 3
+                  nodeValue: 'Agents,
+
+                    Service Providers, Consultants and Related Third Parties:'
+                  parent: 93
+                  props: {}
+                childrenids: [94]
+                h: 32.0
+                localName: b
+                nodeId: 93
+                nodeName: B
+                nodeType: 1
+                nodeValue: ''
+                parent: 92
+                props: {}
+                value: ''
+                w: 361.5625
+                x: 10.0
+                y: 3030.0
+              - &id087
+                backendNodeId: 576
+                childrenids: []
+                localName: ''
+                nodeId: 95
+                nodeName: '#text'
+                nodeType: 3
+                nodeValue: ' Poshmark,
+
+                  like many businesses, sometimes hires other companies to perform
+                  certain
+
+                  business-related functions. Examples of such functions include maintaining
+
+                  databases, identity verification, fraud monitoring,
+
+                  processing credit card payments etc. When we employ another
+
+                  company to perform a function of this nature, we only provide them
+                  with
+
+                  the information that they need to perform their specific function
+                  (for
+
+                  example, providing our credit card payment provider with your credit
+
+                  card information).'
+                parent: 92
+                props: {}
+              childrenids: [93, 95]
+              h: 180.0
+              localName: p
+              nodeId: 92
+              nodeName: P
+              nodeType: 1
+              nodeValue: ''
+              parent: 15
+              props: {}
+              value: ''
+              w: 392.0
+              x: 10.0
+              y: 3028.0
+            - &id088
+              attributes: []
+              backendNodeId: 577
+              childNodeCount: 2
+              children:
+              - &id089
+                attributes: []
+                backendNodeId: 578
+                childNodeCount: 1
+                children:
+                - &id090
+                  backendNodeId: 579
+                  childrenids: []
+                  localName: ''
+                  nodeId: 98
+                  nodeName: '#text'
+                  nodeType: 3
+                  nodeValue: 'Legal
+
+                    Requirements: '
+                  parent: 97
+                  props: {}
+                childrenids: [98]
+                h: 14.0
+                localName: b
+                nodeId: 97
+                nodeName: B
+                nodeType: 1
+                nodeValue: ''
+                parent: 96
+                props: {}
+                value: ''
+                w: 133.015625
+                x: 10.0
+                y: 3220.0
+              - &id091
+                backendNodeId: 580
+                childrenids: []
+                localName: ''
+                nodeId: 99
+                nodeName: '#text'
+                nodeType: 3
+                nodeValue: 'Poshmark may disclose your Personal Data if required
+
+                  to do so by law or in the good faith belief that such action is
+                  necessary
+
+                  to (i) comply with a legal obligation, (ii) protect and defend the
+                  rights
+
+                  or property of Poshmark, (iii) act in urgent circumstances to protect
+
+                  the personal safety of users of the Services or the public, or (iv)
+
+                  protect against legal liability. '
+                parent: 96
+                props: {}
+              childrenids: [97, 99]
+              h: 108.0
+              localName: p
+              nodeId: 96
+              nodeName: P
+              nodeType: 1
+              nodeValue: ''
+              parent: 15
+              props: {}
+              value: ''
+              w: 392.0
+              x: 10.0
+              y: 3218.0
+            - &id092
+              attributes: []
+              backendNodeId: 581
+              childNodeCount: 1
+              children:
+              - &id093
+                attributes: []
+                backendNodeId: 582
+                childNodeCount: 1
+                children:
+                - &id094
+                  backendNodeId: 583
+                  childrenids: []
+                  localName: ''
+                  nodeId: 102
+                  nodeName: '#text'
+                  nodeType: 3
+                  nodeValue: 'Enforcement:'
+                  parent: 101
+                  props: {}
+                childrenids: [102]
+                h: 14.0
+                localName: b
+                nodeId: 101
+                nodeName: B
+                nodeType: 1
+                nodeValue: ''
+                parent: 100
+                props: {}
+                value: ''
+                w: 84.65625
+                x: 10.0
+                y: 3338.0
+              childrenids: [101]
+              h: 18.0
+              localName: p
+              nodeId: 100
+              nodeName: P
+              nodeType: 1
+              nodeValue: ''
+              parent: 15
+              props: {}
+              value: ''
+              w: 392.0
+              x: 10.0
+              y: 3336.0
+            - &id095
+              attributes: []
+              backendNodeId: 584
+              childNodeCount: 2
+              children:
+              - &id096
+                backendNodeId: 585
+                childrenids: []
+                localName: ''
+                nodeId: 104
+                nodeName: '#text'
+                nodeType: 3
+                nodeValue: 'Poshmark may
+
+                  disclose your Personal Data to enforce or apply this Privacy Policy,
+
+                  the Poshmark Terms of Service, or our other policies posted on the
+                  Site
+
+                  from time to time or agreements to which you are a party.
+
+                  '
+                parent: 103
+                props: {}
+              - &id097
+                attributes: []
+                backendNodeId: 586
+                childNodeCount: 0
+                children: []
+                childrenids: []
+                h: 14.0
+                localName: br
+                nodeId: 105
+                nodeName: BR
+                nodeType: 1
+                nodeValue: ''
+                parent: 103
+                props: {}
+                value: ''
+                w: 0.0
+                x: 147.109375
+                y: 3420.0
+              childrenids: [104, 105]
+              h: 72.0
+              localName: p
+              nodeId: 103
+              nodeName: P
+              nodeType: 1
+              nodeValue: ''
+              parent: 15
+              props: {}
+              value: ''
+              w: 392.0
+              x: 10.0
+              y: 3364.0
+            - &id098
+              attributes: []
+              backendNodeId: 587
+              childNodeCount: 1
+              children:
+              - &id099
+                attributes: []
+                backendNodeId: 588
+                childNodeCount: 2
+                children:
+                - &id100
+                  attributes: []
+                  backendNodeId: 589
+                  childNodeCount: 1
+                  children:
+                  - &id101
+                    backendNodeId: 590
+                    childrenids: []
+                    localName: ''
+                    nodeId: 109
+                    nodeName: '#text'
+                    nodeType: 3
+                    nodeValue: 'Your
+
+                      Choices'
+                    parent: 108
+                    props: {}
+                  childrenids: [109]
+                  h: 14.0
+                  localName: u
+                  nodeId: 108
+                  nodeName: U
+                  nodeType: 1
+                  nodeValue: ''
+                  parent: 107
+                  props: {}
+                  value: ''
+                  w: 82.78125
+                  x: 10.0
+                  y: 3448.0
+                - &id102
+                  backendNodeId: 591
+                  childrenids: []
+                  localName: ''
+                  nodeId: 110
+                  nodeName: '#text'
+                  nodeType: 3
+                  nodeValue: ':'
+                  parent: 107
+                  props: {}
+                childrenids: [108, 110]
+                h: 14.0
+                localName: b
+                nodeId: 107
+                nodeName: B
+                nodeType: 1
+                nodeValue: ''
+                parent: 106
+                props: {}
+                value: ''
+                w: 86.28125
+                x: 10.0
+                y: 3448.0
+              childrenids: [107]
+              h: 18.0
+              localName: p
+              nodeId: 106
+              nodeName: P
+              nodeType: 1
+              nodeValue: ''
+              parent: 15
+              props: {}
+              value: ''
+              w: 392.0
+              x: 10.0
+              y: 3446.0
+            - &id103
+              attributes: []
+              backendNodeId: 592
+              childNodeCount: 2
+              children:
+              - &id104
+                backendNodeId: 593
+                childrenids: []
+                localName: ''
+                nodeId: 112
+                nodeName: '#text'
+                nodeType: 3
+                nodeValue: 'If you choose
+
+                  not to provide any Personal Data, you may not be able to use certain
+
+                  Services.  In addition, you may request that we delete your account,
+
+                  and any information associated with your account, but please note
+                  that
+
+                  we may be required (by law or otherwise) to retain this information
+
+                  and not delete it (or to keep this information for a certain time,
+                  in
+
+                  which case we will comply with your deletion request only after
+                  we have
+
+                  fulfilled such requirements). When we delete your information, it
+                  will
+
+                  be deleted from the active database but may remain in our archives. '
+                parent: 111
+                props: {}
+              - &id105
+                attributes: []
+                backendNodeId: 594
+                childNodeCount: 0
+                children: []
+                childrenids: []
+                h: 14.0
+                localName: br
+                nodeId: 113
+                nodeName: BR
+                nodeType: 1
+                nodeValue: ''
+                parent: 111
+                props: {}
+                value: ''
+                w: 0.0
+                x: 67.875
+                y: 3638.0
+              childrenids: [112, 113]
+              h: 180.0
+              localName: p
+              nodeId: 111
+              nodeName: P
+              nodeType: 1
+              nodeValue: ''
+              parent: 15
+              props: {}
+              value: ''
+              w: 392.0
+              x: 10.0
+              y: 3474.0
+            - &id106
+              attributes: []
+              backendNodeId: 595
+              childNodeCount: 1
+              children:
+              - &id107
+                attributes: []
+                backendNodeId: 596
+                childNodeCount: 2
+                children:
+                - &id108
+                  attributes: []
+                  backendNodeId: 597
+                  childNodeCount: 1
+                  children:
+                  - &id109
+                    backendNodeId: 598
+                    childrenids: []
+                    localName: ''
+                    nodeId: 117
+                    nodeName: '#text'
+                    nodeType: 3
+                    nodeValue: Exclusions
+                    parent: 116
+                    props: {}
+                  childrenids: [117]
+                  h: 14.0
+                  localName: u
+                  nodeId: 116
+                  nodeName: U
+                  nodeType: 1
+                  nodeValue: ''
+                  parent: 115
+                  props: {}
+                  value: ''
+                  w: 66.40625
+                  x: 10.0
+                  y: 3666.0
+                - &id110
+                  backendNodeId: 599
+                  childrenids: []
+                  localName: ''
+                  nodeId: 118
+                  nodeName: '#text'
+                  nodeType: 3
+                  nodeValue: ':'
+                  parent: 115
+                  props: {}
+                childrenids: [116, 118]
+                h: 14.0
+                localName: b
+                nodeId: 115
+                nodeName: B
+                nodeType: 1
+                nodeValue: ''
+                parent: 114
+                props: {}
+                value: ''
+                w: 69.90625
+                x: 10.0
+                y: 3666.0
+              childrenids: [115]
+              h: 18.0
+              localName: p
+              nodeId: 114
+              nodeName: P
+              nodeType: 1
+              nodeValue: ''
+              parent: 15
+              props: {}
+              value: ''
+              w: 392.0
+              x: 10.0
+              y: 3664.0
+            - &id111
+              attributes: []
+              backendNodeId: 600
+              childNodeCount: 2
+              children:
+              - &id112
+                backendNodeId: 601
+                childrenids: []
+                localName: ''
+                nodeId: 120
+                nodeName: '#text'
+                nodeType: 3
+                nodeValue: 'This Privacy
+
+                  Policy does not apply to any Personal Data collected by Poshmark
+                  other
+
+                  than Personal Data collected through the Services. This Privacy
+                  Policy
+
+                  shall not apply to any unsolicited information you provide to Poshmark
+
+                  through the Services or through any other means. This includes,
+                  but
+
+                  is not limited to, information posted to any public areas of the
+                  Services,
+
+                  such as forums (collectively, "Public Areas"), any ideas for new
+
+                  products or modifications to existing products and other unsolicited
+
+                  submissions (collectively, "Unsolicited Information"). All Unsolicited
+
+                  Information shall be deemed to be non-confidential and Poshmark
+                  shall
+
+                  be free to reproduce, use, disclose, distribute and exploit such
+                  Unsolicited
+
+                  Information without limitation or attribution. '
+                parent: 119
+                props: {}
+              - &id113
+                attributes: []
+                backendNodeId: 602
+                childNodeCount: 0
+                children: []
+                childrenids: []
+                h: 14.0
+                localName: br
+                nodeId: 121
+                nodeName: BR
+                nodeType: 1
+                nodeValue: ''
+                parent: 119
+                props: {}
+                value: ''
+                w: 0.0
+                x: 202.765625
+                y: 3910.0
+              childrenids: [120, 121]
+              h: 234.0
+              localName: p
+              nodeId: 119
+              nodeName: P
+              nodeType: 1
+              nodeValue: ''
+              parent: 15
+              props: {}
+              value: ''
+              w: 392.0
+              x: 10.0
+              y: 3692.0
+            - &id114
+              attributes: []
+              backendNodeId: 603
+              childNodeCount: 1
+              children:
+              - &id115
+                attributes: []
+                backendNodeId: 604
+                childNodeCount: 2
+                children:
+                - &id116
+                  attributes: []
+                  backendNodeId: 605
+                  childNodeCount: 1
+                  children:
+                  - &id117
+                    backendNodeId: 606
+                    childrenids: []
+                    localName: ''
+                    nodeId: 125
+                    nodeName: '#text'
+                    nodeType: 3
+                    nodeValue: Children
+                    parent: 124
+                    props: {}
+                  childrenids: [125]
+                  h: 14.0
+                  localName: u
+                  nodeId: 124
+                  nodeName: U
+                  nodeType: 1
+                  nodeValue: ''
+                  parent: 123
+                  props: {}
+                  value: ''
+                  w: 53.90625
+                  x: 10.0
+                  y: 3938.0
+                - &id118
+                  backendNodeId: 607
+                  childrenids: []
+                  localName: ''
+                  nodeId: 126
+                  nodeName: '#text'
+                  nodeType: 3
+                  nodeValue: ':'
+                  parent: 123
+                  props: {}
+                childrenids: [124, 126]
+                h: 14.0
+                localName: b
+                nodeId: 123
+                nodeName: B
+                nodeType: 1
+                nodeValue: ''
+                parent: 122
+                props: {}
+                value: ''
+                w: 57.40625
+                x: 10.0
+                y: 3938.0
+              childrenids: [123]
+              h: 18.0
+              localName: p
+              nodeId: 122
+              nodeName: P
+              nodeType: 1
+              nodeValue: ''
+              parent: 15
+              props: {}
+              value: ''
+              w: 392.0
+              x: 10.0
+              y: 3936.0
+            - &id119
+              attributes: []
+              backendNodeId: 608
+              childNodeCount: 1
+              children:
+              - &id120
+                backendNodeId: 609
+                childrenids: []
+                localName: ''
+                nodeId: 128
+                nodeName: '#text'
+                nodeType: 3
+                nodeValue: 'Poshmark does
+
+                  not knowingly collect Personal Data from children under the age
+                  of 13.
+
+                  If you are under the age of 13, please do not submit any Personal
+                  Data
+
+                  through the Services. We encourage parents and legal guardians to
+                  monitor
+
+                  their children''s Internet usage and to help enforce our Privacy
+                  Policy
+
+                  by instructing their children never to provide Personal Data through
+
+                  the Services without their permission. If you have reason to believe
+
+                  that a child under the age of 13 has provided Personal Data to Poshmark
+
+                  through the Services, please contact us, and we will endeavor to
+                  delete
+
+                  that information from our databases. '
+                parent: 127
+                props: {}
+              childrenids: [128]
+              h: 198.0
+              localName: p
+              nodeId: 127
+              nodeName: P
+              nodeType: 1
+              nodeValue: ''
+              parent: 15
+              props: {}
+              value: ''
+              w: 392.0
+              x: 10.0
+              y: 3964.0
+            - &id121
+              attributes: []
+              backendNodeId: 610
+              childNodeCount: 1
+              children:
+              - &id122
+                attributes: []
+                backendNodeId: 611
+                childNodeCount: 2
+                children:
+                - &id123
+                  attributes: []
+                  backendNodeId: 612
+                  childNodeCount: 1
+                  children:
+                  - &id124
+                    backendNodeId: 613
+                    childrenids: []
+                    localName: ''
+                    nodeId: 132
+                    nodeName: '#text'
+                    nodeType: 3
+                    nodeValue: Links to Other Web Sites
+                    parent: 131
+                    props: {}
+                  childrenids: [132]
+                  h: 14.0
+                  localName: u
+                  nodeId: 131
+                  nodeName: U
+                  nodeType: 1
+                  nodeValue: ''
+                  parent: 130
+                  props: {}
+                  value: ''
+                  w: 155.90625
+                  x: 10.0
+                  y: 4174.0
+                - &id125
+                  backendNodeId: 614
+                  childrenids: []
+                  localName: ''
+                  nodeId: 133
+                  nodeName: '#text'
+                  nodeType: 3
+                  nodeValue: ':'
+                  parent: 130
+                  props: {}
+                childrenids: [131, 133]
+                h: 14.0
+                localName: b
+                nodeId: 130
+                nodeName: B
+                nodeType: 1
+                nodeValue: ''
+                parent: 129
+                props: {}
+                value: ''
+                w: 159.40625
+                x: 10.0
+                y: 4174.0
+              childrenids: [130]
+              h: 18.0
+              localName: p
+              nodeId: 129
+              nodeName: P
+              nodeType: 1
+              nodeValue: ''
+              parent: 15
+              props: {}
+              value: ''
+              w: 392.0
+              x: 10.0
+              y: 4172.0
+            - &id126
+              attributes: []
+              backendNodeId: 615
+              childNodeCount: 1
+              children:
+              - &id127
+                backendNodeId: 616
+                childrenids: []
+                localName: ''
+                nodeId: 135
+                nodeName: '#text'
+                nodeType: 3
+                nodeValue: 'This Privacy
+
+                  Policy applies only to the Services. The Services may contain links
+
+                  to other web sites not operated or controlled by Poshmark (the "Third
+
+                  Party Sites"). The policies and procedures we described here do
+                  not
+
+                  apply to the Third Party Sites. The links from the Services do not
+                  imply
+
+                  that Poshmark endorses or has reviewed the Third Party Sites. We
+                  suggest
+
+                  contacting those sites directly for information on their privacy
+                  policies. '
+                parent: 134
+                props: {}
+              childrenids: [135]
+              h: 144.0
+              localName: p
+              nodeId: 134
+              nodeName: P
+              nodeType: 1
+              nodeValue: ''
+              parent: 15
+              props: {}
+              value: ''
+              w: 392.0
+              x: 10.0
+              y: 4200.0
+            - &id128
+              attributes: []
+              backendNodeId: 617
+              childNodeCount: 2
+              children:
+              - &id129
+                attributes: []
+                backendNodeId: 618
+                childNodeCount: 1
+                children:
+                - &id130
+                  attributes: []
+                  backendNodeId: 619
+                  childNodeCount: 1
+                  children:
+                  - &id131
+                    backendNodeId: 620
+                    childrenids: []
+                    localName: ''
+                    nodeId: 139
+                    nodeName: '#text'
+                    nodeType: 3
+                    nodeValue: 'Integrating
+
+                      Third Party Services within the Services'
+                    parent: 138
+                    props: {}
+                  childrenids: [139]
+                  h: 14.0
+                  localName: u
+                  nodeId: 138
+                  nodeName: U
+                  nodeType: 1
+                  nodeValue: ''
+                  parent: 137
+                  props: {}
+                  value: ''
+                  w: 323.40625
+                  x: 10.0
+                  y: 4356.0
+                childrenids: [138]
+                h: 14.0
+                localName: b
+                nodeId: 137
+                nodeName: B
+                nodeType: 1
+                nodeValue: ''
+                parent: 136
+                props: {}
+                value: ''
+                w: 323.40625
+                x: 10.0
+                y: 4356.0
+              - &id132
+                backendNodeId: 621
+                childrenids: []
+                localName: ''
+                nodeId: 140
+                nodeName: '#text'
+                nodeType: 3
+                nodeValue: ': '
+                parent: 136
+                props: {}
+              childrenids: [137, 140]
+              h: 18.0
+              localName: p
+              nodeId: 136
+              nodeName: P
+              nodeType: 1
+              nodeValue: ''
+              parent: 15
+              props: {}
+              value: ''
+              w: 392.0
+              x: 10.0
+              y: 4354.0
+            - &id133
+              attributes: []
+              backendNodeId: 622
+              childNodeCount: 1
+              children:
+              - &id134
+                backendNodeId: 623
+                childrenids: []
+                localName: ''
+                nodeId: 142
+                nodeName: '#text'
+                nodeType: 3
+                nodeValue: "One of the\nspecial features of the Service is that it\
+                  \ allows you to enable various\nonline third party services, such\
+                  \ as Facebook and other social media\nand networking services, payment\
+                  \ service providers etc.\n  (\"Third Party Services\"), to be directly\n\
+                  integrated into your Poshmark experience. To take advantage of this\n\
+                  feature, we will ask you to provide us your username and password\
+                  \ for\nthe relevant Third Party Services. By enabling such Third\
+                  \ Party Services,\nyou are allowing us to pass your log-in information\
+                  \ to these service\nproviders for this purpose. When you add a Third\
+                  \ Party Service account\nto the Service, we will collect your login\
+                  \ information and other relevant\ninformation necessary to enable\
+                  \ the Service to access that Third Party\nService and your data\
+                  \ contained within that Third Party Service.\nAs part of such integration,\
+                  \ such Third Party Services will provide\nus with access to certain\
+                  \ information that you have provided to such\nThird Party Services,\
+                  \ and we will use, store and disclose such information\nin accordance\
+                  \ with this Privacy Policy.  However, please remember\nthat the\
+                  \ manner in which Third Party Services use, store and disclose\n\
+                  your information is governed solely by the policies of such third\
+                  \ parties,\nand Poshmark shall have no liability or responsibility\
+                  \ for the privacy\npractices or other actions of any Third Party\
+                  \ Service that may be enabled\nwithin the Service. "
+                parent: 141
+                props: {}
+              childrenids: [142]
+              h: 414.0
+              localName: p
+              nodeId: 141
+              nodeName: P
+              nodeType: 1
+              nodeValue: ''
+              parent: 15
+              props: {}
+              value: ''
+              w: 392.0
+              x: 10.0
+              y: 4382.0
+            - &id135
+              attributes: []
+              backendNodeId: 624
+              childNodeCount: 2
+              children:
+              - &id136
+                attributes: []
+                backendNodeId: 625
+                childNodeCount: 1
+                children:
+                - &id137
+                  attributes: []
+                  backendNodeId: 626
+                  childNodeCount: 1
+                  children:
+                  - &id138
+                    backendNodeId: 627
+                    childrenids: []
+                    localName: ''
+                    nodeId: 146
+                    nodeName: '#text'
+                    nodeType: 3
+                    nodeValue: Security
+                    parent: 145
+                    props: {}
+                  childrenids: [146]
+                  h: 14.0
+                  localName: u
+                  nodeId: 145
+                  nodeName: U
+                  nodeType: 1
+                  nodeValue: ''
+                  parent: 144
+                  props: {}
+                  value: ''
+                  w: 51.71875
+                  x: 10.0
+                  y: 4808.0
+                childrenids: [145]
+                h: 14.0
+                localName: b
+                nodeId: 144
+                nodeName: B
+                nodeType: 1
+                nodeValue: ''
+                parent: 143
+                props: {}
+                value: ''
+                w: 51.71875
+                x: 10.0
+                y: 4808.0
+              - &id139
+                attributes: []
+                backendNodeId: 628
+                childNodeCount: 1
+                children:
+                - &id140
+                  backendNodeId: 629
+                  childrenids: []
+                  localName: ''
+                  nodeId: 148
+                  nodeName: '#text'
+                  nodeType: 3
+                  nodeValue: ':'
+                  parent: 147
+                  props: {}
+                childrenids: [148]
+                h: 14.0
+                localName: b
+                nodeId: 147
+                nodeName: B
+                nodeType: 1
+                nodeValue: ''
+                parent: 143
+                props: {}
+                value: ''
+                w: 3.5
+                x: 61.71875
+                y: 4808.0
+              childrenids: [144, 147]
+              h: 18.0
+              localName: p
+              nodeId: 143
+              nodeName: P
+              nodeType: 1
+              nodeValue: ''
+              parent: 15
+              props: {}
+              value: ''
+              w: 392.0
+              x: 10.0
+              y: 4806.0
+            - &id141
+              attributes: []
+              backendNodeId: 630
+              childNodeCount: 1
+              children:
+              - &id142
+                backendNodeId: 631
+                childrenids: []
+                localName: ''
+                nodeId: 150
+                nodeName: '#text'
+                nodeType: 3
+                nodeValue: 'Poshmark takes
+
+                  reasonable steps to protect the Personal Data provided via the Services
+
+                  from loss, misuse, and unauthorized access, disclosure, alteration,
+
+                  or destruction. However, no Internet, email or other electronic
+                  transmission
+
+                  is ever fully secure or error free, so you should take special care
+
+                  in deciding what information you send to us in this way. '
+                parent: 149
+                props: {}
+              childrenids: [150]
+              h: 108.0
+              localName: p
+              nodeId: 149
+              nodeName: P
+              nodeType: 1
+              nodeValue: ''
+              parent: 15
+              props: {}
+              value: ''
+              w: 392.0
+              x: 10.0
+              y: 4834.0
+            - &id143
+              attributes: []
+              backendNodeId: 632
+              childNodeCount: 1
+              children:
+              - &id144
+                attributes: []
+                backendNodeId: 633
+                childNodeCount: 2
+                children:
+                - &id145
+                  attributes: []
+                  backendNodeId: 634
+                  childNodeCount: 1
+                  children:
+                  - &id146
+                    backendNodeId: 635
+                    childrenids: []
+                    localName: ''
+                    nodeId: 154
+                    nodeName: '#text'
+                    nodeType: 3
+                    nodeValue: Other Terms and Conditions
+                    parent: 153
+                    props: {}
+                  childrenids: [154]
+                  h: 14.0
+                  localName: u
+                  nodeId: 153
+                  nodeName: U
+                  nodeType: 1
+                  nodeValue: ''
+                  parent: 152
+                  props: {}
+                  value: ''
+                  w: 177.765625
+                  x: 10.0
+                  y: 4954.0
+                - &id147
+                  backendNodeId: 636
+                  childrenids: []
+                  localName: ''
+                  nodeId: 155
+                  nodeName: '#text'
+                  nodeType: 3
+                  nodeValue: ':'
+                  parent: 152
+                  props: {}
+                childrenids: [153, 155]
+                h: 14.0
+                localName: b
+                nodeId: 152
+                nodeName: B
+                nodeType: 1
+                nodeValue: ''
+                parent: 151
+                props: {}
+                value: ''
+                w: 181.265625
+                x: 10.0
+                y: 4954.0
+              childrenids: [152]
+              h: 18.0
+              localName: p
+              nodeId: 151
+              nodeName: P
+              nodeType: 1
+              nodeValue: ''
+              parent: 15
+              props: {}
+              value: ''
+              w: 392.0
+              x: 10.0
+              y: 4952.0
+            - &id148
+              attributes: []
+              backendNodeId: 637
+              childNodeCount: 3
+              children:
+              - &id149
+                backendNodeId: 638
+                childrenids: []
+                localName: ''
+                nodeId: 157
+                nodeName: '#text'
+                nodeType: 3
+                nodeValue: "Your access\nto and use of the Services is subject to\
+                  \ the Poshmark Terms of Service\nlocated at\n    "
+                parent: 156
+                props: {}
+              - &id150
+                attributes: [href, /mapp/terms_and_conditions]
+                backendNodeId: 639
+                childNodeCount: 1
+                children:
+                - &id151
+                  backendNodeId: 640
+                  childrenids: []
+                  localName: ''
+                  nodeId: 159
+                  nodeName: '#text'
+                  nodeType: 3
+                  nodeValue: http://www.poshmark.com/terms
+                  parent: 158
+                  props: {}
+                childrenids: [159]
+                h: 14.0
+                localName: a
+                nodeId: 158
+                nodeName: A
+                nodeType: 1
+                nodeValue: ''
+                parent: 156
+                props: {href: /mapp/terms_and_conditions}
+                value: ''
+                w: 197.609375
+                x: 10.0
+                y: 5018.0
+              - &id152
+                backendNodeId: 641
+                childrenids: []
+                localName: ''
+                nodeId: 160
+                nodeName: '#text'
+                nodeType: 3
+                nodeValue: '.
+
+                  '
+                parent: 156
+                props: {}
+              childrenids: [157, 158, 160]
+              h: 54.0
+              localName: p
+              nodeId: 156
+              nodeName: P
+              nodeType: 1
+              nodeValue: ''
+              parent: 15
+              props: {}
+              value: ''
+              w: 392.0
+              x: 10.0
+              y: 4980.0
+            - &id153
+              attributes: []
+              backendNodeId: 642
+              childNodeCount: 1
+              children:
+              - &id154
+                attributes: []
+                backendNodeId: 643
+                childNodeCount: 2
+                children:
+                - &id155
+                  attributes: []
+                  backendNodeId: 644
+                  childNodeCount: 1
+                  children:
+                  - &id156
+                    backendNodeId: 645
+                    childrenids: []
+                    localName: ''
+                    nodeId: 164
+                    nodeName: '#text'
+                    nodeType: 3
+                    nodeValue: Changes to Poshmark's Privacy Policy
+                    parent: 163
+                    props: {}
+                  childrenids: [164]
+                  h: 14.0
+                  localName: u
+                  nodeId: 163
+                  nodeName: U
+                  nodeType: 1
+                  nodeValue: ''
+                  parent: 162
+                  props: {}
+                  value: ''
+                  w: 240.0
+                  x: 10.0
+                  y: 5046.0
+                - &id157
+                  backendNodeId: 646
+                  childrenids: []
+                  localName: ''
+                  nodeId: 165
+                  nodeName: '#text'
+                  nodeType: 3
+                  nodeValue: ':'
+                  parent: 162
+                  props: {}
+                childrenids: [163, 165]
+                h: 14.0
+                localName: b
+                nodeId: 162
+                nodeName: B
+                nodeType: 1
+                nodeValue: ''
+                parent: 161
+                props: {}
+                value: ''
+                w: 243.5
+                x: 10.0
+                y: 5046.0
+              childrenids: [162]
+              h: 18.0
+              localName: p
+              nodeId: 161
+              nodeName: P
+              nodeType: 1
+              nodeValue: ''
+              parent: 15
+              props: {}
+              value: ''
+              w: 392.0
+              x: 10.0
+              y: 5044.0
+            - &id158
+              attributes: []
+              backendNodeId: 647
+              childNodeCount: 1
+              children:
+              - &id159
+                backendNodeId: 648
+                childrenids: []
+                localName: ''
+                nodeId: 167
+                nodeName: '#text'
+                nodeType: 3
+                nodeValue: 'The Services
+
+                  and our business may change from time to time. As a result, at times
+
+                  it may be necessary for Poshmark to make changes to this Privacy
+                  Policy.
+
+                  Poshmark reserves the right to update or modify this Privacy Policy
+
+                  at any time and from time to time without prior notice. Please review
+
+                  this policy periodically, and especially before you provide any
+                  Personal
+
+                  Data. This Privacy Policy was last updated on the date indicated
+                  above.
+
+                  Your continued use of the Services after any changes or revisions
+                  to
+
+                  this Privacy Policy shall indicate your agreement with the terms
+                  of
+
+                  such revised Privacy Policy. '
+                parent: 166
+                props: {}
+              childrenids: [167]
+              h: 180.0
+              localName: p
+              nodeId: 166
+              nodeName: P
+              nodeType: 1
+              nodeValue: ''
+              parent: 15
+              props: {}
+              value: ''
+              w: 392.0
+              x: 10.0
+              y: 5072.0
+            - &id160
+              attributes: []
+              backendNodeId: 649
+              childNodeCount: 1
+              children:
+              - &id161
+                attributes: []
+                backendNodeId: 650
+                childNodeCount: 2
+                children:
+                - &id162
+                  attributes: []
+                  backendNodeId: 651
+                  childNodeCount: 1
+                  children:
+                  - &id163
+                    backendNodeId: 652
+                    childrenids: []
+                    localName: ''
+                    nodeId: 171
+                    nodeName: '#text'
+                    nodeType: 3
+                    nodeValue: Access to Information; Contacting Poshmark
+                    parent: 170
+                    props: {}
+                  childrenids: [171]
+                  h: 14.0
+                  localName: u
+                  nodeId: 170
+                  nodeName: U
+                  nodeType: 1
+                  nodeValue: ''
+                  parent: 169
+                  props: {}
+                  value: ''
+                  w: 281.90625
+                  x: 10.0
+                  y: 5264.0
+                - &id164
+                  backendNodeId: 653
+                  childrenids: []
+                  localName: ''
+                  nodeId: 172
+                  nodeName: '#text'
+                  nodeType: 3
+                  nodeValue: ':'
+                  parent: 169
+                  props: {}
+                childrenids: [170, 172]
+                h: 14.0
+                localName: b
+                nodeId: 169
+                nodeName: B
+                nodeType: 1
+                nodeValue: ''
+                parent: 168
+                props: {}
+                value: ''
+                w: 285.40625
+                x: 10.0
+                y: 5264.0
+              childrenids: [169]
+              h: 18.0
+              localName: p
+              nodeId: 168
+              nodeName: P
+              nodeType: 1
+              nodeValue: ''
+              parent: 15
+              props: {}
+              value: ''
+              w: 392.0
+              x: 10.0
+              y: 5262.0
+            - &id165
+              attributes: []
+              backendNodeId: 654
+              childNodeCount: 1
+              children:
+              - &id166
+                backendNodeId: 655
+                childrenids: []
+                localName: ''
+                nodeId: 174
+                nodeName: '#text'
+                nodeType: 3
+                nodeValue: 'To keep your
+
+                  Personal Data accurate, current, and complete, please contact us
+                  as
+
+                  specified below. We will take reasonable steps to update or correct
+
+                  Personal Data in our possession that you have previously submitted
+                  via
+
+                  the Services. '
+                parent: 173
+                props: {}
+              childrenids: [174]
+              h: 72.0
+              localName: p
+              nodeId: 173
+              nodeName: P
+              nodeType: 1
+              nodeValue: ''
+              parent: 15
+              props: {}
+              value: ''
+              w: 392.0
+              x: 10.0
+              y: 5290.0
+            - &id167
+              attributes: []
+              backendNodeId: 656
+              childNodeCount: 2
+              children:
+              - &id168
+                backendNodeId: 657
+                childrenids: []
+                localName: ''
+                nodeId: 176
+                nodeName: '#text'
+                nodeType: 3
+                nodeValue: 'Please also
+
+                  feel free to contact us if you have any questions about Poshmark''s
+
+                  Privacy Policy or the information practices of Poshmark. '
+                parent: 175
+                props: {}
+              - &id169
+                attributes: []
+                backendNodeId: 658
+                childNodeCount: 0
+                children: []
+                childrenids: []
+                h: 14.0
+                localName: br
+                nodeId: 177
+                nodeName: BR
+                nodeType: 1
+                nodeValue: ''
+                parent: 175
+                props: {}
+                value: ''
+                w: 0.0
+                x: 77.609375
+                y: 5410.0
+              childrenids: [176, 177]
+              h: 54.0
+              localName: p
+              nodeId: 175
+              nodeName: P
+              nodeType: 1
+              nodeValue: ''
+              parent: 15
+              props: {}
+              value: ''
+              w: 392.0
+              x: 10.0
+              y: 5372.0
+            - &id170
+              attributes: []
+              backendNodeId: 659
+              childNodeCount: 3
+              children:
+              - &id171
+                backendNodeId: 660
+                childrenids: []
+                localName: ''
+                nodeId: 179
+                nodeName: '#text'
+                nodeType: 3
+                nodeValue: "You may contact\nus as follows:\n    "
+                parent: 178
+                props: {}
+              - &id172
+                attributes: [href, 'mailto:support@poshmark.com']
+                backendNodeId: 661
+                childNodeCount: 1
+                children:
+                - &id173
+                  backendNodeId: 662
+                  childrenids: []
+                  localName: ''
+                  nodeId: 181
+                  nodeName: '#text'
+                  nodeType: 3
+                  nodeValue: support@poshmark.com
+                  parent: 180
+                  props: {}
+                childrenids: [181]
+                h: 14.0
+                localName: a
+                nodeId: 180
+                nodeName: A
+                nodeType: 1
+                nodeValue: ''
+                parent: 178
+                props: {href: 'mailto:support@poshmark.com'}
+                value: ''
+                w: 148.0625
+                x: 199.515625
+                y: 5438.0
+              - &id174
+                backendNodeId: 663
+                childrenids: []
+                localName: ''
+                nodeId: 182
+                nodeName: '#text'
+                nodeType: 3
+                nodeValue: '.
+
+                  '
+                parent: 178
+                props: {}
+              childrenids: [179, 180, 182]
+              h: 18.0
+              localName: p
+              nodeId: 178
+              nodeName: P
+              nodeType: 1
+              nodeValue: ''
+              parent: 15
+              props: {}
+              value: ''
+              w: 392.0
+              x: 10.0
+              y: 5436.0
+            childrenids: [16, 19, 24, 27, 32, 34, 38, 41, 48, 51, 54, 57, 60, 65,
+              70, 72, 74, 77, 82, 84, 88, 92, 96, 100, 103, 106, 111, 114, 119, 122,
+              127, 129, 134, 136, 141, 143, 149, 151, 156, 161, 166, 168, 173, 175,
+              178]
+            h: 5444.0
+            localName: div
+            nodeId: 15
+            nodeName: DIV
+            nodeType: 1
+            nodeValue: ''
+            parent: 14
+            props: {}
+            value: ''
+            w: 392.0
+            x: 10.0
+            y: 10.0
+          childrenids: [15]
+          h: 5474.0
+          localName: div
+          nodeId: 14
+          nodeName: DIV
+          nodeType: 1
+          nodeValue: ''
+          parent: 13
+          props: {class: static-page-con privacy}
+          value: ''
+          w: 412.0
+          x: 0.0
+          y: 0.0
+        childrenids: [14]
+        h: 5474.0
+        localName: div
+        nodeId: 13
+        nodeName: DIV
+        nodeType: 1
+        nodeValue: ''
+        parent: 5
+        props: {class: 'main-con '}
+        value: ''
+        w: 412.0
+        x: 0.0
+        y: 0.0
+      14: *id006
+      15: *id007
+      16: *id008
+      17: *id009
+      18: *id010
+      19: *id011
+      20: *id012
+      21: *id013
+      22: *id014
+      23: *id015
+      24: *id016
+      25: *id017
+      26: *id018
+      27: *id019
+      28: *id020
+      29: *id021
+      30: *id022
+      31: *id023
+      32: *id024
+      33: *id025
+      34: *id026
+      35: *id027
+      36: *id028
+      37: *id029
+      38: *id030
+      39: *id031
+      40: *id032
+      41: *id033
+      42: *id034
+      43: *id035
+      44: *id036
+      45: *id037
+      46: *id038
+      47: *id039
+      48: *id040
+      49: *id041
+      50: *id042
+      51: *id043
+      52: *id044
+      53: *id045
+      54: *id046
+      55: *id047
+      56: *id048
+      57: *id049
+      58: *id050
+      59: *id051
+      60: *id052
+      61: *id053
+      62: *id054
+      63: *id055
+      64: *id056
+      65: *id057
+      66: *id058
+      67: *id059
+      68: *id060
+      69: *id061
+      70: *id062
+      71: *id063
+      72: *id064
+      73: *id065
+      74: *id066
+      75: *id067
+      76: *id068
+      77: *id069
+      78: *id070
+      79: *id071
+      80: *id072
+      81: *id073
+      82: *id074
+      83: *id075
+      84: *id076
+      85: *id077
+      86: *id078
+      87: *id079
+      88: *id080
+      89: *id081
+      90: *id082
+      91: *id083
+      92: *id084
+      93: *id085
+      94: *id086
+      95: *id087
+      96: *id088
+      97: *id089
+      98: *id090
+      99: *id091
+      100: *id092
+      101: *id093
+      102: *id094
+      103: *id095
+      104: *id096
+      105: *id097
+      106: *id098
+      107: *id099
+      108: *id100
+      109: *id101
+      110: *id102
+      111: *id103
+      112: *id104
+      113: *id105
+      114: *id106
+      115: *id107
+      116: *id108
+      117: *id109
+      118: *id110
+      119: *id111
+      120: *id112
+      121: *id113
+      122: *id114
+      123: *id115
+      124: *id116
+      125: *id117
+      126: *id118
+      127: *id119
+      128: *id120
+      129: *id121
+      130: *id122
+      131: *id123
+      132: *id124
+      133: *id125
+      134: *id126
+      135: *id127
+      136: *id128
+      137: *id129
+      138: *id130
+      139: *id131
+      140: *id132
+      141: *id133
+      142: *id134
+      143: *id135
+      144: *id136
+      145: *id137
+      146: *id138
+      147: *id139
+      148: *id140
+      149: *id141
+      150: *id142
+      151: *id143
+      152: *id144
+      153: *id145
+      154: *id146
+      155: *id147
+      156: *id148
+      157: *id149
+      158: *id150
+      159: *id151
+      160: *id152
+      161: *id153
+      162: *id154
+      163: *id155
+      164: *id156
+      165: *id157
+      166: *id158
+      167: *id159
+      168: *id160
+      169: *id161
+      170: *id162
+      171: *id163
+      172: *id164
+      173: *id165
+      174: *id166
+      175: *id167
+      176: *id168
+      177: *id169
+      178: *id170
+      179: *id171
+      180: *id172
+      181: *id173
+      182: *id174
+    page: {base_h: 1461, base_w: 1080, base_x: 0, base_y: 189, empty: false, title: Privacy
+        Policy, url: 'https://www.poshmark.com/mapp/privacy_policy', ws_url: 'ws://127.0.0.1:12345/devtools/page/52f36c3c-1dff-46d7-9b31-02230fef9b1d'}
+    parents: {2: 1, 3: 1, 4: 3, 5: 3, 6: 4, 7: 6, 8: 4, 9: 4, 10: 4, 11: 4, 12: 4,
+      13: 5, 14: 13, 15: 14, 16: 15, 17: 16, 18: 16, 19: 15, 20: 19, 21: 20, 22: 21,
+      23: 20, 24: 15, 25: 24, 26: 24, 27: 15, 28: 27, 29: 28, 30: 29, 31: 28, 32: 15,
+      33: 32, 34: 15, 35: 34, 36: 35, 37: 34, 38: 15, 39: 38, 40: 39, 41: 15, 42: 41,
+      43: 42, 44: 42, 45: 44, 46: 41, 47: 41, 48: 15, 49: 48, 50: 48, 51: 15, 52: 51,
+      53: 51, 54: 15, 55: 54, 56: 54, 57: 15, 58: 57, 59: 57, 60: 15, 61: 60, 62: 61,
+      63: 60, 64: 60, 65: 15, 66: 65, 67: 66, 68: 67, 69: 66, 70: 15, 71: 70, 72: 15,
+      73: 72, 74: 15, 75: 74, 76: 74, 77: 15, 78: 77, 79: 78, 80: 79, 81: 78, 82: 15,
+      83: 82, 84: 15, 85: 84, 86: 85, 87: 84, 88: 15, 89: 88, 90: 89, 91: 88, 92: 15,
+      93: 92, 94: 93, 95: 92, 96: 15, 97: 96, 98: 97, 99: 96, 100: 15, 101: 100, 102: 101,
+      103: 15, 104: 103, 105: 103, 106: 15, 107: 106, 108: 107, 109: 108, 110: 107,
+      111: 15, 112: 111, 113: 111, 114: 15, 115: 114, 116: 115, 117: 116, 118: 115,
+      119: 15, 120: 119, 121: 119, 122: 15, 123: 122, 124: 123, 125: 124, 126: 123,
+      127: 15, 128: 127, 129: 15, 130: 129, 131: 130, 132: 131, 133: 130, 134: 15,
+      135: 134, 136: 15, 137: 136, 138: 137, 139: 138, 140: 136, 141: 15, 142: 141,
+      143: 15, 144: 143, 145: 144, 146: 145, 147: 143, 148: 147, 149: 15, 150: 149,
+      151: 15, 152: 151, 153: 152, 154: 153, 155: 152, 156: 15, 157: 156, 158: 156,
+      159: 158, 160: 156, 161: 15, 162: 161, 163: 162, 164: 163, 165: 162, 166: 15,
+      167: 166, 168: 15, 169: 168, 170: 169, 171: 170, 172: 169, 173: 15, 174: 173,
+      175: 15, 176: 175, 177: 175, 178: 15, 179: 178, 180: 178, 181: 180, 182: 178}
+    scaling: 2.625
+  pageinfo: {base_h: 1461, base_w: 1080, base_x: 0, base_y: 189, empty: false, title: Privacy
+      Policy, url: 'https://www.poshmark.com/mapp/privacy_policy', ws_url: 'ws://127.0.0.1:12345/devtools/page/52f36c3c-1dff-46d7-9b31-02230fef9b1d'}
+  title: Privacy Policy

@@ -1,0 +1,1 @@
+com.android.browser/com.android.browser.BrowserActivity

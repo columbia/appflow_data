@@ -1,0 +1,1 @@
+com.usablenet.mobile.walgreen/com.walgreens.android.application.settings.ui.activity.impl.AboutActivity

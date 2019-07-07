@@ -1,0 +1,9 @@
+11 menu
+30 addr_zipcode
+33 addr_line1
+36 addr_line2
+39 addr_city
+42 addr_state
+45 addr_phone
+46 back
+47 addr_save

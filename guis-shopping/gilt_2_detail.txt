@@ -1,0 +1,1 @@
+com.gilt.android/.product.ui.pdp.ProductDetailActivity

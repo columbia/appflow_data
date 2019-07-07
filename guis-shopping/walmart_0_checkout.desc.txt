@@ -1,0 +1,8 @@
+11 back
+31 continue
+39 item_image
+41 item_title
+48 item_price
+71 subtotal
+76 shippingcost
+78 tax

@@ -1,0 +1,7 @@
+10 card_save
+25 card_no
+29 card_exp
+31 card_cvv
+36 billing_name
+38 billing_line1
+40 billing_line2

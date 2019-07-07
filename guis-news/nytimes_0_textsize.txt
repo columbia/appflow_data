@@ -1,0 +1,1 @@
+com.nytimes.android/com.nytimes.android.ArticleActivity

@@ -1,0 +1,6 @@
+18 detail_image
+24 detail_title
+39 detail_price
+54 cart
+57 detail_addcart
+63 share

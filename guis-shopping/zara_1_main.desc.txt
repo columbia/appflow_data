@@ -1,0 +1,3 @@
+13 cart
+30 searchbox
+44 account

@@ -1,0 +1,1 @@
+com.google.android.apps.shopping.express/.activity.settings.NotificationsSettingsActivity

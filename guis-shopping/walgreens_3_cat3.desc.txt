@@ -1,0 +1,6 @@
+12 cart
+20 searchbox
+28 cat_list
+29 cat_item
+30 cat_item
+31 cat_item

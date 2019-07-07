@@ -1,0 +1,8 @@
+10 apply
+18 filter_list
+19 sort
+23 filter_brand
+25 filter_category
+31 filter_color
+33 filter_size
+35 filter_price

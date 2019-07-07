@@ -1,0 +1,12 @@
+18 card_name
+40 billing_country
+43 billing_line1
+46 billing_line2
+50 billing_zipcode
+53 billing_city
+56 billing_state
+59 billing_phone
+63 back
+64 card_save
+67 back
+70 search

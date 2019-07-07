@@ -1,0 +1,12 @@
+11 cat_parent
+12 cart
+20 searchbox
+28 cat_list
+29 cat_item
+30 cat_item
+31 cat_item
+32 cat_item
+33 cat_item
+34 cat_item
+35 cat_item
+36 cat_item

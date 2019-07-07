@@ -1,0 +1,1 @@
+com.buzzfeed.android/com.buzzfeed.android.activity.BuffetSearchActivity

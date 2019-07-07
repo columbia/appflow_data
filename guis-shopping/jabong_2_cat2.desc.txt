@@ -1,0 +1,4 @@
+25 searchbox
+30 cart
+35 cat_list
+74 account

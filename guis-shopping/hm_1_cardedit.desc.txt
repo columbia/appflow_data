@@ -1,0 +1,6 @@
+25 card_no
+29 card_month
+30 card_year
+34 card_cvv
+50 back
+51 placeorder

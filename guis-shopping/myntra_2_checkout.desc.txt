@@ -1,0 +1,6 @@
+8 back
+20 address_item
+33 addresses
+36 address_new
+48 shipmethod
+59 continue

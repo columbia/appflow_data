@@ -1,0 +1,2270 @@
+- page:
+    base_h: 131
+    base_w: 840
+    base_x: 120
+    base_y: 1219
+    html_h: 50.0
+    html_w: 320.0
+    nodes:
+      251:
+        baseURL: https://pubads.g.doubleclick.net/gampad/ads?_activity_context=false&android_num_video_cache_tasks=0&caps=inlineVideo_interactiveVideo_mraid1_mraid2_sdkVideo_th_autoplay_mediation_av_transparentBackground_sdkAdmobApiForAds_di_aso_sfv_dinm_dim_dinmo_gcache&eid=318475406%2C318477040%2C318476426%2C318476960%2C318477768%2C318477714&format=320x50_as&heap_free=13368240&heap_max=100663296&heap_total=63197672&js=afma-sdk-a-v10298470.9080000.2&msid=com.usatoday.android.news&request_pkg=com.gannett.android.ads.DfpAdRetriever&scroll_index=-1&seq_num=5&target_api=24
+        childNodeCount: 2
+        children:
+        - &id001
+          childrenids: []
+          localName: ''
+          nodeId: 252
+          nodeName: html
+          nodeType: 10
+          nodeValue: ''
+          parent: 251
+          props: {}
+          publicId: ''
+          systemId: ''
+        - &id002
+          attributes: []
+          childNodeCount: 2
+          children:
+          - &id003
+            attributes: []
+            childNodeCount: 6
+            childrenids: [256, 257, 259, 260, 261, 263]
+            h: 0.0
+            localName: head
+            nodeId: 254
+            nodeName: HEAD
+            nodeType: 1
+            nodeValue: ''
+            parent: 253
+            props: {}
+            value: ''
+            w: 0.0
+            x: 0.0
+            y: 0.0
+          - &id004
+            attributes: [onload, onLoad()]
+            childNodeCount: 10
+            childrenids: [265, 283, 285, 287, 306, 368, 370, 371, 373, 374]
+            h: 50.0
+            localName: body
+            nodeId: 255
+            nodeName: BODY
+            nodeType: 1
+            nodeValue: ''
+            parent: 253
+            props: {onload: onLoad()}
+            value: ''
+            w: 320.0
+            x: 0.0
+            y: 0.0
+          childrenids: [254, 255]
+          h: 50.0
+          localName: html
+          nodeId: 253
+          nodeName: HTML
+          nodeType: 1
+          nodeValue: ''
+          parent: 251
+          props: {}
+          value: ''
+          w: 320.0
+          x: 0.0
+          y: 0.0
+        childrenids: [252, 253]
+        documentURL: https://pubads.g.doubleclick.net/gampad/ads?_activity_context=false&android_num_video_cache_tasks=0&caps=inlineVideo_interactiveVideo_mraid1_mraid2_sdkVideo_th_autoplay_mediation_av_transparentBackground_sdkAdmobApiForAds_di_aso_sfv_dinm_dim_dinmo_gcache&eid=318475406%2C318477040%2C318476426%2C318476960%2C318477768%2C318477714&format=320x50_as&heap_free=13368240&heap_max=100663296&heap_total=63197672&js=afma-sdk-a-v10298470.9080000.2&msid=com.usatoday.android.news&request_pkg=com.gannett.android.ads.DfpAdRetriever&scroll_index=-1&seq_num=5&target_api=24#_activity_context=false&android_num_video_cache_tasks=0&caps=inlineVideo_interactiveVideo_mraid1_mraid2_sdkVideo_th_autoplay_mediation_av_transparentBackground_sdkAdmobApiForAds_di_aso_sfv_dinm_dim_dinmo_gcache&eid=318475406%252C318477040%252C318476426%252C318476960%252C318477768%252C318477714&format=320x50_as&heap_free=13368240&heap_max=100663296&heap_total=63197672&js=afma-sdk-a-v10298470.9080000.2&msid=com.usatoday.android.news&request_pkg=com.gannett.android.ads.DfpAdRetriever&scroll_index=-1&seq_num=5&target_api=24
+        localName: ''
+        nodeId: 251
+        nodeName: '#document'
+        nodeType: 9
+        nodeValue: ''
+        parent: -1
+        props: {}
+        xmlVersion: ''
+      252: *id001
+      253: *id002
+      254: *id003
+      255: *id004
+      256:
+        attributes: [name, viewport, content, 'width=320, initial-scale=1.0, minimum-scale=1.0,
+            maximum-scale=1.0, user-scalable=no']
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: meta
+        nodeId: 256
+        nodeName: META
+        nodeType: 1
+        nodeValue: ''
+        parent: 254
+        props: {content: 'width=320, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0,
+            user-scalable=no', name: viewport}
+      257:
+        attributes: []
+        childNodeCount: 1
+        children:
+        - {localName: '', nodeId: 258, nodeName: '#text', nodeType: 3, nodeValue: 'var
+            google_casm=["afma-sdk-a-v10298470.9080000.2",0,null,0,0];'}
+        childrenids: []
+        localName: script
+        nodeId: 257
+        nodeName: SCRIPT
+        nodeType: 1
+        nodeValue: ''
+        parent: 254
+        props: {}
+      259:
+        attributes: [http-equiv, Content-Type, content, text/html; charset=UTF-8]
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: meta
+        nodeId: 259
+        nodeName: META
+        nodeType: 1
+        nodeValue: ''
+        parent: 254
+        props: {content: text/html; charset=UTF-8, http-equiv: Content-Type}
+      260:
+        attributes: [src, 'https://googleads.g.doubleclick.net/mads/static/formats/templates.js']
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: script
+        nodeId: 260
+        nodeName: SCRIPT
+        nodeType: 1
+        nodeValue: ''
+        parent: 254
+        props: {src: 'https://googleads.g.doubleclick.net/mads/static/formats/templates.js'}
+      261:
+        attributes: []
+        childNodeCount: 1
+        children:
+        - &id005
+          childrenids: []
+          localName: ''
+          nodeId: 262
+          nodeName: '#text'
+          nodeType: 3
+          nodeValue: '* {background:transparent;font-family:sans-serif;margin:0px;padding:0px;-ms-user-select:none;-webkit-user-select:none;}a
+            {text-decoration:none;}'
+          parent: 261
+          props: {}
+        childrenids: [262]
+        h: 0.0
+        localName: style
+        nodeId: 261
+        nodeName: STYLE
+        nodeType: 1
+        nodeValue: ''
+        parent: 254
+        props: {}
+        value: ''
+        w: 0.0
+        x: 0.0
+        y: 0.0
+      262: *id005
+      263:
+        attributes: []
+        childNodeCount: 1
+        children:
+        - {localName: '', nodeId: 264, nodeName: '#text', nodeType: 3, nodeValue: 'if
+            (typeof(ss) === "undefined") { ss = function(){}; }function st(id) {var
+            a = document.getElementById(id);if (a) {}}function ha(a,x){  }function
+            ia(a,e,x) {}function ja(a,x) {}function ga(o,e,x) {if (document.getElementById)
+            {var a=o.id.substring(1),p="",r="",g=e.target,t,f,h;if (g) {t=g.id;f=g.parentNode;if
+            (f) {p=f.id;h=f.parentNode;if (h)r=h.id;}} else {h=e.srcElement;f=h.parentNode;if
+            (f)p=f.id;t=h.id;}if (t==a||p==a||r==a)return true;ia(a,e,x);top.location.href=document.getElementById(a).href;}}'}
+        childrenids: []
+        localName: script
+        nodeId: 263
+        nodeName: SCRIPT
+        nodeType: 1
+        nodeValue: ''
+        parent: 254
+        props: {}
+      265:
+        attributes: [id, google_ad]
+        childNodeCount: 3
+        children:
+        - &id006
+          attributes: [style, 'display:none']
+          childNodeCount: 1
+          children:
+          - &id007
+            childrenids: []
+            localName: ''
+            nodeId: 267
+            nodeName: '#text'
+            nodeType: 3
+            nodeValue: _
+            parent: 266
+            props: {}
+          childrenids: [267]
+          h: 0.0
+          localName: div
+          nodeId: 266
+          nodeName: DIV
+          nodeType: 1
+          nodeValue: ''
+          parent: 265
+          props: {style: 'display:none'}
+          value: ''
+          w: 0.0
+          x: 0.0
+          y: 0.0
+        - &id008
+          attributes: []
+          childNodeCount: 1
+          children:
+          - &id009
+            childrenids: []
+            localName: ''
+            nodeId: 269
+            nodeName: '#text'
+            nodeType: 3
+            nodeValue: '.gradient {background-color:#333;background:gradient(linear,
+              left top, left bottom, from(#333), to(#000)); background:linear-gradient(top,
+              #333, #000);background:-moz-gradient(linear, left top, left bottom,
+              from(#333), to(#000)); background:-moz-linear-gradient(top, #333, #000);background:-ms-gradient(linear,
+              left top, left bottom, from(#333), to(#000)); background:-ms-linear-gradient(top,
+              #333, #000);background:-o-gradient(linear, left top, left bottom, from(#333),
+              to(#000)); background:-o-linear-gradient(top, #333, #000);background:-webkit-gradient(linear,
+              left top, left bottom, from(#333), to(#000)); background:-webkit-linear-gradient(top,
+              #333, #000);}.creative {border-right:1px solid #666;float:left;}.creative:last-child
+              {border:0px;}.title {color:#eee;}.title_gradient {background-color:#333;background:gradient(linear,
+              left top, left bottom, from(#333), to(#000)); background:linear-gradient(top,
+              #333, #000);background:-moz-gradient(linear, left top, left bottom,
+              from(#333), to(#000)); background:-moz-linear-gradient(top, #333, #000);background:-ms-gradient(linear,
+              left top, left bottom, from(#333), to(#000)); background:-ms-linear-gradient(top,
+              #333, #000);background:-o-gradient(linear, left top, left bottom, from(#333),
+              to(#000)); background:-o-linear-gradient(top, #333, #000);background:-webkit-gradient(linear,
+              left top, left bottom, from(#333), to(#000)); background:-webkit-linear-gradient(top,
+              #333, #000);}'
+            parent: 268
+            props: {}
+          childrenids: [269]
+          h: 0.0
+          localName: style
+          nodeId: 268
+          nodeName: STYLE
+          nodeType: 1
+          nodeValue: ''
+          parent: 265
+          props: {}
+          value: ''
+          w: 0.0
+          x: 0.0
+          y: 0.0
+        - &id010
+          attributes: [class, gradient, id, ad_unit, style, 'color:#eee; font-family:helvetica,sans-serif;
+              height:50px; margin:0px auto; overflow:hidden; position:relative; width:320px']
+          childNodeCount: 2
+          children:
+          - &id011
+            attributes: [id, creatives]
+            childNodeCount: 1
+            children:
+            - &id012
+              attributes: [class, creative, id, c0]
+              childNodeCount: 3
+              children:
+              - &id013
+                attributes: [class, ad_image_container, style, 'height:50px; position:relative;
+                    width:320px;']
+                childNodeCount: 1
+                children:
+                - &id014
+                  attributes: [height, 50px, class, ad_image, src, 'https://googleads.g.doubleclick.net/simgad/10263063370024095255',
+                    style, 'margin:0px 0px', width, 320px]
+                  childNodeCount: 0
+                  children: []
+                  childrenids: []
+                  h: 50.0
+                  localName: img
+                  nodeId: 274
+                  nodeName: IMG
+                  nodeType: 1
+                  nodeValue: ''
+                  parent: 273
+                  props: {class: ad_image, height: 50px, src: 'https://googleads.g.doubleclick.net/simgad/10263063370024095255',
+                    style: 'margin:0px 0px', width: 320px}
+                  value: ''
+                  w: 320.0
+                  x: 0.0
+                  y: 0.0
+                childrenids: [274]
+                h: 50.0
+                localName: div
+                nodeId: 273
+                nodeName: DIV
+                nodeType: 1
+                nodeValue: ''
+                parent: 272
+                props: {class: ad_image_container, style: 'height:50px; position:relative;
+                    width:320px;'}
+                value: ''
+                w: 320.0
+                x: 0.0
+                y: 0.0
+              - &id015
+                attributes: [class, button_container, style, 'visibility: hidden;
+                    position: absolute; left: 98.5px; bottom: 6px; opacity: 0;']
+                childNodeCount: 1
+                children:
+                - &id016
+                  attributes: [class, button, onclick, 'handleClick( 0 ,event, 0 )']
+                  childNodeCount: 2
+                  children:
+                  - &id017
+                    attributes: [class, button_text]
+                    childNodeCount: 1
+                    children:
+                    - &id018
+                      childrenids: []
+                      localName: ''
+                      nodeId: 278
+                      nodeName: '#text'
+                      nodeType: 3
+                      nodeValue: Download
+                      parent: 277
+                      props: {}
+                    childrenids: [278]
+                    h: 16.0
+                    localName: span
+                    nodeId: 277
+                    nodeName: SPAN
+                    nodeType: 1
+                    nodeValue: ''
+                    parent: 276
+                    props: {class: button_text}
+                    value: ''
+                    w: 62.166015625
+                    x: 116.5
+                    y: 17.0
+                  - &id019
+                    attributes: [class, button_icon, src, 'https://googleads.g.doubleclick.net/pagead/images/gmob/app2x.png']
+                    childNodeCount: 0
+                    children: []
+                    childrenids: []
+                    h: 22.0
+                    localName: img
+                    nodeId: 279
+                    nodeName: IMG
+                    nodeType: 1
+                    nodeValue: ''
+                    parent: 276
+                    props: {class: button_icon, src: 'https://googleads.g.doubleclick.net/pagead/images/gmob/app2x.png'}
+                    value: ''
+                    w: 22.0
+                    x: 181.65625
+                    y: 14.0
+                  childrenids: [277, 279]
+                  h: 38.0
+                  localName: div
+                  nodeId: 276
+                  nodeName: DIV
+                  nodeType: 1
+                  nodeValue: ''
+                  parent: 275
+                  props: {class: button, onclick: 'handleClick( 0 ,event, 0 )'}
+                  value: ''
+                  w: 123.171875
+                  x: 98.5
+                  y: 6.0
+                childrenids: [276]
+                h: 38.0
+                localName: div
+                nodeId: 275
+                nodeName: DIV
+                nodeType: 1
+                nodeValue: ''
+                parent: 272
+                props: {class: button_container, style: 'visibility: hidden; position:
+                    absolute; left: 98.5px; bottom: 6px; opacity: 0;'}
+                value: ''
+                w: 123.171875
+                x: 98.5
+                y: 6.0
+              - &id020
+                attributes: []
+                childNodeCount: 1
+                children:
+                - &id021
+                  childrenids: []
+                  localName: ''
+                  nodeId: 281
+                  nodeName: '#text'
+                  nodeType: 3
+                  nodeValue: '.button_container {bottom:20px;position:absolute;z-index:99;}.button
+                    {background-color:#26D;background:gradient(linear, left top, left
+                    bottom, from(#26D), to(#16E)); background:linear-gradient(top,
+                    #26D, #16E);background:-moz-gradient(linear, left top, left bottom,
+                    from(#26D), to(#16E)); background:-moz-linear-gradient(top, #26D,
+                    #16E);background:-ms-gradient(linear, left top, left bottom, from(#26D),
+                    to(#16E)); background:-ms-linear-gradient(top, #26D, #16E);background:-o-gradient(linear,
+                    left top, left bottom, from(#26D), to(#16E)); background:-o-linear-gradient(top,
+                    #26D, #16E);background:-webkit-gradient(linear, left top, left
+                    bottom, from(#26D), to(#16E)); background:-webkit-linear-gradient(top,
+                    #26D, #16E);border:1px solid #3344aa;border-radius:2px;-moz-border-radius:2px;-ms-border-radius:2px;-o-border-radius:2px;-webkit-border-radius:2px;color:#eee;
+                    font-size:14px; font-weight:bold; overflow:hidden; float:left;padding:7px
+                    17px;}.button_icon {height:22px; width:22px;vertical-align:middle;margin-left:3px;}.multiline
+                    {text-align:center; margin:0 5px; padding-top:0;}.multiline .button_icon
+                    {display:block; margin:auto;}.button_text {color:#eee; display:inline;vertical-align:middle;}'
+                  parent: 280
+                  props: {}
+                childrenids: [281]
+                h: 0.0
+                localName: style
+                nodeId: 280
+                nodeName: STYLE
+                nodeType: 1
+                nodeValue: ''
+                parent: 272
+                props: {}
+                value: ''
+                w: 0.0
+                x: 0.0
+                y: 0.0
+              childrenids: [273, 275, 280]
+              h: 50.0
+              localName: div
+              nodeId: 272
+              nodeName: DIV
+              nodeType: 1
+              nodeValue: ''
+              parent: 271
+              props: {class: creative, id: c0}
+              value: ''
+              w: 320.0
+              x: 0.0
+              y: 0.0
+            childrenids: [272]
+            h: 0.0
+            localName: div
+            nodeId: 271
+            nodeName: DIV
+            nodeType: 1
+            nodeValue: ''
+            parent: 270
+            props: {id: creatives}
+            value: ''
+            w: 320.0
+            x: 0.0
+            y: 0.0
+          - &id022
+            attributes: [id, attribution]
+            childNodeCount: 0
+            children: []
+            childrenids: []
+            h: 0.0
+            localName: div
+            nodeId: 282
+            nodeName: DIV
+            nodeType: 1
+            nodeValue: ''
+            parent: 270
+            props: {id: attribution}
+            value: ''
+            w: 320.0
+            x: 0.0
+            y: 0.0
+          childrenids: [271, 282]
+          h: 50.0
+          localName: div
+          nodeId: 270
+          nodeName: DIV
+          nodeType: 1
+          nodeValue: ''
+          parent: 265
+          props: {class: gradient, id: ad_unit, style: 'color:#eee; font-family:helvetica,sans-serif;
+              height:50px; margin:0px auto; overflow:hidden; position:relative; width:320px'}
+          value: ''
+          w: 320.0
+          x: 0.0
+          y: 0.0
+        childrenids: [266, 268, 270]
+        h: 50.0
+        localName: div
+        nodeId: 265
+        nodeName: DIV
+        nodeType: 1
+        nodeValue: ''
+        parent: 255
+        props: {id: google_ad}
+        value: ''
+        w: 320.0
+        x: 0.0
+        y: 0.0
+      266: *id006
+      267: *id007
+      268: *id008
+      269: *id009
+      270: *id010
+      271: *id011
+      272: *id012
+      273: *id013
+      274: *id014
+      275: *id015
+      276: *id016
+      277: *id017
+      278: *id018
+      279: *id019
+      280: *id020
+      281: *id021
+      282: *id022
+      283:
+        attributes: []
+        childNodeCount: 1
+        children:
+        - {localName: '', nodeId: 284, nodeName: '#text', nodeType: 3, nodeValue: "renderAd(document.getElementById('google_ad'),\
+            \ {\"creatives\":[{\"destination_url\":\"//googleads.g.doubleclick.net/aclk?sa=L\\\
+            u0026ai=CgBev5pjiWIrMJOrxzgXf8KVA0ciq4Uit_ranwwTkq-nluAEQASDY1J0fYMnGqYvApNgPoAHhroifA6gDAaoEvgFP0IRufql8ODJjmMQ2Cl74ICj8P9FuVrcY-oTDcO7pZKMT1aKTsRfIQ-Vh1CKFauhjZH6_opyCJ7CddPttcdNH4DJRos4p-XuoA2QF--rteT1fi1-qULlQWDONIkAMEWeJnkuTOllSWPpUsQFSu2mg-VhFWEv8Qe8OY-t3M-3xHki-fCFSndTYjldGGgv7dZuuUh2JjievCpvY70HHrg7RI7EeRysoooQZGnsAQL-fef1fvVtFd6mDGsZlVlXewAScxJabkwGIBbD8ps0CkAYBoAY5sAYBgAfot_1gmAcBqAemvhu4B_qwspDyxID0DsAH99QD2AcB-gcXY29tLmxpb25tb2JpLnBvd2VyY2xlYW6gCLDIpQSwCAK4CAHSCAUIgCEQAYIUKBombW9iaWxlYXBwOjoyLWNvbS51c2F0b2RheS5hbmRyb2lkLm5ld3M\\\
+            u0026num=1\\u0026cid=CAASUeRoXfqFhl2WzSShfJRAddTGxohWUPfbBxbpeF01Dic1Z9JqMVrbe_sbdj3a2fvRgG5W5m5zGinMFT8Eeowj6sy5AXxSoIKBGlqCFF9OuwB4yw\\\
+            u0026sig=AOD64_0vbpySllv-YZ093IGymw8JKLBEoA\\u0026adurl=market://details%3Fid%3Dcom.lionmobi.powerclean\"\
+            ,\"image_creative\":{\"image_url\":\"https://googleads.g.doubleclick.net/simgad/10263063370024095255\"\
+            ,\"height\":50,\"width\":320,\"is_1_5_click_enabled\":true},\"use_native_browser\"\
+            :true,\"buttons\":[{\"image_url\":\"https://googleads.g.doubleclick.net/pagead/images/gmob/app2x.png\"\
+            ,\"text\":\"Download\",\"background_color_bottom\":\"#16E\",\"background_color_top\"\
+            :\"#26D\",\"border_color\":\"#3344aa\",\"action_urls\":{\"click_url\"\
+            :\"//googleads.g.doubleclick.net/aclk?sa=L\\u0026ai=CgBev5pjiWIrMJOrxzgXf8KVA0ciq4Uit_ranwwTkq-nluAEQASDY1J0fYMnGqYvApNgPoAHhroifA6gDAaoEvgFP0IRufql8ODJjmMQ2Cl74ICj8P9FuVrcY-oTDcO7pZKMT1aKTsRfIQ-Vh1CKFauhjZH6_opyCJ7CddPttcdNH4DJRos4p-XuoA2QF--rteT1fi1-qULlQWDONIkAMEWeJnkuTOllSWPpUsQFSu2mg-VhFWEv8Qe8OY-t3M-3xHki-fCFSndTYjldGGgv7dZuuUh2JjievCpvY70HHrg7RI7EeRysoooQZGnsAQL-fef1fvVtFd6mDGsZlVlXewAScxJabkwGIBbD8ps0CkAYBoAY5sAYBgAfot_1gmAcBqAemvhu4B_qwspDyxID0DsAH99QD2AcB-gcXY29tLmxpb25tb2JpLnBvd2VyY2xlYW6gCLDIpQSwCAK4CAHSCAUIgCEQAYIUKBombW9iaWxlYXBwOjoyLWNvbS51c2F0b2RheS5hbmRyb2lkLm5ld3M\\\
+            u0026num=1\\u0026cid=CAASUeRoXfqFhl2WzSShfJRAddTGxohWUPfbBxbpeF01Dic1Z9JqMVrbe_sbdj3a2fvRgG5W5m5zGinMFT8Eeowj6sy5AXxSoIKBGlqCFF9OuwB4yw\\\
+            u0026sig=AOD64_0vbpySllv-YZ093IGymw8JKLBEoA\\u0026adurl=market://details%3Fid%3Dcom.lionmobi.powerclean\"\
+            ,\"final_destination_url\":\"http://play.google.com/store/apps/details?id=com.lionmobi.powerclean\"\
+            ,\"u2_tracking_url\":\"http://play.google.com/store/apps/details?id=com.lionmobi.powerclean\"\
+            ,\"u2_final_url\":\"market://details?id=com.lionmobi.powerclean\"},\"\
+            text_color\":\"#eee\",\"is_hidden\":false}],\"creative_type\":2,\"creative_conversion_urls\"\
+            :[]}],\"height\":50,\"width\":320,\"attribution\":{\"user_feedback_data\"\
+            :{\"mute_icon_url\":\"https://googleads.g.doubleclick.net/pagead/images/mtad/x_blue.png\"\
+            ,\"pub_feedback_icon_url\":\"https://googleads.g.doubleclick.net/pagead/images/mtad/x_blue.png\"\
+            ,\"conversion_url\":\"https://googleads.g.doubleclick.net/pagead/conversion/?ai=CgBev5pjiWIrMJOrxzgXf8KVA0ciq4Uit_ranwwTkq-nluAEQASDY1J0fYMnGqYvApNgPoAHhroifA6gDAaoEvgFP0IRufql8ODJjmMQ2Cl74ICj8P9FuVrcY-oTDcO7pZKMT1aKTsRfIQ-Vh1CKFauhjZH6_opyCJ7CddPttcdNH4DJRos4p-XuoA2QF--rteT1fi1-qULlQWDONIkAMEWeJnkuTOllSWPpUsQFSu2mg-VhFWEv8Qe8OY-t3M-3xHki-fCFSndTYjldGGgv7dZuuUh2JjievCpvY70HHrg7RI7EeRysoooQZGnsAQL-fef1fvVtFd6mDGsZlVlXewAScxJabkwGIBbD8ps0CkAYBoAY5sAYBgAfot_1gmAcBqAemvhu4B_qwspDyxID0DsAH99QD2AcB-gcXY29tLmxpb25tb2JpLnBvd2VyY2xlYW6gCLDIpQSwCAK4CAHSCAUIgCEQAYIUKBombW9iaWxlYXBwOjoyLWNvbS51c2F0b2RheS5hbmRyb2lkLm5ld3M\\\
+            u0026sigh=_xd1G5SCoI4\",\"close_button_token\":\"TEsVkeOBEFkIrf62p8MEELD8ps0CGNuCnGFSF2NvbS5saW9ubW9iaS5wb3dlcmNsZWFucAE\"\
+            ,\"interaction_conversion\":{\"label\":\"user_feedback_menu_interaction\"\
+            ,\"label_instance\":\"\",\"include_close_button_token\":false},\"survey_header\"\
+            :\"What was wrong with this ad?\",\"back_icon_url\":\"https://googleads.g.doubleclick.net/pagead/images/mtad/back_blue.png\"\
+            ,\"mute_confirmation_header\":\"Thanks for the feedback!\",\"mute_confirmation_text\"\
+            :\"We\u2019ll review this ad to improve your experience in the future.\"\
+            ,\"pub_feedback_confirmation_header\":\"Thanks for the feedback!\",\"\
+            pub_feedback_confirmation_text\":\"We\u2019ll use your feedback to review\
+            \ ads on this site.\",\"encoded_cookie\":\"CAASUeRoXfqFhl2WzSShfJRAddTGxohWUPfbBxbpeF01Dic1Z9JqMVrbe_sbdj3a2fvRgG5W5m5zGinMFT8Eeowj6sy5AXxSoIKBGlqCFF9OuwB4yw\"\
+            ,\"undo_text\":\"Undo\",\"closing_countdown_text\":\"Closing ad: %1$d\"\
+            ,\"attribution_text\":\"AdChoices\",\"attribution_icon_url\":\"https://googleads.g.doubleclick.net/pagead/images/mtad/ad_choices_blue.png\"\
+            ,\"attribution_destination_url\":\"https://www.google.com/url?ct=abg\\\
+            u0026q=https://www.google.com/adsense/support/bin/request.py%3Fcontact%3Dabg_afc%26url%3Dhttp://100.android.com.usatoday.android.news.adsenseformobileapps.com/%26gl%3DUS%26hl%3Den%26client%3Dca-mb-app-pub-5717092533913515%26ai0%3D\\\
+            u0026usg=AFQjCNFWAC4_ktLdnZH7uy3uT8Oowa3U3A\",\"ad_feedback_icon_url\"\
+            :\"https://googleads.g.doubleclick.net/pagead/images/mtad/x_blue.png\"\
+            ,\"is_rtl_language\":false,\"feedback_options\":[{\"text\":\"Stop seeing\
+            \ this ad\",\"conversion\":{\"label\":\"user_feedback_menu_option\",\"\
+            label_instance\":\"1\",\"include_close_button_token\":true},\"survey\"\
+            :{\"header\":\"What was wrong with this ad?\",\"options\":[{\"text\":\"\
+            Not interested in this ad\",\"conversion\":{\"label\":\"mute_survey_option\"\
+            ,\"label_instance\":\"7\",\"include_close_button_token\":true}},{\"text\"\
+            :\"Ad knew too much\",\"conversion\":{\"label\":\"mute_survey_option\"\
+            ,\"label_instance\":\"16\",\"include_close_button_token\":true}},{\"text\"\
+            :\"Ad was inappropriate\",\"conversion\":{\"label\":\"mute_survey_option\"\
+            ,\"label_instance\":\"8\",\"include_close_button_token\":true}},{\"text\"\
+            :\"Ad covered content\",\"conversion\":{\"label\":\"mute_survey_option\"\
+            ,\"label_instance\":\"3\",\"include_close_button_token\":true}}]},\"undo_conversion\"\
+            :{\"label\":\"user_feedback_undo\",\"label_instance\":\"1\",\"include_close_button_token\"\
+            :true}}],\"mute_panel_data\":{\"adchoices_icon_url\":\"https://googleads.g.doubleclick.net/pagead/images/adchoices/iconx2-000000.png\"\
+            ,\"adchoices_button_text\":\"AdChoices\",\"closed_message_text\":\"Ad\
+            \ closed by %1$s\",\"enable_lightbox\":false,\"google_logo_url\":\"https://www.gstatic.com/images/branding/googlelogo/2x/googlelogo_dark_color_84x28dp.png\"\
+            ,\"report_ad_button_text\":\"Stop seeing this ad\",\"confirmation_text\"\
+            :\"We'll try not to show that ad again\",\"settings_button_first\":false,\"\
+            protocol_gstatic_host\":\"https://www.gstatic.com\",\"jake_mta_context\"\
+            :\"\"}}},\"flags\":[{\"name\":\"gmob_evaluate_interstitial_as_fullscreen\"\
+            ,\"value\":\"true\"},{\"name\":\"uses_octagon_sdk\",\"value\":\"true\"\
+            },{\"name\":\"gmob_open_system_browser\",\"value\":\"true\"},{\"name\"\
+            :\"gmob_open_system_browser_use_first_package\",\"value\":\"true\"},{\"\
+            name\":\"gmob_open_system_browser_use_running_process\",\"value\":\"true\"\
+            },{\"name\":\"gmob_app_promo_u2_click_handling\",\"value\":\"true\"},{\"\
+            name\":\"csi_experiment_ids\",\"value\":\"420706067,318477768,\"},{\"\
+            name\":\"ignore_clicks_during_sjax_duration\",\"value\":\"0\"},{\"name\"\
+            :\"click_delay_for_non_interstitials_ms\",\"value\":\"1000\"},{\"name\"\
+            :\"is_app_promo\",\"value\":\"true\"},{\"name\":\"promoted_app_id\",\"\
+            value\":\"com.lionmobi.powerclean\"},{\"name\":\"creative_conversion_url\"\
+            ,\"value\":\"https://googleads.g.doubleclick.net/pagead/conversion/?ai=CgBev5pjiWIrMJOrxzgXf8KVA0ciq4Uit_ranwwTkq-nluAEQASDY1J0fYMnGqYvApNgPoAHhroifA6gDAaoEvgFP0IRufql8ODJjmMQ2Cl74ICj8P9FuVrcY-oTDcO7pZKMT1aKTsRfIQ-Vh1CKFauhjZH6_opyCJ7CddPttcdNH4DJRos4p-XuoA2QF--rteT1fi1-qULlQWDONIkAMEWeJnkuTOllSWPpUsQFSu2mg-VhFWEv8Qe8OY-t3M-3xHki-fCFSndTYjldGGgv7dZuuUh2JjievCpvY70HHrg7RI7EeRysoooQZGnsAQL-fef1fvVtFd6mDGsZlVlXewAScxJabkwGIBbD8ps0CkAYBoAY5sAYBgAfot_1gmAcBqAemvhu4B_qwspDyxID0DsAH99QD2AcB-gcXY29tLmxpb25tb2JpLnBvd2VyY2xlYW6gCLDIpQSwCAK4CAHSCAUIgCEQAYIUKBombW9iaWxlYXBwOjoyLWNvbS51c2F0b2RheS5hbmRyb2lkLm5ld3M\\\
+            u0026sigh=_xd1G5SCoI4\"},{\"name\":\"interstitial_image_scale\",\"value\"\
+            :\"true\"},{\"name\":\"interstitial_image_scale_limit\",\"value\":\"1.5\"\
+            },{\"name\":\"image_1_5_click_ignore\",\"value\":\"true\"},{\"name\":\"\
+            image_1_5_click_default_border_definition\",\"value\":\"10,10,10,10\"\
+            }],\"link_target\":\"_top\"});"}
+        childrenids: []
+        localName: script
+        nodeId: 283
+        nodeName: SCRIPT
+        nodeType: 1
+        nodeValue: ''
+        parent: 255
+        props: {}
+      285:
+        attributes: []
+        childNodeCount: 1
+        children:
+        - &id023
+          childrenids: []
+          localName: ''
+          nodeId: 286
+          nodeName: '#text'
+          nodeType: 3
+          nodeValue: 'div,ul,li{margin:0;padding:0;}.abgcp{height:15px;padding-left:
+            0;padding-bottom: 0;padding-right: 10px;padding-top: 10px;left:0px;bottom:0px;position:absolute;width:31px;z-index:9020;}.abgc{display:block;height:15px;overflow:hidden;position:absolute;left:0px;bottom:0px;text-rendering:geometricPrecision;width:31px;z-index:9020;}.abgb{display:block;height:15px;width:15px;}.abgc{cursor:pointer;}.cbb{background-image:
+            url(''https://pagead2.googlesyndication.com/pagead/images/x_button_blue2.svg'');background-repeat:
+            no-repeat;background-position: top right;cursor:pointer;height:15px;width:15px;z-index:9020;}.abgb{position:absolute;left:16px;bottom:0px;}.cbb{position:absolute;left:0;bottom:0;}.abgc
+            img{display:block;}.abgc svg{display:block;}.abgs{display:none;height:100%;}.abgl{text-decoration:none;}.abgi{fill-opacity:1.0;fill:#00aecd;stroke:none;}.abgbg{fill-opacity:1.0;fill:#cdcccc;stroke:none;}.abgtxt{fill:black;font-family:''Arial'';font-size:100px;overflow:visible;stroke:none;}'
+          parent: 285
+          props: {}
+        childrenids: [286]
+        h: 0.0
+        localName: style
+        nodeId: 285
+        nodeName: STYLE
+        nodeType: 1
+        nodeValue: ''
+        parent: 255
+        props: {}
+        value: ''
+        w: 0.0
+        x: 0.0
+        y: 0.0
+      286: *id023
+      287:
+        attributes: [id, abgcp, class, abgcp]
+        childNodeCount: 1
+        children:
+        - &id024
+          attributes: [id, abgc, class, abgc, dir, ltr]
+          childNodeCount: 3
+          children:
+          - &id025
+            attributes: [id, abgb, class, abgb]
+            childNodeCount: 1
+            children:
+            - &id026
+              attributes: [width, 100%, height, 100%]
+              childNodeCount: 2
+              children:
+              - &id027
+                attributes: [class, abgbg, width, 100%, height, 100%]
+                childNodeCount: 0
+                children: []
+                childrenids: []
+                h: 15.0
+                localName: rect
+                nodeId: 291
+                nodeName: rect
+                nodeType: 1
+                nodeValue: ''
+                parent: 290
+                props: {class: abgbg, height: 100%, width: 100%}
+                value: ''
+                w: 15.0
+                x: 16.0
+                y: 35.0
+              - &id028
+                attributes: [class, abgi, x, 0px]
+                childNodeCount: 2
+                children:
+                - &id029
+                  attributes: [cx, '6', cy, '6', r, '0.67']
+                  childNodeCount: 0
+                  children: []
+                  childrenids: []
+                  h: 1.339996337890625
+                  localName: circle
+                  nodeId: 293
+                  nodeName: circle
+                  nodeType: 1
+                  nodeValue: ''
+                  parent: 292
+                  props: {cx: '6', cy: '6', r: '0.67'}
+                  value: ''
+                  w: 1.3400001525878906
+                  x: 21.329999923706055
+                  y: 40.33000183105469
+                - &id030
+                  attributes: [d, 'M4.2,11.3Q3.3,11.8,3.3,10.75L3.3,4.1Q3.3,3.1,4.3,3.5L10.4,7.0Q12.0,7.5,10.4,8.0L6.65,10.0L6.65,7.75a0.65,0.65,0,1,0,-1.3,0L5.35,10.75a0.9,0.9,0,0,0,1.3,0.8L12.7,8.2Q13.7,7.5,12.7,6.7L3.3,1.6Q2.2,1.3,1.8,2.5L1.8,12.5Q2.2,13.9,3.3,13.3L4.8,12.5A0.3,0.3,0,1,0,4.2,11.3Z']
+                  childNodeCount: 0
+                  children: []
+                  childrenids: []
+                  h: 12.299999237060547
+                  localName: path
+                  nodeId: 294
+                  nodeName: path
+                  nodeType: 1
+                  nodeValue: ''
+                  parent: 292
+                  props: {d: 'M4.2,11.3Q3.3,11.8,3.3,10.75L3.3,4.1Q3.3,3.1,4.3,3.5L10.4,7.0Q12.0,7.5,10.4,8.0L6.65,10.0L6.65,7.75a0.65,0.65,0,1,0,-1.3,0L5.35,10.75a0.9,0.9,0,0,0,1.3,0.8L12.7,8.2Q13.7,7.5,12.7,6.7L3.3,1.6Q2.2,1.3,1.8,2.5L1.8,12.5Q2.2,13.9,3.3,13.3L4.8,12.5A0.3,0.3,0,1,0,4.2,11.3Z'}
+                  value: ''
+                  w: 11.566667556762695
+                  x: 17.799999237060547
+                  y: 36.400001525878906
+                childrenids: [293, 294]
+                h: 12.299999237060547
+                localName: svg
+                nodeId: 292
+                nodeName: svg
+                nodeType: 1
+                nodeValue: ''
+                parent: 290
+                props: {class: abgi, x: 0px}
+                value: ''
+                w: 11.566667556762695
+                x: 17.799999237060547
+                y: 36.400001525878906
+              childrenids: [291, 292]
+              h: 15.0
+              localName: svg
+              nodeId: 290
+              nodeName: svg
+              nodeType: 1
+              nodeValue: ''
+              parent: 289
+              props: {height: 100%, width: 100%}
+              value: ''
+              w: 15.0
+              x: 16.0
+              y: 35.0
+            childrenids: [290]
+            h: 15.0
+            localName: div
+            nodeId: 289
+            nodeName: DIV
+            nodeType: 1
+            nodeValue: ''
+            parent: 288
+            props: {class: abgb, id: abgb}
+            value: ''
+            w: 15.0
+            x: 16.0
+            y: 35.0
+          - &id031
+            attributes: [id, abgs, class, abgs]
+            childNodeCount: 1
+            children:
+            - &id032
+              attributes: [id, abgl, class, abgl, href, 'https://www.google.com/url?ct=abg&q=https://www.google.com/adsense/support/bin/request.py%3Fcontact%3Dabg_afc%26url%3Dhttp://100.android.com.usatoday.android.news.adsenseformobileapps.com/%26gl%3DUS%26hl%3Den%26client%3Dca-mb-app-pub-5717092533913515%26ai0%3D&usg=AFQjCNFWAC4_ktLdnZH7uy3uT8Oowa3U3A',
+                target, _blank]
+              childNodeCount: 1
+              children:
+              - &id033
+                attributes: [width, 100%, height, 100%]
+                childNodeCount: 3
+                children:
+                - &id034
+                  attributes: [class, abgbg, d, 'M0,15L75,15L75,4s0,-4,-4,-4L0,0z']
+                  childNodeCount: 0
+                  children: []
+                  childrenids: []
+                  h: 0.0
+                  localName: path
+                  nodeId: 298
+                  nodeName: path
+                  nodeType: 1
+                  nodeValue: ''
+                  parent: 297
+                  props: {class: abgbg, d: 'M0,15L75,15L75,4s0,-4,-4,-4L0,0z'}
+                  value: ''
+                  w: 0.0
+                  x: 0.0
+                  y: 0.0
+                - &id035
+                  attributes: [class, abgi, x, 0px]
+                  childNodeCount: 2
+                  children:
+                  - &id036
+                    attributes: [cx, '6', cy, '6', r, '0.67']
+                    childNodeCount: 0
+                    children: []
+                    childrenids: []
+                    h: 0.0
+                    localName: circle
+                    nodeId: 300
+                    nodeName: circle
+                    nodeType: 1
+                    nodeValue: ''
+                    parent: 299
+                    props: {cx: '6', cy: '6', r: '0.67'}
+                    value: ''
+                    w: 0.0
+                    x: 0.0
+                    y: 0.0
+                  - &id037
+                    attributes: [d, 'M4.2,11.3Q3.3,11.8,3.3,10.75L3.3,4.1Q3.3,3.1,4.3,3.5L10.4,7.0Q12.0,7.5,10.4,8.0L6.65,10.0L6.65,7.75a0.65,0.65,0,1,0,-1.3,0L5.35,10.75a0.9,0.9,0,0,0,1.3,0.8L12.7,8.2Q13.7,7.5,12.7,6.7L3.3,1.6Q2.2,1.3,1.8,2.5L1.8,12.5Q2.2,13.9,3.3,13.3L4.8,12.5A0.3,0.3,0,1,0,4.2,11.3Z']
+                    childNodeCount: 0
+                    children: []
+                    childrenids: []
+                    h: 0.0
+                    localName: path
+                    nodeId: 301
+                    nodeName: path
+                    nodeType: 1
+                    nodeValue: ''
+                    parent: 299
+                    props: {d: 'M4.2,11.3Q3.3,11.8,3.3,10.75L3.3,4.1Q3.3,3.1,4.3,3.5L10.4,7.0Q12.0,7.5,10.4,8.0L6.65,10.0L6.65,7.75a0.65,0.65,0,1,0,-1.3,0L5.35,10.75a0.9,0.9,0,0,0,1.3,0.8L12.7,8.2Q13.7,7.5,12.7,6.7L3.3,1.6Q2.2,1.3,1.8,2.5L1.8,12.5Q2.2,13.9,3.3,13.3L4.8,12.5A0.3,0.3,0,1,0,4.2,11.3Z'}
+                    value: ''
+                    w: 0.0
+                    x: 0.0
+                    y: 0.0
+                  childrenids: [300, 301]
+                  h: 0.0
+                  localName: svg
+                  nodeId: 299
+                  nodeName: svg
+                  nodeType: 1
+                  nodeValue: ''
+                  parent: 297
+                  props: {class: abgi, x: 0px}
+                  value: ''
+                  w: 0.0
+                  x: 0.0
+                  y: 0.0
+                - &id038
+                  attributes: [class, abgtxt, x, 17px, y, 11px, width, 53px]
+                  childNodeCount: 1
+                  children:
+                  - &id039
+                    attributes: []
+                    childNodeCount: 1
+                    children:
+                    - &id040
+                      childrenids: []
+                      localName: ''
+                      nodeId: 304
+                      nodeName: '#text'
+                      nodeType: 3
+                      nodeValue: AdChoices
+                      parent: 303
+                      props: {}
+                    childrenids: [304]
+                    h: 0.0
+                    localName: text
+                    nodeId: 303
+                    nodeName: text
+                    nodeType: 1
+                    nodeValue: ''
+                    parent: 302
+                    props: {}
+                    value: ''
+                    w: 0.0
+                    x: 0.0
+                    y: 0.0
+                  childrenids: [303]
+                  h: 0.0
+                  localName: svg
+                  nodeId: 302
+                  nodeName: svg
+                  nodeType: 1
+                  nodeValue: ''
+                  parent: 297
+                  props: {class: abgtxt, width: 53px, x: 17px, y: 11px}
+                  value: ''
+                  w: 0.0
+                  x: 0.0
+                  y: 0.0
+                childrenids: [298, 299, 302]
+                h: 0.0
+                localName: svg
+                nodeId: 297
+                nodeName: svg
+                nodeType: 1
+                nodeValue: ''
+                parent: 296
+                props: {height: 100%, width: 100%}
+                value: ''
+                w: 0.0
+                x: 0.0
+                y: 0.0
+              childrenids: [297]
+              h: 0.0
+              localName: a
+              nodeId: 296
+              nodeName: A
+              nodeType: 1
+              nodeValue: ''
+              parent: 295
+              props: {class: abgl, href: 'https://www.google.com/url?ct=abg&q=https://www.google.com/adsense/support/bin/request.py%3Fcontact%3Dabg_afc%26url%3Dhttp://100.android.com.usatoday.android.news.adsenseformobileapps.com/%26gl%3DUS%26hl%3Den%26client%3Dca-mb-app-pub-5717092533913515%26ai0%3D&usg=AFQjCNFWAC4_ktLdnZH7uy3uT8Oowa3U3A',
+                id: abgl, target: _blank}
+              value: ''
+              w: 0.0
+              x: 0.0
+              y: 0.0
+            childrenids: [296]
+            h: 0.0
+            localName: div
+            nodeId: 295
+            nodeName: DIV
+            nodeType: 1
+            nodeValue: ''
+            parent: 288
+            props: {class: abgs, id: abgs}
+            value: ''
+            w: 0.0
+            x: 0.0
+            y: 0.0
+          - &id041
+            attributes: [id, cbb, class, cbb]
+            childNodeCount: 0
+            children: []
+            childrenids: []
+            h: 15.0
+            localName: div
+            nodeId: 305
+            nodeName: DIV
+            nodeType: 1
+            nodeValue: ''
+            parent: 288
+            props: {class: cbb, id: cbb}
+            value: ''
+            w: 15.0
+            x: 0.0
+            y: 35.0
+          childrenids: [289, 295, 305]
+          h: 15.0
+          localName: div
+          nodeId: 288
+          nodeName: DIV
+          nodeType: 1
+          nodeValue: ''
+          parent: 287
+          props: {class: abgc, dir: ltr, id: abgc}
+          value: ''
+          w: 31.0
+          x: 0.0
+          y: 35.0
+        childrenids: [288]
+        h: 25.0
+        localName: div
+        nodeId: 287
+        nodeName: DIV
+        nodeType: 1
+        nodeValue: ''
+        parent: 255
+        props: {class: abgcp, id: abgcp}
+        value: ''
+        w: 41.0
+        x: 0.0
+        y: 25.0
+      288: *id024
+      289: *id025
+      290: *id026
+      291: *id027
+      292: *id028
+      293: *id029
+      294: *id030
+      295: *id031
+      296: *id032
+      297: *id033
+      298: *id034
+      299: *id035
+      300: *id036
+      301: *id037
+      302: *id038
+      303: *id039
+      304: *id040
+      305: *id041
+      306:
+        attributes: [id, mute_panel, class, survey-horiz survey-scroll jake-middle]
+        childNodeCount: 2
+        children:
+        - &id042
+          attributes: [id, panel_set]
+          childNodeCount: 4
+          children:
+          - &id043
+            attributes: [id, ad_closed_panel, class, panel fallback-wrap, wp, '1']
+            childNodeCount: 1
+            children:
+            - &id044
+              attributes: [class, panel-container]
+              childNodeCount: 1
+              children:
+              - &id045
+                attributes: [class, panel-content fade]
+                childNodeCount: 2
+                children:
+                - &id046
+                  attributes: [class, panel-row, style, 'font-size: 10px;']
+                  childNodeCount: 1
+                  children:
+                  - &id047
+                    attributes: [id, closed_text]
+                    childNodeCount: 3
+                    children:
+                    - &id048
+                      attributes: []
+                      childNodeCount: 1
+                      children:
+                      - &id049
+                        childrenids: []
+                        localName: ''
+                        nodeId: 314
+                        nodeName: '#text'
+                        nodeType: 3
+                        nodeValue: 'Ad closed by '
+                        parent: 313
+                        props: {}
+                      childrenids: [314]
+                      h: 14.0
+                      localName: span
+                      nodeId: 313
+                      nodeName: SPAN
+                      nodeType: 1
+                      nodeValue: ''
+                      parent: 312
+                      props: {}
+                      value: ''
+                      w: 71.267578125
+                      x: -218.1337890625
+                      y: -47.0
+                    - &id050
+                      attributes: [src, 'https://www.gstatic.com/images/branding/googlelogo/2x/googlelogo_dark_color_84x28dp.png']
+                      childNodeCount: 0
+                      children: []
+                      childrenids: []
+                      h: 15.0
+                      localName: img
+                      nodeId: 315
+                      nodeName: IMG
+                      nodeType: 1
+                      nodeValue: ''
+                      parent: 312
+                      props: {src: 'https://www.gstatic.com/images/branding/googlelogo/2x/googlelogo_dark_color_84x28dp.png'}
+                      value: ''
+                      w: 45.0
+                      x: -146.875
+                      y: -46.0
+                    - &id051
+                      attributes: []
+                      childNodeCount: 0
+                      children: []
+                      childrenids: []
+                      h: 14.0
+                      localName: span
+                      nodeId: 316
+                      nodeName: SPAN
+                      nodeType: 1
+                      nodeValue: ''
+                      parent: 312
+                      props: {}
+                      value: ''
+                      w: 0.0
+                      x: -101.8662109375
+                      y: -47.0
+                    childrenids: [313, 315, 316]
+                    h: 15.0
+                    localName: span
+                    nodeId: 312
+                    nodeName: SPAN
+                    nodeType: 1
+                    nodeValue: ''
+                    parent: 311
+                    props: {id: closed_text}
+                    value: ''
+                    w: 116.28125
+                    x: -218.140625
+                    y: -47.0
+                  childrenids: [312]
+                  h: 21.0
+                  localName: div
+                  nodeId: 311
+                  nodeName: DIV
+                  nodeType: 1
+                  nodeValue: ''
+                  parent: 310
+                  props: {class: panel-row, style: 'font-size: 10px;'}
+                  value: ''
+                  w: 320.0
+                  x: -320.0
+                  y: -50.0
+                - &id052
+                  attributes: [class, panel-row, wp, '0', style, 'font-size: 10px;']
+                  childNodeCount: 3
+                  children:
+                  - &id053
+                    attributes: [id, report_btn, class, btn responsive-btn shadow]
+                    childNodeCount: 1
+                    children:
+                    - &id054
+                      attributes: [id, report_text, class, btn-text, style, 'font-size:
+                          12px;']
+                      childNodeCount: 1
+                      children:
+                      - &id055
+                        childrenids: []
+                        localName: ''
+                        nodeId: 320
+                        nodeName: '#text'
+                        nodeType: 3
+                        nodeValue: Stop seeing this ad
+                        parent: 319
+                        props: {}
+                      childrenids: [320]
+                      h: 24.0
+                      localName: span
+                      nodeId: 319
+                      nodeName: SPAN
+                      nodeType: 1
+                      nodeValue: ''
+                      parent: 318
+                      props: {class: btn-text, id: report_text, style: 'font-size:
+                          12px;'}
+                      value: ''
+                      w: 116.0
+                      x: -262.984375
+                      y: -28.0
+                    childrenids: [319]
+                    h: 24.0
+                    localName: a
+                    nodeId: 318
+                    nodeName: A
+                    nodeType: 1
+                    nodeValue: ''
+                    parent: 317
+                    props: {class: btn responsive-btn shadow, id: report_btn}
+                    value: ''
+                    w: 116.0
+                    x: -262.984375
+                    y: -28.0
+                  - &id056
+                    attributes: [id, spacer]
+                    childNodeCount: 0
+                    children: []
+                    childrenids: []
+                    h: 0.0
+                    localName: a
+                    nodeId: 321
+                    nodeName: A
+                    nodeType: 1
+                    nodeValue: ''
+                    parent: 317
+                    props: {id: spacer}
+                    value: ''
+                    w: 3.0
+                    x: -146.984375
+                    y: -12.0
+                  - &id057
+                    attributes: [id, settings_btn, class, btn responsive-btn shadow,
+                      href, //support.google.com/adsense/troubleshooter/1631343, target,
+                      _blank, wp, '0']
+                    childNodeCount: 1
+                    children:
+                    - &id058
+                      attributes: [id, settings_text, class, btn-text, style, 'font-size:
+                          12px;']
+                      childNodeCount: 2
+                      children:
+                      - &id059
+                        childrenids: []
+                        localName: ''
+                        nodeId: 324
+                        nodeName: '#text'
+                        nodeType: 3
+                        nodeValue: "AdChoices\_"
+                        parent: 323
+                        props: {}
+                      - &id060
+                        attributes: [id, settings_icon, src, 'https://googleads.g.doubleclick.net/pagead/images/adchoices/iconx2-000000.png']
+                        childNodeCount: 0
+                        children: []
+                        childrenids: []
+                        h: 12.0
+                        localName: img
+                        nodeId: 325
+                        nodeName: IMG
+                        nodeType: 1
+                        nodeValue: ''
+                        parent: 323
+                        props: {id: settings_icon, src: 'https://googleads.g.doubleclick.net/pagead/images/adchoices/iconx2-000000.png'}
+                        value: ''
+                        w: 12.0
+                        x: -76.234375
+                        y: -22.0
+                      childrenids: [324, 325]
+                      h: 24.0
+                      localName: span
+                      nodeId: 323
+                      nodeName: SPAN
+                      nodeType: 1
+                      nodeValue: ''
+                      parent: 322
+                      props: {class: btn-text, id: settings_text, style: 'font-size:
+                          12px;'}
+                      value: ''
+                      w: 86.953125
+                      x: -143.984375
+                      y: -28.0
+                    childrenids: [323]
+                    h: 24.0
+                    localName: a
+                    nodeId: 322
+                    nodeName: A
+                    nodeType: 1
+                    nodeValue: ''
+                    parent: 317
+                    props: {class: btn responsive-btn shadow, href: //support.google.com/adsense/troubleshooter/1631343,
+                      id: settings_btn, target: _blank, wp: '0'}
+                    value: ''
+                    w: 86.953125
+                    x: -143.984375
+                    y: -28.0
+                  childrenids: [318, 321, 322]
+                  h: 29.0
+                  localName: div
+                  nodeId: 317
+                  nodeName: DIV
+                  nodeType: 1
+                  nodeValue: ''
+                  parent: 310
+                  props: {class: panel-row, style: 'font-size: 10px;', wp: '0'}
+                  value: ''
+                  w: 320.0
+                  x: -320.0
+                  y: -29.0
+                childrenids: [311, 317]
+                h: 50.0
+                localName: div
+                nodeId: 310
+                nodeName: DIV
+                nodeType: 1
+                nodeValue: ''
+                parent: 309
+                props: {class: panel-content fade}
+                value: ''
+                w: 320.0
+                x: -320.0
+                y: -50.0
+              childrenids: [310]
+              h: 50.0
+              localName: div
+              nodeId: 309
+              nodeName: DIV
+              nodeType: 1
+              nodeValue: ''
+              parent: 308
+              props: {class: panel-container}
+              value: ''
+              w: 320.0
+              x: -320.0
+              y: -50.0
+            childrenids: [309]
+            h: 50.0
+            localName: div
+            nodeId: 308
+            nodeName: DIV
+            nodeType: 1
+            nodeValue: ''
+            parent: 307
+            props: {class: panel fallback-wrap, id: ad_closed_panel, wp: '1'}
+            value: ''
+            w: 320.0
+            x: -320.0
+            y: -50.0
+          - &id061
+            attributes: [id, survey_panel, class, panel]
+            childNodeCount: 3
+            children:
+            - &id062
+              childrenids: []
+              localName: ''
+              nodeId: 327
+              nodeName: '#text'
+              nodeType: 3
+              nodeValue: "\_"
+              parent: 326
+              props: {}
+            - &id063
+              attributes: []
+              childNodeCount: 1
+              children:
+              - &id064
+                childrenids: []
+                localName: ''
+                nodeId: 329
+                nodeName: '#text'
+                nodeType: 3
+                nodeValue: '#survey-container {position: absolute; top: 0px; left:
+                  0px; z-index: 9100; width: 320px; height: 50px; overflow: hidden;
+                  background-color: #FAFAFA; font-size: 0; white-space: nowrap;}.survey-horiz,
+                  .survey-vert {text-align: center;}#survey-container * {box-sizing:
+                  border-box; -moz-box-sizing: border-box; -webkit-box-sizing: border-box;}.survey-block
+                  {height: 50px;}.survey-option {position: relative; z-index: 9110;
+                  overflow: hidden; display: inline-block; padding: 1px 5px; width:
+                  96px; height: 50px; border: 1px solid #E0E0E0; background-color:
+                  #FFFFFF; cursor: pointer;}.survey-option:hover, .survey-option:active
+                  {background-color: #F5F5F5;}.survey-option div {width: 100%; height:
+                  100%; display: table; text-align: center;}.survey-option span {vertical-align:
+                  middle; display: table-cell; color: #4285F4; font-family: Arial,
+                  sans-serif; text-align: center; font-size: 12px; line-height: 14px;
+                  white-space: normal;}@media (min-height: 54px) {.survey-horiz.survey-spaced
+                  .survey-option, .survey-vert .survey-option {box-shadow: 0px 0px
+                  2px rgba(0,0,0,0.12), 0px 1px 3px rgba(0,0,0,0.26) !important; border:
+                  none;}}#mute_panel.survey-horiz .survey-option {display: inline-block;
+                  margin-left: -1px; box-shadow: none;}#mute_panel.survey-horiz .survey-option:first-child
+                  {margin-left: 0;}#mute_panel.survey-horiz.survey-spaced .survey-option
+                  {margin-left: 8px;}#mute_panel.survey-horiz.survey-spaced .survey-option:first-child
+                  {margin-left: 0;}#mute_panel.survey-horiz.jake-middle .survey-block
+                  {margin-top: 0px;}#mute_panel.survey-horiz.jake-top .survey-block
+                  {margin-top: 8px;}#mute_panel.survey-vert .survey-option, #mute_panel.survey-horiz.survey-spaced
+                  .survey-option {border-radius: 2px;}#mute_panel.survey-vert .survey-option
+                  {margin: 8px auto 0 auto; display: block;}#mute_panel.survey-vert.jake-top
+                  .survey-option:first-child {margin-top: 8px;}#mute_panel.survey-vert.jake-middle
+                  .survey-option:first-child {margin-top: -87px;}.scroll {position:
+                  absolute; top: 0px; z-index: 9120; display: none; width: 30px; border:
+                  1px solid transparent; background-color: #666; background-color:
+                  rgba(0,0,0,0.6); text-align: center; transition: visibility 150ms
+                  step-end; cursor: pointer;}.survey-scroll .scroll {display: block;}.scroll
+                  div {position: absolute; top: 50%; left: 50%; height: 36px; width:
+                  36px; margin: -18px 0 0 -18px;}.scroll:hover, .scroll:active {background-color:
+                  #999; background-color: rgba(0,0,0,0.4);}.scroll-right {right: 0;
+                  border-top-left-radius: 4px; border-bottom-left-radius: 4px;}.scroll-right
+                  div {background-image:url("https://www.gstatic.com/images/icons/material/system/1x/keyboard_arrow_right_white_36dp.png");}.scroll-left
+                  {left: 0; border-top-right-radius: 4px; border-bottom-right-radius:
+                  4px;}.scroll-left div {background-image:url("https://www.gstatic.com/images/icons/material/system/1x/keyboard_arrow_left_white_36dp.png");}.survey-option
+                  {transition: margin 150ms linear;}'
+                parent: 328
+                props: {}
+              childrenids: [329]
+              h: 0.0
+              localName: style
+              nodeId: 328
+              nodeName: STYLE
+              nodeType: 1
+              nodeValue: ''
+              parent: 326
+              props: {}
+              value: ''
+              w: 0.0
+              x: 0.0
+              y: 0.0
+            - &id065
+              attributes: [id, survey-container]
+              childNodeCount: 1
+              children:
+              - &id066
+                attributes: [class, fade]
+                childNodeCount: 6
+                children:
+                - &id067
+                  attributes: [wp, '1', class, survey-block survey-option]
+                  childNodeCount: 1
+                  children:
+                  - &id068
+                    attributes: [wp, '0']
+                    childNodeCount: 1
+                    children:
+                    - &id069
+                      attributes: [style, 'font-size: 12px;']
+                      childNodeCount: 1
+                      children:
+                      - &id070
+                        childrenids: []
+                        localName: ''
+                        nodeId: 335
+                        nodeName: '#text'
+                        nodeType: 3
+                        nodeValue: Not interested in this ad
+                        parent: 334
+                        props: {}
+                      childrenids: [335]
+                      h: 46.0
+                      localName: span
+                      nodeId: 334
+                      nodeName: SPAN
+                      nodeType: 1
+                      nodeValue: ''
+                      parent: 333
+                      props: {style: 'font-size: 12px;'}
+                      value: ''
+                      w: 84.0
+                      x: -314.0
+                      y: -48.0
+                    childrenids: [334]
+                    h: 46.0
+                    localName: div
+                    nodeId: 333
+                    nodeName: DIV
+                    nodeType: 1
+                    nodeValue: ''
+                    parent: 332
+                    props: {wp: '0'}
+                    value: ''
+                    w: 84.0
+                    x: -314.0
+                    y: -48.0
+                  childrenids: [333]
+                  h: 50.0
+                  localName: a
+                  nodeId: 332
+                  nodeName: A
+                  nodeType: 1
+                  nodeValue: ''
+                  parent: 331
+                  props: {class: survey-block survey-option, wp: '1'}
+                  value: ''
+                  w: 96.0
+                  x: -320.0
+                  y: -50.0
+                - &id071
+                  attributes: [wp, '1', class, survey-block survey-option]
+                  childNodeCount: 1
+                  children:
+                  - &id072
+                    attributes: [wp, '0']
+                    childNodeCount: 1
+                    children:
+                    - &id073
+                      attributes: [style, 'font-size: 12px;']
+                      childNodeCount: 1
+                      children:
+                      - &id074
+                        childrenids: []
+                        localName: ''
+                        nodeId: 339
+                        nodeName: '#text'
+                        nodeType: 3
+                        nodeValue: Ad knew too much
+                        parent: 338
+                        props: {}
+                      childrenids: [339]
+                      h: 46.0
+                      localName: span
+                      nodeId: 338
+                      nodeName: SPAN
+                      nodeType: 1
+                      nodeValue: ''
+                      parent: 337
+                      props: {style: 'font-size: 12px;'}
+                      value: ''
+                      w: 84.0
+                      x: -219.0
+                      y: -48.0
+                    childrenids: [338]
+                    h: 46.0
+                    localName: div
+                    nodeId: 337
+                    nodeName: DIV
+                    nodeType: 1
+                    nodeValue: ''
+                    parent: 336
+                    props: {wp: '0'}
+                    value: ''
+                    w: 84.0
+                    x: -219.0
+                    y: -48.0
+                  childrenids: [337]
+                  h: 50.0
+                  localName: a
+                  nodeId: 336
+                  nodeName: A
+                  nodeType: 1
+                  nodeValue: ''
+                  parent: 331
+                  props: {class: survey-block survey-option, wp: '1'}
+                  value: ''
+                  w: 96.0
+                  x: -225.0
+                  y: -50.0
+                - &id075
+                  attributes: [wp, '1', class, survey-block survey-option]
+                  childNodeCount: 1
+                  children:
+                  - &id076
+                    attributes: [wp, '0']
+                    childNodeCount: 1
+                    children:
+                    - &id077
+                      attributes: [style, 'font-size: 12px;']
+                      childNodeCount: 1
+                      children:
+                      - &id078
+                        childrenids: []
+                        localName: ''
+                        nodeId: 343
+                        nodeName: '#text'
+                        nodeType: 3
+                        nodeValue: Ad was inappropriate
+                        parent: 342
+                        props: {}
+                      childrenids: [343]
+                      h: 46.0
+                      localName: span
+                      nodeId: 342
+                      nodeName: SPAN
+                      nodeType: 1
+                      nodeValue: ''
+                      parent: 341
+                      props: {style: 'font-size: 12px;'}
+                      value: ''
+                      w: 84.0
+                      x: -124.0
+                      y: -48.0
+                    childrenids: [342]
+                    h: 46.0
+                    localName: div
+                    nodeId: 341
+                    nodeName: DIV
+                    nodeType: 1
+                    nodeValue: ''
+                    parent: 340
+                    props: {wp: '0'}
+                    value: ''
+                    w: 84.0
+                    x: -124.0
+                    y: -48.0
+                  childrenids: [341]
+                  h: 50.0
+                  localName: a
+                  nodeId: 340
+                  nodeName: A
+                  nodeType: 1
+                  nodeValue: ''
+                  parent: 331
+                  props: {class: survey-block survey-option, wp: '1'}
+                  value: ''
+                  w: 96.0
+                  x: -130.0
+                  y: -50.0
+                - &id079
+                  attributes: [wp, '1', class, survey-block survey-option]
+                  childNodeCount: 1
+                  children:
+                  - &id080
+                    attributes: [wp, '0']
+                    childNodeCount: 1
+                    children:
+                    - &id081
+                      attributes: [style, 'font-size: 12px;']
+                      childNodeCount: 1
+                      children:
+                      - &id082
+                        childrenids: []
+                        localName: ''
+                        nodeId: 347
+                        nodeName: '#text'
+                        nodeType: 3
+                        nodeValue: Ad covered content
+                        parent: 346
+                        props: {}
+                      childrenids: [347]
+                      h: 46.0
+                      localName: span
+                      nodeId: 346
+                      nodeName: SPAN
+                      nodeType: 1
+                      nodeValue: ''
+                      parent: 345
+                      props: {style: 'font-size: 12px;'}
+                      value: ''
+                      w: 84.0
+                      x: -29.0
+                      y: -48.0
+                    childrenids: [346]
+                    h: 46.0
+                    localName: div
+                    nodeId: 345
+                    nodeName: DIV
+                    nodeType: 1
+                    nodeValue: ''
+                    parent: 344
+                    props: {wp: '0'}
+                    value: ''
+                    w: 84.0
+                    x: -29.0
+                    y: -48.0
+                  childrenids: [345]
+                  h: 50.0
+                  localName: a
+                  nodeId: 344
+                  nodeName: A
+                  nodeType: 1
+                  nodeValue: ''
+                  parent: 331
+                  props: {class: survey-block survey-option, wp: '1'}
+                  value: ''
+                  w: 96.0
+                  x: -35.0
+                  y: -50.0
+                - &id083
+                  attributes: [class, survey-block scroll scroll-left, style, 'visibility:hidden']
+                  childNodeCount: 1
+                  children:
+                  - &id084
+                    attributes: []
+                    childNodeCount: 0
+                    children: []
+                    childrenids: []
+                    h: 36.0
+                    localName: div
+                    nodeId: 349
+                    nodeName: DIV
+                    nodeType: 1
+                    nodeValue: ''
+                    parent: 348
+                    props: {}
+                    value: ''
+                    w: 36.0
+                    x: -323.0
+                    y: -43.0
+                  childrenids: [349]
+                  h: 50.0
+                  localName: a
+                  nodeId: 348
+                  nodeName: A
+                  nodeType: 1
+                  nodeValue: ''
+                  parent: 331
+                  props: {class: survey-block scroll scroll-left, style: 'visibility:hidden'}
+                  value: ''
+                  w: 30.0
+                  x: -320.0
+                  y: -50.0
+                - &id085
+                  attributes: [class, survey-block scroll scroll-right, style, 'visibility:visible']
+                  childNodeCount: 1
+                  children:
+                  - &id086
+                    attributes: []
+                    childNodeCount: 0
+                    children: []
+                    childrenids: []
+                    h: 36.0
+                    localName: div
+                    nodeId: 351
+                    nodeName: DIV
+                    nodeType: 1
+                    nodeValue: ''
+                    parent: 350
+                    props: {}
+                    value: ''
+                    w: 36.0
+                    x: -33.0
+                    y: -43.0
+                  childrenids: [351]
+                  h: 50.0
+                  localName: a
+                  nodeId: 350
+                  nodeName: A
+                  nodeType: 1
+                  nodeValue: ''
+                  parent: 331
+                  props: {class: survey-block scroll scroll-right, style: 'visibility:visible'}
+                  value: ''
+                  w: 30.0
+                  x: -30.0
+                  y: -50.0
+                childrenids: [332, 336, 340, 344, 348, 350]
+                h: 50.0
+                localName: div
+                nodeId: 331
+                nodeName: DIV
+                nodeType: 1
+                nodeValue: ''
+                parent: 330
+                props: {class: fade}
+                value: ''
+                w: 320.0
+                x: -320.0
+                y: -50.0
+              childrenids: [331]
+              h: 50.0
+              localName: div
+              nodeId: 330
+              nodeName: DIV
+              nodeType: 1
+              nodeValue: ''
+              parent: 326
+              props: {id: survey-container}
+              value: ''
+              w: 320.0
+              x: -320.0
+              y: -50.0
+            childrenids: [327, 328, 330]
+            h: 50.0
+            localName: div
+            nodeId: 326
+            nodeName: DIV
+            nodeType: 1
+            nodeValue: ''
+            parent: 307
+            props: {class: panel, id: survey_panel}
+            value: ''
+            w: 320.0
+            x: -320.0
+            y: -50.0
+          - &id087
+            attributes: [id, post_survey_panel, class, panel, wp, '1']
+            childNodeCount: 1
+            children:
+            - &id088
+              attributes: [class, panel-container]
+              childNodeCount: 1
+              children:
+              - &id089
+                attributes: [class, panel-content fade]
+                childNodeCount: 2
+                children:
+                - &id090
+                  attributes: [id, confirmation_msg, class, conf-msg, style, 'font-size:
+                      17px;']
+                  childNodeCount: 1
+                  children:
+                  - &id091
+                    childrenids: []
+                    localName: ''
+                    nodeId: 356
+                    nodeName: '#text'
+                    nodeType: 3
+                    nodeValue: We'll try not to show that ad again
+                    parent: 355
+                    props: {}
+                  childrenids: [356]
+                  h: 27.1875
+                  localName: span
+                  nodeId: 355
+                  nodeName: SPAN
+                  nodeType: 1
+                  nodeValue: ''
+                  parent: 354
+                  props: {class: conf-msg, id: confirmation_msg, style: 'font-size:
+                      17px;'}
+                  value: ''
+                  w: 320.0
+                  x: -320.0
+                  y: -39.0
+                - &id092
+                  attributes: [id, contributor_msg, class, conf-msg, style, 'font-size:
+                      17px;']
+                  childNodeCount: 0
+                  children: []
+                  childrenids: []
+                  h: 0.0
+                  localName: span
+                  nodeId: 357
+                  nodeName: SPAN
+                  nodeType: 1
+                  nodeValue: ''
+                  parent: 354
+                  props: {class: conf-msg, id: contributor_msg, style: 'font-size:
+                      17px;'}
+                  value: ''
+                  w: 320.0
+                  x: -320.0
+                  y: -11.8125
+                childrenids: [355, 357]
+                h: 50.1875
+                localName: div
+                nodeId: 354
+                nodeName: DIV
+                nodeType: 1
+                nodeValue: ''
+                parent: 353
+                props: {class: panel-content fade}
+                value: ''
+                w: 320.0
+                x: -320.0
+                y: -50.0
+              childrenids: [354]
+              h: 50.0
+              localName: div
+              nodeId: 353
+              nodeName: DIV
+              nodeType: 1
+              nodeValue: ''
+              parent: 352
+              props: {class: panel-container}
+              value: ''
+              w: 320.0
+              x: -320.0
+              y: -50.0
+            childrenids: [353]
+            h: 50.0
+            localName: div
+            nodeId: 352
+            nodeName: DIV
+            nodeType: 1
+            nodeValue: ''
+            parent: 307
+            props: {class: panel, id: post_survey_panel, wp: '1'}
+            value: ''
+            w: 320.0
+            x: -320.0
+            y: -50.0
+          - &id093
+            attributes: [id, final_closed_panel, class, panel, wp, '1']
+            childNodeCount: 1
+            children:
+            - &id094
+              attributes: [class, panel-container]
+              childNodeCount: 1
+              children:
+              - &id095
+                attributes: [class, panel-content fade]
+                childNodeCount: 1
+                children:
+                - &id096
+                  attributes: [id, final_closed_text, style, 'font-size: 17px;']
+                  childNodeCount: 3
+                  children:
+                  - &id097
+                    attributes: []
+                    childNodeCount: 1
+                    children:
+                    - &id098
+                      childrenids: []
+                      localName: ''
+                      nodeId: 363
+                      nodeName: '#text'
+                      nodeType: 3
+                      nodeValue: 'Ad closed by '
+                      parent: 362
+                      props: {}
+                    childrenids: [363]
+                    h: 20.0
+                    localName: span
+                    nodeId: 362
+                    nodeName: SPAN
+                    nodeType: 1
+                    nodeValue: ''
+                    parent: 361
+                    props: {}
+                    value: ''
+                    w: 100.96240234375
+                    x: -242.481201171875
+                    y: -35.0
+                  - &id099
+                    attributes: [src, 'https://www.gstatic.com/images/branding/googlelogo/2x/googlelogo_dark_color_84x28dp.png']
+                    childNodeCount: 0
+                    children: []
+                    childrenids: []
+                    h: 21.25
+                    localName: img
+                    nodeId: 364
+                    nodeName: IMG
+                    nodeType: 1
+                    nodeValue: ''
+                    parent: 361
+                    props: {src: 'https://www.gstatic.com/images/branding/googlelogo/2x/googlelogo_dark_color_84x28dp.png'}
+                    value: ''
+                    w: 64.0
+                    x: -141.53125
+                    y: -34.90625
+                  - &id100
+                    attributes: []
+                    childNodeCount: 0
+                    children: []
+                    childrenids: []
+                    h: 20.0
+                    localName: span
+                    nodeId: 365
+                    nodeName: SPAN
+                    nodeType: 1
+                    nodeValue: ''
+                    parent: 361
+                    props: {}
+                    value: ''
+                    w: 0.0
+                    x: -77.518798828125
+                    y: -34.90625
+                  childrenids: [362, 364, 365]
+                  h: 29.1875
+                  localName: span
+                  nodeId: 361
+                  nodeName: SPAN
+                  nodeType: 1
+                  nodeValue: ''
+                  parent: 360
+                  props: {id: final_closed_text, style: 'font-size: 17px;'}
+                  value: ''
+                  w: 175.15625
+                  x: -247.578125
+                  y: -40.0
+                childrenids: [361]
+                h: 50.0
+                localName: div
+                nodeId: 360
+                nodeName: DIV
+                nodeType: 1
+                nodeValue: ''
+                parent: 359
+                props: {class: panel-content fade}
+                value: ''
+                w: 320.0
+                x: -320.0
+                y: -50.0
+              childrenids: [360]
+              h: 50.0
+              localName: div
+              nodeId: 359
+              nodeName: DIV
+              nodeType: 1
+              nodeValue: ''
+              parent: 358
+              props: {class: panel-container}
+              value: ''
+              w: 320.0
+              x: -320.0
+              y: -50.0
+            childrenids: [359]
+            h: 50.0
+            localName: div
+            nodeId: 358
+            nodeName: DIV
+            nodeType: 1
+            nodeValue: ''
+            parent: 307
+            props: {class: panel, id: final_closed_panel, wp: '1'}
+            value: ''
+            w: 320.0
+            x: -320.0
+            y: -50.0
+          childrenids: [308, 326, 352, 358]
+          h: 0.0
+          localName: div
+          nodeId: 307
+          nodeName: DIV
+          nodeType: 1
+          nodeValue: ''
+          parent: 306
+          props: {id: panel_set}
+          value: ''
+          w: 320.0
+          x: 0.0
+          y: 50.0
+        - &id101
+          attributes: []
+          childNodeCount: 1
+          children:
+          - &id102
+            childrenids: []
+            localName: ''
+            nodeId: 367
+            nodeName: '#text'
+            nodeType: 3
+            nodeValue: '#panel_set>.panel {position: fixed;top: -50px; left: -320px;z-index:
+              9100; display: block;width: 320px; height: 50px;}#panel_set img {border:
+              0;}#panel_set>.panel.visible, #panel_set .visible .panel {position:
+              fixed; left: 0px; top: 0px;opacity: 1;}#panel_set .panel-container {display:
+              table;width: 320px; height: 50px;margin: 0; padding: 0; background-color:
+              #FAFAFA;}#panel_set .panel-row {display: block; padding: 0 0 0.3em 0;}#panel_set
+              .panel-row:first-child {padding: 0.3em;}#panel_set .panel-content {vertical-align:
+              top; display: table-cell; color: #999999; color: rgba(0,0,0,0.4); transition:
+              opacity 150ms linear; text-align: center; font-family: ''Arial'', sans-serif;}.collapsed
+              #panel_set .fade {opacity: 0.4;}.jake-middle.survey-horiz #panel_set
+              .panel-content {vertical-align: middle;}#ad_closed_panel .btn {display:
+              inline-block; border-radius: 2px; box-sizing: border-box; -moz-box-sizing:
+              border-box; -webkit-box-sizing: border-box; box-shadow: 0px 0px 2px
+              rgba(0,0,0,0.12), 0px 1px 3px rgba(0,0,0,0.26) !important; text-decoration:
+              none; white-space: nowrap; line-height: 1em; cursor: pointer;}#closed_text,
+              #final_closed_text {display: inline-block; line-height: 1.28em; font-size:
+              1.2em;}#closed_text img, #final_closed_text img {margin-bottom: -0.34em;
+              height: 1.25em; display: inline-block; width: auto; opacity: 0.4; -ms-filter:
+              "progid:DXImageTransform.Microsoft.Alpha(Opacity=40)";}#spacer {display:
+              inline-block; padding: 0; box-shadow: none; width: 3px;}.btn>span {display:
+              inline-block; padding: 0.5em 0.6em; line-height: 1em;}#settings_btn
+              {background-color: #FFFFFF; color: #9E9EA6;}#settings_btn:hover, #settings_btn:active
+              {background-color: #F5F5F5;}#settings_text {white-space: nowrap;}#report_btn
+              {background-color: #4285F5; color: white;}#report_btn:hover, #report_btn:active
+              {background-color: #3275E5;}#settings_icon {position: relative; display:
+              inline-block; margin-bottom: -0.15em; height: 1em; width: 1em; opacity:
+              0.4; -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=40)";}[dir="rtl"]
+              #settings_icon {float: left;}#confirmation_msg {font-weight: bold; color:
+              #333333;}#confirmation_msg, #final_closed_text {line-height: 1.1em;
+              padding: 0.3em;}#post_survey_panel span {display: block; text-align:
+              center; line-height: 1em;}#post_survey_panel a, #post_survey_panel a:active,
+              #post_survey_panel a:hover {text-decoration: none; color: #4285F5;}#final_closed_panel,
+              #final_closed_panel #final_closed_text {opacity: 0; transition: opacity
+              400ms linear;}#final_closed_panel span {white-space: normal;}#final_closed_panel
+              #final_closed_text.visible {opacity: 1;}.fallback-wrap .btn{margin:
+              1px auto 1px auto; white-space: normal;}'
+            parent: 366
+            props: {}
+          childrenids: [367]
+          h: 0.0
+          localName: style
+          nodeId: 366
+          nodeName: STYLE
+          nodeType: 1
+          nodeValue: ''
+          parent: 306
+          props: {}
+          value: ''
+          w: 0.0
+          x: 0.0
+          y: 0.0
+        childrenids: [307, 366]
+        h: 0.0
+        localName: div
+        nodeId: 306
+        nodeName: DIV
+        nodeType: 1
+        nodeValue: ''
+        parent: 255
+        props: {class: survey-horiz survey-scroll jake-middle, id: mute_panel}
+        value: ''
+        w: 320.0
+        x: 0.0
+        y: 50.0
+      307: *id042
+      308: *id043
+      309: *id044
+      310: *id045
+      311: *id046
+      312: *id047
+      313: *id048
+      314: *id049
+      315: *id050
+      316: *id051
+      317: *id052
+      318: *id053
+      319: *id054
+      320: *id055
+      321: *id056
+      322: *id057
+      323: *id058
+      324: *id059
+      325: *id060
+      326: *id061
+      327: *id062
+      328: *id063
+      329: *id064
+      330: *id065
+      331: *id066
+      332: *id067
+      333: *id068
+      334: *id069
+      335: *id070
+      336: *id071
+      337: *id072
+      338: *id073
+      339: *id074
+      340: *id075
+      341: *id076
+      342: *id077
+      343: *id078
+      344: *id079
+      345: *id080
+      346: *id081
+      347: *id082
+      348: *id083
+      349: *id084
+      350: *id085
+      351: *id086
+      352: *id087
+      353: *id088
+      354: *id089
+      355: *id090
+      356: *id091
+      357: *id092
+      358: *id093
+      359: *id094
+      360: *id095
+      361: *id096
+      362: *id097
+      363: *id098
+      364: *id099
+      365: *id100
+      366: *id101
+      367: *id102
+      368:
+        attributes: []
+        childNodeCount: 1
+        children:
+        - {localName: '', nodeId: 369, nodeName: '#text', nodeType: 3, nodeValue: "var\
+            \ abgp={elp:document.getElementById('abgcp'),el:document.getElementById('abgc'),ael:document.getElementById('abgs'),iel:document.getElementById('abgb'),hw:15,sw:75,hh:15,sh:15,himg:'https://pagead2.googlesyndication.com'+'/pagead/images/adchoices/icon.png',simg:'https://pagead2.googlesyndication.com/pagead/images/adchoices/en_br.png',alt:'AdChoices',t:'AdChoices',tw:53,t2:'',t2w:0,tbo:0,att:'adchoices',ff:'',halign:'left',fe:false,iba:true,lttp:true,uic:true,uit:false,ict:document.getElementById('cbb'),ci:'',icd:{\"\
+            creatives\":[],\"height\":50,\"width\":320,\"attribution\":{\"user_feedback_data\"\
+            :{\"mute_icon_url\":\"https://googleads.g.doubleclick.net/pagead/images/mtad/x_blue.png\"\
+            ,\"pub_feedback_icon_url\":\"https://googleads.g.doubleclick.net/pagead/images/mtad/x_blue.png\"\
+            ,\"conversion_url\":\"https://googleads.g.doubleclick.net/pagead/conversion/?ai=CgBev5pjiWIrMJOrxzgXf8KVA0ciq4Uit_ranwwTkq-nluAEQASDY1J0fYMnGqYvApNgPoAHhroifA6gDAaoEvgFP0IRufql8ODJjmMQ2Cl74ICj8P9FuVrcY-oTDcO7pZKMT1aKTsRfIQ-Vh1CKFauhjZH6_opyCJ7CddPttcdNH4DJRos4p-XuoA2QF--rteT1fi1-qULlQWDONIkAMEWeJnkuTOllSWPpUsQFSu2mg-VhFWEv8Qe8OY-t3M-3xHki-fCFSndTYjldGGgv7dZuuUh2JjievCpvY70HHrg7RI7EeRysoooQZGnsAQL-fef1fvVtFd6mDGsZlVlXewAScxJabkwGIBbD8ps0CkAYBoAY5sAYBgAfot_1gmAcBqAemvhu4B_qwspDyxID0DsAH99QD2AcB-gcXY29tLmxpb25tb2JpLnBvd2VyY2xlYW6gCLDIpQSwCAK4CAHSCAUIgCEQAYIUKBombW9iaWxlYXBwOjoyLWNvbS51c2F0b2RheS5hbmRyb2lkLm5ld3M\\\
+            u0026sigh=_xd1G5SCoI4\",\"close_button_token\":\"TEsVkeOBEFkIrf62p8MEELD8ps0CGNuCnGFSF2NvbS5saW9ubW9iaS5wb3dlcmNsZWFucAE\"\
+            ,\"interaction_conversion\":{\"label\":\"user_feedback_menu_interaction\"\
+            ,\"label_instance\":\"\",\"include_close_button_token\":false},\"survey_header\"\
+            :\"What was wrong with this ad?\",\"back_icon_url\":\"https://googleads.g.doubleclick.net/pagead/images/mtad/back_blue.png\"\
+            ,\"mute_confirmation_header\":\"Thanks for the feedback!\",\"mute_confirmation_text\"\
+            :\"We\u2019ll review this ad to improve your experience in the future.\"\
+            ,\"pub_feedback_confirmation_header\":\"Thanks for the feedback!\",\"\
+            pub_feedback_confirmation_text\":\"We\u2019ll use your feedback to review\
+            \ ads on this site.\",\"undo_text\":\"Undo\",\"closing_countdown_text\"\
+            :\"Closing ad: %1$d\",\"attribution_text\":\"AdChoices\",\"attribution_icon_url\"\
+            :\"https://googleads.g.doubleclick.net/pagead/images/mtad/ad_choices_blue.png\"\
+            ,\"attribution_destination_url\":\"https://www.google.com/url?ct=abg\\\
+            u0026q=https://www.google.com/adsense/support/bin/request.py%3Fcontact%3Dabg_afc%26url%3Dhttp://100.android.com.usatoday.android.news.adsenseformobileapps.com/%26gl%3DUS%26hl%3Den%26client%3Dca-mb-app-pub-5717092533913515%26ai0%3D\\\
+            u0026usg=AFQjCNFWAC4_ktLdnZH7uy3uT8Oowa3U3A\",\"ad_feedback_icon_url\"\
+            :\"https://googleads.g.doubleclick.net/pagead/images/mtad/x_blue.png\"\
+            ,\"is_rtl_language\":false,\"feedback_options\":[{\"text\":\"Stop seeing\
+            \ this ad\",\"conversion\":{\"label\":\"user_feedback_menu_option\",\"\
+            label_instance\":\"1\",\"include_close_button_token\":true},\"survey\"\
+            :{\"header\":\"What was wrong with this ad?\",\"options\":[{\"text\":\"\
+            Not interested in this ad\",\"conversion\":{\"label\":\"mute_survey_option\"\
+            ,\"label_instance\":\"7\",\"include_close_button_token\":true}},{\"text\"\
+            :\"Ad knew too much\",\"conversion\":{\"label\":\"mute_survey_option\"\
+            ,\"label_instance\":\"16\",\"include_close_button_token\":true}},{\"text\"\
+            :\"Ad was inappropriate\",\"conversion\":{\"label\":\"mute_survey_option\"\
+            ,\"label_instance\":\"8\",\"include_close_button_token\":true}},{\"text\"\
+            :\"Ad covered content\",\"conversion\":{\"label\":\"mute_survey_option\"\
+            ,\"label_instance\":\"3\",\"include_close_button_token\":true}}]},\"undo_conversion\"\
+            :{\"label\":\"user_feedback_undo\",\"label_instance\":\"1\",\"include_close_button_token\"\
+            :true}}],\"mute_panel_data\":{\"adchoices_icon_url\":\"https://googleads.g.doubleclick.net/pagead/images/adchoices/iconx2-000000.png\"\
+            ,\"adchoices_button_text\":\"AdChoices\",\"closed_message_text\":\"Ad\
+            \ closed by %1$s\",\"enable_lightbox\":false,\"google_logo_url\":\"https://www.gstatic.com/images/branding/googlelogo/2x/googlelogo_dark_color_84x28dp.png\"\
+            ,\"report_ad_button_text\":\"Stop seeing this ad\",\"confirmation_text\"\
+            :\"We'll try not to show that ad again\",\"settings_button_first\":false,\"\
+            protocol_gstatic_host\":\"https://www.gstatic.com\",\"jake_mta_context\"\
+            :\"\"}}},\"flags\":[{\"name\":\"uses_octagon_sdk\",\"value\":\"true\"\
+            },{\"name\":\"show_feedback_survey_button\",\"value\":\"true\"},{\"name\"\
+            :\"jake_dimension_selection_strategy\",\"value\":\"adslotconfig\"},{\"\
+            name\":\"jake_transition_timeout\",\"value\":\"-1\"},{\"name\":\"enable_jake_why_this_ad\"\
+            ,\"value\":\"true\"}]},uaal:true,opi: true,ti: false};"}
+        childrenids: []
+        localName: script
+        nodeId: 368
+        nodeName: SCRIPT
+        nodeType: 1
+        nodeValue: ''
+        parent: 255
+        props: {}
+      370:
+        attributes: [src, 'https://pagead2.googlesyndication.com/pagead/js/r20170327/r20110914/abg.js']
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: script
+        nodeId: 370
+        nodeName: SCRIPT
+        nodeType: 1
+        nodeValue: ''
+        parent: 255
+        props: {src: 'https://pagead2.googlesyndication.com/pagead/js/r20170327/r20110914/abg.js'}
+      371:
+        attributes: []
+        childNodeCount: 1
+        children:
+        - {localName: '', nodeId: 372, nodeName: '#text', nodeType: 3, nodeValue: '(function(){var
+            k="function"==typeof Object.defineProperties?Object.defineProperty:function(a,b,c){if(c.get||c.set)throw
+            new TypeError("ES3 does not support getters and setters.");a!=Array.prototype&&a!=Object.prototype&&(a[b]=c.value)},n="undefined"!=typeof
+            window&&window===this?this:"undefined"!=typeof global&&null!=global?global:this,p=function(){p=function(){};n.Symbol||(n.Symbol=q)},t=0,q=function(a){return"jscomp_symbol_"+(a||"")+t++},w=function(){p();var
+            a=n.Symbol.iterator;a||(a=n.Symbol.iterator=n.Symbol("iterator"));"function"!=typeof
+            Array.prototype[a]&&k(Array.prototype,a,{configurable:!0,writable:!0,value:function(){return
+            u(this)}});w=function(){}},u=function(a){var b=0;return x(function(){return
+            b<a.length?{done:!1,value:a[b++]}:{done:!0}})},x=function(a){w();a={next:a};a[n.Symbol.iterator]=function(){return
+            this};return a},y=function(a){w();var b=a[Symbol.iterator];return b?b.call(a):u(a)},z=this,A=function(a,b){a=a.split(".");var
+            c=z;a[0]in c||!c.execScript||c.execScript("var "+a[0]);for(var d;a.length&&(d=a.shift());)a.length||void
+            0===b?c[d]&&c[d]!==Object.prototype[d]?c=c[d]:c=c[d]={}:c[d]=b},B=function(a){var
+            b=typeof a;if("object"==b)if(a){if(a instanceof Array)return"array";if(a
+            instanceof Object)return b;var c=Object.prototype.toString.call(a);if("[object
+            Window]"==c)return"object";if("[object Array]"==c||"number"==typeof a.length&&"undefined"!=typeof
+            a.splice&&"undefined"!=typeof a.propertyIsEnumerable&&!a.propertyIsEnumerable("splice"))return"array";if("[object
+            Function]"==c||"undefined"!=typeof a.call&&"undefined"!=typeof a.propertyIsEnumerable&&!a.propertyIsEnumerable("call"))return"function"}else
+            return"null";else if("function"==b&&"undefined"==typeof a.call)return"object";return
+            b},C=function(a,b,c){return a.call.apply(a.bind,arguments)},D=function(a,b,c){if(!a)throw
+            Error();if(2<arguments.length){var d=Array.prototype.slice.call(arguments,2);return
+            function(){var c=Array.prototype.slice.call(arguments);Array.prototype.unshift.apply(c,d);return
+            a.apply(b,c)}}return function(){return a.apply(b,arguments)}},E=function(a,b,c){Function.prototype.bind&&-1!=Function.prototype.bind.toString().indexOf("native
+            code")?E=C:E=D;return E.apply(null,arguments)},F=Date.now||function(){return+new
+            Date},G=function(a,b){function c(){}c.prototype=b.prototype;a.F=b.prototype;a.prototype=new
+            c;a.prototype.constructor=a;a.H=function(a,c,r){for(var d=Array(arguments.length-2),f=2;f<arguments.length;f++)d[f-2]=arguments[f];return
+            b.prototype[c].apply(a,d)}};var H=function(a){this.data=a||[]},I=function(a,b,c){a=a.data[b];return
+            null!=a?a:c},J=function(a,b){a=a.data;a[0]||(a[0]=[]);return a[0][b]};var
+            K=function(a){this.data=a||[]};G(K,H);var L=function(a){this.data=a||[]};G(L,H);var
+            M=function(a){this.data=a||[]};G(M,H);var N=document,P=window;var aa={capture:!0},ba=function(){var
+            a=!1;try{var b=Object.defineProperty({},"passive",{get:function(){a=!0}});z.addEventListener("test",null,b)}catch(c){}return
+            a}(),Q=function(a,b,c,d){a.addEventListener?a.addEventListener(b,c,ba?d:d?d.capture||!1:!1):a.attachEvent&&a.attachEvent("on"+b,c)};var
+            ca=Object.prototype.hasOwnProperty,da=function(a,b){for(var c in a)ca.call(a,c)&&b.call(void
+            0,a[c],c,a)},R=function(a,b){a&&da(b,function(b,d){a.style[d]=b})},ea=function(a){for(var
+            b=N.body,c=document.createDocumentFragment(),d=a.length,f=0;f<d;++f)c.appendChild(a[f]);b.appendChild(c)};var
+            S=function(){this.i=this.i;this.j=this.j};S.prototype.i=!1;var fa=function(a){a.i||(a.i=!0,a.l())};S.prototype.l=function(){if(this.j)for(;this.j.length;)this.j.shift()()};var
+            T=function(a,b,c){S.call(this);this.m=a;this.A=b||0;this.o=c;this.u=E(this.v,this)};G(T,S);T.prototype.g=0;T.prototype.l=function(){T.F.l.call(this);this.g&&z.clearTimeout(this.g);this.g=0;delete
+            this.m;delete this.o};T.prototype.start=function(a){this.g&&z.clearTimeout(this.g);this.g=0;var
+            b=this.u;a=void 0!==a?a:this.A;if("function"!=B(b))if(b&&"function"==typeof
+            b.handleEvent)b=E(b.handleEvent,b);else throw Error("Invalid listener
+            argument");this.g=2147483647<Number(a)?-1:z.setTimeout(b,a||0)};T.prototype.v=function(){this.g=0;this.m&&this.m.call(this.o)};var
+            ga=function(a){return/^\s*$/.test(a)?!1:/^[\],:{}\s\u2028\u2029]*$/.test(a.replace(/\\["\\\/bfnrtu]/g,"@").replace(/(?:"[^"\\\n\r\u2028\u2029\x00-\x08\x0a-\x1f]*"|true|false|null|-?\d+(?:\.\d*)?(?:[eE][+\-]?\d+)?)[\s\u2028\u2029]*(?=:|,|]|}|$)/g,"]").replace(/(?:^|:|,)(?:[\s\u2028\u2029]*\[)+/g,""))},ha=function(a){a=String(a);if(ga(a))try{return
+            eval("("+a+")")}catch(b){}throw Error("Invalid JSON string: "+a);};var
+            ia=function(a){Q(P,"message",function(b){var c;try{c=ha(b.data)}catch(d){return}!c||"ig"!==c.googMsgType||a(c,b)})};var
+            ka={display:"inline-block",position:"absolute","z-index":"2147483647"},la={width:"50px",height:"50px",top:"0",left:"0"},ma={display:"none",width:"100%",height:"100%",top:"0",left:"0"},U=function(){this.j=[];this.m=this.u=this.g=null;this.C=[];this.l=null;this.A=[];this.i=[];this.o=[];this.v={}};U.prototype.G=function(a){var
+            b=this;this.l=new M(a);a=new K(this.l.data[0]);for(var c=a.data[0]?a.data[0].length:0,d=0;d<c;++d){var
+            f=new L(J(a,d));this.o.push({B:0,s:!1,h:f,w:-1})}if(I(this.l,3,void 0)){try{this.i=N.querySelectorAll("*[data-ifc]")}catch(r){}a=this.i.length;for(c=0;c<a;++c)for(d=new
+            K(JSON.parse(this.i[c].getAttribute("data-ifc")||"[]")),f=0;f<(d.data[0]?d.data[0].length:0);++f)this.o.push({B:0,s:!1,h:new
+            L(J(d,f)),w:c})}a=y(this.o);for(c=a.next();!c.done;c=a.next())c=c.value,d=c.h,null!=d.data[1]&&null!=d.data[4]?(!this.g&&I(d,8,void
+            0)&&(this.g=V(ma)),na(this,c)):null!=d.data[0]&&I(d,8,void 0)&&oa(this,I(d,0,""));I(this.l,2,void
+            0)&&(this.u=V(la));a=this.j.slice(0);this.g&&a.push(this.g);this.u&&a.push(this.u);N.body&&ea(a);Q(N,"click",function(a){for(var
+            c,d=-1,g=[],f=y(b.o),m=f.next();!m.done;m=f.next()){var m=m.value,e=m.w,l=-1!==e;if(!(I(m.h,2,0)<=d||m.s||l&&!1===g[e])){var
+            h=!l||g[e]||b.i[e].contains(a.target);l&&h&&(g[e]=!0);if(e=h)if(l=a,e=m,h=e.h,null!=h.data[1]&&null!=h.data[4])e=b.v[I(h,4,1)],e=void
+            0!==e&&F()<e+I(h,1,0);else if(null!=h.data[0]){var h=(0<=e.w?b.i[e.w]:N.body).getBoundingClientRect(),v=y([l.clientX-h.left,l.clientY-h.top,h.width,h.height]),l=v.next().value,h=v.next().value,r=v.next().value,v=v.next().value;!(0<r&&0<v)||isNaN(l)||isNaN(h)||0>l||0>h?e=!1:(e=W(I(e.h,0,"")),e=!(l>=e.left&&r-l>e.right&&h>=e.top&&v-h>e.bottom))}else
+            e=!0;e&&(c=m,d=I(m.h,2,0))}}if(c)switch(d=c.h,I(d,3,1)){case 2:case 3:case
+            4:a.preventDefault?a.preventDefault():a.returnValue=!1;g=c.h;if(null!=g.data[7]&&++c.B>=I(g,7,0))if(c.s=!0,b.g&&null!=g.data[1])X(b);else
+            if(0<b.j.length&&null!=g.data[0])for(c=y(b.j),g=c.next();!g.done;g=c.next())g.value.style.display="none";c=y(b.A);for(g=c.next();!g.done;g=c.next())g=g.value,g(a,d)}},aa)};U.prototype.D=function(a){this.A.push(a)};var
+            oa=function(a,b){b=W(b);a.j=[{width:"100%",height:b.top+"px",top:"0",left:"0"},{width:b.right+"px",height:"100%",top:"0",right:"0"},{width:"100%",height:b.bottom+"px",bottom:"0",left:"0"},{width:b.left+"px",height:"100%",top:"0",left:"0"}].map(function(a){return
+            V(a)})},Y=function(a,b){b.s||(a.v[I(b.h,4,1)]=F(),I(b.h,8,void 0)&&(a.C.push(b),X(a)))},na=function(a,b){switch(I(b.h,4,1)){case
+            2:P.AFMA_Communicator&&P.AFMA_Communicator.addEventListener&&Q(P.AFMA_Communicator,"onshow",function(){Y(a,b)});break;case
+            4:Q(N,"DOMContentLoaded",function(){Y(a,b)});break;case 7:P.mraid&&P.mraid.isViewable&&Q(P.mraid,"viewableChange",function(){var
+            c=P.mraid;"function"==B(c.isViewable)&&c.isViewable()&&Y(a,b)});break;case
+            8:ia(function(c){c.rr&&Y(a,b)})}},X=function(a){for(var b=0,c=y(a.C),d=c.next();!d.done;d=c.next()){var
+            d=d.value,f=d.h,r=a.v[I(f,4,1)];d.s||void 0===r||(b=Math.max(b,r+I(f,1,0)))}b-=F();a.m&&fa(a.m);if(0<b){var
+            O=a.g;O.style.display="inline-block";a.m=new T(function(){O.style.display="none"},b);a.m.start()}else
+            a.g.style.display="none"},V=function(a){var b=N.createElement("DIV");R(b,ka);R(b,a);return
+            b},W=function(a){a=void 0===a?"":a;var b={top:0,right:0,bottom:0,left:0};a&&(a=a.split(","),4==a.length&&a.reduce(function(a,b){return
+            a&&!isNaN(b)},!0)&&(a=y(a.map(function(a){return+a})),b.top=a.next().value,b.right=a.next().value,b.bottom=a.next().value,b.left=a.next().value));return
+            b};var Z=new U;A("googqscp",Z);var pa=E(Z.G,Z);A("googqscp.init",pa);var
+            qa=E(Z.D,Z);A("googqscp.registerCallback",qa);}).call(this);googqscp.init([[[[null,1000,10,2,4,null,null,null,1]]],null,0,1]);'}
+        childrenids: []
+        localName: script
+        nodeId: 371
+        nodeName: SCRIPT
+        nodeType: 1
+        nodeValue: ''
+        parent: 255
+        props: {}
+      373:
+        attributes: [style, 'display: none; position: absolute; z-index: 2147483647;
+            width: 100%; height: 100%; top: 0px; left: 0px;']
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        h: 0.0
+        localName: div
+        nodeId: 373
+        nodeName: DIV
+        nodeType: 1
+        nodeValue: ''
+        parent: 255
+        props: {style: 'display: none; position: absolute; z-index: 2147483647; width:
+            100%; height: 100%; top: 0px; left: 0px;'}
+        value: ''
+        w: 0.0
+        x: 0.0
+        y: 0.0
+      374:
+        attributes: []
+        childNodeCount: 1
+        children:
+        - {localName: '', nodeId: 375, nodeName: '#text', nodeType: 3, nodeValue: 'if
+            (window.top && window.top.postMessage) {window.top.postMessage(''{"googMsgType":"adpnt"}'',''*'');}'}
+        childrenids: []
+        localName: script
+        nodeId: 374
+        nodeName: SCRIPT
+        nodeType: 1
+        nodeValue: ''
+        parent: 255
+        props: {}
+    page: {base_h: 131, base_w: 840, base_x: 120, base_y: 1219, empty: false, title: 'about:blank',
+      url: 'about:blank', ws_url: 'ws://127.0.0.1:12345/devtools/page/540F16DB-D4B1-4C82-9576-A3DB708EDB38'}
+    parents: {252: 251, 253: 251, 254: 253, 255: 253, 256: 254, 257: 254, 258: 257,
+      259: 254, 260: 254, 261: 254, 262: 261, 263: 254, 264: 263, 265: 255, 266: 265,
+      267: 266, 268: 265, 269: 268, 270: 265, 271: 270, 272: 271, 273: 272, 274: 273,
+      275: 272, 276: 275, 277: 276, 278: 277, 279: 276, 280: 272, 281: 280, 282: 270,
+      283: 255, 284: 283, 285: 255, 286: 285, 287: 255, 288: 287, 289: 288, 290: 289,
+      291: 290, 292: 290, 293: 292, 294: 292, 295: 288, 296: 295, 297: 296, 298: 297,
+      299: 297, 300: 299, 301: 299, 302: 297, 303: 302, 304: 303, 305: 288, 306: 255,
+      307: 306, 308: 307, 309: 308, 310: 309, 311: 310, 312: 311, 313: 312, 314: 313,
+      315: 312, 316: 312, 317: 310, 318: 317, 319: 318, 320: 319, 321: 317, 322: 317,
+      323: 322, 324: 323, 325: 323, 326: 307, 327: 326, 328: 326, 329: 328, 330: 326,
+      331: 330, 332: 331, 333: 332, 334: 333, 335: 334, 336: 331, 337: 336, 338: 337,
+      339: 338, 340: 331, 341: 340, 342: 341, 343: 342, 344: 331, 345: 344, 346: 345,
+      347: 346, 348: 331, 349: 348, 350: 331, 351: 350, 352: 307, 353: 352, 354: 353,
+      355: 354, 356: 355, 357: 354, 358: 307, 359: 358, 360: 359, 361: 360, 362: 361,
+      363: 362, 364: 361, 365: 361, 366: 306, 367: 366, 368: 255, 369: 368, 370: 255,
+      371: 255, 372: 371, 373: 255, 374: 255, 375: 374}
+    scaling: 2.625
+  title: about:blank

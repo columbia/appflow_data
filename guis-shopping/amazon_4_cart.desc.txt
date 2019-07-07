@@ -1,0 +1,13 @@
+9 menu
+13 search
+16 cart
+18 cart_count
+33 cart_subtotal
+36 checkout
+50 cart_list
+51 cart_item
+56 item_image
+59 item_title
+61 item_price
+70 item_count
+78 item_remove

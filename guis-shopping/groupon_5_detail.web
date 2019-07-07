@@ -1,0 +1,959 @@
+- page:
+    base_h: 1015
+    base_w: 942
+    base_x: 74
+    base_y: 3072
+    html_h: 387.0
+    html_w: 359.0
+    nodes:
+      1:
+        backendNodeId: 10
+        baseURL: about:blank
+        childNodeCount: 1
+        children:
+        - &id001
+          attributes: []
+          backendNodeId: 11
+          childNodeCount: 2
+          children:
+          - &id002
+            attributes: []
+            backendNodeId: 12
+            childNodeCount: 1
+            childrenids: [5]
+            h: 0.0
+            localName: head
+            nodeId: 3
+            nodeName: HEAD
+            nodeType: 1
+            nodeValue: ''
+            parent: 2
+            props: {}
+            value: ''
+            w: 0.0
+            x: 0.0
+            y: 0.0
+          - &id003
+            attributes: []
+            backendNodeId: 13
+            childNodeCount: 1
+            childrenids: [7]
+            h: 361.0
+            localName: body
+            nodeId: 4
+            nodeName: BODY
+            nodeType: 1
+            nodeValue: ''
+            parent: 2
+            props: {}
+            value: ''
+            w: 359.0
+            x: 0.0
+            y: 10.0
+          childrenids: [3, 4]
+          frameId: '5178.6'
+          h: 387.0
+          localName: html
+          nodeId: 2
+          nodeName: HTML
+          nodeType: 1
+          nodeValue: ''
+          parent: 1
+          props: {}
+          value: ''
+          w: 359.0
+          x: 0.0
+          y: 0.0
+        childrenids: [2]
+        documentURL: about:blank
+        localName: ''
+        nodeId: 1
+        nodeName: '#document'
+        nodeType: 9
+        nodeValue: ''
+        parent: -1
+        props: {}
+        xmlVersion: ''
+      2: *id001
+      3: *id002
+      4: *id003
+      5:
+        attributes: [type, text/css]
+        backendNodeId: 14
+        childNodeCount: 1
+        children:
+        - &id004
+          backendNodeId: 15
+          childrenids: []
+          localName: ''
+          nodeId: 6
+          nodeName: '#text'
+          nodeType: 3
+          nodeValue: ' img{max-width: 100%; height: auto; display: block; margin:
+            auto;} table{width: 100%; height: auto;} div{max-width: 100%; height:
+            auto;} object{max-width: 100%; height: auto;} body{margin:10px 0px 0px
+            0px; color:#75787b;} a:link {color:#369ec1; text-decoration: none;} hr{border-bottom:solid
+            1px #ddd; border-top:none; border-left:none; border-right:none;} ul{padding-left:25px}
+            blockquote{margin:0px;} iframe{max-width: 100%; height: auto;}'
+          parent: 5
+          props: {}
+        childrenids: [6]
+        h: 0.0
+        localName: style
+        nodeId: 5
+        nodeName: STYLE
+        nodeType: 1
+        nodeValue: ''
+        parent: 3
+        props: {type: text/css}
+        value: ''
+        w: 0.0
+        x: 0.0
+        y: 0.0
+      6: *id004
+      7:
+        attributes: []
+        backendNodeId: 16
+        childNodeCount: 9
+        children:
+        - &id005
+          attributes: []
+          backendNodeId: 17
+          childNodeCount: 1
+          children:
+          - &id006
+            backendNodeId: 18
+            childrenids: []
+            localName: ''
+            nodeId: 9
+            nodeName: '#text'
+            nodeType: 3
+            nodeValue: Cash back is calculated on total bill before tip
+            parent: 8
+            props: {}
+          childrenids: [9]
+          h: 19.0
+          localName: li
+          nodeId: 8
+          nodeName: LI
+          nodeType: 1
+          nodeValue: ''
+          parent: 7
+          props: {}
+          value: '0'
+          w: 334.0
+          x: 25.0
+          y: 10.0
+        - &id007
+          attributes: []
+          backendNodeId: 19
+          childNodeCount: 1
+          children:
+          - &id008
+            backendNodeId: 20
+            childrenids: []
+            localName: ''
+            nodeId: 11
+            nodeName: '#text'
+            nodeType: 3
+            nodeValue: Deal valid for 20% cash back only on first purchase and 10%
+              cash back for additional purchases, including after the deal is re-claimed.
+              Limited to 1 transaction per visit
+            parent: 10
+            props: {}
+          childrenids: [11]
+          h: 76.0
+          localName: li
+          nodeId: 10
+          nodeName: LI
+          nodeType: 1
+          nodeValue: ''
+          parent: 7
+          props: {}
+          value: '0'
+          w: 334.0
+          x: 25.0
+          y: 29.0
+        - &id009
+          attributes: []
+          backendNodeId: 21
+          childNodeCount: 1
+          children:
+          - &id010
+            backendNodeId: 22
+            childrenids: []
+            localName: ''
+            nodeId: 13
+            nodeName: '#text'
+            nodeType: 3
+            nodeValue: Deal expires 30 days after claimed, but Groupon may re-claim
+              the deal for you
+            parent: 12
+            props: {}
+          childrenids: [13]
+          h: 38.0
+          localName: li
+          nodeId: 12
+          nodeName: LI
+          nodeType: 1
+          nodeValue: ''
+          parent: 7
+          props: {}
+          value: '0'
+          w: 334.0
+          x: 25.0
+          y: 105.0
+        - &id011
+          attributes: []
+          backendNodeId: 23
+          childNodeCount: 1
+          children:
+          - &id012
+            backendNodeId: 24
+            childrenids: []
+            localName: ''
+            nodeId: 15
+            nodeName: '#text'
+            nodeType: 3
+            nodeValue: Cash back is awarded in form of statement credits
+            parent: 14
+            props: {}
+          childrenids: [15]
+          h: 38.0
+          localName: li
+          nodeId: 14
+          nodeName: LI
+          nodeType: 1
+          nodeValue: ''
+          parent: 7
+          props: {}
+          value: '0'
+          w: 334.0
+          x: 25.0
+          y: 143.0
+        - &id013
+          attributes: []
+          backendNodeId: 25
+          childNodeCount: 3
+          children:
+          - &id014
+            backendNodeId: 26
+            childrenids: []
+            localName: ''
+            nodeId: 17
+            nodeName: '#text'
+            nodeType: 3
+            nodeValue: 'Most cards are eligible for cash back. See '
+            parent: 16
+            props: {}
+          - &id015
+            attributes: [href, 'https://www.groupon.com/faq#faqs:category-115', target,
+              _blank]
+            backendNodeId: 27
+            childNodeCount: 1
+            children:
+            - &id016
+              backendNodeId: 28
+              childrenids: []
+              localName: ''
+              nodeId: 19
+              nodeName: '#text'
+              nodeType: 3
+              nodeValue: FAQ
+              parent: 18
+              props: {}
+            childrenids: [19]
+            h: 19.0
+            localName: a
+            nodeId: 18
+            nodeName: A
+            nodeType: 1
+            nodeValue: ''
+            parent: 16
+            props: {href: 'https://www.groupon.com/faq#faqs:category-115', target: _blank}
+            value: ''
+            w: 28.859375
+            x: 324.8125
+            y: 181.0
+          - &id017
+            backendNodeId: 29
+            childrenids: []
+            localName: ''
+            nodeId: 20
+            nodeName: '#text'
+            nodeType: 3
+            nodeValue: ' for details'
+            parent: 16
+            props: {}
+          childrenids: [17, 18, 20]
+          h: 38.0
+          localName: li
+          nodeId: 16
+          nodeName: LI
+          nodeType: 1
+          nodeValue: ''
+          parent: 7
+          props: {}
+          value: '0'
+          w: 334.0
+          x: 25.0
+          y: 181.0
+        - &id018
+          attributes: []
+          backendNodeId: 30
+          childNodeCount: 1
+          children:
+          - &id019
+            backendNodeId: 31
+            childrenids: []
+            localName: ''
+            nodeId: 22
+            nodeName: '#text'
+            nodeType: 3
+            nodeValue: For debit cards, select "credit" when you pay. Not all debit
+              purchases may qualify for cash back
+            parent: 21
+            props: {}
+          childrenids: [22]
+          h: 57.0
+          localName: li
+          nodeId: 21
+          nodeName: LI
+          nodeType: 1
+          nodeValue: ''
+          parent: 7
+          props: {}
+          value: '0'
+          w: 334.0
+          x: 25.0
+          y: 219.0
+        - &id020
+          attributes: []
+          backendNodeId: 32
+          childNodeCount: 1
+          children:
+          - &id021
+            backendNodeId: 33
+            childrenids: []
+            localName: ''
+            nodeId: 24
+            nodeName: '#text'
+            nodeType: 3
+            nodeValue: Deal can be used multiple times until it expires
+            parent: 23
+            props: {}
+          childrenids: [24]
+          h: 19.0
+          localName: li
+          nodeId: 23
+          nodeName: LI
+          nodeType: 1
+          nodeValue: ''
+          parent: 7
+          props: {}
+          value: '0'
+          w: 334.0
+          x: 25.0
+          y: 276.0
+        - &id022
+          attributes: []
+          backendNodeId: 34
+          childNodeCount: 2
+          children:
+          - &id023
+            backendNodeId: 35
+            childrenids: []
+            localName: ''
+            nodeId: 26
+            nodeName: '#text'
+            nodeType: 3
+            nodeValue: 'Deal is subject to '
+            parent: 25
+            props: {}
+          - &id024
+            attributes: [href, 'https://www.groupon.com/pages/special-programs#card-linked-deals',
+              target, _blank]
+            backendNodeId: 36
+            childNodeCount: 1
+            children:
+            - &id025
+              backendNodeId: 37
+              childrenids: []
+              localName: ''
+              nodeId: 28
+              nodeName: '#text'
+              nodeType: 3
+              nodeValue: Groupon+ Deals Terms
+              parent: 27
+              props: {}
+            childrenids: [28]
+            h: 19.0
+            localName: a
+            nodeId: 27
+            nodeName: A
+            nodeType: 1
+            nodeValue: ''
+            parent: 25
+            props: {href: 'https://www.groupon.com/pages/special-programs#card-linked-deals',
+              target: _blank}
+            value: ''
+            w: 162.765625
+            x: 150.671875
+            y: 295.0
+          childrenids: [26, 27]
+          h: 19.0
+          localName: li
+          nodeId: 25
+          nodeName: LI
+          nodeType: 1
+          nodeValue: ''
+          parent: 7
+          props: {}
+          value: '0'
+          w: 334.0
+          x: 25.0
+          y: 295.0
+        - &id026
+          attributes: []
+          backendNodeId: 38
+          childNodeCount: 1
+          children:
+          - &id027
+            backendNodeId: 39
+            childrenids: []
+            localName: ''
+            nodeId: 30
+            nodeName: '#text'
+            nodeType: 3
+            nodeValue: Enrollment in Groupon+ required. Eligible card will be linked
+              to all Groupon+ participating merchants
+            parent: 29
+            props: {}
+          childrenids: [30]
+          h: 57.0
+          localName: li
+          nodeId: 29
+          nodeName: LI
+          nodeType: 1
+          nodeValue: ''
+          parent: 7
+          props: {}
+          value: '0'
+          w: 334.0
+          x: 25.0
+          y: 314.0
+        childrenids: [8, 10, 12, 14, 16, 21, 23, 25, 29]
+        h: 361.0
+        localName: ul
+        nodeId: 7
+        nodeName: UL
+        nodeType: 1
+        nodeValue: ''
+        parent: 4
+        props: {}
+        value: ''
+        w: 359.0
+        x: 0.0
+        y: 10.0
+      8: *id005
+      9: *id006
+      10: *id007
+      11: *id008
+      12: *id009
+      13: *id010
+      14: *id011
+      15: *id012
+      16: *id013
+      17: *id014
+      18: *id015
+      19: *id016
+      20: *id017
+      21: *id018
+      22: *id019
+      23: *id020
+      24: *id021
+      25: *id022
+      26: *id023
+      27: *id024
+      28: *id025
+      29: *id026
+      30: *id027
+    page: {base_h: 1015, base_w: 942, base_x: 74, base_y: 3072, empty: false, title: 'about:blank',
+      url: 'about:blank', ws_url: 'ws://127.0.0.1:12345/devtools/page/de3303fe-890e-4052-8b9c-ec9faef7f580'}
+    parents: {2: 1, 3: 2, 4: 2, 5: 3, 6: 5, 7: 4, 8: 7, 9: 8, 10: 7, 11: 10, 12: 7,
+      13: 12, 14: 7, 15: 14, 16: 7, 17: 16, 18: 16, 19: 18, 20: 16, 21: 7, 22: 21,
+      23: 7, 24: 23, 25: 7, 26: 25, 27: 25, 28: 27, 29: 7, 30: 29}
+    scaling: 2.625
+  pageinfo: {base_h: 1015, base_w: 942, base_x: 74, base_y: 3072, empty: false, title: 'about:blank',
+    url: 'about:blank', ws_url: 'ws://127.0.0.1:12345/devtools/page/de3303fe-890e-4052-8b9c-ec9faef7f580'}
+  title: about:blank
+- page:
+    base_h: 714
+    base_w: 942
+    base_x: 74
+    base_y: 2100
+    html_h: 272.265625
+    html_w: 359.0
+    nodes:
+      1:
+        backendNodeId: 9
+        baseURL: about:blank
+        childNodeCount: 1
+        children:
+        - &id028
+          attributes: []
+          backendNodeId: 40
+          childNodeCount: 2
+          children:
+          - &id029
+            attributes: []
+            backendNodeId: 41
+            childNodeCount: 1
+            childrenids: [5]
+            h: 0.0
+            localName: head
+            nodeId: 3
+            nodeName: HEAD
+            nodeType: 1
+            nodeValue: ''
+            parent: 2
+            props: {}
+            value: ''
+            w: 0.0
+            x: 0.0
+            y: 0.0
+          - &id030
+            attributes: []
+            backendNodeId: 42
+            childNodeCount: 3
+            childrenids: [7, 9, 11]
+            h: 246.265625
+            localName: body
+            nodeId: 4
+            nodeName: BODY
+            nodeType: 1
+            nodeValue: ''
+            parent: 2
+            props: {}
+            value: ''
+            w: 359.0
+            x: 0.0
+            y: 10.0
+          childrenids: [3, 4]
+          frameId: '5178.5'
+          h: 272.265625
+          localName: html
+          nodeId: 2
+          nodeName: HTML
+          nodeType: 1
+          nodeValue: ''
+          parent: 1
+          props: {}
+          value: ''
+          w: 359.0
+          x: 0.0
+          y: 0.0
+        childrenids: [2]
+        documentURL: about:blank
+        localName: ''
+        nodeId: 1
+        nodeName: '#document'
+        nodeType: 9
+        nodeValue: ''
+        parent: -1
+        props: {}
+        xmlVersion: ''
+      2: *id028
+      3: *id029
+      4: *id030
+      5:
+        attributes: [type, text/css]
+        backendNodeId: 43
+        childNodeCount: 1
+        children:
+        - &id031
+          backendNodeId: 44
+          childrenids: []
+          localName: ''
+          nodeId: 6
+          nodeName: '#text'
+          nodeType: 3
+          nodeValue: ' img{max-width: 100%; height: auto; display: block; margin:
+            auto;} table{width: 100%; height: auto;} div{max-width: 100%; height:
+            auto;} object{max-width: 100%; height: auto;} body{margin:10px 0px 0px
+            0px; color:#75787b;} a:link {color:#369ec1; text-decoration: none;} hr{border-bottom:solid
+            1px #ddd; border-top:none; border-left:none; border-right:none;} ul{padding-left:25px}
+            blockquote{margin:0px;} iframe{max-width: 100%; height: auto;}'
+          parent: 5
+          props: {}
+        childrenids: [6]
+        h: 0.0
+        localName: style
+        nodeId: 5
+        nodeName: STYLE
+        nodeType: 1
+        nodeValue: ''
+        parent: 3
+        props: {type: text/css}
+        value: ''
+        w: 0.0
+        x: 0.0
+        y: 0.0
+      6: *id031
+      7:
+        attributes: []
+        backendNodeId: 45
+        childNodeCount: 1
+        children:
+        - &id032
+          backendNodeId: 46
+          childrenids: []
+          localName: ''
+          nodeId: 8
+          nodeName: '#text'
+          nodeType: 3
+          nodeValue: The Deal
+          parent: 7
+          props: {}
+        childrenids: [8]
+        h: 19.0
+        localName: h4
+        nodeId: 7
+        nodeName: H4
+        nodeType: 1
+        nodeValue: ''
+        parent: 4
+        props: {}
+        value: ''
+        w: 359.0
+        x: 0.0
+        y: 10.0
+      8: *id032
+      9:
+        attributes: []
+        backendNodeId: 47
+        childNodeCount: 1
+        children:
+        - &id033
+          backendNodeId: 48
+          childrenids: []
+          localName: ''
+          nodeId: 10
+          nodeName: '#text'
+          nodeType: 3
+          nodeValue: 'How to use this deal:'
+          parent: 9
+          props: {}
+        childrenids: [10]
+        h: 19.0
+        localName: p
+        nodeId: 9
+        nodeName: P
+        nodeType: 1
+        nodeValue: ''
+        parent: 4
+        props: {}
+        value: ''
+        w: 359.0
+        x: 0.0
+        y: 50.265625
+      10: *id033
+      11:
+        attributes: []
+        backendNodeId: 49
+        childNodeCount: 4
+        children:
+        - &id034
+          attributes: []
+          backendNodeId: 50
+          childNodeCount: 1
+          children:
+          - &id035
+            backendNodeId: 51
+            childrenids: []
+            localName: ''
+            nodeId: 13
+            nodeName: '#text'
+            nodeType: 3
+            nodeValue: Claim this deal by linking it to your eligible credit cards
+            parent: 12
+            props: {}
+          childrenids: [13]
+          h: 38.0
+          localName: li
+          nodeId: 12
+          nodeName: LI
+          nodeType: 1
+          nodeValue: ''
+          parent: 11
+          props: {}
+          value: '0'
+          w: 319.0
+          x: 40.0
+          y: 85.265625
+        - &id036
+          attributes: []
+          backendNodeId: 52
+          childNodeCount: 1
+          children:
+          - &id037
+            backendNodeId: 53
+            childrenids: []
+            localName: ''
+            nodeId: 15
+            nodeName: '#text'
+            nodeType: 3
+            nodeValue: Pay for qualifying purchases at the merchant with a linked
+              card
+            parent: 14
+            props: {}
+          childrenids: [15]
+          h: 38.0
+          localName: li
+          nodeId: 14
+          nodeName: LI
+          nodeType: 1
+          nodeValue: ''
+          parent: 11
+          props: {}
+          value: '0'
+          w: 319.0
+          x: 40.0
+          y: 123.265625
+        - &id038
+          attributes: []
+          backendNodeId: 54
+          childNodeCount: 1
+          children:
+          - &id039
+            backendNodeId: 55
+            childrenids: []
+            localName: ''
+            nodeId: 17
+            nodeName: '#text'
+            nodeType: 3
+            nodeValue: Get 20% cash back on your first purchase and 10% cash back
+              on additional purchases, including if the deal is re-claimed
+            parent: 16
+            props: {}
+          childrenids: [17]
+          h: 57.0
+          localName: li
+          nodeId: 16
+          nodeName: LI
+          nodeType: 1
+          nodeValue: ''
+          parent: 11
+          props: {}
+          value: '0'
+          w: 319.0
+          x: 40.0
+          y: 161.265625
+        - &id040
+          attributes: []
+          backendNodeId: 56
+          childNodeCount: 1
+          children:
+          - &id041
+            backendNodeId: 57
+            childrenids: []
+            localName: ''
+            nodeId: 19
+            nodeName: '#text'
+            nodeType: 3
+            nodeValue: Cash back rewards will be credited to your card statement within
+              a few days
+            parent: 18
+            props: {}
+          childrenids: [19]
+          h: 38.0
+          localName: li
+          nodeId: 18
+          nodeName: LI
+          nodeType: 1
+          nodeValue: ''
+          parent: 11
+          props: {}
+          value: '0'
+          w: 319.0
+          x: 40.0
+          y: 218.265625
+        childrenids: [12, 14, 16, 18]
+        h: 171.0
+        localName: ol
+        nodeId: 11
+        nodeName: OL
+        nodeType: 1
+        nodeValue: ''
+        parent: 4
+        props: {}
+        value: ''
+        w: 359.0
+        x: 0.0
+        y: 85.265625
+      12: *id034
+      13: *id035
+      14: *id036
+      15: *id037
+      16: *id038
+      17: *id039
+      18: *id040
+      19: *id041
+    page: {base_h: 714, base_w: 942, base_x: 74, base_y: 2100, empty: false, title: 'about:blank',
+      url: 'about:blank', ws_url: 'ws://127.0.0.1:12345/devtools/page/1ba9241a-67be-4547-ba12-7deae3f51dad'}
+    parents: {2: 1, 3: 2, 4: 2, 5: 3, 6: 5, 7: 4, 8: 7, 9: 4, 10: 9, 11: 4, 12: 11,
+      13: 12, 14: 11, 15: 14, 16: 11, 17: 16, 18: 11, 19: 18}
+    scaling: 2.625
+  pageinfo: {base_h: 714, base_w: 942, base_x: 74, base_y: 2100, empty: false, title: 'about:blank',
+    url: 'about:blank', ws_url: 'ws://127.0.0.1:12345/devtools/page/1ba9241a-67be-4547-ba12-7deae3f51dad'}
+  title: about:blank
+- page:
+    base_h: 217
+    base_w: 1016
+    base_x: 32
+    base_y: 1625
+    html_h: 83.0
+    html_w: 388.0
+    nodes:
+      1:
+        backendNodeId: 8
+        baseURL: about:blank
+        childNodeCount: 1
+        children:
+        - &id042
+          attributes: []
+          backendNodeId: 58
+          childNodeCount: 2
+          children:
+          - &id043
+            attributes: []
+            backendNodeId: 59
+            childNodeCount: 1
+            childrenids: [5]
+            h: 0.0
+            localName: head
+            nodeId: 3
+            nodeName: HEAD
+            nodeType: 1
+            nodeValue: ''
+            parent: 2
+            props: {}
+            value: ''
+            w: 0.0
+            x: 0.0
+            y: 0.0
+          - &id044
+            attributes: []
+            backendNodeId: 60
+            childNodeCount: 1
+            childrenids: [7]
+            h: 57.0
+            localName: body
+            nodeId: 4
+            nodeName: BODY
+            nodeType: 1
+            nodeValue: ''
+            parent: 2
+            props: {}
+            value: ''
+            w: 388.0
+            x: 0.0
+            y: 10.0
+          childrenids: [3, 4]
+          frameId: '5178.4'
+          h: 83.0
+          localName: html
+          nodeId: 2
+          nodeName: HTML
+          nodeType: 1
+          nodeValue: ''
+          parent: 1
+          props: {}
+          value: ''
+          w: 388.0
+          x: 0.0
+          y: 0.0
+        childrenids: [2]
+        documentURL: about:blank
+        localName: ''
+        nodeId: 1
+        nodeName: '#document'
+        nodeType: 9
+        nodeValue: ''
+        parent: -1
+        props: {}
+        xmlVersion: ''
+      2: *id042
+      3: *id043
+      4: *id044
+      5:
+        attributes: [type, text/css]
+        backendNodeId: 61
+        childNodeCount: 1
+        children:
+        - &id045
+          backendNodeId: 62
+          childrenids: []
+          localName: ''
+          nodeId: 6
+          nodeName: '#text'
+          nodeType: 3
+          nodeValue: ' img{max-width: 100%; height: auto; display: block; margin:
+            auto;} table{width: 100%; height: auto;} div{max-width: 100%; height:
+            auto;} object{max-width: 100%; height: auto;} body{margin:10px 0px 0px
+            0px; color:#75787b;} a:link {color:#369ec1; text-decoration: none;} hr{border-bottom:solid
+            1px #ddd; border-top:none; border-left:none; border-right:none;} ul{padding-left:25px}
+            blockquote{margin:0px;} iframe{max-width: 100%; height: auto;}'
+          parent: 5
+          props: {}
+        childrenids: [6]
+        h: 0.0
+        localName: style
+        nodeId: 5
+        nodeName: STYLE
+        nodeType: 1
+        nodeValue: ''
+        parent: 3
+        props: {type: text/css}
+        value: ''
+        w: 0.0
+        x: 0.0
+        y: 0.0
+      6: *id045
+      7:
+        attributes: []
+        backendNodeId: 63
+        childNodeCount: 1
+        children:
+        - &id046
+          backendNodeId: 64
+          childrenids: []
+          localName: ''
+          nodeId: 8
+          nodeName: '#text'
+          nodeType: 3
+          nodeValue: An American bistro, serving wine, cocktails, and appetizers,
+            along with entrees inspired by cultures overseas
+          parent: 7
+          props: {}
+        childrenids: [8]
+        h: 57.0
+        localName: p
+        nodeId: 7
+        nodeName: P
+        nodeType: 1
+        nodeValue: ''
+        parent: 4
+        props: {}
+        value: ''
+        w: 388.0
+        x: 0.0
+        y: 10.0
+      8: *id046
+    page: {base_h: 217, base_w: 1016, base_x: 32, base_y: 1625, empty: false, title: 'about:blank',
+      url: 'about:blank', ws_url: 'ws://127.0.0.1:12345/devtools/page/2d97ddfc-e5ab-4706-9d51-36d5ad381007'}
+    parents: {2: 1, 3: 2, 4: 2, 5: 3, 6: 5, 7: 4, 8: 7}
+    scaling: 2.625
+  pageinfo: {base_h: 217, base_w: 1016, base_x: 32, base_y: 1625, empty: false, title: 'about:blank',
+    url: 'about:blank', ws_url: 'ws://127.0.0.1:12345/devtools/page/2d97ddfc-e5ab-4706-9d51-36d5ad381007'}
+  title: about:blank

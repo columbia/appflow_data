@@ -1,0 +1,15 @@
+7 back
+19 card_no
+22 card_cvv
+27 card_month
+29 card_year
+35 billing_first
+36 billing_last
+38 billing_line1
+40 billing_line2
+41 billing_city
+43 billing_state
+44 billing_zipcode
+45 billing_country
+46 billing_phone
+47 card_save

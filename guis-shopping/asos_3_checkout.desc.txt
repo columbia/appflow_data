@@ -1,0 +1,7 @@
+8 back
+14 address_item
+15 addresses
+19 payments
+22 paypal
+29 subtotal
+32 shippingcost

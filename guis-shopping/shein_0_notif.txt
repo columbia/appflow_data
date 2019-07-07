@@ -1,0 +1,1 @@
+com.zzkko/com.zzkko.bussiness.person.ui.NotiSheinGalsListActivity

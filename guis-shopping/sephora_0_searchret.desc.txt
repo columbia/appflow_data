@@ -1,0 +1,16 @@
+11 search_keyword
+13 search
+14 cart
+17 sort
+18 filter
+19 searchret_list
+20 searchret_item
+22 item_image
+23 item_brand
+24 item_title
+28 item_price
+29 searchret_item
+31 item_image
+32 item_brand
+33 item_title
+36 item_price

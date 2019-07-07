@@ -1,0 +1,159 @@
+- page:
+    base_h: 1605
+    base_w: 1080
+    base_x: 0
+    base_y: 189
+    html_h: 1455.0
+    html_w: 980.0
+    nodes:
+      1086:
+        baseURL: about:blank
+        childNodeCount: 1
+        children:
+        - &id001
+          attributes: []
+          childNodeCount: 2
+          children:
+          - &id002
+            attributes: []
+            childNodeCount: 0
+            childrenids: []
+            h: 0.0
+            localName: head
+            nodeId: 1088
+            nodeName: HEAD
+            nodeType: 1
+            nodeValue: ''
+            parent: 1087
+            props: {}
+            value: ''
+            w: 0.0
+            x: 0.0
+            y: 0.0
+          - &id003
+            attributes: []
+            childNodeCount: 0
+            childrenids: []
+            h: 1439.0
+            localName: body
+            nodeId: 1089
+            nodeName: BODY
+            nodeType: 1
+            nodeValue: ''
+            parent: 1087
+            props: {}
+            value: ''
+            w: 964.0
+            x: 8.0
+            y: 8.0
+          childrenids: [1088, 1089]
+          h: 1455.0
+          localName: html
+          nodeId: 1087
+          nodeName: HTML
+          nodeType: 1
+          nodeValue: ''
+          parent: 1086
+          props: {}
+          value: ''
+          w: 980.0
+          x: 0.0
+          y: 0.0
+        childrenids: [1087]
+        documentURL: about:blank
+        localName: ''
+        nodeId: 1086
+        nodeName: '#document'
+        nodeType: 9
+        nodeValue: ''
+        parent: -1
+        props: {}
+        xmlVersion: ''
+      1087: *id001
+      1088: *id002
+      1089: *id003
+    page: {base_h: 1605, base_w: 1080, base_x: 0, base_y: 189, empty: false, title: 'about:blank',
+      url: 'about:blank', ws_url: 'ws://127.0.0.1:12345/devtools/page/828A04C6-1B61-45EA-A601-C8F148B356EB'}
+    parents: {1087: 1086, 1088: 1087, 1089: 1087}
+    scaling: 1.1020408163265305
+  title: about:blank
+- page:
+    base_h: 1605
+    base_w: 1080
+    base_x: 1080
+    base_y: 189
+    html_h: 1455.0
+    html_w: 980.0
+    nodes:
+      178:
+        baseURL: about:blank
+        childNodeCount: 1
+        children:
+        - &id004
+          attributes: []
+          childNodeCount: 2
+          children:
+          - &id005
+            attributes: []
+            childNodeCount: 0
+            childrenids: []
+            h: 0.0
+            localName: head
+            nodeId: 180
+            nodeName: HEAD
+            nodeType: 1
+            nodeValue: ''
+            parent: 179
+            props: {}
+            value: ''
+            w: 0.0
+            x: 0.0
+            y: 0.0
+          - &id006
+            attributes: []
+            childNodeCount: 0
+            childrenids: []
+            h: 1439.0
+            localName: body
+            nodeId: 181
+            nodeName: BODY
+            nodeType: 1
+            nodeValue: ''
+            parent: 179
+            props: {}
+            value: ''
+            w: 964.0
+            x: 8.0
+            y: 8.0
+          childrenids: [180, 181]
+          h: 1455.0
+          localName: html
+          nodeId: 179
+          nodeName: HTML
+          nodeType: 1
+          nodeValue: ''
+          parent: 178
+          props: {}
+          value: ''
+          w: 980.0
+          x: 0.0
+          y: 0.0
+        childrenids: [179]
+        documentURL: about:blank
+        localName: ''
+        nodeId: 178
+        nodeName: '#document'
+        nodeType: 9
+        nodeValue: ''
+        parent: -1
+        props: {}
+        xmlVersion: ''
+      179: *id004
+      180: *id005
+      181: *id006
+    page: {base_h: 1605, base_w: 1080, base_x: 1080, base_y: 189, empty: false, title: "Florida\
+        \ Woman, Son Fatally Shot After Cops Tell Her \u2018Stop Calling 911\u2019",
+      url: 'about:blank', ws_url: 'ws://127.0.0.1:12345/devtools/page/1286CBAB-CD3A-48AA-AF10-2BE460BAEB03'}
+    parents: {179: 178, 180: 179, 181: 179}
+    scaling: 1.1020408163265305
+  title: "Florida Woman, Son Fatally Shot After Cops Tell Her \u2018Stop Calling 911\u2019"

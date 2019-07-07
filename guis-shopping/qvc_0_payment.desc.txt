@@ -1,0 +1,2 @@
+30 card_new
+37 continue

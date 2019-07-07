@@ -1,0 +1,8 @@
+15 addresses
+22 payments
+25 card
+54 subtotal
+57 shippingcost
+60 tax
+64 totalcost
+67 back

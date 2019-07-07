@@ -1,0 +1,8 @@
+18 item_image
+20 item_title
+48 item_image
+49 item_title
+56 item_image
+57 item_title
+71 back
+72 search_input

@@ -1,0 +1,8 @@
+8 back
+16 signin
+27 register_fb
+28 register_gg
+34 email
+37 password
+42 register_name
+45 register

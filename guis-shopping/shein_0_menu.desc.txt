@@ -1,0 +1,3 @@
+60 signin
+77 faq
+99 setting

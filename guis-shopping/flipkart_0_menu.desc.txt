@@ -1,0 +1,17 @@
+83 home
+87 menu_list
+89 cat_item
+92 cat_title
+93 cat_item
+96 cat_title
+97 cat_item
+100 cat_title
+101 cat_item
+104 cat_title
+105 cat_item
+108 cat_title
+115 notifications
+126 cart
+133 orders
+138 account
+145 giftcard

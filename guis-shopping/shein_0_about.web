@@ -1,0 +1,766 @@
+- page:
+    base_h: 1605
+    base_w: 1080
+    base_x: 0
+    base_y: 189
+    html_h: 1300.0
+    html_w: 412.0
+    nodes:
+      1:
+        backendNodeId: 2
+        baseURL: https://api-service.shein.com/setting/policy_article?article_id=117
+        childNodeCount: 2
+        children:
+        - &id001
+          backendNodeId: 3
+          childrenids: []
+          localName: ''
+          nodeId: 2
+          nodeName: '#comment'
+          nodeType: 8
+          nodeValue: "\u8FD9\u4E2A\u5730\u65B9\u53EF\u4EE5\u9632\u6B62\u8F6C\u4E49"
+          parent: 1
+          props: {}
+        - &id002
+          attributes: []
+          backendNodeId: 4
+          childNodeCount: 2
+          children:
+          - &id003
+            attributes: []
+            backendNodeId: 5
+            childNodeCount: 9
+            childrenids: [6, 7, 8, 9, 10, 11, 12, 13, 14]
+            h: 0.0
+            localName: head
+            nodeId: 4
+            nodeName: HEAD
+            nodeType: 1
+            nodeValue: ''
+            parent: 3
+            props: {}
+            value: ''
+            w: 0.0
+            x: 0.0
+            y: 0.0
+          - &id004
+            attributes: []
+            backendNodeId: 6
+            childNodeCount: 13
+            childrenids: [16, 19, 21, 23, 24, 27, 29, 30, 33, 35, 36, 39, 45]
+            h: 1284.0
+            localName: body
+            nodeId: 5
+            nodeName: BODY
+            nodeType: 1
+            nodeValue: ''
+            parent: 3
+            props: {}
+            value: ''
+            w: 396.0
+            x: 8.0
+            y: 8.0
+          childrenids: [4, 5]
+          frameId: '19304.1'
+          h: 1300.0
+          localName: html
+          nodeId: 3
+          nodeName: HTML
+          nodeType: 1
+          nodeValue: ''
+          parent: 1
+          props: {}
+          value: ''
+          w: 412.0
+          x: 0.0
+          y: 0.0
+        childrenids: [2, 3]
+        documentURL: https://api-service.shein.com/setting/policy_article?article_id=117
+        localName: ''
+        nodeId: 1
+        nodeName: '#document'
+        nodeType: 9
+        nodeValue: ''
+        parent: -1
+        props: {}
+        xmlVersion: ''
+      2: *id001
+      3: *id002
+      4: *id003
+      5: *id004
+      6:
+        attributes: [charset, UTF-8]
+        backendNodeId: 7
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: meta
+        nodeId: 6
+        nodeName: META
+        nodeType: 1
+        nodeValue: ''
+        parent: 4
+        props: {charset: UTF-8}
+      7:
+        attributes: [content, 'width=device-width, initial-scale=1.0, maximum-scale=1.0,
+            user-scalable=0;', name, viewport]
+        backendNodeId: 8
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: meta
+        nodeId: 7
+        nodeName: META
+        nodeType: 1
+        nodeValue: ''
+        parent: 4
+        props: {content: 'width=device-width, initial-scale=1.0, maximum-scale=1.0,
+            user-scalable=0;', name: viewport}
+      8:
+        attributes: [http-equiv, Content-Type, content, text/html; charset=utf-8]
+        backendNodeId: 9
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: meta
+        nodeId: 8
+        nodeName: META
+        nodeType: 1
+        nodeValue: ''
+        parent: 4
+        props: {content: text/html; charset=utf-8, http-equiv: Content-Type}
+      9:
+        attributes: [name, apple-touch-fullscreen, content, 'yes']
+        backendNodeId: 10
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: meta
+        nodeId: 9
+        nodeName: META
+        nodeType: 1
+        nodeValue: ''
+        parent: 4
+        props: {content: 'yes', name: apple-touch-fullscreen}
+      10:
+        attributes: [name, HandheldFriendly, content, 'true']
+        backendNodeId: 11
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: meta
+        nodeId: 10
+        nodeName: META
+        nodeType: 1
+        nodeValue: ''
+        parent: 4
+        props: {content: 'true', name: HandheldFriendly}
+      11:
+        attributes: [name, format-detection, content, telephone=no]
+        backendNodeId: 12
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: meta
+        nodeId: 11
+        nodeName: META
+        nodeType: 1
+        nodeValue: ''
+        parent: 4
+        props: {content: telephone=no, name: format-detection}
+      12:
+        attributes: [name, keywords, content, '']
+        backendNodeId: 13
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: meta
+        nodeId: 12
+        nodeName: META
+        nodeType: 1
+        nodeValue: ''
+        parent: 4
+        props: {content: '', name: keywords}
+      13:
+        attributes: [name, description, content, '']
+        backendNodeId: 14
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: meta
+        nodeId: 13
+        nodeName: META
+        nodeType: 1
+        nodeValue: ''
+        parent: 4
+        props: {content: '', name: description}
+      14:
+        attributes: []
+        backendNodeId: 15
+        childNodeCount: 1
+        children:
+        - &id005
+          backendNodeId: 16
+          childrenids: []
+          localName: ''
+          nodeId: 15
+          nodeName: '#text'
+          nodeType: 3
+          nodeValue: About Us
+          parent: 14
+          props: {}
+        childrenids: [15]
+        h: 0.0
+        localName: title
+        nodeId: 14
+        nodeName: TITLE
+        nodeType: 1
+        nodeValue: ''
+        parent: 4
+        props: {}
+        value: ''
+        w: 0.0
+        x: 0.0
+        y: 0.0
+      15: *id005
+      16:
+        attributes: []
+        backendNodeId: 17
+        childNodeCount: 1
+        children:
+        - &id006
+          attributes: [type, text/css]
+          backendNodeId: 18
+          childNodeCount: 1
+          children:
+          - &id007
+            backendNodeId: 19
+            childrenids: []
+            localName: ''
+            nodeId: 18
+            nodeName: '#text'
+            nodeType: 3
+            nodeValue: "\n        .show_flag{background: url(http://shein.ltwebstatic.com/image/fr/show_flag.png)\
+              \ no-repeat scroll 0 0 transparent;display:block;width: 20px;height:\
+              \ 20px;cursor: pointer;margin-top: -20px;}\n        .sec_content,.sec_content\
+              \ span{display: inline-block;margin-bottom: 10px;margin-top:10px;}\n\
+              \t\t.bigger{ font-size:16px; font-weight:600px; margin-bottom:10px;}\n"
+            parent: 17
+            props: {}
+          childrenids: [18]
+          h: 0.0
+          localName: style
+          nodeId: 17
+          nodeName: STYLE
+          nodeType: 1
+          nodeValue: ''
+          parent: 16
+          props: {type: text/css}
+          value: ''
+          w: 0.0
+          x: 0.0
+          y: 0.0
+        childrenids: [17]
+        h: 0.0
+        localName: p
+        nodeId: 16
+        nodeName: P
+        nodeType: 1
+        nodeValue: ''
+        parent: 5
+        props: {}
+        value: ''
+        w: 396.0
+        x: 8.0
+        y: 8.0
+      17: *id006
+      18: *id007
+      19:
+        attributes: [class, about_sec1, style, 'margin-bottom:16px;']
+        backendNodeId: 20
+        childNodeCount: 1
+        children:
+        - &id008
+          attributes: [alt, '', style, 'width:100%;', src, 'http://shein.ltwebstatic.com/advertise//shein/www/images_about_us/about_us1.png']
+          backendNodeId: 21
+          childNodeCount: 0
+          children: []
+          childrenids: []
+          h: 264.375
+          localName: img
+          nodeId: 20
+          nodeName: IMG
+          nodeType: 1
+          nodeValue: ''
+          parent: 19
+          props: {alt: '', src: 'http://shein.ltwebstatic.com/advertise//shein/www/images_about_us/about_us1.png',
+            style: 'width:100%;'}
+          value: ''
+          w: 396.0
+          x: 8.0
+          y: 8.0
+        childrenids: [20]
+        h: 264.0
+        localName: div
+        nodeId: 19
+        nodeName: DIV
+        nodeType: 1
+        nodeValue: ''
+        parent: 5
+        props: {class: about_sec1, style: 'margin-bottom:16px;'}
+        value: ''
+        w: 396.0
+        x: 8.0
+        y: 8.0
+      20: *id008
+      21:
+        attributes: [style, 'margin-top: 10px;margin-bottom: 16px;']
+        backendNodeId: 22
+        childNodeCount: 1
+        children:
+        - &id009
+          backendNodeId: 23
+          childrenids: []
+          localName: ''
+          nodeId: 22
+          nodeName: '#text'
+          nodeType: 3
+          nodeValue: About Us
+          parent: 21
+          props: {}
+        childrenids: [22]
+        h: 22.0
+        localName: h3
+        nodeId: 21
+        nodeName: H3
+        nodeType: 1
+        nodeValue: ''
+        parent: 5
+        props: {style: 'margin-top: 10px;margin-bottom: 16px;'}
+        value: ''
+        w: 396.0
+        x: 8.0
+        y: 288.0
+      22: *id009
+      23:
+        attributes: [style, 'border-top: 1px solid #e0dddd;']
+        backendNodeId: 24
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        h: 2.0
+        localName: hr
+        nodeId: 23
+        nodeName: HR
+        nodeType: 1
+        nodeValue: ''
+        parent: 5
+        props: {style: 'border-top: 1px solid #e0dddd;'}
+        value: ''
+        w: 396.0
+        x: 8.0
+        y: 326.0
+      24:
+        attributes: [class, sec_content, style, 'margin-bottom:16px;']
+        backendNodeId: 25
+        childNodeCount: 1
+        children:
+        - &id010
+          attributes: []
+          backendNodeId: 26
+          childNodeCount: 1
+          children:
+          - &id011
+            backendNodeId: 27
+            childrenids: []
+            localName: ''
+            nodeId: 26
+            nodeName: '#text'
+            nodeType: 3
+            nodeValue: From what started as a small group of passionate fashion loving
+              individuals in 2008, to a multinational team, SHEIN has grown immensely
+              to what it is today. The SHEIN girl is fashion forward yet classy, effortlessly
+              cool and unafraid to venture into different styles.
+            parent: 25
+            props: {}
+          childrenids: [26]
+          h: 95.0
+          localName: span
+          nodeId: 25
+          nodeName: SPAN
+          nodeType: 1
+          nodeValue: ''
+          parent: 24
+          props: {}
+          value: ''
+          w: 396.0
+          x: 8.0
+          y: 356.0
+        childrenids: [25]
+        h: 115.0
+        localName: p
+        nodeId: 24
+        nodeName: P
+        nodeType: 1
+        nodeValue: ''
+        parent: 5
+        props: {class: sec_content, style: 'margin-bottom:16px;'}
+        value: ''
+        w: 396.0
+        x: 8.0
+        y: 346.0
+      25: *id010
+      26: *id011
+      27:
+        attributes: [style, 'margin-top:10px;margin-bottom: 16px;']
+        backendNodeId: 28
+        childNodeCount: 1
+        children:
+        - &id012
+          backendNodeId: 29
+          childrenids: []
+          localName: ''
+          nodeId: 28
+          nodeName: '#text'
+          nodeType: 3
+          nodeValue: Our Missinon
+          parent: 27
+          props: {}
+        childrenids: [28]
+        h: 22.0
+        localName: h3
+        nodeId: 27
+        nodeName: H3
+        nodeType: 1
+        nodeValue: ''
+        parent: 5
+        props: {style: 'margin-top:10px;margin-bottom: 16px;'}
+        value: ''
+        w: 396.0
+        x: 8.0
+        y: 487.0
+      28: *id012
+      29:
+        attributes: [style, 'border-top: 1px solid #e0dddd;']
+        backendNodeId: 30
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        h: 2.0
+        localName: hr
+        nodeId: 29
+        nodeName: HR
+        nodeType: 1
+        nodeValue: ''
+        parent: 5
+        props: {style: 'border-top: 1px solid #e0dddd;'}
+        value: ''
+        w: 396.0
+        x: 8.0
+        y: 525.0
+      30:
+        attributes: [class, sec_content]
+        backendNodeId: 31
+        childNodeCount: 1
+        children:
+        - &id013
+          attributes: []
+          backendNodeId: 32
+          childNodeCount: 1
+          children:
+          - &id014
+            backendNodeId: 33
+            childrenids: []
+            localName: ''
+            nodeId: 32
+            nodeName: '#text'
+            nodeType: 3
+            nodeValue: "SHEIN prides itself on offering on-trend styles catering to\
+              \ both young women and teens, that won\u2019t break the bank. SHEIN\
+              \ is able to stay on top of the latest fashion trends from around the\
+              \ globe while rapidly bringing these styles to market. So whether you\u2019\
+              re searching for boho dresses and graphic tees or patterned blouses\
+              \ and chic swimwear, SHEIN is the ultimate one-stop-shop for the modern\
+              \ yet economical fashionista."
+            parent: 31
+            props: {}
+          childrenids: [32]
+          h: 152.0
+          localName: span
+          nodeId: 31
+          nodeName: SPAN
+          nodeType: 1
+          nodeValue: ''
+          parent: 30
+          props: {}
+          value: ''
+          w: 396.0
+          x: 8.0
+          y: 555.0
+        childrenids: [31]
+        h: 172.0
+        localName: p
+        nodeId: 30
+        nodeName: P
+        nodeType: 1
+        nodeValue: ''
+        parent: 5
+        props: {class: sec_content}
+        value: ''
+        w: 396.0
+        x: 8.0
+        y: 545.0
+      31: *id013
+      32: *id014
+      33:
+        attributes: [style, 'margin-top:10px;margin-bottom: 16px;']
+        backendNodeId: 34
+        childNodeCount: 1
+        children:
+        - &id015
+          backendNodeId: 35
+          childrenids: []
+          localName: ''
+          nodeId: 34
+          nodeName: '#text'
+          nodeType: 3
+          nodeValue: Where You Can Find Us
+          parent: 33
+          props: {}
+        childrenids: [34]
+        h: 22.0
+        localName: h3
+        nodeId: 33
+        nodeName: H3
+        nodeType: 1
+        nodeValue: ''
+        parent: 5
+        props: {style: 'margin-top:10px;margin-bottom: 16px;'}
+        value: ''
+        w: 396.0
+        x: 8.0
+        y: 737.0
+      34: *id015
+      35:
+        attributes: [style, 'border-top: 1px solid #e0dddd;']
+        backendNodeId: 36
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        h: 2.0
+        localName: hr
+        nodeId: 35
+        nodeName: HR
+        nodeType: 1
+        nodeValue: ''
+        parent: 5
+        props: {style: 'border-top: 1px solid #e0dddd;'}
+        value: ''
+        w: 396.0
+        x: 8.0
+        y: 775.0
+      36:
+        attributes: [class, sec_content]
+        backendNodeId: 37
+        childNodeCount: 1
+        children:
+        - &id016
+          attributes: []
+          backendNodeId: 38
+          childNodeCount: 1
+          children:
+          - &id017
+            backendNodeId: 39
+            childrenids: []
+            localName: ''
+            nodeId: 38
+            nodeName: '#text'
+            nodeType: 3
+            nodeValue: "SHEIN now ships to over 80 countries worldwide. With websites\
+              \ supporting the United States, Spain, France, Russia, Germany, Italy,\
+              \ Australia and the Middle East, SHEIN ships from one of its many globally\
+              \ positioned warehouses. SHEIN continues to thrive due in part to the\
+              \ company\u2019s values in controlling the excellence of in-house production.\
+              \ SHEIN aims to provide the highest value trendy pieces while also being\
+              \ dedicated to quality, value and service."
+            parent: 37
+            props: {}
+          childrenids: [38]
+          h: 171.0
+          localName: span
+          nodeId: 37
+          nodeName: SPAN
+          nodeType: 1
+          nodeValue: ''
+          parent: 36
+          props: {}
+          value: ''
+          w: 396.0
+          x: 8.0
+          y: 805.0
+        childrenids: [37]
+        h: 191.0
+        localName: p
+        nodeId: 36
+        nodeName: P
+        nodeType: 1
+        nodeValue: ''
+        parent: 5
+        props: {class: sec_content}
+        value: ''
+        w: 396.0
+        x: 8.0
+        y: 795.0
+      37: *id016
+      38: *id017
+      39:
+        attributes: [class, sec_content]
+        backendNodeId: 40
+        childNodeCount: 3
+        children:
+        - &id018
+          attributes: [style, 'font-weight:bold;']
+          backendNodeId: 41
+          childNodeCount: 1
+          children:
+          - &id019
+            backendNodeId: 42
+            childrenids: []
+            localName: ''
+            nodeId: 41
+            nodeName: '#text'
+            nodeType: 3
+            nodeValue: KANDAY Limited
+            parent: 40
+            props: {}
+          childrenids: [41]
+          h: 19.0
+          localName: span
+          nodeId: 40
+          nodeName: SPAN
+          nodeType: 1
+          nodeValue: ''
+          parent: 39
+          props: {style: 'font-weight:bold;'}
+          value: ''
+          w: 120.0
+          x: 8.0
+          y: 1016.0
+        - &id020
+          attributes: []
+          backendNodeId: 43
+          childNodeCount: 0
+          children: []
+          childrenids: []
+          h: 0.0
+          localName: br
+          nodeId: 42
+          nodeName: BR
+          nodeType: 1
+          nodeValue: ''
+          parent: 39
+          props: {}
+          value: ''
+          w: 0.0
+          x: 131.953125
+          y: 1031.0
+        - &id021
+          attributes: []
+          backendNodeId: 44
+          childNodeCount: 1
+          children:
+          - &id022
+            backendNodeId: 45
+            childrenids: []
+            localName: ''
+            nodeId: 44
+            nodeName: '#text'
+            nodeType: 3
+            nodeValue: ' 201B.7, Cardinal Point, Park Road, Rickmansworth, Hertfordshire,
+              United Kingdom WD3 1RE'
+            parent: 43
+            props: {}
+          childrenids: [44]
+          h: 38.0
+          localName: span
+          nodeId: 43
+          nodeName: SPAN
+          nodeType: 1
+          nodeValue: ''
+          parent: 39
+          props: {}
+          value: ''
+          w: 396.0
+          x: 8.0
+          y: 1055.0
+        childrenids: [40, 42, 43]
+        h: 97.0
+        localName: p
+        nodeId: 39
+        nodeName: P
+        nodeType: 1
+        nodeValue: ''
+        parent: 5
+        props: {class: sec_content}
+        value: ''
+        w: 396.0
+        x: 8.0
+        y: 1006.0
+      40: *id018
+      41: *id019
+      42: *id020
+      43: *id021
+      44: *id022
+      45:
+        attributes: []
+        backendNodeId: 46
+        childNodeCount: 1
+        children:
+        - &id023
+          attributes: [class, map_png, style, 'width:100%; margin-top:10px; margin-bottom:16px;',
+            src, 'http://shein.ltwebstatic.com/advertise//shein/www/images_about_us/about_us3.png',
+            alt, '']
+          backendNodeId: 47
+          childNodeCount: 0
+          children: []
+          childrenids: []
+          h: 152.828125
+          localName: img
+          nodeId: 46
+          nodeName: IMG
+          nodeType: 1
+          nodeValue: ''
+          parent: 45
+          props: {alt: '', class: map_png, src: 'http://shein.ltwebstatic.com/advertise//shein/www/images_about_us/about_us3.png',
+            style: 'width:100%; margin-top:10px; margin-bottom:16px;'}
+          value: ''
+          w: 396.0
+          x: 8.0
+          y: 1123.0
+        childrenids: [46]
+        h: 179.0
+        localName: div
+        nodeId: 45
+        nodeName: DIV
+        nodeType: 1
+        nodeValue: ''
+        parent: 5
+        props: {}
+        value: ''
+        w: 396.0
+        x: 8.0
+        y: 1113.0
+      46: *id023
+    page: {base_h: 1605, base_w: 1080, base_x: 0, base_y: 189, empty: false, title: About
+        Us, url: 'https://api-service.shein.com/setting/policy_article?article_id=117',
+      ws_url: 'ws://127.0.0.1:12345/devtools/page/5827c0b4-fef0-4284-bda8-60def7ee4a2c'}
+    parents: {2: 1, 3: 1, 4: 3, 5: 3, 6: 4, 7: 4, 8: 4, 9: 4, 10: 4, 11: 4, 12: 4,
+      13: 4, 14: 4, 15: 14, 16: 5, 17: 16, 18: 17, 19: 5, 20: 19, 21: 5, 22: 21, 23: 5,
+      24: 5, 25: 24, 26: 25, 27: 5, 28: 27, 29: 5, 30: 5, 31: 30, 32: 31, 33: 5, 34: 33,
+      35: 5, 36: 5, 37: 36, 38: 37, 39: 5, 40: 39, 41: 40, 42: 39, 43: 39, 44: 43,
+      45: 5, 46: 45}
+    scaling: 2.625
+  pageinfo: {base_h: 1605, base_w: 1080, base_x: 0, base_y: 189, empty: false, title: About
+      Us, url: 'https://api-service.shein.com/setting/policy_article?article_id=117',
+    ws_url: 'ws://127.0.0.1:12345/devtools/page/5827c0b4-fef0-4284-bda8-60def7ee4a2c'}
+  title: About Us

@@ -1,0 +1,5 @@
+65 filter_price
+68 filter_category
+71 filter_color
+79 filter_reset
+80 apply

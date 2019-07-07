@@ -1,0 +1,1 @@
+com.newegg.app/com.newegg.app.activity.myaccount.myaccount.MyAccountActivity

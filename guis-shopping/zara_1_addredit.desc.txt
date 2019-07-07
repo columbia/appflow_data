@@ -1,0 +1,6 @@
+27 addr_first
+28 addr_last
+29 addr_line1
+30 addr_line2
+32 addr_state
+35 addr_city

@@ -1,0 +1,226 @@
+- page:
+    base_h: 368
+    base_w: 1080
+    base_x: 0
+    base_y: 1809
+    html_h: 140.0
+    html_w: 412.0
+    nodes:
+      1:
+        baseURL: http://api-news.dailyhunt.in/api/v1
+        childNodeCount: 2
+        children:
+        - &id001
+          childrenids: []
+          localName: ''
+          nodeId: 2
+          nodeName: html
+          nodeType: 10
+          nodeValue: ''
+          parent: 1
+          props: {}
+          publicId: ''
+          systemId: ''
+        - &id002
+          attributes: []
+          childNodeCount: 2
+          children:
+          - &id003
+            attributes: []
+            childNodeCount: 5
+            childrenids: [6, 7, 8, 10, 12]
+            h: 0.0
+            localName: head
+            nodeId: 4
+            nodeName: HEAD
+            nodeType: 1
+            nodeValue: ''
+            parent: 3
+            props: {}
+            value: ''
+            w: 0.0
+            x: 0.0
+            y: 0.0
+          - &id004
+            attributes: [bottommargin, '0', leftmargin, '0', onclick, 'javascript:init();',
+              rightmargin, '0', topmargin, '0']
+            childNodeCount: 2
+            childrenids: [14, 15]
+            h: 140.0
+            localName: body
+            nodeId: 5
+            nodeName: BODY
+            nodeType: 1
+            nodeValue: ''
+            parent: 3
+            props: {bottommargin: '0', leftmargin: '0', onclick: 'javascript:init();',
+              rightmargin: '0', topmargin: '0'}
+            value: ''
+            w: 412.0
+            x: 0.0
+            y: 0.0
+          childrenids: [4, 5]
+          h: 140.0
+          localName: html
+          nodeId: 3
+          nodeName: HTML
+          nodeType: 1
+          nodeValue: ''
+          parent: 1
+          props: {}
+          value: ''
+          w: 412.0
+          x: 0.0
+          y: 0.0
+        childrenids: [2, 3]
+        documentURL: http://api-news.dailyhunt.in/api/v1
+        localName: ''
+        nodeId: 1
+        nodeName: '#document'
+        nodeType: 9
+        nodeValue: ''
+        parent: -1
+        props: {}
+        xmlVersion: ''
+      2: *id001
+      3: *id002
+      4: *id003
+      5: *id004
+      6:
+        attributes: [charset, UTF-8]
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: meta
+        nodeId: 6
+        nodeName: META
+        nodeType: 1
+        nodeValue: ''
+        parent: 4
+        props: {charset: UTF-8}
+      7:
+        attributes: [name, viewport, content, 'width=device-width, initial-scale=1.0']
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: meta
+        nodeId: 7
+        nodeName: META
+        nodeType: 1
+        nodeValue: ''
+        parent: 4
+        props: {content: 'width=device-width, initial-scale=1.0', name: viewport}
+      8:
+        attributes: []
+        childNodeCount: 1
+        children:
+        - &id005
+          childrenids: []
+          localName: ''
+          nodeId: 9
+          nodeName: '#text'
+          nodeType: 3
+          nodeValue: Untitled Document
+          parent: 8
+          props: {}
+        childrenids: [9]
+        h: 0.0
+        localName: title
+        nodeId: 8
+        nodeName: TITLE
+        nodeType: 1
+        nodeValue: ''
+        parent: 4
+        props: {}
+        value: ''
+        w: 0.0
+        x: 0.0
+        y: 0.0
+      9: *id005
+      10:
+        attributes: [type, text/css]
+        childNodeCount: 1
+        children:
+        - &id006
+          childrenids: []
+          localName: ''
+          nodeId: 11
+          nodeName: '#text'
+          nodeType: 3
+          nodeValue: "article,aside,details,figcaption,figure,footer,header,hgroup,img,nav,section{display:block}*,body,html{margin:0;padding:0}html{overflow-y:scroll}a,abbr,acronym,address,blockquote,button,caption,cite,code,dd,del,dfn,dl,dt,em,fieldset,figcaption,figure,form,h1,h2,h3,h4,h5,h6,img,label,legend,li,ol,p,pre,q,s,samp,small,strike,strong,sub,sup,table,tbody,td,tfoot,th,thead,tr,tt,ul,var{margin:0;padding:0;border:0;font-weight:400;font-style:normal;font-size:100%;line-height:normal;font-family:inherit}blockquote:after,blockquote:before,q:after,q:before{content:\"\
+            \"}ol,ul{list-style:none}a{text-decoration:none}audio,canvas,video{display:inline-block}audio:not([controls]){display:none}sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline}sup{top:-.5em}sub{bottom:-.25em}img{border:0;width:100%;height:auto;-ms-interpolation-mode:bicubic}\n\
+            \n\n.bnr_320x70{ height:140px; max-height:140px; background-image:url(http://acdn.newshunt.com/fetchdata/dh-ticker/Yogi_Eng.png);\
+            \ background-size:auto 100%; background-position:center center; background-repeat:no-repeat;\
+            \ overflow:hidden; background-color:#f0ecdc; }\n\t"
+          parent: 10
+          props: {}
+        childrenids: [11]
+        h: 0.0
+        localName: style
+        nodeId: 10
+        nodeName: STYLE
+        nodeType: 1
+        nodeValue: ''
+        parent: 4
+        props: {type: text/css}
+        value: ''
+        w: 0.0
+        x: 0.0
+        y: 0.0
+      11: *id006
+      12:
+        attributes: []
+        childNodeCount: 1
+        children:
+        - {localName: '', nodeId: 13, nodeName: '#text', nodeType: 3, nodeValue: 'function
+            init() { newsHuntAction.handleAction("nhcommand://opentopic:897");}'}
+        childrenids: []
+        localName: script
+        nodeId: 12
+        nodeName: SCRIPT
+        nodeType: 1
+        nodeValue: ''
+        parent: 4
+        props: {}
+      14:
+        childrenids: []
+        localName: ''
+        nodeId: 14
+        nodeName: '#comment'
+        nodeType: 8
+        nodeValue: '##referfrnd##'
+        parent: 5
+        props: {}
+      15:
+        attributes: [class, bnr_320x70]
+        childNodeCount: 1
+        children:
+        - &id007
+          childrenids: []
+          localName: ''
+          nodeId: 16
+          nodeName: '#text'
+          nodeType: 3
+          nodeValue: "\_"
+          parent: 15
+          props: {}
+        childrenids: [16]
+        h: 140.0
+        localName: div
+        nodeId: 15
+        nodeName: DIV
+        nodeType: 1
+        nodeValue: ''
+        parent: 5
+        props: {class: bnr_320x70}
+        value: ''
+        w: 412.0
+        x: 0.0
+        y: 0.0
+      16: *id007
+    page: {base_h: 368, base_w: 1080, base_x: 0, base_y: 1809, empty: false, title: Untitled
+        Document, url: 'about:blank', ws_url: 'ws://127.0.0.1:12345/devtools/page/87268679-9704-4323-890A-8D4915BFA94A'}
+    parents: {2: 1, 3: 1, 4: 3, 5: 3, 6: 4, 7: 4, 8: 4, 9: 8, 10: 4, 11: 10, 12: 4,
+      13: 12, 14: 5, 15: 5, 16: 15}
+    scaling: 2.625
+  title: Untitled Document

@@ -1,0 +1,10 @@
+21 back
+24 search
+25 cart
+28 cart_count
+35 detail_image
+45 detail_title
+48 detail_price
+59 share
+91 detail_addcart
+92 detail_buy

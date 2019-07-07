@@ -1,0 +1,1 @@
+com.joom/com.helpshift.support.activities.ParentActivity

@@ -1,0 +1,11 @@
+2 menu_list
+96 account
+103 home
+107 search
+112 notifications
+117 cart
+122 orders
+135 invite
+139 contact
+143 faq
+147 setting

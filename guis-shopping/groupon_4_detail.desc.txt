@@ -1,0 +1,6 @@
+16 detail_image
+21 detail_title
+25 back
+26 share
+72 detail_price
+73 detail_buy

@@ -1,0 +1,5 @@
+8 back
+52 card_no
+55 card_exp
+62 card_name
+67 card_cvv

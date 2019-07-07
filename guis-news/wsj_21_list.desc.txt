@@ -1,0 +1,13 @@
+12 menu
+22 cat_item
+24 cat_item
+26 cat_item
+33 item
+35 item_title
+37 item_image
+38 item
+41 item_title
+43 item_image
+44 item
+47 item_title
+49 item_image

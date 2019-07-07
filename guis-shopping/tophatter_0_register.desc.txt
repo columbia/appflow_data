@@ -1,0 +1,7 @@
+14 register_name
+15 email
+16 password
+17 register
+19 register_fb
+20 register_gg
+21 signin

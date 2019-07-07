@@ -1,0 +1,7 @@
+10 back
+14 bookmark
+15 ctxmenu
+24 image
+27 text
+28 text
+29 share

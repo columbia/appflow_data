@@ -1,0 +1,12 @@
+11 menu
+25 item_title
+32 item_image
+33 item_price
+36 item_count
+40 shipmethod
+42 shipmethod
+46 subtotal
+48 shippingcost
+50 totalcost
+58 totalcost
+61 continue

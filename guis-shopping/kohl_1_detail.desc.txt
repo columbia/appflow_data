@@ -1,0 +1,5 @@
+7 back
+11 cart
+22 detail_image
+24 detail_title
+37 detail_count

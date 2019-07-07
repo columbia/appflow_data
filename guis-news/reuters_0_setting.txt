@@ -1,0 +1,1 @@
+com.thomsonreuters.reuters/com.thomsonreuters.reuters.activities.SettingsActivity

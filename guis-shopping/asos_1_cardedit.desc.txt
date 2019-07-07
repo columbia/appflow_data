@@ -1,0 +1,6 @@
+8 back
+28 card_no
+35 card_month
+36 card_year
+38 card_name
+39 card_save

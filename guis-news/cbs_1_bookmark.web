@@ -1,0 +1,461 @@
+- page:
+    base_h: 131
+    base_w: 840
+    base_x: 119
+    base_y: 1848
+    html_h: 51.0
+    html_w: 320.0
+    nodes:
+      156:
+        baseURL: https://pubads.g.doubleclick.net/gampad/ads?_activity_context=true&android_num_video_cache_tasks=0&caps=inlineVideo_interactiveVideo_mraid1_mraid2_sdkVideo_th_autoplay_mediation_av_transparentBackground_sdkAdmobApiForAds_di_aso_sfv_dinm_dim_nav_dinmo_gcache&eid=318475406%2C318477040%2C318476426%2C318476960%2C318477768%2C318477714&format=320x50_mb&heap_free=6241536&heap_max=268435456&heap_total=37513840&js=afma-sdk-a-v10298470.9877000.2&msid=com.treemolabs.apps.cbsnews&scroll_index=-1&seq_num=6&target_api=23
+        childNodeCount: 1
+        children:
+        - &id001
+          attributes: []
+          childNodeCount: 2
+          children:
+          - &id002
+            attributes: []
+            childNodeCount: 0
+            childrenids: []
+            h: 0.0
+            localName: head
+            nodeId: 158
+            nodeName: HEAD
+            nodeType: 1
+            nodeValue: ''
+            parent: 157
+            props: {}
+            value: ''
+            w: 0.0
+            x: 0.0
+            y: 0.0
+          - &id003
+            attributes: [leftmargin, '0', topmargin, '0', marginwidth, '0', marginheight,
+              '0', style, 'margin: 0px; padding: 0px;']
+            childNodeCount: 18
+            childrenids: [160, 161, 162, 163, 166, 168, 169, 170, 171, 172, 174, 175,
+              176, 177, 178, 179, 181, 185]
+            h: 51.0
+            localName: body
+            nodeId: 159
+            nodeName: BODY
+            nodeType: 1
+            nodeValue: ''
+            parent: 157
+            props: {leftmargin: '0', marginheight: '0', marginwidth: '0', style: 'margin:
+                0px; padding: 0px;', topmargin: '0'}
+            value: ''
+            w: 320.0
+            x: 0.0
+            y: 0.0
+          childrenids: [158, 159]
+          h: 51.0
+          localName: html
+          nodeId: 157
+          nodeName: HTML
+          nodeType: 1
+          nodeValue: ''
+          parent: 156
+          props: {}
+          value: ''
+          w: 320.0
+          x: 0.0
+          y: 0.0
+        childrenids: [157]
+        documentURL: https://pubads.g.doubleclick.net/gampad/ads?_activity_context=true&android_num_video_cache_tasks=0&caps=inlineVideo_interactiveVideo_mraid1_mraid2_sdkVideo_th_autoplay_mediation_av_transparentBackground_sdkAdmobApiForAds_di_aso_sfv_dinm_dim_nav_dinmo_gcache&eid=318475406%2C318477040%2C318476426%2C318476960%2C318477768%2C318477714&format=320x50_mb&heap_free=6241536&heap_max=268435456&heap_total=37513840&js=afma-sdk-a-v10298470.9877000.2&msid=com.treemolabs.apps.cbsnews&scroll_index=-1&seq_num=6&target_api=23#_activity_context=true&android_num_video_cache_tasks=0&caps=inlineVideo_interactiveVideo_mraid1_mraid2_sdkVideo_th_autoplay_mediation_av_transparentBackground_sdkAdmobApiForAds_di_aso_sfv_dinm_dim_nav_dinmo_gcache&eid=318475406%252C318477040%252C318476426%252C318476960%252C318477768%252C318477714&format=320x50_mb&heap_free=6241536&heap_max=268435456&heap_total=37513840&js=afma-sdk-a-v10298470.9877000.2&msid=com.treemolabs.apps.cbsnews&scroll_index=-1&seq_num=6&target_api=23
+        localName: ''
+        nodeId: 156
+        nodeName: '#document'
+        nodeType: 9
+        nodeValue: ''
+        parent: -1
+        props: {}
+        xmlVersion: ''
+      157: *id001
+      158: *id002
+      159: *id003
+      160:
+        attributes: [type, text/javascript, async, '', src, //tpc.googlesyndication.com/sodar/d5qAyLYU.js]
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: script
+        nodeId: 160
+        nodeName: SCRIPT
+        nodeType: 1
+        nodeValue: ''
+        parent: 159
+        props: {async: '', src: //tpc.googlesyndication.com/sodar/d5qAyLYU.js, type: text/javascript}
+      161:
+        attributes: [type, text/javascript, async, '', src, //pagead2.googlesyndication.com/pagead/js/lidar.js]
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: script
+        nodeId: 161
+        nodeName: SCRIPT
+        nodeType: 1
+        nodeValue: ''
+        parent: 159
+        props: {async: '', src: //pagead2.googlesyndication.com/pagead/js/lidar.js,
+          type: text/javascript}
+      162:
+        attributes: [type, text/javascript, src, mraid.js]
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: script
+        nodeId: 162
+        nodeName: SCRIPT
+        nodeType: 1
+        nodeValue: ''
+        parent: 159
+        props: {src: mraid.js, type: text/javascript}
+      163:
+        attributes: [class, GoogleActiveViewClass, id, DfaVisibilityIdentifier_1790623105]
+        childNodeCount: 1
+        children:
+        - &id004
+          attributes: [target, _blank, href, 'https://adclick.g.doubleclick.net/pcs/click?xai=AKAOjssM5ltCYeJswFblpA_cbD_L1vuOEoqizVOxPFYZ8qadje9WkHOumH7fPAflMTKDyhgNtd17uR9a0ib_KWSfFwrPLOCB8c-EXETkTmpcadKTAQshSWkkaRhGVzH91HBhsAeoys2awpfuk73SGWpxNBEmqvdt7qTaIgI73xEWn-TXRlR0SKg7UXdrb3ux44_OrP-wfNDjvndYO0uFgZS96Y_UGbRDcHT3KZg_X_Op7KsdbD23R8gZmkULoQ&sai=AMfl-YSBD-gQoPfORs6eV9zVyHhTe-JLxl4hjJlke2UpyBPVub_9sPhURCSnupz9U2w&sig=Cg0ArKJSzOFKEf7qjZ3UEAE&urlfix=1&adurl=https://adclick.g.doubleclick.net/pcs/click?xai=AKAOjsvek5CW7SRjeX5tdR40dZYDDoNFzh84KHDn1hglLfH-CzqETJjNC5n4ewFqTk53vKuncDU9MvOYT-gTYl4SR-7WESw2Ixk8r5Y24D0m25N0&sai=AMfl-YTB68Ycgd4rNMubs4b6tWLek6NNbRIOyjTmGEfk3VkRdqemNmaxE5Z1lT9ItPU&sig=Cg0ArKJSzLf42r0-SC-d&urlfix=1&adurl=http://www.ford.com/ford-sales-events/40-years-leadership/%3Fbannerid%3D10693001%7C758570%7C148756054%7C80965923%7C320342769']
+          childNodeCount: 1
+          children:
+          - &id005
+            attributes: [src, 'https://s1.2mdn.net/3971545/2017_FordImpact_ML_FSA_FSD_NAT_ENT_40Years_ACMA_STC_NA_320x50.jpg',
+              alt, Advertisement, border, '0', width, '320', height, '50']
+            childNodeCount: 0
+            children: []
+            childrenids: []
+            h: 50.0
+            localName: img
+            nodeId: 165
+            nodeName: IMG
+            nodeType: 1
+            nodeValue: ''
+            parent: 164
+            props: {alt: Advertisement, border: '0', height: '50', src: 'https://s1.2mdn.net/3971545/2017_FordImpact_ML_FSA_FSD_NAT_ENT_40Years_ACMA_STC_NA_320x50.jpg',
+              width: '320'}
+            value: ''
+            w: 320.0
+            x: 0.0
+            y: 0.0
+          childrenids: [165]
+          h: 19.0
+          localName: a
+          nodeId: 164
+          nodeName: A
+          nodeType: 1
+          nodeValue: ''
+          parent: 163
+          props: {href: 'https://adclick.g.doubleclick.net/pcs/click?xai=AKAOjssM5ltCYeJswFblpA_cbD_L1vuOEoqizVOxPFYZ8qadje9WkHOumH7fPAflMTKDyhgNtd17uR9a0ib_KWSfFwrPLOCB8c-EXETkTmpcadKTAQshSWkkaRhGVzH91HBhsAeoys2awpfuk73SGWpxNBEmqvdt7qTaIgI73xEWn-TXRlR0SKg7UXdrb3ux44_OrP-wfNDjvndYO0uFgZS96Y_UGbRDcHT3KZg_X_Op7KsdbD23R8gZmkULoQ&sai=AMfl-YSBD-gQoPfORs6eV9zVyHhTe-JLxl4hjJlke2UpyBPVub_9sPhURCSnupz9U2w&sig=Cg0ArKJSzOFKEf7qjZ3UEAE&urlfix=1&adurl=https://adclick.g.doubleclick.net/pcs/click?xai=AKAOjsvek5CW7SRjeX5tdR40dZYDDoNFzh84KHDn1hglLfH-CzqETJjNC5n4ewFqTk53vKuncDU9MvOYT-gTYl4SR-7WESw2Ixk8r5Y24D0m25N0&sai=AMfl-YTB68Ycgd4rNMubs4b6tWLek6NNbRIOyjTmGEfk3VkRdqemNmaxE5Z1lT9ItPU&sig=Cg0ArKJSzLf42r0-SC-d&urlfix=1&adurl=http://www.ford.com/ford-sales-events/40-years-leadership/%3Fbannerid%3D10693001%7C758570%7C148756054%7C80965923%7C320342769',
+            target: _blank}
+          value: ''
+          w: 320.0
+          x: 0.0
+          y: 35.0
+        childrenids: [164]
+        h: 50.0
+        localName: div
+        nodeId: 163
+        nodeName: DIV
+        nodeType: 1
+        nodeValue: ''
+        parent: 159
+        props: {class: GoogleActiveViewClass, id: DfaVisibilityIdentifier_1790623105}
+        value: ''
+        w: 320.0
+        x: 0.0
+        y: 0.0
+      164: *id004
+      165: *id005
+      166:
+        attributes: [type, text/javascript]
+        childNodeCount: 1
+        children:
+        - {localName: '', nodeId: 167, nodeName: '#text', nodeType: 3, nodeValue: '(function()
+            {var avDiv = document.getElementById("DfaVisibilityIdentifier_1790623105");if
+            (!avDiv) {avDiv = {};window["DfaVisibilityIdentifier_1790623105_avData"]
+            = avDiv;}if (avDiv) {avDiv[''_avi_''] = '''';avDiv[''_avihost_''] = ''pagead2.googlesyndication.com'';avDiv[''_avicxn_'']
+            = ''https://pagead2.googlesyndication.com/pcs/activeview?xai\x3dAKAOjsuCZPiYxnzbX8mo1G9oTI_SSNPnAsMl1Ktf_6n70w3gIIA8bMno6r2QWkeWd7q0iJcvhc1az_E\x26sig\x3dCg0ArKJSzLWp8jh05CdJEAE'';avDiv[''_avm_'']
+            = ''la\x3d0\x26'';}var glidar = document.createElement(''script'');glidar.type
+            = ''text/javascript'';glidar.async = true;glidar.src = ''//pagead2.googlesyndication.com/pagead/js/lidar.js'';var
+            s = document.getElementsByTagName(''script'')[0];s.parentNode.insertBefore(glidar,
+            s);})();'}
+        childrenids: []
+        localName: script
+        nodeId: 166
+        nodeName: SCRIPT
+        nodeType: 1
+        nodeValue: ''
+        parent: 159
+        props: {type: text/javascript}
+      168:
+        attributes: [src, 'https://h.nexac.com/e/a-1659/s-3508/c-840/g-3041.xgi?pkey=bijo15bijox40&chpcm=10693001&chpsg=758570&chpcr=80965923&chpck=320342769&rand=1790623105&chpth=148756054',
+          height, '1', width, '1', border, '0']
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        h: 1.0
+        localName: img
+        nodeId: 168
+        nodeName: IMG
+        nodeType: 1
+        nodeValue: ''
+        parent: 159
+        props: {border: '0', height: '1', src: 'https://h.nexac.com/e/a-1659/s-3508/c-840/g-3041.xgi?pkey=bijo15bijox40&chpcm=10693001&chpsg=758570&chpcr=80965923&chpck=320342769&rand=1790623105&chpth=148756054',
+          width: '1'}
+        value: ''
+        w: 1.0
+        x: 0.0
+        y: 50.0
+      169:
+        attributes: [type, text/javascript, src, 'https://z.moatads.com/mindshareteamdetroit368744854109/moatad.js#moatClientLevel1=3971545&moatClientLevel2=10693001&moatClientLevel3=758570&moatClientLevel4=148756054&zMoatG=ct=US&st=NY&city=13275&dma=3&zp=10027&bw=4&zMoatCR=80965923']
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: script
+        nodeId: 169
+        nodeName: SCRIPT
+        nodeType: 1
+        nodeValue: ''
+        parent: 159
+        props: {src: 'https://z.moatads.com/mindshareteamdetroit368744854109/moatad.js#moatClientLevel1=3971545&moatClientLevel2=10693001&moatClientLevel3=758570&moatClientLevel4=148756054&zMoatG=ct=US&st=NY&city=13275&dma=3&zp=10027&bw=4&zMoatCR=80965923',
+          type: text/javascript}
+      170:
+        attributes: [type, text/javascript, src, 'https://c.betrad.com/durly.js?;ad_wxh=320x50;coid=1063;nid=4552;ecaid=10693001|758570|148756054|80965923;']
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: script
+        nodeId: 170
+        nodeName: SCRIPT
+        nodeType: 1
+        nodeValue: ''
+        parent: 159
+        props: {src: 'https://c.betrad.com/durly.js?;ad_wxh=320x50;coid=1063;nid=4552;ecaid=10693001|758570|148756054|80965923;',
+          type: text/javascript}
+      171:
+        attributes: [id, ba.js, async, '', src, 'https://c.betrad.com/mobile-64.js']
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: script
+        nodeId: 171
+        nodeName: SCRIPT
+        nodeType: 1
+        nodeValue: ''
+        parent: 159
+        props: {async: '', id: ba.js, src: 'https://c.betrad.com/mobile-64.js'}
+      172:
+        attributes: [type, text/javascript]
+        childNodeCount: 1
+        children:
+        - {localName: '', nodeId: 173, nodeName: '#text', nodeType: 3, nodeValue: '(function()
+            {if (!window.GoogleTyFxhY || typeof window.GoogleTyFxhY.push !== ''function'')
+            {window.GoogleTyFxhY = [];}window.GoogleTyFxhY.push({''_scs_'': ''BA3s4fLniWPDRBITDzgXUyInACAAAAAA4AeAEAg'',''_bgu_'':
+            ''https://pagead2.googlesyndication.com/bg/db7KNPtkE4zG9BtR4cnMZHttZikK_5y0_126agzRcbU.js'',''_bgp_'':
+            ''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''});var
+            gsodar = document.createElement(''script'');gsodar.type = ''text/javascript'';gsodar.async
+            = true;gsodar.src = ''//tpc.googlesyndication.com/sodar/d5qAyLYU.js'';var
+            s = document.getElementsByTagName(''script'')[0];s.parentNode.insertBefore(gsodar,
+            s);})();'}
+        childrenids: []
+        localName: script
+        nodeId: 172
+        nodeName: SCRIPT
+        nodeType: 1
+        nodeValue: ''
+        parent: 159
+        props: {type: text/javascript}
+      174:
+        attributes: [class, 'MOAT-cbsdfp5832910442?moatClientLevel1=24729609&moatClientLevel2=491201289&moatClientLevel3=576588609&moatClientLevel4=120078648969&moatClientSlicer1=24857409&moatClientSlicer2=55137609&zMoatPS=1&zMoatSECT=&zMoatPT=Listing&zMoatFT=&zMoatW=320&zMoatH=50&zMoatVGUID=&zMoatSN=b&zMoatAID=']
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: noscript
+        nodeId: 174
+        nodeName: NOSCRIPT
+        nodeType: 1
+        nodeValue: ''
+        parent: 159
+        props: {class: 'MOAT-cbsdfp5832910442?moatClientLevel1=24729609&moatClientLevel2=491201289&moatClientLevel3=576588609&moatClientLevel4=120078648969&moatClientSlicer1=24857409&moatClientSlicer2=55137609&zMoatPS=1&zMoatSECT=&zMoatPT=Listing&zMoatFT=&zMoatW=320&zMoatH=50&zMoatVGUID=&zMoatSN=b&zMoatAID='}
+      175:
+        attributes: [type, text/javascript, async, '', src, '//ml314.com/tag.aspx?332017']
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: script
+        nodeId: 175
+        nodeName: SCRIPT
+        nodeType: 1
+        nodeValue: ''
+        parent: 159
+        props: {async: '', src: '//ml314.com/tag.aspx?332017', type: text/javascript}
+      176:
+        attributes: [type, text/javascript, src, 'https://geo.moatads.com/n.js?e=35&ue=2&uu=false&qm=240&qn=6OZw%3DoHB%2CEF%3FKC1I%3Cq.bWoCSV2W0Su*TDXlCfX2iR2%25(GyHN%3DI(%2C%3Ba15lK1t!9Zp%24%2C..8W*%3F6UJ%5E_%40oUsw%3A%3D%2B%7B%22%406U!%5BFZKU37lC%2Cfqi2U%3ASNFcpE%3Dn%3Ch%2C1v7UNHt5ikS8Ih7%2Bh%3B%3C!%40yw%5E7j%22%25%3ACXof5cxPcs8%23Ka8x%2Bb%7CHZwzi%404Y%40QA%60%2Cb%5B%60%3Fjc!L258Ks%5E%5BIA%3BIl8EF%2BrRdWDU%3CVZ!r%26J(%2C%3Ba15lKIv!9Zp%3B%5Bpwxnd5N!v%5ETmjkMPv%3C8%2B%25*6U%25%5BnvLU371%22ASYUby%3D(tN%23V.xm93If%25.b%5EhyeV2E%3FaCwN%60_zKx_ZX%3C!p!FQ2iG%3DDgU*ae%3C!x%5Eyx3o(%2FLyhqFBjK7%3DuCbR%7CDoD%3Dh9%3BR2M*uu%2CNm!4.MmIo%40GX%5Ejv5kv2EF6pJBPJ.(0E%3AUdBE)%23na%3AU%228We%3A%60%22gq_G%24G1t0b%3BUE%3FSFZ%2FKo7FA.%5BMhS%3A15.sn_003etW6XV8lX%3CeaL57IM%3CpBrGm!ryD%5BSoV3Zt5NOCF%259%3Cc%2C~j%3BR20HmlLntoDUj%7B!%3CFeid%5BOV%7C%2B2x%3D(%3Ce7%25%3DjkkeL%40ndKypqoUKX*%5Dmjrtoe3%3CowMFK%3A%3ASB%5BPVRbKlJ1v8%25w%5ETm!j%2F)dK0D)cRSK%3By9dj!lmfp%2B*p%3C!%22gmuLU!%2F8*HOX%3BfFO%3BYj7ry5*ZRocMp1tq%5BN%7Bq%60RP%3CG.ceFW%7CoG%22mxT%3Bwv%40V374BKm55%3D%26%3EE%40%40lN%2F%2FTyy)%3Ce6U_%60UY%2BT9%2FGf%2B%7BK%24S%2300Xmej%3EidK%3Eo%26)FK%3A%3AatASYUby%3D(tN%23V.xm93If%25.b%5EhyeV2E%3FaCwN%60_zKx_ZX%3C!p!FQ2iG%3DDgU*ae%3C!x%5Eyx3okt%24b_o%3FtVD%5D%5BpN%7CQF%40Sy7%7BlTr1W*d%5BOCF%25OJ&qp=00000&qq=000000000000&qr=0&gz=0&hh=0&hn=0&qt=0&i=CBSDFPCW2&hp=1&zMoatPS=1&zMoatSECT=Section%20Not%20Defined&zMoatPT=Listing&zMoatFT=Not%20Specified&zMoatW=320&zMoatH=50&zMoatVGUID=Value%20Not%20Defined&zMoatSN=b&zMoatAID=Value%20Not%20Defined&cm=22&kq=2.625&hq=0&hs=0&hu=1&hr=0&ht=0&bq=0&f=0&j=&o=3&t=1491253628531&de=509066584054&m=0&ar=09aa585-clean&q=3&cb=1&cu=1491253628531&ll=1&ln=0&r=0&em=0&en=0&d=24729609%3A491201289%3A576588609%3A120078648969&qs=1&zGSRC=1&gu=https%3A%2F%2Fpubads.g.doubleclick.net%2Fgampad%2Fads%3F_activity_context%3Dtrue%26android_num_video_cache_tasks%3D0%26caps%3DinlineVideo_interactiveVideo_mraid1_mraid2_sdkVideo_th_autoplay_mediation_av_transparentBackground_sdkAdmobApiForAds_di_aso_sfv_dinm_dim_nav_dinmo_gcache%26eid%3D318475406%252C318477040%252C318476426%252C318476960%252C318477768%252C318477714%26format%3D320x50_mb%26heap_free%3D6241536%26heap_max%3D268435456%26heap_total%3D37513840%26js%3Dafma-sdk-a-v10298470.9877000.2%26msid%3Dcom.treemolabs.apps.cbsnews%26scroll_index%3D-1%26seq_num%3D6%26target_api%3D23%23_activity_context%3Dtrue%26android_num_video_cache_tasks%3D0%26caps%3DinlineVideo_interactiveVideo_mraid1_mraid2_sdkVideo_th_autoplay_mediation_av_transparentBackground_sdkAdmobApiForAds_di_aso_sfv_dinm_dim_nav_dinmo_gcache%26eid%3D318475406%25252C318477040%25252C318476426%25252C318476960%25252C318477768%25252C318477714%26format%3D320x50_mb%26heap_free%3D6241536%26heap_max%3D268435456%26heap_total%3D37513840%26js%3Dafma-sdk-a-v10298470.9877000.2%26msid%3Dcom.treemolabs.apps.cbsnews%26scroll_index%3D-1%26seq_num%3D6%26target_api%3D23&bo=24857409&bp=55137609&bd=1&dfp=0%2C1&la=55137609&zMoatNotCnet=true&zMoatSZ=320x50&zMoatSZPS=320x50%20%7C%201&zMoatPTAT=Listing&zMoatPTATSECT=Listing&gw=cbsdfp5832910442&fd=1&zMoatMMAKin=0&ac=1&it=500&lv=3&fs=110148&na=2008276612&cs=0&callback=MoatSuperV24.gna290548']
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: script
+        nodeId: 176
+        nodeName: SCRIPT
+        nodeType: 1
+        nodeValue: ''
+        parent: 159
+        props: {src: 'https://geo.moatads.com/n.js?e=35&ue=2&uu=false&qm=240&qn=6OZw%3DoHB%2CEF%3FKC1I%3Cq.bWoCSV2W0Su*TDXlCfX2iR2%25(GyHN%3DI(%2C%3Ba15lK1t!9Zp%24%2C..8W*%3F6UJ%5E_%40oUsw%3A%3D%2B%7B%22%406U!%5BFZKU37lC%2Cfqi2U%3ASNFcpE%3Dn%3Ch%2C1v7UNHt5ikS8Ih7%2Bh%3B%3C!%40yw%5E7j%22%25%3ACXof5cxPcs8%23Ka8x%2Bb%7CHZwzi%404Y%40QA%60%2Cb%5B%60%3Fjc!L258Ks%5E%5BIA%3BIl8EF%2BrRdWDU%3CVZ!r%26J(%2C%3Ba15lKIv!9Zp%3B%5Bpwxnd5N!v%5ETmjkMPv%3C8%2B%25*6U%25%5BnvLU371%22ASYUby%3D(tN%23V.xm93If%25.b%5EhyeV2E%3FaCwN%60_zKx_ZX%3C!p!FQ2iG%3DDgU*ae%3C!x%5Eyx3o(%2FLyhqFBjK7%3DuCbR%7CDoD%3Dh9%3BR2M*uu%2CNm!4.MmIo%40GX%5Ejv5kv2EF6pJBPJ.(0E%3AUdBE)%23na%3AU%228We%3A%60%22gq_G%24G1t0b%3BUE%3FSFZ%2FKo7FA.%5BMhS%3A15.sn_003etW6XV8lX%3CeaL57IM%3CpBrGm!ryD%5BSoV3Zt5NOCF%259%3Cc%2C~j%3BR20HmlLntoDUj%7B!%3CFeid%5BOV%7C%2B2x%3D(%3Ce7%25%3DjkkeL%40ndKypqoUKX*%5Dmjrtoe3%3CowMFK%3A%3ASB%5BPVRbKlJ1v8%25w%5ETm!j%2F)dK0D)cRSK%3By9dj!lmfp%2B*p%3C!%22gmuLU!%2F8*HOX%3BfFO%3BYj7ry5*ZRocMp1tq%5BN%7Bq%60RP%3CG.ceFW%7CoG%22mxT%3Bwv%40V374BKm55%3D%26%3EE%40%40lN%2F%2FTyy)%3Ce6U_%60UY%2BT9%2FGf%2B%7BK%24S%2300Xmej%3EidK%3Eo%26)FK%3A%3AatASYUby%3D(tN%23V.xm93If%25.b%5EhyeV2E%3FaCwN%60_zKx_ZX%3C!p!FQ2iG%3DDgU*ae%3C!x%5Eyx3okt%24b_o%3FtVD%5D%5BpN%7CQF%40Sy7%7BlTr1W*d%5BOCF%25OJ&qp=00000&qq=000000000000&qr=0&gz=0&hh=0&hn=0&qt=0&i=CBSDFPCW2&hp=1&zMoatPS=1&zMoatSECT=Section%20Not%20Defined&zMoatPT=Listing&zMoatFT=Not%20Specified&zMoatW=320&zMoatH=50&zMoatVGUID=Value%20Not%20Defined&zMoatSN=b&zMoatAID=Value%20Not%20Defined&cm=22&kq=2.625&hq=0&hs=0&hu=1&hr=0&ht=0&bq=0&f=0&j=&o=3&t=1491253628531&de=509066584054&m=0&ar=09aa585-clean&q=3&cb=1&cu=1491253628531&ll=1&ln=0&r=0&em=0&en=0&d=24729609%3A491201289%3A576588609%3A120078648969&qs=1&zGSRC=1&gu=https%3A%2F%2Fpubads.g.doubleclick.net%2Fgampad%2Fads%3F_activity_context%3Dtrue%26android_num_video_cache_tasks%3D0%26caps%3DinlineVideo_interactiveVideo_mraid1_mraid2_sdkVideo_th_autoplay_mediation_av_transparentBackground_sdkAdmobApiForAds_di_aso_sfv_dinm_dim_nav_dinmo_gcache%26eid%3D318475406%252C318477040%252C318476426%252C318476960%252C318477768%252C318477714%26format%3D320x50_mb%26heap_free%3D6241536%26heap_max%3D268435456%26heap_total%3D37513840%26js%3Dafma-sdk-a-v10298470.9877000.2%26msid%3Dcom.treemolabs.apps.cbsnews%26scroll_index%3D-1%26seq_num%3D6%26target_api%3D23%23_activity_context%3Dtrue%26android_num_video_cache_tasks%3D0%26caps%3DinlineVideo_interactiveVideo_mraid1_mraid2_sdkVideo_th_autoplay_mediation_av_transparentBackground_sdkAdmobApiForAds_di_aso_sfv_dinm_dim_nav_dinmo_gcache%26eid%3D318475406%25252C318477040%25252C318476426%25252C318476960%25252C318477768%25252C318477714%26format%3D320x50_mb%26heap_free%3D6241536%26heap_max%3D268435456%26heap_total%3D37513840%26js%3Dafma-sdk-a-v10298470.9877000.2%26msid%3Dcom.treemolabs.apps.cbsnews%26scroll_index%3D-1%26seq_num%3D6%26target_api%3D23&bo=24857409&bp=55137609&bd=1&dfp=0%2C1&la=55137609&zMoatNotCnet=true&zMoatSZ=320x50&zMoatSZPS=320x50%20%7C%201&zMoatPTAT=Listing&zMoatPTATSECT=Listing&gw=cbsdfp5832910442&fd=1&zMoatMMAKin=0&ac=1&it=500&lv=3&fs=110148&na=2008276612&cs=0&callback=MoatSuperV24.gna290548',
+          type: text/javascript}
+      177:
+        attributes: [src, 'https://z.moatads.com/cbsdfp5832910442/moatad.js#moatClientLevel1=24729609&moatClientLevel2=491201289&moatClientLevel3=576588609&moatClientLevel4=120078648969&moatClientSlicer1=24857409&moatClientSlicer2=55137609&zMoatPS=1&zMoatSECT=&zMoatPT=Listing&zMoatFT=&zMoatW=320&zMoatH=50&zMoatVGUID=&zMoatSN=b&zMoatAID=',
+          type, text/javascript]
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: script
+        nodeId: 177
+        nodeName: SCRIPT
+        nodeType: 1
+        nodeValue: ''
+        parent: 159
+        props: {src: 'https://z.moatads.com/cbsdfp5832910442/moatad.js#moatClientLevel1=24729609&moatClientLevel2=491201289&moatClientLevel3=576588609&moatClientLevel4=120078648969&moatClientSlicer1=24857409&moatClientSlicer2=55137609&zMoatPS=1&zMoatSECT=&zMoatPT=Listing&zMoatFT=&zMoatW=320&zMoatH=50&zMoatVGUID=&zMoatSN=b&zMoatAID=',
+          type: text/javascript}
+      178:
+        attributes: [src, 'https://c.betrad.com/a/n/1063/4552.js']
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: script
+        nodeId: 178
+        nodeName: SCRIPT
+        nodeType: 1
+        nodeValue: ''
+        parent: 159
+        props: {src: 'https://c.betrad.com/a/n/1063/4552.js'}
+      179:
+        attributes: [src, //tpc.googlesyndication.com/sodar/9im3l02I.html, width,
+          '0', height, '0', style, 'display: none;']
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        contentDocument: {baseURL: 'https://tpc.googlesyndication.com/sodar/9im3l02I.html',
+          childNodeCount: 2, documentURL: 'https://tpc.googlesyndication.com/sodar/9im3l02I.html',
+          localName: '', nodeId: 180, nodeName: '#document', nodeType: 9, nodeValue: '',
+          xmlVersion: ''}
+        frameId: '10164.1'
+        h: 0.0
+        localName: iframe
+        nodeId: 179
+        nodeName: IFRAME
+        nodeType: 1
+        nodeValue: ''
+        parent: 159
+        props: {height: '0', src: //tpc.googlesyndication.com/sodar/9im3l02I.html,
+          style: 'display: none;', width: '0'}
+        value: ''
+        w: 0.0
+        x: 0.0
+        y: 0.0
+      181:
+        attributes: [id, BAP-holder]
+        childNodeCount: 1
+        children:
+        - &id006
+          attributes: [id, trigger-container-71857, style, 'position: static !important;']
+          childNodeCount: 1
+          children:
+          - &id007
+            attributes: [id, trigger-71857, style, 'position: absolute; opacity: 0.6;
+                top: 0px; left: 301px;', class, bap-trigger, onclick, 'BAP.options[''71857''].open(''https://info.evidon.com/more_info/4552'',
+                ''_newtab'');']
+            childNodeCount: 1
+            children:
+            - &id008
+              attributes: [src, 'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABMAAAAPCAYAAAAGRPQsAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAh9JREFUeNpi/P///2YGKgEmbILlx24aSm656DTlyhOVdz9+s/0n0jBGbC7jXn/W4/f//8xszIx/9dlYfhapSdx2khZ6KcjB+ptklzEwMjCECnO/2WamfJqfk+1r9KXHuslHb5ruevJO9OPPPywkGfYPiAU52L7bSQq83eageWqlnuyV27/+sbufvGtee/ae3vGXHwX//f/PSJRhIFX//v0Dy9378JX3/fdfHAuMFS40KovdXvPum3DQsduWvRcfqV9595WXoGH/gSHOwwSR+v7nH+u9z995xTlYftYZyN/cbK58KkiC/2nZnVcqmafvGW26+1wGpo8FV5j9hEbht39ABhPT/z///oNNNxbl/QjEFx/tvsK35eN3/j/XX6j5KUs+we1NoP4f//+Djdv19jPPkmcfpD/9/c8M4u8DRkLGsduGWz//4PMU4Hpfoyl5A6/LGIEuY4IGLwcz8z9+ZqY/195+EVhx/7VM/+O3cpKMDP+nqEvccJcReqHMz/UVr2FAJzGyMTKCXSbJzvL7wq+/LEXXnmky///HWCEr9MhfQfSxgQjvJ3R9IMN8gRgl4QJd9f8W0Bs7H78V+/vjN4cDL8cXOU7WrxlqEncMRfk+cjAz/cOVAxjQDePZeNbj2+9/zBJsTL8blMTu+SiJP+ZiZvorwM7yB18OgHkTxXVhApxvT3z7w1WpJPIwTFn8MTsL819i8ya6GNmlCECAAQBoHeDS2q/MOwAAAABJRU5ErkJggg%3D%3D']
+              childNodeCount: 0
+              children: []
+              childrenids: []
+              h: 15.0
+              localName: img
+              nodeId: 184
+              nodeName: IMG
+              nodeType: 1
+              nodeValue: ''
+              parent: 183
+              props: {src: 'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABMAAAAPCAYAAAAGRPQsAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAh9JREFUeNpi/P///2YGKgEmbILlx24aSm656DTlyhOVdz9+s/0n0jBGbC7jXn/W4/f//8xszIx/9dlYfhapSdx2khZ6KcjB+ptklzEwMjCECnO/2WamfJqfk+1r9KXHuslHb5ruevJO9OPPPywkGfYPiAU52L7bSQq83eageWqlnuyV27/+sbufvGtee/ae3vGXHwX//f/PSJRhIFX//v0Dy9378JX3/fdfHAuMFS40KovdXvPum3DQsduWvRcfqV9595WXoGH/gSHOwwSR+v7nH+u9z995xTlYftYZyN/cbK58KkiC/2nZnVcqmafvGW26+1wGpo8FV5j9hEbht39ABhPT/z///oNNNxbl/QjEFx/tvsK35eN3/j/XX6j5KUs+we1NoP4f//+Djdv19jPPkmcfpD/9/c8M4u8DRkLGsduGWz//4PMU4Hpfoyl5A6/LGIEuY4IGLwcz8z9+ZqY/195+EVhx/7VM/+O3cpKMDP+nqEvccJcReqHMz/UVr2FAJzGyMTKCXSbJzvL7wq+/LEXXnmky///HWCEr9MhfQfSxgQjvJ3R9IMN8gRgl4QJd9f8W0Bs7H78V+/vjN4cDL8cXOU7WrxlqEncMRfk+cjAz/cOVAxjQDePZeNbj2+9/zBJsTL8blMTu+SiJP+ZiZvorwM7yB18OgHkTxXVhApxvT3z7w1WpJPIwTFn8MTsL819i8ya6GNmlCECAAQBoHeDS2q/MOwAAAABJRU5ErkJggg%3D%3D'}
+              value: ''
+              w: 19.0
+              x: 301.0
+              y: 0.0
+            childrenids: [184]
+            h: 15.0
+            localName: span
+            nodeId: 183
+            nodeName: SPAN
+            nodeType: 1
+            nodeValue: ''
+            parent: 182
+            props: {class: bap-trigger, id: trigger-71857, onclick: 'BAP.options[''71857''].open(''https://info.evidon.com/more_info/4552'',
+                ''_newtab'');', style: 'position: absolute; opacity: 0.6; top: 0px;
+                left: 301px;'}
+            value: ''
+            w: 19.0
+            x: 301.0
+            y: 0.0
+          childrenids: [183]
+          h: 0.0
+          localName: div
+          nodeId: 182
+          nodeName: DIV
+          nodeType: 1
+          nodeValue: ''
+          parent: 181
+          props: {id: trigger-container-71857, style: 'position: static !important;'}
+          value: ''
+          w: 320.0
+          x: 0.0
+          y: 51.0
+        childrenids: [182]
+        h: 0.0
+        localName: div
+        nodeId: 181
+        nodeName: DIV
+        nodeType: 1
+        nodeValue: ''
+        parent: 159
+        props: {id: BAP-holder}
+        value: ''
+        w: 320.0
+        x: 0.0
+        y: 51.0
+      182: *id006
+      183: *id007
+      184: *id008
+      185:
+        attributes: [width, '0', height, '0', src, 'https://l.betrad.com/ct/0_0_10693001%7C758570%7C148756054%7C80965923_4552/us/0/1/0/0/0/0/320/50/242/1063/0/pixel.gif?v=2m_1&ttid=2&d=pubads.g.doubleclick.net&mb=2&r=0.5606056090909988',
+          style, 'display: none;']
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        h: 0.0
+        localName: img
+        nodeId: 185
+        nodeName: IMG
+        nodeType: 1
+        nodeValue: ''
+        parent: 159
+        props: {height: '0', src: 'https://l.betrad.com/ct/0_0_10693001%7C758570%7C148756054%7C80965923_4552/us/0/1/0/0/0/0/320/50/242/1063/0/pixel.gif?v=2m_1&ttid=2&d=pubads.g.doubleclick.net&mb=2&r=0.5606056090909988',
+          style: 'display: none;', width: '0'}
+        shadowRoots:
+        - {childNodeCount: 1, localName: '', nodeId: 186, nodeName: '#document-fragment',
+          nodeType: 11, nodeValue: '', shadowRootType: user-agent}
+        value: ''
+        w: 0.0
+        x: 0.0
+        y: 0.0
+    page: {base_h: 131, base_w: 840, base_x: 119, base_y: 1848, empty: false, title: 'about:blank',
+      url: 'about:blank', ws_url: 'ws://127.0.0.1:12345/devtools/page/1DFEE795-F8FA-4943-AC17-D85904B9F329'}
+    parents: {157: 156, 158: 157, 159: 157, 160: 159, 161: 159, 162: 159, 163: 159,
+      164: 163, 165: 164, 166: 159, 167: 166, 168: 159, 169: 159, 170: 159, 171: 159,
+      172: 159, 173: 172, 174: 159, 175: 159, 176: 159, 177: 159, 178: 159, 179: 159,
+      181: 159, 182: 181, 183: 182, 184: 183, 185: 159}
+    scaling: 2.625
+  title: about:blank

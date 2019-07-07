@@ -1,0 +1,6 @@
+64 subtotal
+67 shippingcost
+70 tax
+73 totalcost
+92 totalcost
+93 continue

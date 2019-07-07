@@ -1,0 +1,10 @@
+11 menu
+14 search
+16 cart
+39 cat_image
+41 cat_title
+45 cat_image
+47 cat_title
+51 cat_image
+53 cat_title
+57 cat_image

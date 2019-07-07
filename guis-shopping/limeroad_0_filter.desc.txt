@@ -1,0 +1,8 @@
+6 back
+9 filter_reset
+10 apply
+14 filter_category
+15 filter_price
+16 filter_brand
+17 filter_color
+18 filter_size

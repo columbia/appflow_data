@@ -1,0 +1,1 @@
+com.etsy.android/.ui.user.auth.SignInActivity

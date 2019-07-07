@@ -1,0 +1,46 @@
+ 
+
+    
+
+Jet.com® Android app open—source notices
+Last updated: 10/25/2016
+
+# Document Overview
+
+This document includes licensing information relating to
+
+the free and open—source software (“FOSS") included with
+the Jet.com ("JET") client application (the “SOFTWARE").
+The terms of the applicable FOSS license(s) govern Jet's
+distribution and your use of the SOFTWARE. Jet and the
+third—party authors, licensors, and distributors of the
+SOFTWARE disclaim all warranties and all liability arising
+from any and all use and distribution of the SOFTWARE. To
+the extent the F038 is provided under an agreement with Jet
+that differs from the applicable FOSS license(s), those terms
+are offered by Jet alone.
+
+Jet has reproduced below copyright and other licensing
+notices appearing within the F088 packages. While Jet
+seeks to provide complete and accurate copyright and
+licensing information for each FOSS package, Jet does
+
+not represent or warrant that the following information is
+complete, correct, or error-free. SOFTWARE recipients are
+encouraged to (a) investigate the identified FOSS packages
+to conﬁrm the accuracy of the licensing information provided
+herein and (b) notify Jet of any inaccuracies or errors found
+in this document so that Jet may update this document
+accordingly.
+
+# Acknowledgements
+This application makes use ofthe following third party
+libraries:
+
+## Android Platform/SDK/Support Libraries
+https://developer.android.com/
+https://developer.android.com/tools/support-library/
+indexhtml
+
+ 
+

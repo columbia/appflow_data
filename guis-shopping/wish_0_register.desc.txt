@@ -1,0 +1,9 @@
+10 back
+16 firstname
+17 lastname
+18 email
+19 email2
+20 password
+21 register
+24 register_fb
+27 register_gg

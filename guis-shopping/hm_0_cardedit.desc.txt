@@ -1,0 +1,7 @@
+25 card_no
+29 card_month
+30 card_year
+34 card_cvv
+47 totalcost
+50 back
+51 card_save

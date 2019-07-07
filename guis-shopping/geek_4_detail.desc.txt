@@ -1,0 +1,7 @@
+10 back
+13 search
+29 detail_image
+35 detail_title
+45 share
+56 detail_price
+58 detail_buy

@@ -1,0 +1,9 @@
+8 back
+17 detail_image
+21 detail_image
+25 detail_image
+28 detail_image
+31 detail_image
+32 detail_title
+43 detail_buy
+47 detail_price

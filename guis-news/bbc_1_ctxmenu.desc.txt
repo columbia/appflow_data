@@ -1,0 +1,2 @@
+7 textsize
+10 setting

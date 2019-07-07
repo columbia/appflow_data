@@ -1,0 +1,6 @@
+16 back
+19 filter_reset
+20 filter_list
+45 filter_category
+52 filter_brand
+89 apply

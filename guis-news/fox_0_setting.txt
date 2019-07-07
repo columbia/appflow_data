@@ -1,0 +1,1 @@
+com.foxnews.android/com.foxnews.android.settings.SettingsActivity

@@ -1,0 +1,1376 @@
+- page:
+    base_h: 1584
+    base_w: 1080
+    base_x: 0
+    base_y: 210
+    html_h: 604.0
+    html_w: 412.0
+    nodes:
+      1:
+        backendNodeId: 180
+        baseURL: https://www.myntra.com/aboutus?showMobileVerification=true
+        childNodeCount: 1
+        children:
+        - &id001
+          attributes: [class, js light secure]
+          backendNodeId: 181
+          childNodeCount: 2
+          children:
+          - &id002
+            attributes: []
+            backendNodeId: 182
+            childNodeCount: 18
+            childrenids: [5, 6, 7, 8, 9, 10, 11, 12, 13, 15, 17, 18, 19, 20, 21, 22,
+              24, 26]
+            h: 0.0
+            localName: head
+            nodeId: 3
+            nodeName: HEAD
+            nodeType: 1
+            nodeValue: ''
+            parent: 2
+            props: {}
+            value: ''
+            w: 0.0
+            x: 0.0
+            y: 0.0
+          - &id003
+            attributes: [class, page default]
+            backendNodeId: 183
+            childNodeCount: 6
+            childrenids: [28, 77, 79, 80, 81, 83]
+            h: 604.0
+            localName: body
+            nodeId: 4
+            nodeName: BODY
+            nodeType: 1
+            nodeValue: ''
+            parent: 2
+            props: {class: page default}
+            value: ''
+            w: 412.0
+            x: 0.0
+            y: 0.0
+          childrenids: [3, 4]
+          frameId: '14138.2'
+          h: 604.0
+          localName: html
+          nodeId: 2
+          nodeName: HTML
+          nodeType: 1
+          nodeValue: ''
+          parent: 1
+          props: {class: js light secure}
+          value: ''
+          w: 412.0
+          x: 0.0
+          y: 0.0
+        childrenids: [2]
+        documentURL: https://www.myntra.com/aboutus?showMobileVerification=true
+        localName: ''
+        nodeId: 1
+        nodeName: '#document'
+        nodeType: 9
+        nodeValue: ''
+        parent: -1
+        props: {}
+        xmlVersion: ''
+      2: *id001
+      3: *id002
+      4: *id003
+      5:
+        attributes: [charset, UTF-8]
+        backendNodeId: 184
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: meta
+        nodeId: 5
+        nodeName: META
+        nodeType: 1
+        nodeValue: ''
+        parent: 3
+        props: {charset: UTF-8}
+      6:
+        attributes: [name, viewport, content, 'width=device-width, user-scalable=no,
+            initial-scale=1']
+        backendNodeId: 185
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: meta
+        nodeId: 6
+        nodeName: META
+        nodeType: 1
+        nodeValue: ''
+        parent: 3
+        props: {content: 'width=device-width, user-scalable=no, initial-scale=1',
+          name: viewport}
+      7:
+        attributes: [name, google-signin-clientid, content, 787245060481-4padi0c9g2l1pnbie52fmpfdpo43209i.apps.googleusercontent.com]
+        backendNodeId: 186
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: meta
+        nodeId: 7
+        nodeName: META
+        nodeType: 1
+        nodeValue: ''
+        parent: 3
+        props: {content: 787245060481-4padi0c9g2l1pnbie52fmpfdpo43209i.apps.googleusercontent.com,
+          name: google-signin-clientid}
+      8:
+        attributes: [name, google-signin-cookiepolicy, content, single_host_origin]
+        backendNodeId: 187
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: meta
+        nodeId: 8
+        nodeName: META
+        nodeType: 1
+        nodeValue: ''
+        parent: 3
+        props: {content: single_host_origin, name: google-signin-cookiepolicy}
+      9:
+        attributes: [name, google-signin-scope, content, 'https://www.googleapis.com/auth/plus.me
+            email']
+        backendNodeId: 188
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: meta
+        nodeId: 9
+        nodeName: META
+        nodeType: 1
+        nodeValue: ''
+        parent: 3
+        props: {content: 'https://www.googleapis.com/auth/plus.me email', name: google-signin-scope}
+      10:
+        attributes: [name, google-signin-prompt, content, select_account]
+        backendNodeId: 189
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: meta
+        nodeId: 10
+        nodeName: META
+        nodeType: 1
+        nodeValue: ''
+        parent: 3
+        props: {content: select_account, name: google-signin-prompt}
+      11:
+        attributes: [name, keywords, content, 'Online Shopping India, Branded Shoes,
+            Clothing, Accessories, Fashion wear, Sports, Branded apparel, Cool T-Shirts,
+            T-shirt Designs, Footwear, Football jerseys, watches, kurtas, kurtis,
+            formal wear, shirts, pants, trousers']
+        backendNodeId: 190
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: meta
+        nodeId: 11
+        nodeName: META
+        nodeType: 1
+        nodeValue: ''
+        parent: 3
+        props: {content: 'Online Shopping India, Branded Shoes, Clothing, Accessories,
+            Fashion wear, Sports, Branded apparel, Cool T-Shirts, T-shirt Designs,
+            Footwear, Football jerseys, watches, kurtas, kurtis, formal wear, shirts,
+            pants, trousers', name: keywords}
+      12:
+        attributes: [name, description, content, 'Online Shopping Store in India for
+            Branded Shoes, Clothing; Accessories for Men and Women. Cash on Delivery,
+            END OF SEASON SALE, Free Shipping, 30 day returns']
+        backendNodeId: 191
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: meta
+        nodeId: 12
+        nodeName: META
+        nodeType: 1
+        nodeValue: ''
+        parent: 3
+        props: {content: 'Online Shopping Store in India for Branded Shoes, Clothing;
+            Accessories for Men and Women. Cash on Delivery, END OF SEASON SALE, Free
+            Shipping, 30 day returns', name: description}
+      13:
+        attributes: []
+        backendNodeId: 192
+        childNodeCount: 1
+        children:
+        - &id004
+          backendNodeId: 193
+          childrenids: []
+          localName: ''
+          nodeId: 14
+          nodeName: '#text'
+          nodeType: 3
+          nodeValue: About Us
+          parent: 13
+          props: {}
+        childrenids: [14]
+        h: 0.0
+        localName: title
+        nodeId: 13
+        nodeName: TITLE
+        nodeType: 1
+        nodeValue: ''
+        parent: 3
+        props: {}
+        value: ''
+        w: 0.0
+        x: 0.0
+        y: 0.0
+      14: *id004
+      15:
+        attributes: []
+        backendNodeId: 194
+        childNodeCount: 1
+        children:
+        - &id005
+          backendNodeId: 195
+          childrenids: []
+          localName: ''
+          nodeId: 16
+          nodeName: '#text'
+          nodeType: 3
+          nodeValue: "/* first for Internet Explorer < 9 */\n@font-face {\n\tfont-family:\
+            \ DIN;\n\tsrc: url('/skin2/fonts/DINWeb-Medium.eot');\n\tfont-weight:\
+            \ 500;\n\tfont-style: normal;\n}\n\n@font-face {\n\tfont-family: DIN;\n\
+            \tsrc: url('/skin2/fonts/DINWeb.eot');\n\tfont-weight: 400;\n\tfont-style:\
+            \ normal;\n}\n\n\n/* then for WOFF-capable browsers */\n@font-face {\n\
+            \tfont-family: DIN;\n\tsrc: url('/skin2/fonts/DINWeb-Medium.woff') format(\"\
+            woff\");\n\tfont-weight: 500;\n\tfont-style: normal;\n}\n\n@font-face\
+            \ {\n\tfont-family: DIN;\n\tsrc: url('/skin2/fonts/DINWeb.woff') format(\"\
+            woff\");\n\tfont-weight: 400;\n\tfont-style: normal;\n}\n\n/*WHITNEY FONTS\
+            \ HERE**/\n\n@font-face {\n\tfont-family: 'Whitney';\n\tsrc: url('https://cdn.myntassets.com/skin2/fonts/WhitneyHTF-Book.eot');\n\
+            \tsrc: url('https://cdn.myntassets.com/skin2/fonts/WhitneyHTF-Book.eot?#iefix')\
+            \ format('embedded-opentype'), url('https://cdn.myntassets.com/skin2/fonts/WhitneyHTF-Book.woff')\
+            \ format('woff'), url('https://cdn.myntassets.com/skin2/fonts/WhitneyHTF-Book.ttf')\
+            \ format('truetype');\n\tfont-weight: 400;\n\tfont-style: normal;\n}\n\
+            \n@font-face {\n\tfont-family: 'Whitney';\n\tsrc: url('https://cdn.myntassets.com/skin2/fonts/WhitneyHTF-SemiBold.eot');\n\
+            \tsrc: url('https://cdn.myntassets.com/skin2/fonts/WhitneyHTF-SemiBold.eot?#iefix')\
+            \ format('embedded-opentype'), url('https://cdn.myntassets.com/skin2/fonts/WhitneyHTF-SemiBold.woff')\
+            \ format('woff'), url('https://cdn.myntassets.com/skin2/fonts/WhitneyHTF-SemiBold.ttf')\
+            \ format('truetype');\n\tfont-weight: 500;\n\tfont-style: normal;\n}\n\
+            \n@font-face {\n\tfont-family: credit-card;\n\tsrc: url(https://cdn.myntassets.com/skin2/fonts/kreditfront.ttf)\
+            \ format(\"truetype\");\n\tfont-style: normal;\n}"
+          parent: 15
+          props: {}
+        childrenids: [16]
+        h: 0.0
+        localName: style
+        nodeId: 15
+        nodeName: STYLE
+        nodeType: 1
+        nodeValue: ''
+        parent: 3
+        props: {}
+        value: ''
+        w: 0.0
+        x: 0.0
+        y: 0.0
+      16: *id005
+      17:
+        attributes: [rel, shortcut icon, href, 'https://cdn.myntassets.com/skin1/icons/favicon.ico']
+        backendNodeId: 196
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: link
+        nodeId: 17
+        nodeName: LINK
+        nodeType: 1
+        nodeValue: ''
+        parent: 3
+        props: {href: 'https://cdn.myntassets.com/skin1/icons/favicon.ico', rel: shortcut
+            icon}
+      18:
+        attributes: [href, 'https://cdn.myntassets.com/myx/stylesheets/static.min.54b5870a80f69381a247188155864687c976fd0b.css',
+          rel, stylesheet]
+        backendNodeId: 197
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: link
+        nodeId: 18
+        nodeName: LINK
+        nodeType: 1
+        nodeValue: ''
+        parent: 3
+        props: {href: 'https://cdn.myntassets.com/myx/stylesheets/static.min.54b5870a80f69381a247188155864687c976fd0b.css',
+          rel: stylesheet}
+      19:
+        attributes: [href, 'https://cdn.myntassets.com/myx/stylesheets/android-app.min.a01c431a8e6a7b746379aa87fb0305afd7148054.css',
+          rel, stylesheet]
+        backendNodeId: 198
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: link
+        nodeId: 19
+        nodeName: LINK
+        nodeType: 1
+        nodeValue: ''
+        parent: 3
+        props: {href: 'https://cdn.myntassets.com/myx/stylesheets/android-app.min.a01c431a8e6a7b746379aa87fb0305afd7148054.css',
+          rel: stylesheet}
+      20:
+        attributes: [type, text/javascript, async, '', src, 'https://www.google-analytics.com/plugins/ua/ec.js']
+        backendNodeId: 199
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: script
+        nodeId: 20
+        nodeName: SCRIPT
+        nodeType: 1
+        nodeValue: ''
+        parent: 3
+        props: {async: '', src: 'https://www.google-analytics.com/plugins/ua/ec.js',
+          type: text/javascript}
+      21:
+        attributes: [async, '', src, //www.google-analytics.com/analytics.js]
+        backendNodeId: 200
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: script
+        nodeId: 21
+        nodeName: SCRIPT
+        nodeType: 1
+        nodeValue: ''
+        parent: 3
+        props: {async: '', src: //www.google-analytics.com/analytics.js}
+      22:
+        attributes: []
+        backendNodeId: 201
+        childNodeCount: 1
+        children:
+        - {backendNodeId: 202, localName: '', nodeId: 23, nodeName: '#text', nodeType: 3,
+          nodeValue: '/* selenium*/ window.onerror=function(e){document.body && document.body.setAttribute(''__e__'',
+            e.stack || e);};'}
+        childrenids: []
+        localName: script
+        nodeId: 22
+        nodeName: SCRIPT
+        nodeType: 1
+        nodeValue: ''
+        parent: 3
+        props: {}
+      24:
+        attributes: []
+        backendNodeId: 203
+        childNodeCount: 1
+        children:
+        - {backendNodeId: 204, localName: '', nodeId: 25, nodeName: '#text', nodeType: 3,
+          nodeValue: '/* no-js */ (function(){var a=new RegExp(''(^|\\s)no-js(\\s|$)''),el=document.documentElement;el.className=el.className.replace(a,''$1js$2'')})();'}
+        childrenids: []
+        localName: script
+        nodeId: 24
+        nodeName: SCRIPT
+        nodeType: 1
+        nodeValue: ''
+        parent: 3
+        props: {}
+      26:
+        attributes: []
+        backendNodeId: 205
+        childNodeCount: 1
+        children:
+        - {backendNodeId: 206, localName: '', nodeId: 27, nodeName: '#text', nodeType: 3,
+          nodeValue: '/* universal analytics */(function(i,s,o,g,r,a,m){i[''GoogleAnalyticsObject'']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new
+            Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,''script'',''//www.google-analytics.com/analytics.js'',''ga'');
+
+            ga(''create'', ''UA-61745454-1'', ''auto'');
+
+            ga(''set'',''&uid'','''');
+
+            ga(''require'', ''displayfeatures'');
+
+            ga(''send'', ''pageview'');
+
+            ga(''require'', ''ec'');
+
+            '}
+        childrenids: []
+        localName: script
+        nodeId: 26
+        nodeName: SCRIPT
+        nodeType: 1
+        nodeValue: ''
+        parent: 3
+        props: {}
+      28:
+        attributes: [class, wrap]
+        backendNodeId: 207
+        childNodeCount: 1
+        children:
+        - &id006
+          attributes: [class, static-container]
+          backendNodeId: 208
+          childNodeCount: 1
+          children:
+          - &id007
+            attributes: [class, my-container aboutus]
+            backendNodeId: 209
+            childNodeCount: 2
+            children:
+            - &id008
+              attributes: []
+              backendNodeId: 210
+              childNodeCount: 1
+              children:
+              - &id009
+                backendNodeId: 211
+                childrenids: []
+                localName: ''
+                nodeId: 32
+                nodeName: '#text'
+                nodeType: 3
+                nodeValue: Myntra/ About
+                parent: 31
+                props: {}
+              childrenids: [32]
+              h: 58.0
+              localName: h1
+              nodeId: 31
+              nodeName: H1
+              nodeType: 1
+              nodeValue: ''
+              parent: 30
+              props: {}
+              value: ''
+              w: 382.0
+              x: 15.0
+              y: 5.0
+            - &id010
+              attributes: [class, panel]
+              backendNodeId: 212
+              childNodeCount: 4
+              children:
+              - &id011
+                attributes: []
+                backendNodeId: 213
+                childNodeCount: 2
+                children:
+                - &id012
+                  attributes: [class, title]
+                  backendNodeId: 214
+                  childNodeCount: 1
+                  children:
+                  - &id013
+                    backendNodeId: 215
+                    childrenids: []
+                    localName: ''
+                    nodeId: 36
+                    nodeName: '#text'
+                    nodeType: 3
+                    nodeValue: Introduction
+                    parent: 35
+                    props: {}
+                  childrenids: [36]
+                  h: 49.0
+                  localName: a
+                  nodeId: 35
+                  nodeName: A
+                  nodeType: 1
+                  nodeValue: ''
+                  parent: 34
+                  props: {class: title}
+                  value: ''
+                  w: 382.0
+                  x: 15.0
+                  y: 63.0
+                - &id014
+                  attributes: [class, desc]
+                  backendNodeId: 216
+                  childNodeCount: 1
+                  children:
+                  - &id015
+                    attributes: []
+                    backendNodeId: 217
+                    childNodeCount: 1
+                    children:
+                    - &id016
+                      backendNodeId: 218
+                      childrenids: []
+                      localName: ''
+                      nodeId: 39
+                      nodeName: '#text'
+                      nodeType: 3
+                      nodeValue: Myntra is a one stop shop for all your fashion and
+                        lifestyle needs. Being India's largest e-commerce store for
+                        fashion and lifestyle products, Myntra aims at providing a
+                        hassle free and enjoyable shopping experience to shoppers
+                        across the country with the widest range of brands and products
+                        on its portal. The brand is making a conscious effort to bring
+                        the power of fashion to shoppers with an array of the latest
+                        and trendiest products available in the country.
+                      parent: 38
+                      props: {}
+                    childrenids: [39]
+                    h: 0.0
+                    localName: p
+                    nodeId: 38
+                    nodeName: P
+                    nodeType: 1
+                    nodeValue: ''
+                    parent: 37
+                    props: {}
+                    value: ''
+                    w: 0.0
+                    x: 0.0
+                    y: 0.0
+                  childrenids: [38]
+                  h: 0.0
+                  localName: div
+                  nodeId: 37
+                  nodeName: DIV
+                  nodeType: 1
+                  nodeValue: ''
+                  parent: 34
+                  props: {class: desc}
+                  value: ''
+                  w: 0.0
+                  x: 0.0
+                  y: 0.0
+                childrenids: [35, 37]
+                h: 49.0
+                localName: li
+                nodeId: 34
+                nodeName: LI
+                nodeType: 1
+                nodeValue: ''
+                parent: 33
+                props: {}
+                value: '0'
+                w: 382.0
+                x: 15.0
+                y: 63.0
+              - &id017
+                attributes: []
+                backendNodeId: 219
+                childNodeCount: 2
+                children:
+                - &id018
+                  attributes: [class, title]
+                  backendNodeId: 220
+                  childNodeCount: 1
+                  children:
+                  - &id019
+                    backendNodeId: 221
+                    childrenids: []
+                    localName: ''
+                    nodeId: 42
+                    nodeName: '#text'
+                    nodeType: 3
+                    nodeValue: Value proposition
+                    parent: 41
+                    props: {}
+                  childrenids: [42]
+                  h: 49.0
+                  localName: a
+                  nodeId: 41
+                  nodeName: A
+                  nodeType: 1
+                  nodeValue: ''
+                  parent: 40
+                  props: {class: title}
+                  value: ''
+                  w: 382.0
+                  x: 15.0
+                  y: 113.0
+                - &id020
+                  attributes: [class, desc]
+                  backendNodeId: 222
+                  childNodeCount: 1
+                  children:
+                  - &id021
+                    attributes: []
+                    backendNodeId: 223
+                    childNodeCount: 1
+                    children:
+                    - &id022
+                      backendNodeId: 224
+                      childrenids: []
+                      localName: ''
+                      nodeId: 45
+                      nodeName: '#text'
+                      nodeType: 3
+                      nodeValue: Myntra's value proposition revolves around giving
+                        consumers the power and ease of purchasing fashion and lifestyle
+                        products online. Offerings such as the largest in-season product
+                        catalogue, 100% authentic products, cash on delivery and 30
+                        day return policy make Myntra, the preferred shopping destination
+                        in the country. To make online shopping easier for you, a
+                        dedicated customer connect team is on standby to answer your
+                        queries 24x7.
+                      parent: 44
+                      props: {}
+                    childrenids: [45]
+                    h: 0.0
+                    localName: p
+                    nodeId: 44
+                    nodeName: P
+                    nodeType: 1
+                    nodeValue: ''
+                    parent: 43
+                    props: {}
+                    value: ''
+                    w: 0.0
+                    x: 0.0
+                    y: 0.0
+                  childrenids: [44]
+                  h: 0.0
+                  localName: div
+                  nodeId: 43
+                  nodeName: DIV
+                  nodeType: 1
+                  nodeValue: ''
+                  parent: 40
+                  props: {class: desc}
+                  value: ''
+                  w: 0.0
+                  x: 0.0
+                  y: 0.0
+                childrenids: [41, 43]
+                h: 50.0
+                localName: li
+                nodeId: 40
+                nodeName: LI
+                nodeType: 1
+                nodeValue: ''
+                parent: 33
+                props: {}
+                value: '0'
+                w: 382.0
+                x: 15.0
+                y: 112.0
+              - &id023
+                attributes: []
+                backendNodeId: 225
+                childNodeCount: 2
+                children:
+                - &id024
+                  attributes: [class, title]
+                  backendNodeId: 226
+                  childNodeCount: 1
+                  children:
+                  - &id025
+                    backendNodeId: 227
+                    childrenids: []
+                    localName: ''
+                    nodeId: 48
+                    nodeName: '#text'
+                    nodeType: 3
+                    nodeValue: Brands
+                    parent: 47
+                    props: {}
+                  childrenids: [48]
+                  h: 49.0
+                  localName: a
+                  nodeId: 47
+                  nodeName: A
+                  nodeType: 1
+                  nodeValue: ''
+                  parent: 46
+                  props: {class: title}
+                  value: ''
+                  w: 382.0
+                  x: 15.0
+                  y: 163.0
+                - &id026
+                  attributes: [class, desc]
+                  backendNodeId: 228
+                  childNodeCount: 1
+                  children:
+                  - &id027
+                    attributes: []
+                    backendNodeId: 229
+                    childNodeCount: 1
+                    children:
+                    - &id028
+                      backendNodeId: 230
+                      childrenids: []
+                      localName: ''
+                      nodeId: 51
+                      nodeName: '#text'
+                      nodeType: 3
+                      nodeValue: Myntra understands its shoppers' needs and caters
+                        to them with choice of apparel, accessories, cosmetics and
+                        footwear from over 500 leading Indian and international brands.
+                        Prominent brands include Adidas, Nike, Puma, Catwalk, Inc
+                        5, United Colors of Benetton, FCUK, Timberland, Avirate, FabIndia
+                        and Biba to name a few. You can also shop from some recently
+                        introduced labels such as - Roadster, Sher Singh, Dressberry,
+                        Kook N Keech and ETC.
+                      parent: 50
+                      props: {}
+                    childrenids: [51]
+                    h: 0.0
+                    localName: p
+                    nodeId: 50
+                    nodeName: P
+                    nodeType: 1
+                    nodeValue: ''
+                    parent: 49
+                    props: {}
+                    value: ''
+                    w: 0.0
+                    x: 0.0
+                    y: 0.0
+                  childrenids: [50]
+                  h: 0.0
+                  localName: div
+                  nodeId: 49
+                  nodeName: DIV
+                  nodeType: 1
+                  nodeValue: ''
+                  parent: 46
+                  props: {class: desc}
+                  value: ''
+                  w: 0.0
+                  x: 0.0
+                  y: 0.0
+                childrenids: [47, 49]
+                h: 50.0
+                localName: li
+                nodeId: 46
+                nodeName: LI
+                nodeType: 1
+                nodeValue: ''
+                parent: 33
+                props: {}
+                value: '0'
+                w: 382.0
+                x: 15.0
+                y: 162.0
+              - &id029
+                attributes: []
+                backendNodeId: 231
+                childNodeCount: 2
+                children:
+                - &id030
+                  attributes: [class, title]
+                  backendNodeId: 232
+                  childNodeCount: 1
+                  children:
+                  - &id031
+                    backendNodeId: 233
+                    childrenids: []
+                    localName: ''
+                    nodeId: 54
+                    nodeName: '#text'
+                    nodeType: 3
+                    nodeValue: Recognitions
+                    parent: 53
+                    props: {}
+                  childrenids: [54]
+                  h: 49.0
+                  localName: a
+                  nodeId: 53
+                  nodeName: A
+                  nodeType: 1
+                  nodeValue: ''
+                  parent: 52
+                  props: {class: title}
+                  value: ''
+                  w: 382.0
+                  x: 15.0
+                  y: 213.0
+                - &id032
+                  attributes: [class, desc]
+                  backendNodeId: 234
+                  childNodeCount: 1
+                  children:
+                  - &id033
+                    attributes: []
+                    backendNodeId: 235
+                    childNodeCount: 4
+                    children:
+                    - &id034
+                      attributes: []
+                      backendNodeId: 236
+                      childNodeCount: 3
+                      children:
+                      - &id035
+                        backendNodeId: 237
+                        childrenids: []
+                        localName: ''
+                        nodeId: 58
+                        nodeName: '#text'
+                        nodeType: 3
+                        nodeValue: 'Awarded '
+                        parent: 57
+                        props: {}
+                      - &id036
+                        attributes: []
+                        backendNodeId: 238
+                        childNodeCount: 1
+                        children:
+                        - &id037
+                          backendNodeId: 239
+                          childrenids: []
+                          localName: ''
+                          nodeId: 60
+                          nodeName: '#text'
+                          nodeType: 3
+                          nodeValue: '''Fashion eRetailer of the Year 2013'''
+                          parent: 59
+                          props: {}
+                        childrenids: [60]
+                        h: 0.0
+                        localName: strong
+                        nodeId: 59
+                        nodeName: STRONG
+                        nodeType: 1
+                        nodeValue: ''
+                        parent: 57
+                        props: {}
+                        value: ''
+                        w: 0.0
+                        x: 0.0
+                        y: 0.0
+                      - &id038
+                        backendNodeId: 240
+                        childrenids: []
+                        localName: ''
+                        nodeId: 61
+                        nodeName: '#text'
+                        nodeType: 3
+                        nodeValue: " by Franchise India \u2013 Indian eRetail Awards"
+                        parent: 57
+                        props: {}
+                      childrenids: [58, 59, 61]
+                      h: 0.0
+                      localName: li
+                      nodeId: 57
+                      nodeName: LI
+                      nodeType: 1
+                      nodeValue: ''
+                      parent: 56
+                      props: {}
+                      value: '0'
+                      w: 0.0
+                      x: 0.0
+                      y: 0.0
+                    - &id039
+                      attributes: []
+                      backendNodeId: 241
+                      childNodeCount: 3
+                      children:
+                      - &id040
+                        backendNodeId: 242
+                        childrenids: []
+                        localName: ''
+                        nodeId: 63
+                        nodeName: '#text'
+                        nodeType: 3
+                        nodeValue: 'Awarded '
+                        parent: 62
+                        props: {}
+                      - &id041
+                        attributes: []
+                        backendNodeId: 243
+                        childNodeCount: 1
+                        children:
+                        - &id042
+                          backendNodeId: 244
+                          childrenids: []
+                          localName: ''
+                          nodeId: 65
+                          nodeName: '#text'
+                          nodeType: 3
+                          nodeValue: '''Best E-commerce Website for 2012'''
+                          parent: 64
+                          props: {}
+                        childrenids: [65]
+                        h: 0.0
+                        localName: strong
+                        nodeId: 64
+                        nodeName: STRONG
+                        nodeType: 1
+                        nodeValue: ''
+                        parent: 62
+                        props: {}
+                        value: ''
+                        w: 0.0
+                        x: 0.0
+                        y: 0.0
+                      - &id043
+                        backendNodeId: 245
+                        childrenids: []
+                        localName: ''
+                        nodeId: 66
+                        nodeName: '#text'
+                        nodeType: 3
+                        nodeValue: " by IAMAI \u2013 India Digital Awards"
+                        parent: 62
+                        props: {}
+                      childrenids: [63, 64, 66]
+                      h: 0.0
+                      localName: li
+                      nodeId: 62
+                      nodeName: LI
+                      nodeType: 1
+                      nodeValue: ''
+                      parent: 56
+                      props: {}
+                      value: '0'
+                      w: 0.0
+                      x: 0.0
+                      y: 0.0
+                    - &id044
+                      attributes: []
+                      backendNodeId: 246
+                      childNodeCount: 3
+                      children:
+                      - &id045
+                        backendNodeId: 247
+                        childrenids: []
+                        localName: ''
+                        nodeId: 68
+                        nodeName: '#text'
+                        nodeType: 3
+                        nodeValue: 'Awarded '
+                        parent: 67
+                        props: {}
+                      - &id046
+                        attributes: []
+                        backendNodeId: 248
+                        childNodeCount: 1
+                        children:
+                        - &id047
+                          backendNodeId: 249
+                          childrenids: []
+                          localName: ''
+                          nodeId: 70
+                          nodeName: '#text'
+                          nodeType: 3
+                          nodeValue: "'Images Most Admired Retailer of the Year: Non\u2013\
+                            Store Retail'"
+                          parent: 69
+                          props: {}
+                        childrenids: [70]
+                        h: 0.0
+                        localName: strong
+                        nodeId: 69
+                        nodeName: STRONG
+                        nodeType: 1
+                        nodeValue: ''
+                        parent: 67
+                        props: {}
+                        value: ''
+                        w: 0.0
+                        x: 0.0
+                        y: 0.0
+                      - &id048
+                        backendNodeId: 250
+                        childrenids: []
+                        localName: ''
+                        nodeId: 71
+                        nodeName: '#text'
+                        nodeType: 3
+                        nodeValue: ' for 2012 by Images Group'
+                        parent: 67
+                        props: {}
+                      childrenids: [68, 69, 71]
+                      h: 0.0
+                      localName: li
+                      nodeId: 67
+                      nodeName: LI
+                      nodeType: 1
+                      nodeValue: ''
+                      parent: 56
+                      props: {}
+                      value: '0'
+                      w: 0.0
+                      x: 0.0
+                      y: 0.0
+                    - &id049
+                      attributes: []
+                      backendNodeId: 251
+                      childNodeCount: 3
+                      children:
+                      - &id050
+                        backendNodeId: 252
+                        childrenids: []
+                        localName: ''
+                        nodeId: 73
+                        nodeName: '#text'
+                        nodeType: 3
+                        nodeValue: 'Awarded '
+                        parent: 72
+                        props: {}
+                      - &id051
+                        attributes: []
+                        backendNodeId: 253
+                        childNodeCount: 1
+                        children:
+                        - &id052
+                          backendNodeId: 254
+                          childrenids: []
+                          localName: ''
+                          nodeId: 75
+                          nodeName: '#text'
+                          nodeType: 3
+                          nodeValue: '''Best E-commerce Partner of the year 2011-12'''
+                          parent: 74
+                          props: {}
+                        childrenids: [75]
+                        h: 0.0
+                        localName: strong
+                        nodeId: 74
+                        nodeName: STRONG
+                        nodeType: 1
+                        nodeValue: ''
+                        parent: 72
+                        props: {}
+                        value: ''
+                        w: 0.0
+                        x: 0.0
+                        y: 0.0
+                      - &id053
+                        backendNodeId: 255
+                        childrenids: []
+                        localName: ''
+                        nodeId: 76
+                        nodeName: '#text'
+                        nodeType: 3
+                        nodeValue: ' by Puma India'
+                        parent: 72
+                        props: {}
+                      childrenids: [73, 74, 76]
+                      h: 0.0
+                      localName: li
+                      nodeId: 72
+                      nodeName: LI
+                      nodeType: 1
+                      nodeValue: ''
+                      parent: 56
+                      props: {}
+                      value: '0'
+                      w: 0.0
+                      x: 0.0
+                      y: 0.0
+                    childrenids: [57, 62, 67, 72]
+                    h: 0.0
+                    localName: ul
+                    nodeId: 56
+                    nodeName: UL
+                    nodeType: 1
+                    nodeValue: ''
+                    parent: 55
+                    props: {}
+                    value: ''
+                    w: 0.0
+                    x: 0.0
+                    y: 0.0
+                  childrenids: [56]
+                  h: 0.0
+                  localName: div
+                  nodeId: 55
+                  nodeName: DIV
+                  nodeType: 1
+                  nodeValue: ''
+                  parent: 52
+                  props: {class: desc}
+                  value: ''
+                  w: 0.0
+                  x: 0.0
+                  y: 0.0
+                childrenids: [53, 55]
+                h: 50.0
+                localName: li
+                nodeId: 52
+                nodeName: LI
+                nodeType: 1
+                nodeValue: ''
+                parent: 33
+                props: {}
+                value: '0'
+                w: 382.0
+                x: 15.0
+                y: 212.0
+              childrenids: [34, 40, 46, 52]
+              h: 199.0
+              localName: ul
+              nodeId: 33
+              nodeName: UL
+              nodeType: 1
+              nodeValue: ''
+              parent: 30
+              props: {class: panel}
+              value: ''
+              w: 382.0
+              x: 15.0
+              y: 63.0
+            childrenids: [31, 33]
+            h: 287.0
+            localName: div
+            nodeId: 30
+            nodeName: DIV
+            nodeType: 1
+            nodeValue: ''
+            parent: 29
+            props: {class: my-container aboutus}
+            value: ''
+            w: 412.0
+            x: 0.0
+            y: -10.0
+          childrenids: [30]
+          h: 287.0
+          localName: div
+          nodeId: 29
+          nodeName: DIV
+          nodeType: 1
+          nodeValue: ''
+          parent: 28
+          props: {class: static-container}
+          value: ''
+          w: 412.0
+          x: 0.0
+          y: -10.0
+        childrenids: [29]
+        h: 277.0
+        localName: div
+        nodeId: 28
+        nodeName: DIV
+        nodeType: 1
+        nodeValue: ''
+        parent: 4
+        props: {class: wrap}
+        value: ''
+        w: 412.0
+        x: 0.0
+        y: 0.0
+      29: *id006
+      30: *id007
+      31: *id008
+      32: *id009
+      33: *id010
+      34: *id011
+      35: *id012
+      36: *id013
+      37: *id014
+      38: *id015
+      39: *id016
+      40: *id017
+      41: *id018
+      42: *id019
+      43: *id020
+      44: *id021
+      45: *id022
+      46: *id023
+      47: *id024
+      48: *id025
+      49: *id026
+      50: *id027
+      51: *id028
+      52: *id029
+      53: *id030
+      54: *id031
+      55: *id032
+      56: *id033
+      57: *id034
+      58: *id035
+      59: *id036
+      60: *id037
+      61: *id038
+      62: *id039
+      63: *id040
+      64: *id041
+      65: *id042
+      66: *id043
+      67: *id044
+      68: *id045
+      69: *id046
+      70: *id047
+      71: *id048
+      72: *id049
+      73: *id050
+      74: *id051
+      75: *id052
+      76: *id053
+      77:
+        attributes: []
+        backendNodeId: 256
+        childNodeCount: 1
+        children:
+        - {backendNodeId: 257, localName: '', nodeId: 78, nodeName: '#text', nodeType: 3,
+          nodeValue: "window[\"__myx_assets__\"]={\"images/360-degree-icon.png\":\"\
+            images/360-degree-icon.50d013701778e87f9b6239eb0346d7731f7c075f.png\"\
+            ,\"images/MyMyntra-sprites.png\":\"images/MyMyntra-sprites.c5f3a421d62f12b257eab8bb1cf13df792d3ca86.png\"\
+            ,\"images/OD-Desktop.png\":\"images/OD-Desktop.1453736647f3d66837da5df8a0328e1e5d68cf63.png\"\
+            ,\"images/OD-Mobile.png\":\"images/OD-Mobile.c6be73fa8cec348eb171c4861d8b5c40268bef26.png\"\
+            ,\"images/alert.png\":\"images/alert.ba351b63cb7ef2d5d61d0076625b2ca4c2b7edfe.png\"\
+            ,\"images/android-assets-2x.png\":\"images/android-assets-2x.ebea6b9e63103bfea785e4395df0debff2ec311b.png\"\
+            ,\"images/android-assets.png\":\"images/android-assets.1fd9a7c1d6847b2f9cf22a140708929445e0b0b3.png\"\
+            ,\"images/card-images/AmExp.png\":\"images/card-images/AmExp.4f17387f4fb56420326b2911ba468e44a8c6b584.png\"\
+            ,\"images/card-images/Default.png\":\"images/card-images/Default.f69e4d32aa65e920f55c85f019ddf43091183b0c.png\"\
+            ,\"images/card-images/Maestro.png\":\"images/card-images/Maestro.e71ee60c6c12ff939a4fb39abe7c490ad9e2a603.png\"\
+            ,\"images/card-images/MasterCard.png\":\"images/card-images/MasterCard.d467608df7db69c002c1c14a2ddc24c40fc16c83.png\"\
+            ,\"images/card-images/RuPay.png\":\"images/card-images/RuPay.4fd83ee52dadee2997743acd09c078cb91eafc4a.png\"\
+            ,\"images/card-images/Visa.png\":\"images/card-images/Visa.88ec1b7af4e202deed68378ef78d3fce2f7bacce.png\"\
+            ,\"images/cashback-sprite.png\":\"images/cashback-sprite.8c6156bff0a7db020daa4ae7cad06fa41bc875b7.png\"\
+            ,\"images/close.png\":\"images/close.70a490788a9fe5aed72fe6e257252676d03130c5.png\"\
+            ,\"images/confirmation-sprite.png\":\"images/confirmation-sprite.47dcd1fb0c00adfe0e05416d4c6c820152fb5563.png\"\
+            ,\"images/contactus-sptrite.png\":\"images/contactus-sptrite.03398af5c6a22ed1cfd12c793ae85ff733040360.png\"\
+            ,\"images/download-android-app-mobile-popup.jpg\":\"images/download-android-app-mobile-popup.0e81e48fa3bffe5203adc6b438692f30f4e9195d.jpg\"\
+            ,\"images/droid-app.jpg\":\"images/droid-app.48fbdbdbb912c6edbadba43540ddda9e621369c3.jpg\"\
+            ,\"images/eoss/mobile/30.jpg\":\"images/eoss/mobile/30.02694fbdc59f67fcef3060c3f31094ff32a2db6a.jpg\"\
+            ,\"images/eoss/mobile/40.jpg\":\"images/eoss/mobile/40.a4a2ca9619d102a38320a938220cb0ca73b885b5.jpg\"\
+            ,\"images/eoss/mobile/50.jpg\":\"images/eoss/mobile/50.492f71c1f4352e31fbb22a4a02be63f6e5d12ba1.jpg\"\
+            ,\"images/eoss/mobile/60.jpg\":\"images/eoss/mobile/60.b7c6b074b20510edb456efdf0cd9f84f6c6c1b34.jpg\"\
+            ,\"images/eoss/mobile/70.jpg\":\"images/eoss/mobile/70.0ce6ffb4ceb1b84d31e44d3e2b0e5fbeb1678b29.jpg\"\
+            ,\"images/eoss/mobile/80.jpg\":\"images/eoss/mobile/80.8fbd014effedfb1364125801a0b4fc269d64761b.jpg\"\
+            ,\"images/eoss/mobile/full.jpg\":\"images/eoss/mobile/full.f5828ea7061f86814c9213ce4ab4d836431ff125.jpg\"\
+            ,\"images/eoss/mobile/half.jpg\":\"images/eoss/mobile/half.67298cd725d361f4bcee47358a6886d12260d9a0.jpg\"\
+            ,\"images/eoss/mobile/sale.jpg\":\"images/eoss/mobile/sale.9cdabd1b0bc5a19ba13705f3321f9fca2cce3eb5.jpg\"\
+            ,\"images/error-page.jpg\":\"images/error-page.cb8c8613acd1428be473f26b1388b52a19cc694d.jpg\"\
+            ,\"images/footersprite@2xnew.png\":\"images/footersprite@2xnew.658ce9d09629d4c039326483c981a8c52f5f4fa1.png\"\
+            ,\"images/header-new16.png\":\"images/header-new16.49552df7c67224aa1807c60dc7eb4dc7686c610b.png\"\
+            ,\"images/header-sprite.png\":\"images/header-sprite.c223d8b91da413739fb32ba5f836e9e66e04baea.png\"\
+            ,\"images/header@2x-new16.png\":\"images/header@2x-new16.a409d46af2e211afcaa82c1359787a90408024be.png\"\
+            ,\"images/ico.png\":\"images/ico.b43eb58a5860186d56b1c8ff144daf3f6e9d629f.png\"\
+            ,\"images/ico2x.png\":\"images/ico2x.0102a0403e9f77a3a9c667e02feaccfbb0b4af41.png\"\
+            ,\"images/icon.png\":\"images/icon.5d108c858a0db793700f0be5d3ad1e120a01a500.png\"\
+            ,\"images/icon128.png\":\"images/icon128.4b9ed6671476ccf70412bcac53069d777a7f107c.png\"\
+            ,\"images/icon16.png\":\"images/icon16.d39c58ccd580d55ea50ef814c90355e6670abd45.png\"\
+            ,\"images/icon48.png\":\"images/icon48.0e26d702b75f8f44cab29c17303ab2ed6c9ea640.png\"\
+            ,\"images/icons/MyntraIcononly_16.png\":\"images/icons/MyntraIcononly_16.4d8d1d0e38b2a85485b65b5143ee9aec3276ba27.png\"\
+            ,\"images/icons/Myntra_square icon.png\":\"images/icons/Myntra_square\
+            \ icon.ce9d769416ee3921e7c862d5cee8bd52bdbd06b8.png\",\"images/icons/android.png\"\
+            :\"images/icons/android.ffd3a61379e2647617212512e7894ee8152cfc1b.png\"\
+            ,\"images/icons/arrow.png\":\"images/icons/arrow.cc840cb882815426c0710ee13bf7f1948a7d5140.png\"\
+            ,\"images/icons/arrow_back.png\":\"images/icons/arrow_back.4c2c5b3890a925ebef2589b98c198e8ec964b885.png\"\
+            ,\"images/icons/arrow_green.png\":\"images/icons/arrow_green.2b4ba88a74f984bc36aa15bec52cd8b9a35919fe.png\"\
+            ,\"images/icons/arrow_left.png\":\"images/icons/arrow_left.72552898d689afc75c5a8928daaf62c31dc1ee21.png\"\
+            ,\"images/icons/bag.png\":\"images/icons/bag.a68be68488a6fdd85c329c2dad363764cd1c8a0f.png\"\
+            ,\"images/icons/bag_white.png\":\"images/icons/bag_white.f2256f499cc0e02823749518c5dfbcf65961c1e9.png\"\
+            ,\"images/icons/call.png\":\"images/icons/call.be5c14d75dca141d9a44e86abab6ace59123d96c.png\"\
+            ,\"images/icons/cat_selection.png\":\"images/icons/cat_selection.3957f0a495e3cf317c3646757a258caf80826021.png\"\
+            ,\"images/icons/close.png\":\"images/icons/close.abf66fc33064339dbce73928d0680bef3db17d0f.png\"\
+            ,\"images/icons/close_black.png\":\"images/icons/close_black.515d1fe0cec3a3db0e7eda229ca41602ca88205c.png\"\
+            ,\"images/icons/close_black_small.png\":\"images/icons/close_black_small.081e0cea2d8dae16bb0ddc58809ff3aa968c701a.png\"\
+            ,\"images/icons/close_round.png\":\"images/icons/close_round.8dd5e516430cd71f66c13deb542591659fdd0dc7.png\"\
+            ,\"images/icons/close_white.png\":\"images/icons/close_white.4ab387e74cfe38e06c0e16348a8abadee4e2ffb5.png\"\
+            ,\"images/icons/close_white_thin.png\":\"images/icons/close_white_thin.2d95e3bc4233b56e4ccb6164eb46a6e3b4247dd4.png\"\
+            ,\"images/icons/collapse.png\":\"images/icons/collapse.b00b65a0b5161931ebfe7018f4006d0f140ae9a9.png\"\
+            ,\"images/icons/delivery_location.png\":\"images/icons/delivery_location.293824e4ea59ece9cb6cb06b98ea3c670ad6c7e5.png\"\
+            ,\"images/icons/expand.png\":\"images/icons/expand.8840f802f2b09229da9275668aa8cbd9f83ee77f.png\"\
+            ,\"images/icons/filter.png\":\"images/icons/filter.23f93a0e99518f77c456459b17f59790c1a668a1.png\"\
+            ,\"images/icons/filter_active.png\":\"images/icons/filter_active.1e3b97f2eb344f388e7c35664a71ba7fa569a6e9.png\"\
+            ,\"images/icons/header/MyntraLogo.png\":\"images/icons/header/MyntraLogo.041102f47aa16c7957914efed164e8abe4ad001e.png\"\
+            ,\"images/icons/header/actionbtn-arrow.png\":\"images/icons/header/actionbtn-arrow.f2871264bbfdbf72d25e2f92bba6c0c3197c5e77.png\"\
+            ,\"images/icons/header/android.png\":\"images/icons/header/android.ecf25581f380cca804d87c67a8f26b70d68d70f0.png\"\
+            ,\"images/icons/header/btn-edit.png\":\"images/icons/header/btn-edit.353b7357fd5984edb87f80764d57b8369c695be8.png\"\
+            ,\"images/icons/header/btn-remove.png\":\"images/icons/header/btn-remove.284674305e01177f478021a81576cff339005fd9.png\"\
+            ,\"images/icons/header/btn-wishlist.png\":\"images/icons/header/btn-wishlist.21bbda5340db9b7701e4ca8b835dfa0f514d7414.png\"\
+            ,\"images/icons/header/dock-user-icon.png\":\"images/icons/header/dock-user-icon.b27bd41c9150e529597f78648c4c8abd90f7ff42.png\"\
+            ,\"images/icons/header/dockbag-hover.png\":\"images/icons/header/dockbag-hover.81116288235377effb4af27d9b8bb73d1e2c2c17.png\"\
+            ,\"images/icons/header/dockbag.png\":\"images/icons/header/dockbag.5fffda0ab4a6f3259850fad6a0a841508bda2c9e.png\"\
+            ,\"images/icons/header/docksearch-hover.png\":\"images/icons/header/docksearch-hover.b183d351b84d37c39b65a24fac0c0a2cca959171.png\"\
+            ,\"images/icons/header/docksearch.png\":\"images/icons/header/docksearch.0ced622d7bd11b99fc3bfeca11f655b90d01c36a.png\"\
+            ,\"images/icons/header/dockuser-hover.png\":\"images/icons/header/dockuser-hover.fc3d52f26fbe4cd749837b05ed3f105fd3936fde.png\"\
+            ,\"images/icons/header/dockwishlist-hover.png\":\"images/icons/header/dockwishlist-hover.38c636b6becc95f55dec2c0a83ca1c1d90acd3ca.png\"\
+            ,\"images/icons/header/dockwishlist.png\":\"images/icons/header/dockwishlist.fd486c0b5521a4660c52cd1c23864833469c6852.png\"\
+            ,\"images/icons/header/flyout-bag.png\":\"images/icons/header/flyout-bag.276fb5cddec6cc1ffdca3752a7d345daa4554583.png\"\
+            ,\"images/icons/header/flyout-coupon.png\":\"images/icons/header/flyout-coupon.fb9f64686feb965af75e13bc73f94cfc8f76f2c3.png\"\
+            ,\"images/icons/header/flyout-wishlist.png\":\"images/icons/header/flyout-wishlist.e1af3ad9b991ff0d9101815a1de58b7887ce23dc.png\"\
+            ,\"images/icons/header/footer-security.png\":\"images/icons/header/footer-security.1adbd77e50d8193b2aba358d138d195b72de34d5.png\"\
+            ,\"images/icons/header/header-bag-hover.png\":\"images/icons/header/header-bag-hover.ede176f82dc0ba45698ab59678e067a2e40ddfc8.png\"\
+            ,\"images/icons/header/header-bag.png\":\"images/icons/header/header-bag.2268e93a137a80f66170a24682fda06e5cd2bba3.png\"\
+            ,\"images/icons/header/header-search-hover.png\":\"images/icons/header/header-search-hover.a046c02f1158d48c840aa35aebb7b3038ca522e7.png\"\
+            ,\"images/icons/header/header-search.png\":\"images/icons/header/header-search.c2ded068d2f3f22983c2ffe9f5ff4875471a2e29.png\"\
+            ,\"images/icons/header/header-user-icon.png\":\"images/icons/header/header-user-icon.6ec54c605489ac2bb6c71692ec07fca43166b77e.png\"\
+            ,\"images/icons/header/header-wishlist-hover.png\":\"images/icons/header/header-wishlist-hover.d415675cd7c7a8240007ef1f490a303a8bb034b5.png\"\
+            ,\"images/icons/header/header-wishlist.png\":\"images/icons/header/header-wishlist.4735f642d0895062c447eed92897e7678eaa3fa9.png\"\
+            ,\"images/icons/header/icon-action.png\":\"images/icons/header/icon-action.9400bc8956be3d62451c8967c8ddcfac79615733.png\"\
+            ,\"images/icons/header/icon-dock-downarrow.png\":\"images/icons/header/icon-dock-downarrow.6693f8080ebd3209d994dd5f54a030500ba2e617.png\"\
+            ,\"images/icons/header/icon-dock-rightarrow.png\":\"images/icons/header/icon-dock-rightarrow.5efe36fbae70a5b29564e4ebd75a608acb5ce400.png\"\
+            ,\"images/icons/header/icon-down.png\":\"images/icons/header/icon-down.de988610ab8195ea9d4e2ccf2f732f3cff5d838f.png\"\
+            ,\"images/icons/header/icon-dropdown-caret.png\":\"images/icons/header/icon-dropdown-caret.5c634b45953c7ed51f34a1ee5ddaaa8fee0ba7fd.png\"\
+            ,\"images/icons/header/icon-logout-hover.png\":\"images/icons/header/icon-logout-hover.e5d209eb153d9cb425b942fd4569fe7702d95db1.png\"\
+            ,\"images/icons/header/icon-logout.png\":\"images/icons/header/icon-logout.c556781e7c1719452e4f6fe9b53bb950732fa18a.png\"\
+            ,\"images/icons/header/icon-more.png\":\"images/icons/header/icon-more.98619d0bd7779fca26\u2026"}
+        childrenids: []
+        localName: script
+        nodeId: 77
+        nodeName: SCRIPT
+        nodeType: 1
+        nodeValue: ''
+        parent: 4
+        props: {}
+      79:
+        attributes: [src, 'https://cdn.myntassets.com/myx/javascripts/static.min.5eef782861a56b7c00aa6680ce15397bfd49727f.js']
+        backendNodeId: 258
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: script
+        nodeId: 79
+        nodeName: SCRIPT
+        nodeType: 1
+        nodeValue: ''
+        parent: 4
+        props: {src: 'https://cdn.myntassets.com/myx/javascripts/static.min.5eef782861a56b7c00aa6680ce15397bfd49727f.js'}
+      80:
+        attributes: [src, 'https://cdn.myntassets.com/myx/javascripts/mobile.min.3894c4e6d48fbbf9309bedf2e9c47eca56b5ad60.js']
+        backendNodeId: 259
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: script
+        nodeId: 80
+        nodeName: SCRIPT
+        nodeType: 1
+        nodeValue: ''
+        parent: 4
+        props: {src: 'https://cdn.myntassets.com/myx/javascripts/mobile.min.3894c4e6d48fbbf9309bedf2e9c47eca56b5ad60.js'}
+      81:
+        attributes: [type, text/javascript]
+        backendNodeId: 260
+        childNodeCount: 1
+        children:
+        - {backendNodeId: 261, localName: '', nodeId: 82, nodeName: '#text', nodeType: 3,
+          nodeValue: 'var _cf = _cf || [];  _cf.push([''_setBm'', true]);'}
+        childrenids: []
+        localName: script
+        nodeId: 81
+        nodeName: SCRIPT
+        nodeType: 1
+        nodeValue: ''
+        parent: 4
+        props: {type: text/javascript}
+      83:
+        attributes: [type, text/javascript, src, /_bm/bd-1-30]
+        backendNodeId: 262
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: script
+        nodeId: 83
+        nodeName: SCRIPT
+        nodeType: 1
+        nodeValue: ''
+        parent: 4
+        props: {src: /_bm/bd-1-30, type: text/javascript}
+    page: {base_h: 1584, base_w: 1080, base_x: 0, base_y: 210, empty: false, title: About
+        Us, url: 'https://www.myntra.com/aboutus?showMobileVerification=true', ws_url: 'ws://127.0.0.1:12345/devtools/page/3d1dc845-191d-4b06-950d-20ae56816a10'}
+    parents: {2: 1, 3: 2, 4: 2, 5: 3, 6: 3, 7: 3, 8: 3, 9: 3, 10: 3, 11: 3, 12: 3,
+      13: 3, 14: 13, 15: 3, 16: 15, 17: 3, 18: 3, 19: 3, 20: 3, 21: 3, 22: 3, 23: 22,
+      24: 3, 25: 24, 26: 3, 27: 26, 28: 4, 29: 28, 30: 29, 31: 30, 32: 31, 33: 30,
+      34: 33, 35: 34, 36: 35, 37: 34, 38: 37, 39: 38, 40: 33, 41: 40, 42: 41, 43: 40,
+      44: 43, 45: 44, 46: 33, 47: 46, 48: 47, 49: 46, 50: 49, 51: 50, 52: 33, 53: 52,
+      54: 53, 55: 52, 56: 55, 57: 56, 58: 57, 59: 57, 60: 59, 61: 57, 62: 56, 63: 62,
+      64: 62, 65: 64, 66: 62, 67: 56, 68: 67, 69: 67, 70: 69, 71: 67, 72: 56, 73: 72,
+      74: 72, 75: 74, 76: 72, 77: 4, 78: 77, 79: 4, 80: 4, 81: 4, 82: 81, 83: 4}
+    scaling: 2.625
+  pageinfo: {base_h: 1584, base_w: 1080, base_x: 0, base_y: 210, empty: false, title: About
+      Us, url: 'https://www.myntra.com/aboutus?showMobileVerification=true', ws_url: 'ws://127.0.0.1:12345/devtools/page/3d1dc845-191d-4b06-950d-20ae56816a10'}
+  title: About Us

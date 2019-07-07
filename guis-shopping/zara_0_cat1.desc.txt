@@ -1,0 +1,3 @@
+13 cart
+27 searchbox
+41 account

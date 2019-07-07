@@ -1,0 +1,14 @@
+15 logout
+23 home
+25 bookmark
+28 setting
+42 text
+44 text
+46 text
+48 text
+53 item
+56 item_image
+58 item_title
+60 item
+62 item_title
+64 item_image

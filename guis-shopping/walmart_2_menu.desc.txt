@@ -1,0 +1,9 @@
+8 menu_list
+13 home
+19 account
+20 payments
+24 orders
+26 notifications
+31 help
+35 about
+37 setting

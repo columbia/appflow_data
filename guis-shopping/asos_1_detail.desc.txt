@@ -1,0 +1,11 @@
+8 back
+11 share
+13 cart
+23 detail_image
+25 detail_image
+31 detail_title
+32 detail_price
+36 detail_option
+37 detail_option
+39 detail_option
+42 detail_addcart

@@ -1,0 +1,7 @@
+13 subtotal
+18 tax
+23 shippingcost
+28 totalcost
+31 placeorder
+34 back
+38 totalcost

@@ -1,0 +1,6 @@
+10 back
+14 cart
+28 detail_title
+35 detail_image
+43 detail_price
+54 detail_addcart

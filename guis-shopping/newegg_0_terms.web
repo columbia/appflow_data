@@ -1,0 +1,2172 @@
+- page:
+    base_h: 16130
+    base_w: 1028
+    base_x: 26
+    base_y: 236
+    html_h: 6145.28125
+    html_w: 392.0
+    nodes:
+      1:
+        backendNodeId: 5
+        baseURL: file:///android_res/raw/privacy_notice.html
+        childNodeCount: 1
+        children:
+        - &id001
+          attributes: []
+          backendNodeId: 6
+          childNodeCount: 2
+          children:
+          - &id002
+            attributes: []
+            backendNodeId: 7
+            childNodeCount: 2
+            childrenids: [5, 7]
+            h: 0.0
+            localName: head
+            nodeId: 3
+            nodeName: HEAD
+            nodeType: 1
+            nodeValue: ''
+            parent: 2
+            props: {}
+            value: ''
+            w: 0.0
+            x: 0.0
+            y: 0.0
+          - &id003
+            attributes: []
+            backendNodeId: 8
+            childNodeCount: 45
+            childrenids: [8, 10, 12, 14, 16, 18, 20, 22, 24, 32, 34, 36, 38, 41, 43,
+              45, 47, 49, 51, 53, 55, 57, 59, 61, 63, 66, 68, 73, 81, 83, 85, 90,
+              92, 94, 96, 98, 103, 105, 110, 112, 114, 125, 127, 129, 131]
+            h: 6121.28125
+            localName: body
+            nodeId: 4
+            nodeName: BODY
+            nodeType: 1
+            nodeValue: ''
+            parent: 2
+            props: {}
+            value: ''
+            w: 376.0
+            x: 8.0
+            y: 8.0
+          childrenids: [3, 4]
+          frameId: '7728.3'
+          h: 6145.28125
+          localName: html
+          nodeId: 2
+          nodeName: HTML
+          nodeType: 1
+          nodeValue: ''
+          parent: 1
+          props: {}
+          value: ''
+          w: 392.0
+          x: 0.0
+          y: 0.0
+        childrenids: [2]
+        documentURL: file:///android_res/raw/privacy_notice.html
+        localName: ''
+        nodeId: 1
+        nodeName: '#document'
+        nodeType: 9
+        nodeValue: ''
+        parent: -1
+        props: {}
+        xmlVersion: ''
+      2: *id001
+      3: *id002
+      4: *id003
+      5:
+        attributes: []
+        backendNodeId: 9
+        childNodeCount: 1
+        children:
+        - &id004
+          backendNodeId: 10
+          childrenids: []
+          localName: ''
+          nodeId: 6
+          nodeName: '#text'
+          nodeType: 3
+          nodeValue: Private Notice
+          parent: 5
+          props: {}
+        childrenids: [6]
+        h: 0.0
+        localName: title
+        nodeId: 5
+        nodeName: TITLE
+        nodeType: 1
+        nodeValue: ''
+        parent: 3
+        props: {}
+        value: ''
+        w: 0.0
+        x: 0.0
+        y: 0.0
+      6: *id004
+      7:
+        attributes: [http-equiv, Content-Type, content, text/html; charset=utf-8]
+        backendNodeId: 11
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: meta
+        nodeId: 7
+        nodeName: META
+        nodeType: 1
+        nodeValue: ''
+        parent: 3
+        props: {content: text/html; charset=utf-8, http-equiv: Content-Type}
+      8:
+        attributes: []
+        backendNodeId: 12
+        childNodeCount: 1
+        children:
+        - &id005
+          backendNodeId: 13
+          childrenids: []
+          localName: ''
+          nodeId: 9
+          nodeName: '#text'
+          nodeType: 3
+          nodeValue: "\n\t\tInformation Collection and Use"
+          parent: 8
+          props: {}
+        childrenids: [9]
+        h: 22.0
+        localName: h3
+        nodeId: 8
+        nodeName: H3
+        nodeType: 1
+        nodeValue: ''
+        parent: 4
+        props: {}
+        value: ''
+        w: 376.0
+        x: 8.0
+        y: 8.0
+      9: *id005
+      10:
+        attributes: []
+        backendNodeId: 14
+        childNodeCount: 1
+        children:
+        - &id006
+          backendNodeId: 15
+          childrenids: []
+          localName: ''
+          nodeId: 11
+          nodeName: '#text'
+          nodeType: 3
+          nodeValue: "\n\t\tNewegg.com is the sole owner of information collected\
+            \ on this site. We will not\n\t\tsell, share, or rent this information\
+            \ to any outside parties, except as outlined\n\t\tin this policy. We collect\
+            \ information from our customers to process orders and\n\t\tbetter serve\
+            \ you with pertinent information, such as order confirmations and order\n\
+            \t\tstatus updates. Information collected includes your name, shipping\
+            \ address, billing\n\t\taddress, telephone numbers, e-mail address, and\
+            \ payment information such as your\n\t\tcredit card number. We also require\
+            \ you to submit a username and password of your\n\t\tchoice for your future\
+            \ access to your account information. To safeguard that your\n\t\tuser\
+            \ name and password remain confidential, DO NOT share this information\
+            \ with anyone.\n\t\tIf you elect to receive our newsletter or special\
+            \ promotions, your contact information\n\t\twill be used for the delivery\
+            \ of these items. We allow third-party companies to collect non-personally\
+            \ identifiable information when customers visit our site. These companies\
+            \ typically use a cookie or web beacon to collect this information in\
+            \ order to provide advertisements likely to be of interest to you. Our\
+            \ site does not respond to \"Do Not Track\" signals or mechanisms.\n\t"
+          parent: 10
+          props: {}
+        childrenids: [11]
+        h: 456.0
+        localName: p
+        nodeId: 10
+        nodeName: P
+        nodeType: 1
+        nodeValue: ''
+        parent: 4
+        props: {}
+        value: ''
+        w: 376.0
+        x: 8.0
+        y: 48.71875
+      11: *id006
+      12:
+        attributes: []
+        backendNodeId: 16
+        childNodeCount: 1
+        children:
+        - &id007
+          backendNodeId: 17
+          childrenids: []
+          localName: ''
+          nodeId: 13
+          nodeName: '#text'
+          nodeType: 3
+          nodeValue: "\n\n\t\tRegistration"
+          parent: 12
+          props: {}
+        childrenids: [13]
+        h: 22.0
+        localName: h3
+        nodeId: 12
+        nodeName: H3
+        nodeType: 1
+        nodeValue: ''
+        parent: 4
+        props: {}
+        value: ''
+        w: 376.0
+        x: 8.0
+        y: 523.4375
+      13: *id007
+      14:
+        attributes: []
+        backendNodeId: 18
+        childNodeCount: 1
+        children:
+        - &id008
+          backendNodeId: 19
+          childrenids: []
+          localName: ''
+          nodeId: 15
+          nodeName: '#text'
+          nodeType: 3
+          nodeValue: "\n\t\tIn order to process your orders placed on this website,\
+            \ you must first complete\n\t\tthe registration form. During registration,\
+            \ you will be required to provide your\n\t\tcontact information, which\
+            \ includes your name, e-mail address, telephone number\n\t\tand street\
+            \ address. This information is used to provide you with important Newegg.com\n\
+            \t\tservices such as automated order status updates via e-mail.\n\t"
+          parent: 14
+          props: {}
+        childrenids: [15]
+        h: 152.0
+        localName: p
+        nodeId: 14
+        nodeName: P
+        nodeType: 1
+        nodeValue: ''
+        parent: 4
+        props: {}
+        value: ''
+        w: 376.0
+        x: 8.0
+        y: 564.15625
+      15: *id008
+      16:
+        attributes: []
+        backendNodeId: 20
+        childNodeCount: 1
+        children:
+        - &id009
+          backendNodeId: 21
+          childrenids: []
+          localName: ''
+          nodeId: 17
+          nodeName: '#text'
+          nodeType: 3
+          nodeValue: "\n\t\tOrder"
+          parent: 16
+          props: {}
+        childrenids: [17]
+        h: 22.0
+        localName: h3
+        nodeId: 16
+        nodeName: H3
+        nodeType: 1
+        nodeValue: ''
+        parent: 4
+        props: {}
+        value: ''
+        w: 376.0
+        x: 8.0
+        y: 734.875
+      17: *id009
+      18:
+        attributes: []
+        backendNodeId: 22
+        childNodeCount: 1
+        children:
+        - &id010
+          backendNodeId: 23
+          childrenids: []
+          localName: ''
+          nodeId: 19
+          nodeName: '#text'
+          nodeType: 3
+          nodeValue: "\n\t\n\t\tMost of the information collected in the registration\
+            \ process will be used to process\n\t\torders. During the order process,\
+            \ you will have to provide financial information\n\t\tsuch as your credit\
+            \ card number, expiration date, money order, wire transfer or\n\t\tcheck\
+            \ information. This information is used for billing purposes and to fulfill\n\
+            \t\tyour order. If we have trouble processing an order, we will use this\
+            \ contact information\n\t\tto get in touch with you. To properly process\
+            \ your credit card information, we must\n\t\tshare your personal and financial\
+            \ information with the merchant bank for authorization\n\t\tand approval.\
+            \ This process is protected by an enhanced security system. See the\n\t\
+            \tSecurity section below for more details on security measures and procedures.\
+            \ We\n\t\tdo not share your personal and financial information with any\
+            \ third parties, except\n\t\tthose specified in the Sharing section of\
+            \ this policy.\t\n\t\n\t"
+          parent: 18
+          props: {}
+        childrenids: [19]
+        h: 342.0
+        localName: p
+        nodeId: 18
+        nodeName: P
+        nodeType: 1
+        nodeValue: ''
+        parent: 4
+        props: {}
+        value: ''
+        w: 376.0
+        x: 8.0
+        y: 775.59375
+      19: *id010
+      20:
+        attributes: []
+        backendNodeId: 24
+        childNodeCount: 1
+        children:
+        - &id011
+          backendNodeId: 25
+          childrenids: []
+          localName: ''
+          nodeId: 21
+          nodeName: '#text'
+          nodeType: 3
+          nodeValue: "\n\t\tCookies"
+          parent: 20
+          props: {}
+        childrenids: [21]
+        h: 22.0
+        localName: h3
+        nodeId: 20
+        nodeName: H3
+        nodeType: 1
+        nodeValue: ''
+        parent: 4
+        props: {}
+        value: ''
+        w: 376.0
+        x: 8.0
+        y: 1136.3125
+      21: *id011
+      22:
+        attributes: []
+        backendNodeId: 26
+        childNodeCount: 1
+        children:
+        - &id012
+          backendNodeId: 27
+          childrenids: []
+          localName: ''
+          nodeId: 23
+          nodeName: '#text'
+          nodeType: 3
+          nodeValue: "\n\t\tWe customize certain Web page content based upon your\
+            \ browser type and other information\n\t\tprovided by our cookie. If you\
+            \ choose to reject the cookie, you can still browse\n\t\tour store but\
+            \ will be unable to use the shopping cart to buy merchandise. The Newegg.com\n\
+            \t\tshopping cart cannot function without cookies enabled so that the\
+            \ necessary information\n\t\tto process your order is retained. If you\
+            \ disable cookies, Newegg.com will be unable\n\t\tto accept your online\
+            \ order. We will not share any personally identifiable information\n\t\
+            \tprovided by this cookie with any third party. We will, however, link\
+            \ data stored\n\t\tin cookies to the personally identifiable information\
+            \ you submitted while on our\n\t\tsite. This allows us to personalize\
+            \ your shopping experience and discern user preferences\n\t\tto evoke\
+            \ subconscious feelings of familiarity and assurance.\n\t\t"
+          parent: 22
+          props: {}
+        childrenids: [23]
+        h: 323.0
+        localName: p
+        nodeId: 22
+        nodeName: P
+        nodeType: 1
+        nodeValue: ''
+        parent: 4
+        props: {}
+        value: ''
+        w: 376.0
+        x: 8.0
+        y: 1177.03125
+      23: *id012
+      24:
+        attributes: []
+        backendNodeId: 28
+        childNodeCount: 2
+        children:
+        - &id013
+          attributes: []
+          backendNodeId: 29
+          childNodeCount: 1
+          children:
+          - &id014
+            backendNodeId: 30
+            childrenids: []
+            localName: ''
+            nodeId: 26
+            nodeName: '#text'
+            nodeType: 3
+            nodeValue: "Some of our business partners (e.g., advertisers) use cookies\
+              \ on our site. We have\n\t\t\t\tno access to or control over these cookies."
+            parent: 25
+            props: {}
+          childrenids: [26]
+          h: 57.0
+          localName: li
+          nodeId: 25
+          nodeName: LI
+          nodeType: 1
+          nodeValue: ''
+          parent: 24
+          props: {}
+          value: '0'
+          w: 336.0
+          x: 48.0
+          y: 1516.03125
+        - &id015
+          attributes: []
+          backendNodeId: 31
+          childNodeCount: 3
+          children:
+          - &id016
+            backendNodeId: 32
+            childrenids: []
+            localName: ''
+            nodeId: 28
+            nodeName: '#text'
+            nodeType: 3
+            nodeValue: 'This privacy statement covers the use of cookies by '
+            parent: 27
+            props: {}
+          - &id017
+            attributes: [href, 'http://www.newegg.com/']
+            backendNodeId: 33
+            childNodeCount: 1
+            children:
+            - &id018
+              backendNodeId: 34
+              childrenids: []
+              localName: ''
+              nodeId: 30
+              nodeName: '#text'
+              nodeType: 3
+              nodeValue: "\t\n\t\tNewegg.com"
+              parent: 29
+              props: {}
+            childrenids: [30]
+            h: 19.0
+            localName: a
+            nodeId: 29
+            nodeName: A
+            nodeType: 1
+            nodeValue: ''
+            parent: 27
+            props: {href: 'http://www.newegg.com/'}
+            value: ''
+            w: 94.0625
+            x: 127.71875
+            y: 1592.03125
+          - &id019
+            backendNodeId: 35
+            childrenids: []
+            localName: ''
+            nodeId: 31
+            nodeName: '#text'
+            nodeType: 3
+            nodeValue: ' only and does not cover the use of cookies by any advertisers.'
+            parent: 27
+            props: {}
+          childrenids: [28, 29, 31]
+          h: 57.0
+          localName: li
+          nodeId: 27
+          nodeName: LI
+          nodeType: 1
+          nodeValue: ''
+          parent: 24
+          props: {}
+          value: '0'
+          w: 336.0
+          x: 48.0
+          y: 1573.03125
+        childrenids: [25, 27]
+        h: 114.0
+        localName: ul
+        nodeId: 24
+        nodeName: UL
+        nodeType: 1
+        nodeValue: ''
+        parent: 4
+        props: {}
+        value: ''
+        w: 376.0
+        x: 8.0
+        y: 1516.03125
+      25: *id013
+      26: *id014
+      27: *id015
+      28: *id016
+      29: *id017
+      30: *id018
+      31: *id019
+      32:
+        attributes: []
+        backendNodeId: 36
+        childNodeCount: 1
+        children:
+        - &id020
+          backendNodeId: 37
+          childrenids: []
+          localName: ''
+          nodeId: 33
+          nodeName: '#text'
+          nodeType: 3
+          nodeValue: "\n\t\t\tLog Files"
+          parent: 32
+          props: {}
+        childrenids: [33]
+        h: 22.0
+        localName: h3
+        nodeId: 32
+        nodeName: H3
+        nodeType: 1
+        nodeValue: ''
+        parent: 4
+        props: {}
+        value: ''
+        w: 376.0
+        x: 8.0
+        y: 1648.75
+      33: *id020
+      34:
+        attributes: []
+        backendNodeId: 38
+        childNodeCount: 1
+        children:
+        - &id021
+          backendNodeId: 39
+          childrenids: []
+          localName: ''
+          nodeId: 35
+          nodeName: '#text'
+          nodeType: 3
+          nodeValue: "\n\t\t\tWe use IP addresses to analyze trends, administer the\
+            \ site, track user movement,\n\t\t\tand gather broad demographic information\
+            \ for aggregate use. We do not link IP addresses\n\t\t\tto personally\
+            \ identifiable information, and we do not distribute or share IP information\n\
+            \t\t\twith any third parties.\n\t\t"
+          parent: 34
+          props: {}
+        childrenids: [35]
+        h: 114.0
+        localName: p
+        nodeId: 34
+        nodeName: P
+        nodeType: 1
+        nodeValue: ''
+        parent: 4
+        props: {}
+        value: ''
+        w: 376.0
+        x: 8.0
+        y: 1689.46875
+      35: *id021
+      36:
+        attributes: []
+        backendNodeId: 40
+        childNodeCount: 1
+        children:
+        - &id022
+          backendNodeId: 41
+          childrenids: []
+          localName: ''
+          nodeId: 37
+          nodeName: '#text'
+          nodeType: 3
+          nodeValue: "\n\t\tSharing"
+          parent: 36
+          props: {}
+        childrenids: [37]
+        h: 22.0
+        localName: h3
+        nodeId: 36
+        nodeName: H3
+        nodeType: 1
+        nodeValue: ''
+        parent: 4
+        props: {}
+        value: ''
+        w: 376.0
+        x: 8.0
+        y: 1822.1875
+      37: *id022
+      38:
+        attributes: []
+        backendNodeId: 42
+        childNodeCount: 2
+        children:
+        - &id023
+          backendNodeId: 43
+          childrenids: []
+          localName: ''
+          nodeId: 39
+          nodeName: '#text'
+          nodeType: 3
+          nodeValue: "\n\t\tWe may employ third party companies to perform functions\
+            \ on our behalf. These functions\n\t\tmay include order fulfillment, package\
+            \ delivery, marketing assistance, postal and\n\t\te-mail delivery, customer\
+            \ service, data analysis, and credit processing. The third\n\t\tparties\
+            \ we contract for these purposes have limited access to your personal\
+            \ information\n\t\tand may not use it for other purposes.\n\t\t\n\t"
+          parent: 38
+          props: {}
+        - &id024
+          attributes: []
+          backendNodeId: 44
+          childNodeCount: 0
+          children: []
+          childrenids: []
+          h: 0.0
+          localName: br
+          nodeId: 40
+          nodeName: BR
+          nodeType: 1
+          nodeValue: ''
+          parent: 38
+          props: {}
+          value: ''
+          w: 0.0
+          x: 0.0
+          y: 0.0
+        childrenids: [39, 40]
+        h: 152.0
+        localName: p
+        nodeId: 38
+        nodeName: P
+        nodeType: 1
+        nodeValue: ''
+        parent: 4
+        props: {}
+        value: ''
+        w: 376.0
+        x: 8.0
+        y: 1862.90625
+      39: *id023
+      40: *id024
+      41:
+        attributes: []
+        backendNodeId: 45
+        childNodeCount: 1
+        children:
+        - &id025
+          backendNodeId: 46
+          childrenids: []
+          localName: ''
+          nodeId: 42
+          nodeName: '#text'
+          nodeType: 3
+          nodeValue: "\n\t\tWe may frame or mask another website so that the look,\
+            \ feel and interface simulate\n\t\tthe experience of browsing a genuine\
+            \ Newegg.com web page. Extreme care and discretion\n\t\tis exercised when\
+            \ evaluating third party sites. We only brand third party sites\n\t\t\
+            if their organization applies stringent security and privacy practices\
+            \ which parallel\n\t\tour own commitment to safe online shopping.\n\t"
+          parent: 41
+          props: {}
+        childrenids: [42]
+        h: 152.0
+        localName: p
+        nodeId: 41
+        nodeName: P
+        nodeType: 1
+        nodeValue: ''
+        parent: 4
+        props: {}
+        value: ''
+        w: 376.0
+        x: 8.0
+        y: 2030.90625
+      42: *id025
+      43:
+        attributes: []
+        backendNodeId: 47
+        childNodeCount: 1
+        children:
+        - &id026
+          backendNodeId: 48
+          childrenids: []
+          localName: ''
+          nodeId: 44
+          nodeName: '#text'
+          nodeType: 3
+          nodeValue: "\n\t\tAs our business continues to evolve, we may acquire or\
+            \ sell business units or subsidiaries.\n\t\tCustomer information is one\
+            \ of the business assets that would be transferred in\n\t\tthese types\
+            \ of transactions. In such a situation, your personally identifiable information\n\
+            \t\twould only be used in a manner consistent with our pre-existing Privacy\n\
+            \t\tNotice.\t\t \n\t"
+          parent: 43
+          props: {}
+        childrenids: [44]
+        h: 133.0
+        localName: p
+        nodeId: 43
+        nodeName: P
+        nodeType: 1
+        nodeValue: ''
+        parent: 4
+        props: {}
+        value: ''
+        w: 376.0
+        x: 8.0
+        y: 2198.90625
+      44: *id026
+      45:
+        attributes: []
+        backendNodeId: 49
+        childNodeCount: 1
+        children:
+        - &id027
+          backendNodeId: 50
+          childrenids: []
+          localName: ''
+          nodeId: 46
+          nodeName: '#text'
+          nodeType: 3
+          nodeValue: "\n\t\tWe reserve the right to disclose your personally identifiable\
+            \ information as required\n\t\tby law, and when we believe that disclosure\
+            \ is necessary to protect our rights and/or\n\t\tcomply with a judicial\
+            \ proceeding, court order, or legal process served on our website.\n\t"
+          parent: 45
+          props: {}
+        childrenids: [46]
+        h: 95.0
+        localName: p
+        nodeId: 45
+        nodeName: P
+        nodeType: 1
+        nodeValue: ''
+        parent: 4
+        props: {}
+        value: ''
+        w: 376.0
+        x: 8.0
+        y: 2347.90625
+      46: *id027
+      47:
+        attributes: []
+        backendNodeId: 51
+        childNodeCount: 1
+        children:
+        - &id028
+          backendNodeId: 52
+          childrenids: []
+          localName: ''
+          nodeId: 48
+          nodeName: '#text'
+          nodeType: 3
+          nodeValue: "\n\t\tTestimonials"
+          parent: 47
+          props: {}
+        childrenids: [48]
+        h: 22.0
+        localName: h3
+        nodeId: 47
+        nodeName: H3
+        nodeType: 1
+        nodeValue: ''
+        parent: 4
+        props: {}
+        value: ''
+        w: 376.0
+        x: 8.0
+        y: 2461.625
+      48: *id028
+      49:
+        attributes: []
+        backendNodeId: 53
+        childNodeCount: 1
+        children:
+        - &id029
+          backendNodeId: 54
+          childrenids: []
+          localName: ''
+          nodeId: 50
+          nodeName: '#text'
+          nodeType: 3
+          nodeValue: "\n\t\n\t\tThe testimonials section of the Newegg.com website\
+            \ is for the purpose of sharing\n\t\tpositive experiences. The testimonials\
+            \ section is moderated to ensure accurate and\n\t\tpositive testimonials.\
+            \ Published testimonials are genuine and are not edited or\n\t\taltered\
+            \ by Newegg.com. Newegg.com reserves the right to post or remove any testimonial\n\
+            \t\tat its discretion.\n\t\n\t"
+          parent: 49
+          props: {}
+        childrenids: [50]
+        h: 152.0
+        localName: p
+        nodeId: 49
+        nodeName: P
+        nodeType: 1
+        nodeValue: ''
+        parent: 4
+        props: {}
+        value: ''
+        w: 376.0
+        x: 8.0
+        y: 2502.34375
+      50: *id029
+      51:
+        attributes: []
+        backendNodeId: 55
+        childNodeCount: 1
+        children:
+        - &id030
+          backendNodeId: 56
+          childrenids: []
+          localName: ''
+          nodeId: 52
+          nodeName: '#text'
+          nodeType: 3
+          nodeValue: "\n\t\tBy posting your comment(s) or testimonial(s) (\"Testimonial\"\
+            ) on our website,\n\t\tyou give us permission to reprint or use the Testimonial\
+            \ in connection with our\n\t\tbusiness. You also are agreeing to the following:\
+            \ (1) The reprint or use of the\n\t\tTestimonial will be at our discretion\
+            \ and without compensation; (2) We may use the\n\t\tTestimonial with or\
+            \ without any pseudo (pen) name credit; (3) Our right to use the\n\t\t\
+            Testimonial is perpetual and may be assigned by us; (4) We may use the\
+            \ Testimonial\n\t\tlocally, nationally or globally and such use may be\
+            \ made in any media, information\n\t\tor communication platform (including\
+            \ Internet advertising) currently in use or later\n\t\tdeveloped; and\
+            \ (5) You and not someone else composed and posted the Testimonial.\n\t"
+          parent: 51
+          props: {}
+        childrenids: [52]
+        h: 285.0
+        localName: p
+        nodeId: 51
+        nodeName: P
+        nodeType: 1
+        nodeValue: ''
+        parent: 4
+        props: {}
+        value: ''
+        w: 376.0
+        x: 8.0
+        y: 2670.34375
+      52: *id030
+      53:
+        attributes: []
+        backendNodeId: 57
+        childNodeCount: 1
+        children:
+        - &id031
+          backendNodeId: 58
+          childrenids: []
+          localName: ''
+          nodeId: 54
+          nodeName: '#text'
+          nodeType: 3
+          nodeValue: "\n\t\tOther than your pseudo (pen) name, which we may or may\
+            \ not use, your personal contact\n\t\tinformation will not be disclosed\
+            \ in connection with our reprint or use of your\n\t\tTestimonial.\n\t"
+          parent: 53
+          props: {}
+        childrenids: [54]
+        h: 76.0
+        localName: p
+        nodeId: 53
+        nodeName: P
+        nodeType: 1
+        nodeValue: ''
+        parent: 4
+        props: {}
+        value: ''
+        w: 376.0
+        x: 8.0
+        y: 2971.34375
+      54: *id031
+      55:
+        attributes: []
+        backendNodeId: 59
+        childNodeCount: 1
+        children:
+        - &id032
+          backendNodeId: 60
+          childrenids: []
+          localName: ''
+          nodeId: 56
+          nodeName: '#text'
+          nodeType: 3
+          nodeValue: "\n\t\tChildren"
+          parent: 55
+          props: {}
+        childrenids: [56]
+        h: 22.0
+        localName: h3
+        nodeId: 55
+        nodeName: H3
+        nodeType: 1
+        nodeValue: ''
+        parent: 4
+        props: {}
+        value: ''
+        w: 376.0
+        x: 8.0
+        y: 3066.0625
+      56: *id032
+      57:
+        attributes: []
+        backendNodeId: 61
+        childNodeCount: 1
+        children:
+        - &id033
+          backendNodeId: 62
+          childrenids: []
+          localName: ''
+          nodeId: 58
+          nodeName: '#text'
+          nodeType: 3
+          nodeValue: "\n\t\tNewegg.com does not sell products for purchase by children.\
+            \ Youth-oriented products\n\t\tare sold for purchase by adults only. If\
+            \ you are under the age of 18, you may only\n\t\tuse Newegg.com in the\
+            \ presence of a consenting parent or guardian. We will not knowingly\n\
+            \t\tor intentionally collect personal information via the Internet from\
+            \ children under\n\t\tthe age of 13. Newegg.com is committed to protecting\
+            \ the welfare and privacy of\n\t\tchildren.\n\t"
+          parent: 57
+          props: {}
+        childrenids: [58]
+        h: 171.0
+        localName: p
+        nodeId: 57
+        nodeName: P
+        nodeType: 1
+        nodeValue: ''
+        parent: 4
+        props: {}
+        value: ''
+        w: 376.0
+        x: 8.0
+        y: 3106.78125
+      58: *id033
+      59:
+        attributes: []
+        backendNodeId: 63
+        childNodeCount: 1
+        children:
+        - &id034
+          backendNodeId: 64
+          childrenids: []
+          localName: ''
+          nodeId: 60
+          nodeName: '#text'
+          nodeType: 3
+          nodeValue: "\n\n\t\tLinks"
+          parent: 59
+          props: {}
+        childrenids: [60]
+        h: 22.0
+        localName: h3
+        nodeId: 59
+        nodeName: H3
+        nodeType: 1
+        nodeValue: ''
+        parent: 4
+        props: {}
+        value: ''
+        w: 376.0
+        x: 8.0
+        y: 3296.5
+      60: *id034
+      61:
+        attributes: []
+        backendNodeId: 65
+        childNodeCount: 1
+        children:
+        - &id035
+          backendNodeId: 66
+          childrenids: []
+          localName: ''
+          nodeId: 62
+          nodeName: '#text'
+          nodeType: 3
+          nodeValue: "\n\t\tThis website contains links to other sites. Please be\
+            \ aware that Newegg.com is not\n\t\tresponsible for the privacy practices\
+            \ of such other sites. We encourage our users\n\t\tto be aware when they\
+            \ leave our site, and to read the privacy statements of each\n\t\tand\
+            \ every website that collects personally identifiable information.\n\t\
+            \t \n\t\t\tThis privacy statement applies only to information collected\
+            \ by this website.\n\t\t\n\t"
+          parent: 61
+          props: {}
+        childrenids: [62]
+        h: 152.0
+        localName: p
+        nodeId: 61
+        nodeName: P
+        nodeType: 1
+        nodeValue: ''
+        parent: 4
+        props: {}
+        value: ''
+        w: 376.0
+        x: 8.0
+        y: 3337.21875
+      62: *id035
+      63:
+        attributes: []
+        backendNodeId: 67
+        childNodeCount: 1
+        children:
+        - &id036
+          attributes: [class, noLine, name, Security]
+          backendNodeId: 68
+          childNodeCount: 1
+          children:
+          - &id037
+            backendNodeId: 69
+            childrenids: []
+            localName: ''
+            nodeId: 65
+            nodeName: '#text'
+            nodeType: 3
+            nodeValue: Security
+            parent: 64
+            props: {}
+          childrenids: [65]
+          h: 22.0
+          localName: a
+          nodeId: 64
+          nodeName: A
+          nodeType: 1
+          nodeValue: ''
+          parent: 63
+          props: {class: noLine, name: Security}
+          value: ''
+          w: 70.40625
+          x: 8.0
+          y: 3507.9375
+        childrenids: [64]
+        h: 22.0
+        localName: h3
+        nodeId: 63
+        nodeName: H3
+        nodeType: 1
+        nodeValue: ''
+        parent: 4
+        props: {}
+        value: ''
+        w: 376.0
+        x: 8.0
+        y: 3507.9375
+      64: *id036
+      65: *id037
+      66:
+        attributes: []
+        backendNodeId: 70
+        childNodeCount: 1
+        children:
+        - &id038
+          backendNodeId: 71
+          childrenids: []
+          localName: ''
+          nodeId: 67
+          nodeName: '#text'
+          nodeType: 3
+          nodeValue: "\n\t\tNewegg.com takes precautions to protect its customers'\
+            \ information. When you submit\n\t\tsensitive information via the website,\
+            \ your information is protected both online\n\t\tand offline.\n\t"
+          parent: 66
+          props: {}
+        childrenids: [67]
+        h: 76.0
+        localName: p
+        nodeId: 66
+        nodeName: P
+        nodeType: 1
+        nodeValue: ''
+        parent: 4
+        props: {}
+        value: ''
+        w: 376.0
+        x: 8.0
+        y: 3548.65625
+      67: *id038
+      68:
+        attributes: []
+        backendNodeId: 72
+        childNodeCount: 3
+        children:
+        - &id039
+          backendNodeId: 73
+          childrenids: []
+          localName: ''
+          nodeId: 69
+          nodeName: '#text'
+          nodeType: 3
+          nodeValue: "\n\t\tWhen our registration/order form asks you to enter sensitive\
+            \ information (such as\n\t\tyour credit card number), that information\
+            \ is encrypted and is protected with the\n\t\tbest encryption software\
+            \ currently available in the industry - SSL. Newegg.com uses\n\t\tthe\
+            \ most advanced form of SSL software available: 256-bit encryption by\
+            \ VeriSign.\n\t\tTo learn more about SSL, follow this link "
+          parent: 68
+          props: {}
+        - &id040
+          attributes: [href, 'http://www.verisign.com/', target, _blank]
+          backendNodeId: 74
+          childNodeCount: 1
+          children:
+          - &id041
+            backendNodeId: 75
+            childrenids: []
+            localName: ''
+            nodeId: 71
+            nodeName: '#text'
+            nodeType: 3
+            nodeValue: "\n\t\t\twww.verisign.com"
+            parent: 70
+            props: {}
+          childrenids: [71]
+          h: 19.0
+          localName: a
+          nodeId: 70
+          nodeName: A
+          nodeType: 1
+          nodeValue: ''
+          parent: 68
+          props: {href: 'http://www.verisign.com/', target: _blank}
+          value: ''
+          w: 130.40625
+          x: 114.34375
+          y: 3773.65625
+        - &id042
+          backendNodeId: 76
+          childrenids: []
+          localName: ''
+          nodeId: 72
+          nodeName: '#text'
+          nodeType: 3
+          nodeValue: ".\n\t"
+          parent: 68
+          props: {}
+        childrenids: [69, 70, 72]
+        h: 152.0
+        localName: p
+        nodeId: 68
+        nodeName: P
+        nodeType: 1
+        nodeValue: ''
+        parent: 4
+        props: {}
+        value: ''
+        w: 376.0
+        x: 8.0
+        y: 3640.65625
+      69: *id039
+      70: *id040
+      71: *id041
+      72: *id042
+      73:
+        attributes: []
+        backendNodeId: 77
+        childNodeCount: 5
+        children:
+        - &id043
+          backendNodeId: 78
+          childrenids: []
+          localName: ''
+          nodeId: 74
+          nodeName: '#text'
+          nodeType: 3
+          nodeValue: "\n\t\tAccess to all of our users' information is restricted.\
+            \ Newegg.com operates in a\n\t\tsecured and locked facility that requires\
+            \ all employees to check in and wear valid\n\t\tID badges. Security cameras\
+            \ are positioned throughout the building in conjunction\n\t\twith multiple\
+            \ alarm systems. Only employees who need the information to perform\n\t\
+            \ta specific job are granted access to personally identifiable information.\
+            \ If you\n\t\twish to have your financial information removed at the time\
+            \ of your order, you may\n\t\topt to have your financial information deleted\
+            \ from our records upon completion\n\t\tof your order. Otherwise, you\
+            \ may contact us at "
+          parent: 73
+          props: {}
+        - &id044
+          attributes: [href, 'mailto:webmaster@newegg.com']
+          backendNodeId: 79
+          childNodeCount: 1
+          children:
+          - &id045
+            backendNodeId: 80
+            childrenids: []
+            localName: ''
+            nodeId: 76
+            nodeName: '#text'
+            nodeType: 3
+            nodeValue: "\n\t\t\twebmaster@newegg.com"
+            parent: 75
+            props: {}
+          childrenids: [76]
+          h: 19.0
+          localName: a
+          nodeId: 75
+          nodeName: A
+          nodeType: 1
+          nodeValue: ''
+          parent: 73
+          props: {href: 'mailto:webmaster@newegg.com'}
+          value: ''
+          w: 185.421875
+          x: 8.0
+          y: 4055.65625
+        - &id046
+          backendNodeId: 81
+          childrenids: []
+          localName: ''
+          nodeId: 77
+          nodeName: '#text'
+          nodeType: 3
+          nodeValue: ', or call toll free '
+          parent: 73
+          props: {}
+        - &id047
+          attributes: [href, 'tel:1-800-390-1119', target, _blank]
+          backendNodeId: 82
+          childNodeCount: 1
+          children:
+          - &id048
+            backendNodeId: 83
+            childrenids: []
+            localName: ''
+            nodeId: 79
+            nodeName: '#text'
+            nodeType: 3
+            nodeValue: 1-800-390-1119
+            parent: 78
+            props: {}
+          childrenids: [79]
+          h: 38.0
+          localName: a
+          nodeId: 78
+          nodeName: A
+          nodeType: 1
+          nodeValue: ''
+          parent: 73
+          props: {href: 'tel:1-800-390-1119', target: _blank}
+          value: ''
+          w: 373.609375
+          x: 8.0
+          y: 4055.65625
+        - &id049
+          backendNodeId: 84
+          childrenids: []
+          localName: ''
+          nodeId: 80
+          nodeName: '#text'
+          nodeType: 3
+          nodeValue: ", to request that your\n\t\tinformation be deleted from our\
+            \ database. For future transactions, you will be required\n\t\tto re-enter\
+            \ your information.\n\t"
+          parent: 73
+          props: {}
+        childrenids: [74, 75, 77, 78, 80]
+        h: 323.0
+        localName: p
+        nodeId: 73
+        nodeName: P
+        nodeType: 1
+        nodeValue: ''
+        parent: 4
+        props: {}
+        value: ''
+        w: 376.0
+        x: 8.0
+        y: 3808.65625
+      74: *id043
+      75: *id044
+      76: *id045
+      77: *id046
+      78: *id047
+      79: *id048
+      80: *id049
+      81:
+        attributes: []
+        backendNodeId: 85
+        childNodeCount: 1
+        children:
+        - &id050
+          backendNodeId: 86
+          childrenids: []
+          localName: ''
+          nodeId: 82
+          nodeName: '#text'
+          nodeType: 3
+          nodeValue: "\n\t\tAll Newegg.com servers, including web servers and database\
+            \ servers, are housed and\n\t\tmaintained in secure locations. Access\
+            \ to the database is strictly monitored and\n\t\tprotected from outside\
+            \ access. Internet access is restricted and protected by multiple\n\t\t\
+            Checkpoint and Cisco firewalls and password protection. The servers on\
+            \ which we\n\t\tstore personally identifiable information are kept in\
+            \ a secured environment, inside\n\t\ta secured and locked room. All backups\
+            \ are stored and locked in a high-level security\n\t\troom. Only personnel\
+            \ with proper security clearance have access to these restricted\n\t\t\
+            areas. Tape backups are not permitted to leave the premises without prior\
+            \ authorization.\n\t"
+          parent: 81
+          props: {}
+        childrenids: [82]
+        h: 266.0
+        localName: p
+        nodeId: 81
+        nodeName: P
+        nodeType: 1
+        nodeValue: ''
+        parent: 4
+        props: {}
+        value: ''
+        w: 376.0
+        x: 8.0
+        y: 4147.65625
+      82: *id050
+      83:
+        attributes: []
+        backendNodeId: 87
+        childNodeCount: 1
+        children:
+        - &id051
+          backendNodeId: 88
+          childrenids: []
+          localName: ''
+          nodeId: 84
+          nodeName: '#text'
+          nodeType: 3
+          nodeValue: "\n\t\t\t\n\t\tAll employees are kept up-to-date on our security\
+            \ and privacy practices. Every quarter,\n\t\tin addition to any time a\
+            \ new policy is added, Newegg.com employees are notified\n\t\tand/or reminded\
+            \ about the importance of privacy, and what they can do to ensure\n\t\t\
+            that customers' information remains protected at all times.\n\t\t\t\t\n\
+            \t"
+          parent: 83
+          props: {}
+        childrenids: [84]
+        h: 133.0
+        localName: p
+        nodeId: 83
+        nodeName: P
+        nodeType: 1
+        nodeValue: ''
+        parent: 4
+        props: {}
+        value: ''
+        w: 376.0
+        x: 8.0
+        y: 4429.65625
+      84: *id051
+      85:
+        attributes: []
+        backendNodeId: 89
+        childNodeCount: 3
+        children:
+        - &id052
+          backendNodeId: 90
+          childrenids: []
+          localName: ''
+          nodeId: 86
+          nodeName: '#text'
+          nodeType: 3
+          nodeValue: "\n\t\tIf you have any questions or concerns about Newegg.com's\
+            \ security practices, you\n\t\tcan send us an email at "
+          parent: 85
+          props: {}
+        - &id053
+          attributes: [href, 'mailto:service@newegg.com']
+          backendNodeId: 91
+          childNodeCount: 1
+          children:
+          - &id054
+            backendNodeId: 92
+            childrenids: []
+            localName: ''
+            nodeId: 88
+            nodeName: '#text'
+            nodeType: 3
+            nodeValue: service@newegg.com
+            parent: 87
+            props: {}
+          childrenids: [88]
+          h: 19.0
+          localName: a
+          nodeId: 87
+          nodeName: A
+          nodeType: 1
+          nodeValue: ''
+          parent: 85
+          props: {href: 'mailto:service@newegg.com'}
+          value: ''
+          w: 156.625
+          x: 90.3125
+          y: 4616.65625
+        - &id055
+          backendNodeId: 93
+          childrenids: []
+          localName: ''
+          nodeId: 89
+          nodeName: '#text'
+          nodeType: 3
+          nodeValue: ".\n\t"
+          parent: 85
+          props: {}
+        childrenids: [86, 87, 89]
+        h: 57.0
+        localName: p
+        nodeId: 85
+        nodeName: P
+        nodeType: 1
+        nodeValue: ''
+        parent: 4
+        props: {}
+        value: ''
+        w: 376.0
+        x: 8.0
+        y: 4578.65625
+      86: *id052
+      87: *id053
+      88: *id054
+      89: *id055
+      90:
+        attributes: []
+        backendNodeId: 94
+        childNodeCount: 1
+        children:
+        - &id056
+          backendNodeId: 95
+          childrenids: []
+          localName: ''
+          nodeId: 91
+          nodeName: '#text'
+          nodeType: 3
+          nodeValue: "\n\t\tSpecial Offers"
+          parent: 90
+          props: {}
+        childrenids: [91]
+        h: 22.0
+        localName: h3
+        nodeId: 90
+        nodeName: H3
+        nodeType: 1
+        nodeValue: ''
+        parent: 4
+        props: {}
+        value: ''
+        w: 376.0
+        x: 8.0
+        y: 4654.375
+      91: *id056
+      92:
+        attributes: []
+        backendNodeId: 96
+        childNodeCount: 1
+        children:
+        - &id057
+          backendNodeId: 97
+          childrenids: []
+          localName: ''
+          nodeId: 93
+          nodeName: '#text'
+          nodeType: 3
+          nodeValue: "\n\t\tOur special offers are sent only to customers who grant\
+            \ Newegg.com permission to\n\t\tsend them such information.\n\t"
+          parent: 92
+          props: {}
+        childrenids: [93]
+        h: 57.0
+        localName: p
+        nodeId: 92
+        nodeName: P
+        nodeType: 1
+        nodeValue: ''
+        parent: 4
+        props: {}
+        value: ''
+        w: 376.0
+        x: 8.0
+        y: 4695.09375
+      93: *id057
+      94:
+        attributes: []
+        backendNodeId: 98
+        childNodeCount: 1
+        children:
+        - &id058
+          backendNodeId: 99
+          childrenids: []
+          localName: ''
+          nodeId: 95
+          nodeName: '#text'
+          nodeType: 3
+          nodeValue: "\n\t\tTo honor the privacy of our users, we offer the option\
+            \ to not receive these types\n\t\tof communications. At the time of your\
+            \ order, you may opt to not receive special\n\t\toffers and news by clicking\
+            \ the appropriate field. Furthermore, all special offers\n\t\tare sent\
+            \ via e-mail and include an opt-out link if you no longer wish to receive\n\
+            \t\tspecial offers and news. Customers might still receive intermittent\
+            \ updates on products,\n\t\tservices, specials or Newegg.com news. Please\
+            \ reference the Choice/Opt-out section\n\t\tbelow for further details\
+            \ on how to be removed from our mailing list should you\n\t\tchoose to\
+            \ be removed.\n\t"
+          parent: 94
+          props: {}
+        childrenids: [95]
+        h: 228.0
+        localName: p
+        nodeId: 94
+        nodeName: P
+        nodeType: 1
+        nodeValue: ''
+        parent: 4
+        props: {}
+        value: ''
+        w: 376.0
+        x: 8.0
+        y: 4768.09375
+      95: *id058
+      96:
+        attributes: []
+        backendNodeId: 100
+        childNodeCount: 1
+        children:
+        - &id059
+          backendNodeId: 101
+          childrenids: []
+          localName: ''
+          nodeId: 97
+          nodeName: '#text'
+          nodeType: 3
+          nodeValue: "\n\n\t\tCorrection/Updating/Reviewing Personal Information"
+          parent: 96
+          props: {}
+        childrenids: [97]
+        h: 44.0
+        localName: h3
+        nodeId: 96
+        nodeName: H3
+        nodeType: 1
+        nodeValue: ''
+        parent: 4
+        props: {}
+        value: ''
+        w: 376.0
+        x: 8.0
+        y: 5014.8125
+      97: *id059
+      98:
+        attributes: []
+        backendNodeId: 102
+        childNodeCount: 3
+        children:
+        - &id060
+          backendNodeId: 103
+          childrenids: []
+          localName: ''
+          nodeId: 99
+          nodeName: '#text'
+          nodeType: 3
+          nodeValue: "\n\t\tCustomers may change or review their stored account information\
+            \ such as street address\n\t\tor e-mail address through our website by\
+            \ visiting our \n\t\t"
+          parent: 98
+          props: {}
+        - &id061
+          attributes: [href, 'http://www.newegg.com/HelpInfo/OverView.aspx']
+          backendNodeId: 104
+          childNodeCount: 1
+          children:
+          - &id062
+            backendNodeId: 105
+            childrenids: []
+            localName: ''
+            nodeId: 101
+            nodeName: '#text'
+            nodeType: 3
+            nodeValue: Help
+            parent: 100
+            props: {}
+          childrenids: [101]
+          h: 19.0
+          localName: a
+          nodeId: 100
+          nodeName: A
+          nodeType: 1
+          nodeValue: ''
+          parent: 98
+          props: {href: 'http://www.newegg.com/HelpInfo/OverView.aspx'}
+          value: ''
+          w: 32.734375
+          x: 316.921875
+          y: 5115.53125
+        - &id063
+          backendNodeId: 106
+          childrenids: []
+          localName: ''
+          nodeId: 102
+          nodeName: '#text'
+          nodeType: 3
+          nodeValue: " section. You must have your username and password in order\
+            \ to access\n\t\tyour account. In the event you forget both your username\
+            \ and password, please contact\n\t\tour customer service department for\
+            \ assistance.\n\t"
+          parent: 98
+          props: {}
+        childrenids: [99, 100, 102]
+        h: 152.0
+        localName: p
+        nodeId: 98
+        nodeName: P
+        nodeType: 1
+        nodeValue: ''
+        parent: 4
+        props: {}
+        value: ''
+        w: 376.0
+        x: 8.0
+        y: 5077.53125
+      99: *id060
+      100: *id061
+      101: *id062
+      102: *id063
+      103:
+        attributes: []
+        backendNodeId: 107
+        childNodeCount: 1
+        children:
+        - &id064
+          backendNodeId: 108
+          childrenids: []
+          localName: ''
+          nodeId: 104
+          nodeName: '#text'
+          nodeType: 3
+          nodeValue: "\n\t\tChoice/Opt-out"
+          parent: 103
+          props: {}
+        childrenids: [104]
+        h: 22.0
+        localName: h3
+        nodeId: 103
+        nodeName: H3
+        nodeType: 1
+        nodeValue: ''
+        parent: 4
+        props: {}
+        value: ''
+        w: 376.0
+        x: 8.0
+        y: 5248.25
+      104: *id064
+      105:
+        attributes: []
+        backendNodeId: 109
+        childNodeCount: 3
+        children:
+        - &id065
+          backendNodeId: 110
+          childrenids: []
+          localName: ''
+          nodeId: 106
+          nodeName: '#text'
+          nodeType: 3
+          nodeValue: "\n\n\t\tFor customers who wish to opt-out and stop receiving\
+            \ Newegg.com special offers and\n\t\trelated news, Newegg.com provides\
+            \ several ways to do so. Users who no longer wish\n\t\tto receive our\
+            \ newsletter or promotional materials may opt-out of receiving these\n\
+            \t\tcommunications by un-checking the \"permission to send\" field when\
+            \ processing\n\t\ttheir orders. They may also send e-mails to "
+          parent: 105
+          props: {}
+        - &id066
+          attributes: [href, 'mailto:webmaster@newegg.com']
+          backendNodeId: 111
+          childNodeCount: 1
+          children:
+          - &id067
+            backendNodeId: 112
+            childrenids: []
+            localName: ''
+            nodeId: 108
+            nodeName: '#text'
+            nodeType: 3
+            nodeValue: webmaster@newegg.com
+            parent: 107
+            props: {}
+          childrenids: [108]
+          h: 19.0
+          localName: a
+          nodeId: 107
+          nodeName: A
+          nodeType: 1
+          nodeValue: ''
+          parent: 105
+          props: {href: 'mailto:webmaster@newegg.com'}
+          value: ''
+          w: 185.421875
+          x: 8.0
+          y: 5440.96875
+        - &id068
+          backendNodeId: 113
+          childrenids: []
+          localName: ''
+          nodeId: 109
+          nodeName: '#text'
+          nodeType: 3
+          nodeValue: "\n\t\twith a request to be removed. Finally, they may use the\
+            \ link provided in all Newegg.com\n\t\tcommunications to automatically\
+            \ unsubscribe.\n\t"
+          parent: 105
+          props: {}
+        childrenids: [106, 107, 109]
+        h: 228.0
+        localName: p
+        nodeId: 105
+        nodeName: P
+        nodeType: 1
+        nodeValue: ''
+        parent: 4
+        props: {}
+        value: ''
+        w: 376.0
+        x: 8.0
+        y: 5288.96875
+      106: *id065
+      107: *id066
+      108: *id067
+      109: *id068
+      110:
+        attributes: []
+        backendNodeId: 114
+        childNodeCount: 1
+        children:
+        - &id069
+          backendNodeId: 115
+          childrenids: []
+          localName: ''
+          nodeId: 111
+          nodeName: '#text'
+          nodeType: 3
+          nodeValue: "\n\t\tNotification of Changes"
+          parent: 110
+          props: {}
+        childrenids: [111]
+        h: 22.0
+        localName: h3
+        nodeId: 110
+        nodeName: H3
+        nodeType: 1
+        nodeValue: ''
+        parent: 4
+        props: {}
+        value: ''
+        w: 376.0
+        x: 8.0
+        y: 5535.6875
+      111: *id069
+      112:
+        attributes: []
+        backendNodeId: 116
+        childNodeCount: 1
+        children:
+        - &id070
+          backendNodeId: 117
+          childrenids: []
+          localName: ''
+          nodeId: 113
+          nodeName: '#text'
+          nodeType: 3
+          nodeValue: "\n\n\t\tIf we decide to change our Privacy Policy, we will post\
+            \ those changes to this privacy\n\t\tstatement, the homepage, and other\
+            \ places we deem appropriate so that you are aware\n\t\tof what information\
+            \ we collect, how we use it, and under what circumstances, if\n\t\tany,\
+            \ we disclose it. We reserve the right to modify this privacy statement\
+            \ at any\n\t\ttime, so please review it frequently. If we make material\
+            \ changes to this policy,\n\t\twe will notify you here, by email, or by\
+            \ means of a notice on our homepage.\n\t"
+          parent: 112
+          props: {}
+        childrenids: [113]
+        h: 190.0
+        localName: p
+        nodeId: 112
+        nodeName: P
+        nodeType: 1
+        nodeValue: ''
+        parent: 4
+        props: {}
+        value: ''
+        w: 376.0
+        x: 8.0
+        y: 5576.40625
+      113: *id070
+      114:
+        attributes: []
+        backendNodeId: 118
+        childNodeCount: 7
+        children:
+        - &id071
+          backendNodeId: 119
+          childrenids: []
+          localName: ''
+          nodeId: 115
+          nodeName: '#text'
+          nodeType: 3
+          nodeValue: "\n\t\tIf you have opted out of receiving communications from\
+            \ Newegg.com, you will still\n\t\tbe able to view news of policy changes\
+            \ at "
+          parent: 114
+          props: {}
+        - &id072
+          attributes: [href, 'http://www.newegg.com/']
+          backendNodeId: 120
+          childNodeCount: 1
+          children:
+          - &id073
+            backendNodeId: 121
+            childrenids: []
+            localName: ''
+            nodeId: 117
+            nodeName: '#text'
+            nodeType: 3
+            nodeValue: www.newegg.com
+            parent: 116
+            props: {}
+          childrenids: [117]
+          h: 19.0
+          localName: a
+          nodeId: 116
+          nodeName: A
+          nodeType: 1
+          nodeValue: ''
+          parent: 114
+          props: {href: 'http://www.newegg.com/'}
+          value: ''
+          w: 130.796875
+          x: 154.6875
+          y: 5820.40625
+        - &id074
+          backendNodeId: 122
+          childrenids: []
+          localName: ''
+          nodeId: 118
+          nodeName: '#text'
+          nodeType: 3
+          nodeValue: ".\n\t\tOtherwise, you may e-mail us at "
+          parent: 114
+          props: {}
+        - &id075
+          attributes: [href, 'mailto:webmaster@newegg.com']
+          backendNodeId: 123
+          childNodeCount: 1
+          children:
+          - &id076
+            backendNodeId: 124
+            childrenids: []
+            localName: ''
+            nodeId: 120
+            nodeName: '#text'
+            nodeType: 3
+            nodeValue: webmaster@newegg.com
+            parent: 119
+            props: {}
+          childrenids: [120]
+          h: 19.0
+          localName: a
+          nodeId: 119
+          nodeName: A
+          nodeType: 1
+          nodeValue: ''
+          parent: 114
+          props: {href: 'mailto:webmaster@newegg.com'}
+          value: ''
+          w: 185.421875
+          x: 157.765625
+          y: 5839.40625
+        - &id077
+          backendNodeId: 125
+          childrenids: []
+          localName: ''
+          nodeId: 121
+          nodeName: '#text'
+          nodeType: 3
+          nodeValue: "\n\t\tor call us toll free at \n\t\t"
+          parent: 114
+          props: {}
+        - &id078
+          attributes: [href, 'tel:(800) 390-1119', target, _blank]
+          backendNodeId: 126
+          childNodeCount: 1
+          children:
+          - &id079
+            backendNodeId: 127
+            childrenids: []
+            localName: ''
+            nodeId: 123
+            nodeName: '#text'
+            nodeType: 3
+            nodeValue: (800) 390-1119
+            parent: 122
+            props: {}
+          childrenids: [123]
+          h: 19.0
+          localName: a
+          nodeId: 122
+          nodeName: A
+          nodeType: 1
+          nodeValue: ''
+          parent: 114
+          props: {href: 'tel:(800) 390-1119', target: _blank}
+          value: ''
+          w: 109.25
+          x: 133.375
+          y: 5858.40625
+        - &id080
+          backendNodeId: 128
+          childrenids: []
+          localName: ''
+          nodeId: 124
+          nodeName: '#text'
+          nodeType: 3
+          nodeValue: "\n\t\t\t\t\t\n\t\t to ask our customer service department about\n\
+            \t\tchanges and updates.\n\t"
+          parent: 114
+          props: {}
+        childrenids: [115, 116, 118, 119, 121, 122, 124]
+        h: 133.0
+        localName: p
+        nodeId: 114
+        nodeName: P
+        nodeType: 1
+        nodeValue: ''
+        parent: 4
+        props: {}
+        value: ''
+        w: 376.0
+        x: 8.0
+        y: 5782.40625
+      115: *id071
+      116: *id072
+      117: *id073
+      118: *id074
+      119: *id075
+      120: *id076
+      121: *id077
+      122: *id078
+      123: *id079
+      124: *id080
+      125:
+        attributes: []
+        backendNodeId: 129
+        childNodeCount: 1
+        children:
+        - &id081
+          backendNodeId: 130
+          childrenids: []
+          localName: ''
+          nodeId: 126
+          nodeName: '#text'
+          nodeType: 3
+          nodeValue: "\n\t\tLast Update"
+          parent: 125
+          props: {}
+        childrenids: [126]
+        h: 22.0
+        localName: h3
+        nodeId: 125
+        nodeName: H3
+        nodeType: 1
+        nodeValue: ''
+        parent: 4
+        props: {}
+        value: ''
+        w: 376.0
+        x: 8.0
+        y: 5934.125
+      126: *id081
+      127:
+        attributes: []
+        backendNodeId: 131
+        childNodeCount: 1
+        children:
+        - &id082
+          backendNodeId: 132
+          childrenids: []
+          localName: ''
+          nodeId: 128
+          nodeName: '#text'
+          nodeType: 3
+          nodeValue: "\n\t\tThe Privacy Policy contained herein became officially\
+            \ effective \n\t\t\n\t\tJanuary 1, 2014.\n\t\t\t\t\n\t"
+          parent: 127
+          props: {}
+        childrenids: [128]
+        h: 38.0
+        localName: p
+        nodeId: 127
+        nodeName: P
+        nodeType: 1
+        nodeValue: ''
+        parent: 4
+        props: {}
+        value: ''
+        w: 376.0
+        x: 8.0
+        y: 5974.84375
+      128: *id082
+      129:
+        attributes: []
+        backendNodeId: 133
+        childNodeCount: 1
+        children:
+        - &id083
+          backendNodeId: 134
+          childrenids: []
+          localName: ''
+          nodeId: 130
+          nodeName: '#text'
+          nodeType: 3
+          nodeValue: "\n\t\tAddress"
+          parent: 129
+          props: {}
+        childrenids: [130]
+        h: 22.0
+        localName: h3
+        nodeId: 129
+        nodeName: H3
+        nodeType: 1
+        nodeValue: ''
+        parent: 4
+        props: {}
+        value: ''
+        w: 376.0
+        x: 8.0
+        y: 6031.5625
+      130: *id083
+      131:
+        attributes: []
+        backendNodeId: 135
+        childNodeCount: 5
+        children:
+        - &id084
+          backendNodeId: 136
+          childrenids: []
+          localName: ''
+          nodeId: 132
+          nodeName: '#text'
+          nodeType: 3
+          nodeValue: "\n            Newegg.com\n                    "
+          parent: 131
+          props: {}
+        - &id085
+          attributes: []
+          backendNodeId: 137
+          childNodeCount: 0
+          children: []
+          childrenids: []
+          h: 0.0
+          localName: br
+          nodeId: 133
+          nodeName: BR
+          nodeType: 1
+          nodeValue: ''
+          parent: 131
+          props: {}
+          value: ''
+          w: 0.0
+          x: 0.0
+          y: 0.0
+        - &id086
+          backendNodeId: 138
+          childrenids: []
+          localName: ''
+          nodeId: 134
+          nodeName: '#text'
+          nodeType: 3
+          nodeValue: "\n                    9997 Rose Hills Road"
+          parent: 131
+          props: {}
+        - &id087
+          attributes: []
+          backendNodeId: 139
+          childNodeCount: 0
+          children: []
+          childrenids: []
+          h: 0.0
+          localName: br
+          nodeId: 135
+          nodeName: BR
+          nodeType: 1
+          nodeValue: ''
+          parent: 131
+          props: {}
+          value: ''
+          w: 0.0
+          x: 159.53125
+          y: 6106.28125
+        - &id088
+          backendNodeId: 140
+          childrenids: []
+          localName: ''
+          nodeId: 136
+          nodeName: '#text'
+          nodeType: 3
+          nodeValue: "\n\n                    Whittier, CA 90601\n               \
+            \ \n        "
+          parent: 131
+          props: {}
+        childrenids: [132, 133, 134, 135, 136]
+        h: 57.0
+        localName: p
+        nodeId: 131
+        nodeName: P
+        nodeType: 1
+        nodeValue: ''
+        parent: 4
+        props: {}
+        value: ''
+        w: 376.0
+        x: 8.0
+        y: 6072.28125
+      132: *id084
+      133: *id085
+      134: *id086
+      135: *id087
+      136: *id088
+    page: {base_h: 16130, base_w: 1028, base_x: 26, base_y: 236, empty: false, title: Private
+        Notice, url: 'file:///android_res/raw/privacy_notice.html', ws_url: 'ws://127.0.0.1:12345/devtools/page/725d8f3c-f72e-4e44-b48c-954d41824eb2'}
+    parents: {2: 1, 3: 2, 4: 2, 5: 3, 6: 5, 7: 3, 8: 4, 9: 8, 10: 4, 11: 10, 12: 4,
+      13: 12, 14: 4, 15: 14, 16: 4, 17: 16, 18: 4, 19: 18, 20: 4, 21: 20, 22: 4, 23: 22,
+      24: 4, 25: 24, 26: 25, 27: 24, 28: 27, 29: 27, 30: 29, 31: 27, 32: 4, 33: 32,
+      34: 4, 35: 34, 36: 4, 37: 36, 38: 4, 39: 38, 40: 38, 41: 4, 42: 41, 43: 4, 44: 43,
+      45: 4, 46: 45, 47: 4, 48: 47, 49: 4, 50: 49, 51: 4, 52: 51, 53: 4, 54: 53, 55: 4,
+      56: 55, 57: 4, 58: 57, 59: 4, 60: 59, 61: 4, 62: 61, 63: 4, 64: 63, 65: 64,
+      66: 4, 67: 66, 68: 4, 69: 68, 70: 68, 71: 70, 72: 68, 73: 4, 74: 73, 75: 73,
+      76: 75, 77: 73, 78: 73, 79: 78, 80: 73, 81: 4, 82: 81, 83: 4, 84: 83, 85: 4,
+      86: 85, 87: 85, 88: 87, 89: 85, 90: 4, 91: 90, 92: 4, 93: 92, 94: 4, 95: 94,
+      96: 4, 97: 96, 98: 4, 99: 98, 100: 98, 101: 100, 102: 98, 103: 4, 104: 103,
+      105: 4, 106: 105, 107: 105, 108: 107, 109: 105, 110: 4, 111: 110, 112: 4, 113: 112,
+      114: 4, 115: 114, 116: 114, 117: 116, 118: 114, 119: 114, 120: 119, 121: 114,
+      122: 114, 123: 122, 124: 114, 125: 4, 126: 125, 127: 4, 128: 127, 129: 4, 130: 129,
+      131: 4, 132: 131, 133: 131, 134: 131, 135: 131, 136: 131}
+    scaling: 2.625
+  pageinfo: {base_h: 16130, base_w: 1028, base_x: 26, base_y: 236, empty: false, title: Private
+      Notice, url: 'file:///android_res/raw/privacy_notice.html', ws_url: 'ws://127.0.0.1:12345/devtools/page/725d8f3c-f72e-4e44-b48c-954d41824eb2'}
+  title: Private Notice

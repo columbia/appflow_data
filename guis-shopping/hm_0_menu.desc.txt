@@ -1,0 +1,15 @@
+8 menu_list
+9 home
+12 cat_item
+13 cat_title
+14 cat_item
+15 cat_title
+16 cat_item
+17 cat_title
+18 cat_item
+19 cat_title
+20 cat_item
+21 cat_title
+32 cart
+35 account
+38 contact

@@ -1,0 +1,4 @@
+8 filter_reset
+10 apply
+13 filter_list
+19 filter_color

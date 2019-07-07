@@ -1,0 +1,7 @@
+10 back
+196 addr_country
+201 addr_name
+205 addr_line1
+210 addr_line2
+214 addr_zipcode
+217 addr_city

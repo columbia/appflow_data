@@ -1,0 +1,7 @@
+9 signin
+15 menu_list
+23 locator
+26 account
+31 setting
+34 contact
+40 help

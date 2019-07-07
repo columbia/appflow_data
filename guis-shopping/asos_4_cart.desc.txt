@@ -1,0 +1,6 @@
+8 back
+11 search
+13 cart
+17 empty_msg
+21 cart_list
+27 checkout

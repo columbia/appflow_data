@@ -1,0 +1,9 @@
+136 addr_country
+146 addr_name
+149 addr_line1
+152 addr_line2
+155 addr_city
+158 addr_state
+161 addr_zipcode
+164 addr_phone
+169 addr_save

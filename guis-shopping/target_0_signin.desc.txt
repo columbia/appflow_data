@@ -1,0 +1,8 @@
+22 email
+26 password
+27 login
+28 signin_forgot
+40 signup
+45 menu
+48 search
+49 cart

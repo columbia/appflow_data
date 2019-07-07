@@ -1,0 +1,12 @@
+17 item_title
+18 item_price
+24 item_title
+25 item_price
+31 item_title
+32 item_price
+38 item_title
+42 item_price
+47 item_price
+54 item_price
+60 back
+63 search

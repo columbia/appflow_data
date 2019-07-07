@@ -1,0 +1,7 @@
+12 image
+20 title
+24 back
+26 bookmark
+31 share
+139 text
+140 text

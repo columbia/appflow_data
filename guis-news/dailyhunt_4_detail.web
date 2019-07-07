@@ -1,0 +1,325 @@
+- page:
+    base_h: 884
+    base_w: 1008
+    base_x: 36
+    base_y: 1368
+    html_h: 337.0
+    html_w: 384.0
+    nodes:
+      22:
+        baseURL: http://api-news.dailyhunt.in/
+        childNodeCount: 1
+        children:
+        - &id001
+          attributes: []
+          childNodeCount: 2
+          children:
+          - &id002
+            attributes: []
+            childNodeCount: 6
+            childrenids: [32, 34, 35, 26, 28, 30]
+            h: 0.0
+            localName: head
+            nodeId: 24
+            nodeName: HEAD
+            nodeType: 1
+            nodeValue: ''
+            parent: 23
+            props: {}
+            value: ''
+            w: 0.0
+            x: 0.0
+            y: 0.0
+          - &id003
+            attributes: [leftmargin, '0', topmargin, '0', rightmargin, '0', bottommargin,
+              '0']
+            childNodeCount: 3
+            childrenids: [36, 38, 40]
+            h: 320.0
+            localName: body
+            nodeId: 25
+            nodeName: BODY
+            nodeType: 1
+            nodeValue: ''
+            parent: 23
+            props: {bottommargin: '0', leftmargin: '0', rightmargin: '0', topmargin: '0'}
+            value: ''
+            w: 384.0
+            x: 0.0
+            y: 0.0
+          childrenids: [24, 25]
+          h: 337.0
+          localName: html
+          nodeId: 23
+          nodeName: HTML
+          nodeType: 1
+          nodeValue: ''
+          parent: 22
+          props: {}
+          value: ''
+          w: 384.0
+          x: 0.0
+          y: 0.0
+        childrenids: [23]
+        documentURL: http://api-news.dailyhunt.in/
+        localName: ''
+        nodeId: 22
+        nodeName: '#document'
+        nodeType: 9
+        nodeValue: ''
+        parent: -1
+        props: {}
+        xmlVersion: ''
+      23: *id001
+      24: *id002
+      25: *id003
+      26:
+        attributes: []
+        childNodeCount: 1
+        children:
+        - &id004
+          childrenids: []
+          localName: ''
+          nodeId: 27
+          nodeName: '#text'
+          nodeType: 3
+          nodeValue: '* {margin-left:0;margin-right:0;-webkit-user-select: none;}'
+          parent: 26
+          props: {}
+        childrenids: [27]
+        h: 0.0
+        localName: style
+        nodeId: 26
+        nodeName: STYLE
+        nodeType: 1
+        nodeValue: ''
+        parent: 24
+        props: {}
+        value: ''
+        w: 0.0
+        x: 0.0
+        y: 0.0
+      27: *id004
+      28:
+        attributes: []
+        childNodeCount: 1
+        children:
+        - &id005
+          childrenids: []
+          localName: ''
+          nodeId: 29
+          nodeName: '#text'
+          nodeType: 3
+          nodeValue: '* {margin-left:0;margin-right:0;-webkit-user-select: none;}'
+          parent: 28
+          props: {}
+        childrenids: [29]
+        h: 0.0
+        localName: style
+        nodeId: 28
+        nodeName: STYLE
+        nodeType: 1
+        nodeValue: ''
+        parent: 24
+        props: {}
+        value: ''
+        w: 0.0
+        x: 0.0
+        y: 0.0
+      29: *id005
+      30:
+        attributes: []
+        childNodeCount: 1
+        children:
+        - &id006
+          childrenids: []
+          localName: ''
+          nodeId: 31
+          nodeName: '#text'
+          nodeType: 3
+          nodeValue: '@font-face {font-family: ''minion-pro'';src: url(''file:///android_asset/fonts/minion-pro-regular.ttf'');font-weight:
+            normal;font-style: normal; }body {font-family: ''minion-pro''; line-height:
+            135%} '
+          parent: 30
+          props: {}
+        childrenids: [31]
+        h: 0.0
+        localName: style
+        nodeId: 30
+        nodeName: STYLE
+        nodeType: 1
+        nodeValue: ''
+        parent: 24
+        props: {}
+        value: ''
+        w: 0.0
+        x: 0.0
+        y: 0.0
+      31: *id006
+      32:
+        attributes: []
+        childNodeCount: 1
+        children:
+        - &id007
+          childrenids: []
+          localName: ''
+          nodeId: 33
+          nodeName: '#text'
+          nodeType: 3
+          nodeValue: p{word-wrap:break-word}
+          parent: 32
+          props: {}
+        childrenids: [33]
+        h: 0.0
+        localName: style
+        nodeId: 32
+        nodeName: STYLE
+        nodeType: 1
+        nodeValue: ''
+        parent: 24
+        props: {}
+        value: ''
+        w: 0.0
+        x: 0.0
+        y: 0.0
+      33: *id007
+      34:
+        attributes: [charset, UTF-8]
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: meta
+        nodeId: 34
+        nodeName: META
+        nodeType: 1
+        nodeValue: ''
+        parent: 24
+        props: {charset: UTF-8}
+      35:
+        attributes: [name, viewport, content, 'width=device-width, initial-scale =
+            1.0, user-scalable=no']
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: meta
+        nodeId: 35
+        nodeName: META
+        nodeType: 1
+        nodeValue: ''
+        parent: 24
+        props: {content: 'width=device-width, initial-scale = 1.0, user-scalable=no',
+          name: viewport}
+      36:
+        attributes: []
+        childNodeCount: 1
+        children:
+        - &id008
+          childrenids: []
+          localName: ''
+          nodeId: 37
+          nodeName: '#text'
+          nodeType: 3
+          nodeValue: Around the time the US began accepting petitions for the increasingly
+            contentious H-1B visas on Monday, the justice department warned employers
+            against using the programme to discriminate against Americans workers.
+          parent: 36
+          props: {}
+        childrenids: [37]
+        h: 88.0
+        localName: p
+        nodeId: 36
+        nodeName: P
+        nodeType: 1
+        nodeValue: ''
+        parent: 25
+        props: {}
+        value: ''
+        w: 384.0
+        x: 0.0
+        y: 0.0
+      37: *id008
+      38:
+        attributes: []
+        childNodeCount: 1
+        children:
+        - &id009
+          childrenids: []
+          localName: ''
+          nodeId: 39
+          nodeName: '#text'
+          nodeType: 3
+          nodeValue: The citizenship and immigration services, which runs the H-1B
+            programme, has also changed recruiting guidelines over the weekend to
+            prevent US firms or US-based units of multinationals from using it to
+            hire computer programmers.
+          parent: 38
+          props: {}
+        childrenids: [39]
+        h: 110.0
+        localName: p
+        nodeId: 38
+        nodeName: P
+        nodeType: 1
+        nodeValue: ''
+        parent: 25
+        props: {}
+        value: ''
+        w: 384.0
+        x: 0.0
+        y: 105.0
+      39: *id009
+      40:
+        attributes: []
+        childNodeCount: 2
+        children:
+        - &id010
+          childrenids: []
+          localName: ''
+          nodeId: 41
+          nodeName: '#text'
+          nodeType: 3
+          nodeValue: '"The justice department will not tolerate employers misusing
+            the H-1B visa process to discriminate against US workers," said acting
+            assistant attorney general Tom Wheeler of the civil rights division in
+            a statement.'
+          parent: 40
+          props: {}
+        - &id011
+          attributes: []
+          childNodeCount: 0
+          children: []
+          childrenids: []
+          h: 17.0
+          localName: nh-chunk-delimit
+          nodeId: 42
+          nodeName: NH-CHUNK-DELIMIT
+          nodeType: 1
+          nodeValue: ''
+          parent: 40
+          props: {}
+          value: ''
+          w: 0.0
+          x: 338.5711669921875
+          y: 300.0
+        childrenids: [41, 42]
+        h: 88.0
+        localName: p
+        nodeId: 40
+        nodeName: P
+        nodeType: 1
+        nodeValue: ''
+        parent: 25
+        props: {}
+        value: ''
+        w: 384.0
+        x: 0.0
+        y: 232.0
+      41: *id010
+      42: *id011
+    page: {base_h: 884, base_w: 1008, base_x: 36, base_y: 1368, empty: false, title: 'about:blank',
+      url: 'about:blank', ws_url: 'ws://127.0.0.1:12345/devtools/page/EE4D9741-E849-4089-A219-B256B8FB7EDC'}
+    parents: {23: 22, 24: 23, 25: 23, 26: 24, 27: 26, 28: 24, 29: 28, 30: 24, 31: 30,
+      32: 24, 33: 32, 34: 24, 35: 24, 36: 25, 37: 36, 38: 25, 39: 38, 40: 25, 41: 40,
+      42: 40}
+    scaling: 2.625
+  title: about:blank

@@ -1,0 +1,1 @@
+com.mobilesrepublic.appy/com.cmcm.onews.ui.NewsActivity

@@ -1,0 +1,9 @@
+70 signin
+71 menu_list
+72 home
+74 cat
+80 orders
+84 account
+86 giftcard
+92 setting
+99 contact

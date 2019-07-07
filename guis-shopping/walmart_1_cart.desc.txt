@@ -1,0 +1,6 @@
+11 back
+42 empty_msg
+44 cart_subtotal
+47 cart_shipping
+49 cart_tax
+57 cart_total

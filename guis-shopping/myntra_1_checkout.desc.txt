@@ -1,0 +1,6 @@
+8 back
+48 shipmethod
+59 continue
+76 subtotal
+79 shippingcost
+82 totalcost

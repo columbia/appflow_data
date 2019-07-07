@@ -1,0 +1,5 @@
+8 back
+12 keyword
+18 item
+20 item_image
+24 item_title

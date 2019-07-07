@@ -1,0 +1,6 @@
+7 back
+15 filter_category
+44 filter_size
+62 filter_color
+70 back
+71 apply

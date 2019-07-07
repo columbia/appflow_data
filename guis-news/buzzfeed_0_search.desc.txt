@@ -1,0 +1,16 @@
+9 back
+13 search_input
+32 item
+33 item
+35 item_image
+36 item_title
+38 item
+39 item
+41 item_image
+42 item_title
+49 item
+50 item
+52 item_image
+53 item
+54 item
+56 item_image

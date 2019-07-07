@@ -1,0 +1,7 @@
+13 title
+16 image
+17 text
+21 back
+25 text
+26 bookmark
+27 ctxmenu

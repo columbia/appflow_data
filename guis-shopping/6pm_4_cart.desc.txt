@@ -1,0 +1,17 @@
+73 cart_list
+76 cart_item
+77 item_image
+85 item_count
+90 item_price
+91 cart_item
+92 item_image
+97 item_title
+106 item_count
+111 item_price
+112 cart_item
+113 item_image
+118 item_title
+127 item_count
+132 item_price
+139 cart_subtotal
+144 checkout

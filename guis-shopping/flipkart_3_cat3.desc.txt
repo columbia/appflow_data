@@ -1,0 +1,16 @@
+19 back
+21 cat_parent
+23 search
+24 cart
+27 cart_count
+46 cat_list
+47 cat_item
+49 cat_title
+51 cat_item
+53 cat_title
+55 cat_item
+57 cat_title
+59 cat_item
+61 cat_title
+63 cat_item
+65 cat_title

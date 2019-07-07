@@ -1,0 +1,9 @@
+16 detail_image
+23 detail_image
+27 detail_brand
+28 detail_price
+29 detail_title
+40 detail_addcart
+47 back
+50 search
+51 cart

@@ -1,0 +1,2 @@
+32 search_input
+48 back

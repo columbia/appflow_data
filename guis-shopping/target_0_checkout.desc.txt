@@ -1,0 +1,6 @@
+19 address_new
+27 card_new
+52 subtotal
+55 shippingcost
+58 tax
+61 back

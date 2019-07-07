@@ -1,0 +1,438 @@
+- page:
+    base_h: 656
+    base_w: 787
+    base_x: 146
+    base_y: 4579
+    html_h: 250.0
+    html_w: 300.0
+    nodes:
+      91:
+        baseURL: https://pubads.g.doubleclick.net/gampad/ads?_activity_context=true&android_num_video_cache_tasks=0&caps=inlineVideo_interactiveVideo_mraid1_mraid2_sdkVideo_th_autoplay_mediation_av_transparentBackground_sdkAdmobApiForAds_di_aso_sfv_dinm_dim_nav_dinmo_gcache&eid=318475406%2C318477040%2C318476426%2C318476960%2C318477768%2C318477714&format=300x250_as&heap_free=6483636&heap_max=100663296&heap_total=19708052&js=afma-sdk-a-v10298470.10298000.2&msid=com.thomsonreuters.reuters&scroll_index=-1&seq_num=1&target_api=25
+        childNodeCount: 1
+        children:
+        - &id001
+          attributes: []
+          childNodeCount: 2
+          children:
+          - &id002
+            attributes: []
+            childNodeCount: 0
+            childrenids: []
+            h: 0.0
+            localName: head
+            nodeId: 93
+            nodeName: HEAD
+            nodeType: 1
+            nodeValue: ''
+            parent: 92
+            props: {}
+            value: ''
+            w: 0.0
+            x: 0.0
+            y: 0.0
+          - &id003
+            attributes: [leftmargin, '0', topmargin, '0', marginwidth, '0', marginheight,
+              '0']
+            childNodeCount: 14
+            childrenids: [95, 96, 97, 98, 100, 102, 103, 105, 106, 108, 110, 111,
+              115, 120]
+            h: 250.0
+            localName: body
+            nodeId: 94
+            nodeName: BODY
+            nodeType: 1
+            nodeValue: ''
+            parent: 92
+            props: {leftmargin: '0', marginheight: '0', marginwidth: '0', topmargin: '0'}
+            value: ''
+            w: 300.0
+            x: 0.0
+            y: 0.0
+          childrenids: [93, 94]
+          h: 250.0
+          localName: html
+          nodeId: 92
+          nodeName: HTML
+          nodeType: 1
+          nodeValue: ''
+          parent: 91
+          props: {}
+          value: ''
+          w: 300.0
+          x: 0.0
+          y: 0.0
+        childrenids: [92]
+        documentURL: https://pubads.g.doubleclick.net/gampad/ads?_activity_context=true&android_num_video_cache_tasks=0&caps=inlineVideo_interactiveVideo_mraid1_mraid2_sdkVideo_th_autoplay_mediation_av_transparentBackground_sdkAdmobApiForAds_di_aso_sfv_dinm_dim_nav_dinmo_gcache&eid=318475406%2C318477040%2C318476426%2C318476960%2C318477768%2C318477714&format=300x250_as&heap_free=6483636&heap_max=100663296&heap_total=19708052&js=afma-sdk-a-v10298470.10298000.2&msid=com.thomsonreuters.reuters&scroll_index=-1&seq_num=1&target_api=25#_activity_context=true&android_num_video_cache_tasks=0&caps=inlineVideo_interactiveVideo_mraid1_mraid2_sdkVideo_th_autoplay_mediation_av_transparentBackground_sdkAdmobApiForAds_di_aso_sfv_dinm_dim_nav_dinmo_gcache&eid=318475406%252C318477040%252C318476426%252C318476960%252C318477768%252C318477714&format=300x250_as&heap_free=6483636&heap_max=100663296&heap_total=19708052&js=afma-sdk-a-v10298470.10298000.2&msid=com.thomsonreuters.reuters&scroll_index=-1&seq_num=1&target_api=25
+        localName: ''
+        nodeId: 91
+        nodeName: '#document'
+        nodeType: 9
+        nodeValue: ''
+        parent: -1
+        props: {}
+        xmlVersion: ''
+      92: *id001
+      93: *id002
+      94: *id003
+      95:
+        childrenids: []
+        localName: ''
+        nodeId: 95
+        nodeName: '#comment'
+        nodeType: 8
+        nodeValue: '  Begin Rubicon Project Tag  '
+        parent: 94
+        props: {}
+      96:
+        childrenids: []
+        localName: ''
+        nodeId: 96
+        nodeName: '#comment'
+        nodeType: 8
+        nodeValue: '  Site: Reuters Mobile App    Zone: Mobile App ROS [Android]    Size:
+          Medium Rectangle  '
+        parent: 94
+        props: {}
+      97:
+        attributes: [src, 'https://pagead2.googlesyndication.com/pub-config/r20160913/ca-mb-app-pub-8200574565762874.js']
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: script
+        nodeId: 97
+        nodeName: SCRIPT
+        nodeType: 1
+        nodeValue: ''
+        parent: 94
+        props: {src: 'https://pagead2.googlesyndication.com/pub-config/r20160913/ca-mb-app-pub-8200574565762874.js'}
+      98:
+        attributes: []
+        childNodeCount: 1
+        children:
+        - {localName: '', nodeId: 99, nodeName: '#text', nodeType: 3, nodeValue: "\n\
+            \    var rpx_params = {\n        app : {\n            name : 'Reuters',\n\
+            \            domain : 'http://www.reuters.com/',\n            bundle :\
+            \ 'com.thomsonreuters.reuters',\n            ver : '3.0.3',\n        \
+            \    privacypolicy : '',\n            storerating : '4.3',\n         \
+            \   storeurl : 'https://play.google.com/store/apps/details?id=com.thomsonreuters.reuters',\n\
+            \            appstoreid : 'com.thomsonreuters.reuters'\n        },\n \
+            \       device : {\n            make : '',\n            model : '',\n\
+            \            pixel_ratio : '',\n            os : '',\n            osv\
+            \ : '',\n            js : '1',\n            connectiontype : '',\n   \
+            \         carrier : '',\n            dpid : '',\n            dpidmd5 :\
+            \ '',\n            dpidsha1 : '',\n            dpid_type : ''\n      \
+            \  },\n        kw : '',\n        i : {\n            //key1 : 'value1,value2',\n\
+            \            //key2 : 'value1,value2'\n        },\n        v : {\n   \
+            \         //key1 : 'value1,value2',\n            //key2 : 'value1,value2'\n\
+            \        },\n        geo : {\n            longitude : '',\n          \
+            \  latitude : '',\n            type : '',\n            consent : ''\n\
+            \        },\n        accept : {\n            apis : [3,1000]\n       \
+            \ }\n    };\n"}
+        childrenids: []
+        localName: script
+        nodeId: 98
+        nodeName: SCRIPT
+        nodeType: 1
+        nodeValue: ''
+        parent: 94
+        props: {}
+      100:
+        attributes: [language, JavaScript, type, text/javascript]
+        childNodeCount: 1
+        children:
+        - {localName: '', nodeId: 101, nodeName: '#text', nodeType: 3, nodeValue: '
+
+            rp_account    = ''11384'';
+
+            rp_site       = ''64652'';
+
+            rp_zonesize   = ''566488-15'';
+
+            rp_adtype     = ''js'';
+
+            rp_smartfile  = ''[SMART FILE URL]'';
+
+            rp_app        = rpx_params.app;
+
+            rp_device     = rpx_params.device;
+
+            rp_kw         = rpx_params.kw;
+
+            rp_inventory  = rpx_params.i;
+
+            rp_visitor    = rpx_params.v;
+
+            rp_accept     = rpx_params.accept;
+
+            rp_geo        = rpx_params.geo;
+
+            '}
+        childrenids: []
+        localName: script
+        nodeId: 100
+        nodeName: SCRIPT
+        nodeType: 1
+        nodeValue: ''
+        parent: 94
+        props: {language: JavaScript, type: text/javascript}
+      102:
+        attributes: [type, text/javascript, src, 'https://ads.rubiconproject.com/ad/11384.js']
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: script
+        nodeId: 102
+        nodeName: SCRIPT
+        nodeType: 1
+        nodeValue: ''
+        parent: 94
+        props: {src: 'https://ads.rubiconproject.com/ad/11384.js', type: text/javascript}
+      103:
+        attributes: [type, text/javascript]
+        childNodeCount: 1
+        children:
+        - {localName: '', nodeId: 104, nodeName: '#text', nodeType: 3, nodeValue: rp_requests
+            = new RubiconAdServing.Requests(); rp_requests.sendRequest('566488-15');}
+        childrenids: []
+        localName: script
+        nodeId: 103
+        nodeName: SCRIPT
+        nodeType: 1
+        nodeValue: ''
+        parent: 94
+        props: {type: text/javascript}
+      105:
+        attributes: [type, text/javascript, src, 'https://optimized-by.rubiconproject.com/a/11384/64652/566488-15.js?&cb=0.5625954060815275&tk_st=1&rp_s=c&p_app.name=Reuters&p_app.domain=http%3A%2F%2Fwww.reuters.com%2F&p_app.bundle=com.thomsonreuters.reuters&p_app.ver=3.0.3&p_app.storerating=4.3&p_app.storeurl=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.thomsonreuters.reuters&p_app.appstoreid=com.thomsonreuters.reuters&p_device.js=1&p_accept.apis=3%2C1000&p_exp=1&p_pos=btf&p_screen_res=412x732&ad_slot=64652_15']
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: script
+        nodeId: 105
+        nodeName: SCRIPT
+        nodeType: 1
+        nodeValue: ''
+        parent: 94
+        props: {src: 'https://optimized-by.rubiconproject.com/a/11384/64652/566488-15.js?&cb=0.5625954060815275&tk_st=1&rp_s=c&p_app.name=Reuters&p_app.domain=http%3A%2F%2Fwww.reuters.com%2F&p_app.bundle=com.thomsonreuters.reuters&p_app.ver=3.0.3&p_app.storerating=4.3&p_app.storeurl=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.thomsonreuters.reuters&p_app.appstoreid=com.thomsonreuters.reuters&p_device.js=1&p_accept.apis=3%2C1000&p_exp=1&p_pos=btf&p_screen_res=412x732&ad_slot=64652_15',
+          type: text/javascript}
+      106:
+        attributes: [style, 'width: 0; height: 0; overflow: hidden;']
+        childNodeCount: 1
+        children:
+        - &id004
+          attributes: [border, '0', width, '1', height, '1', src, 'https://beacon-us-iad2.rubiconproject.com/beacon/d/452824c7-c0e5-4d62-a10d-7f4935a080be?accountId=11384&siteId=64652&zoneId=566488&e=6A1E40E384DA563B22C172D4727112B0652B7E4169D8517B467CB82ED87516A3D94F9DD4BCF9F73D203E173C48B6D6F1FC8170EF3C8A429C3E7EC30386B3FC0082A47090E96851DCCF783765CC799B62172CD28438FCBB6A1FEA0E0C0BCD7B7DE5E0A1AAF59F6853708BC9E1D08448E7154C483D53C030A2F804684D59D4E3B6CC8F07C33F76E5ADADD84CD4C36B4A0E',
+            alt, '']
+          childNodeCount: 0
+          children: []
+          childrenids: []
+          h: 1.0
+          localName: img
+          nodeId: 107
+          nodeName: IMG
+          nodeType: 1
+          nodeValue: ''
+          parent: 106
+          props: {alt: '', border: '0', height: '1', src: 'https://beacon-us-iad2.rubiconproject.com/beacon/d/452824c7-c0e5-4d62-a10d-7f4935a080be?accountId=11384&siteId=64652&zoneId=566488&e=6A1E40E384DA563B22C172D4727112B0652B7E4169D8517B467CB82ED87516A3D94F9DD4BCF9F73D203E173C48B6D6F1FC8170EF3C8A429C3E7EC30386B3FC0082A47090E96851DCCF783765CC799B62172CD28438FCBB6A1FEA0E0C0BCD7B7DE5E0A1AAF59F6853708BC9E1D08448E7154C483D53C030A2F804684D59D4E3B6CC8F07C33F76E5ADADD84CD4C36B4A0E',
+            width: '1'}
+          value: ''
+          w: 1.0
+          x: 0.0
+          y: 0.0
+        childrenids: [107]
+        h: 0.0
+        localName: div
+        nodeId: 106
+        nodeName: DIV
+        nodeType: 1
+        nodeValue: ''
+        parent: 94
+        props: {style: 'width: 0; height: 0; overflow: hidden;'}
+        value: ''
+        w: 0.0
+        x: 0.0
+        y: 0.0
+      107: *id004
+      108:
+        attributes: [type, text/javascript]
+        childNodeCount: 1
+        children:
+        - {localName: '', nodeId: 109, nodeName: '#text', nodeType: 3, nodeValue: '<!--
+
+            google_ad_client = "ca-mb-app-pub-8200574565762874";
+
+            /* Reuters App US */
+
+            google_ad_slot = "6956667403";
+
+            google_ad_width = 300;
+
+            google_ad_height = 250;
+
+            //-->
+
+            '}
+        childrenids: []
+        localName: script
+        nodeId: 108
+        nodeName: SCRIPT
+        nodeType: 1
+        nodeValue: ''
+        parent: 94
+        props: {type: text/javascript}
+      110:
+        attributes: [type, text/javascript, src, //pagead2.googlesyndication.com/pagead/show_ads.js]
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: script
+        nodeId: 110
+        nodeName: SCRIPT
+        nodeType: 1
+        nodeValue: ''
+        parent: 94
+        props: {src: //pagead2.googlesyndication.com/pagead/show_ads.js, type: text/javascript}
+      111:
+        attributes: [id, aswift_0_expand, style, 'display:inline-table;border:none;height:250px;margin:0;padding:0;position:relative;visibility:visible;width:300px;background-color:transparent']
+        childNodeCount: 1
+        children:
+        - &id005
+          attributes: [id, aswift_0_anchor, style, 'display:block;border:none;height:250px;margin:0;padding:0;position:relative;visibility:visible;width:300px;background-color:transparent']
+          childNodeCount: 1
+          children:
+          - &id006
+            attributes: [width, '300', height, '250', frameborder, '0', marginwidth,
+              '0', marginheight, '0', vspace, '0', hspace, '0', allowtransparency,
+              'true', scrolling, 'no', allowfullscreen, 'true', onload, 'var i=this.id,s=window.google_iframe_oncopy,H=s&&s.handlers,h=H&&H[i],w=this.contentWindow,d;try{d=w.document}catch(e){}if(h&&d&&(!d.body||!d.body.firstChild)){if(h.call){setTimeout(h,0)}else
+                if(h.match){try{h=s.upd(h,i)}catch(e){}w.location.replace(h)}}', id,
+              aswift_0, name, aswift_0, style, 'left:0;position:absolute;top:0;']
+            childNodeCount: 0
+            children: []
+            childrenids: []
+            contentDocument: {baseURL: 'https://pubads.g.doubleclick.net/gampad/ads?_activity_context=true&android_num_video_cache_tasks=0&caps=inlineVideo_interactiveVideo_mraid1_mraid2_sdkVideo_th_autoplay_mediation_av_transparentBackground_sdkAdmobApiForAds_di_aso_sfv_dinm_dim_nav_dinmo_gcache&eid=318475406%2C318477040%2C318476426%2C318476960%2C318477768%2C318477714&format=300x250_as&heap_free=6483636&heap_max=100663296&heap_total=19708052&js=afma-sdk-a-v10298470.10298000.2&msid=com.thomsonreuters.reuters&scroll_index=-1&seq_num=1&target_api=25',
+              childNodeCount: 2, documentURL: 'https://pubads.g.doubleclick.net/gampad/ads?_activity_context=true&android_num_video_cache_tasks=0&caps=inlineVideo_interactiveVideo_mraid1_mraid2_sdkVideo_th_autoplay_mediation_av_transparentBackground_sdkAdmobApiForAds_di_aso_sfv_dinm_dim_nav_dinmo_gcache&eid=318475406%2C318477040%2C318476426%2C318476960%2C318477768%2C318477714&format=300x250_as&heap_free=6483636&heap_max=100663296&heap_total=19708052&js=afma-sdk-a-v10298470.10298000.2&msid=com.thomsonreuters.reuters&scroll_index=-1&seq_num=1&target_api=25#_activity_context=true&android_num_video_cache_tasks=0&caps=inlineVideo_interactiveVideo_mraid1_mraid2_sdkVideo_th_autoplay_mediation_av_transparentBackground_sdkAdmobApiForAds_di_aso_sfv_dinm_dim_nav_dinmo_gcache&eid=318475406%252C318477040%252C318476426%252C318476960%252C318477768%252C318477714&format=300x250_as&heap_free=6483636&heap_max=100663296&heap_total=19708052&js=afma-sdk-a-v10298470.10298000.2&msid=com.thomsonreuters.reuters&scroll_index=-1&seq_num=1&target_api=25',
+              localName: '', nodeId: 114, nodeName: '#document', nodeType: 9, nodeValue: '',
+              xmlVersion: ''}
+            frameId: '10160.1'
+            h: 250.0
+            localName: iframe
+            nodeId: 113
+            nodeName: IFRAME
+            nodeType: 1
+            nodeValue: ''
+            parent: 112
+            props: {allowfullscreen: 'true', allowtransparency: 'true', frameborder: '0',
+              height: '250', hspace: '0', id: aswift_0, marginheight: '0', marginwidth: '0',
+              name: aswift_0, onload: 'var i=this.id,s=window.google_iframe_oncopy,H=s&&s.handlers,h=H&&H[i],w=this.contentWindow,d;try{d=w.document}catch(e){}if(h&&d&&(!d.body||!d.body.firstChild)){if(h.call){setTimeout(h,0)}else
+                if(h.match){try{h=s.upd(h,i)}catch(e){}w.location.replace(h)}}', scrolling: 'no',
+              style: 'left:0;position:absolute;top:0;', vspace: '0', width: '300'}
+            value: ''
+            w: 300.0
+            x: 0.0
+            y: 0.0
+          childrenids: [113]
+          h: 250.0
+          localName: ins
+          nodeId: 112
+          nodeName: INS
+          nodeType: 1
+          nodeValue: ''
+          parent: 111
+          props: {id: aswift_0_anchor, style: 'display:block;border:none;height:250px;margin:0;padding:0;position:relative;visibility:visible;width:300px;background-color:transparent'}
+          value: ''
+          w: 300.0
+          x: 0.0
+          y: 0.0
+        childrenids: [112]
+        h: 250.0
+        localName: ins
+        nodeId: 111
+        nodeName: INS
+        nodeType: 1
+        nodeValue: ''
+        parent: 94
+        props: {id: aswift_0_expand, style: 'display:inline-table;border:none;height:250px;margin:0;padding:0;position:relative;visibility:visible;width:300px;background-color:transparent'}
+        value: ''
+        w: 300.0
+        x: 0.0
+        y: 0.0
+      112: *id005
+      113: *id006
+      115:
+        attributes: [style, 'height:0px;width:0px;overflow:hidden']
+        childNodeCount: 2
+        children:
+        - &id007
+          attributes: []
+          childNodeCount: 1
+          children:
+          - {localName: '', nodeId: 117, nodeName: '#text', nodeType: 3, nodeValue: '(function(){var
+              proto=''https:'';try{proto=window.top.location.protocol;}catch(e){proto=(document.referrer===''''?''https:'':document.referrer.split(''//'')[0]);}var
+              server="http://tap2-cdn.rubiconproject.com";if(proto=="https:")server="https://tap-secure.rubiconproject.com";document.write(''<iframe
+              src="''+server+''/partner/scripts/rubicon/emily.html?pc=11384/64652&geo=na&co=us"
+              frameborder="0" marginwidth="0" marginheight="0" scrolling="NO" width="0"
+              height="0" style="height:0px;width:0px"></iframe>'');})();'}
+          childrenids: []
+          localName: script
+          nodeId: 116
+          nodeName: SCRIPT
+          nodeType: 1
+          nodeValue: ''
+          parent: 115
+          props: {}
+        - &id008
+          attributes: [src, 'https://tap-secure.rubiconproject.com/partner/scripts/rubicon/emily.html?pc=11384/64652&geo=na&co=us',
+            frameborder, '0', marginwidth, '0', marginheight, '0', scrolling, 'NO',
+            width, '0', height, '0', style, 'height:0px;width:0px']
+          childNodeCount: 0
+          children: []
+          childrenids: []
+          contentDocument: {baseURL: 'https://tap-secure.rubiconproject.com/partner/scripts/rubicon/emily.html?pc=11384/64652&geo=na&co=us',
+            childNodeCount: 3, documentURL: 'https://tap-secure.rubiconproject.com/partner/scripts/rubicon/emily.html?pc=11384/64652&geo=na&co=us',
+            localName: '', nodeId: 119, nodeName: '#document', nodeType: 9, nodeValue: '',
+            xmlVersion: ''}
+          frameId: '10160.2'
+          h: 0.0
+          localName: iframe
+          nodeId: 118
+          nodeName: IFRAME
+          nodeType: 1
+          nodeValue: ''
+          parent: 115
+          props: {frameborder: '0', height: '0', marginheight: '0', marginwidth: '0',
+            scrolling: 'NO', src: 'https://tap-secure.rubiconproject.com/partner/scripts/rubicon/emily.html?pc=11384/64652&geo=na&co=us',
+            style: 'height:0px;width:0px', width: '0'}
+          value: ''
+          w: 0.0
+          x: 0.0
+          y: 250.0
+        childrenids: [116, 118]
+        h: 0.0
+        localName: div
+        nodeId: 115
+        nodeName: DIV
+        nodeType: 1
+        nodeValue: ''
+        parent: 94
+        props: {style: 'height:0px;width:0px;overflow:hidden'}
+        value: ''
+        w: 0.0
+        x: 0.0
+        y: 250.0
+      116: *id007
+      118: *id008
+      120:
+        childrenids: []
+        localName: ''
+        nodeId: 120
+        nodeName: '#comment'
+        nodeType: 8
+        nodeValue: '  End Rubicon Project Tag '
+        parent: 94
+        props: {}
+    page: {base_h: 656, base_w: 787, base_x: 146, base_y: 4579, empty: false, title: 'about:blank',
+      url: 'about:blank', ws_url: 'ws://127.0.0.1:12345/devtools/page/01362350-9C7F-4986-853F-C007E7E8943E'}
+    parents: {92: 91, 93: 92, 94: 92, 95: 94, 96: 94, 97: 94, 98: 94, 99: 98, 100: 94,
+      101: 100, 102: 94, 103: 94, 104: 103, 105: 94, 106: 94, 107: 106, 108: 94, 109: 108,
+      110: 94, 111: 94, 112: 111, 113: 112, 115: 94, 116: 115, 117: 116, 118: 115,
+      120: 94}
+    scaling: 2.625
+  title: about:blank

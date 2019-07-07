@@ -1,0 +1,36 @@
+5
+
+(— Attribution
+
+ 
+
+AboutLibraries Mike Penz
+
+AboutLibraries is a library to offer you all the information
+you need of your libraries!
+
+Most modern apps feature an Used Library-Section and
+for this some information of those libs is required. As it
+gets annoying to copy those strings always to your app
+I have developed this small helper library to provide the
+required information.
+
+3.0.1 Apache Version 2.0
+
+Butterknife Jake Wharton
+
+View injection library for Android which uses annotation
+processing to generate boilerplate code for you.
+
+4.0.1 Apache Version 2.0
+Benjamin
+Crouton Weiss
+
+Crouton is a class that can be used by Android
+developers that feel the need for an alternative to the
+Context insensitive Toast.
+
+1.8.4 Apache Version 2.0
+
+ 
+

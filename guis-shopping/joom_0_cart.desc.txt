@@ -1,0 +1,4 @@
+14 back
+21 empty_msg
+25 cart_subtotal
+26 checkout

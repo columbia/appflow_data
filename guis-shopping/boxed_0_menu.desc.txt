@@ -1,0 +1,7 @@
+8 menu_list
+22 home
+24 account
+26 orders
+28 invite
+30 help
+34 logout

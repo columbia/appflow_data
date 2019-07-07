@@ -1,0 +1,7 @@
+8 menu_list
+13 home
+15 cat
+31 account
+32 payments
+36 orders
+38 notifications

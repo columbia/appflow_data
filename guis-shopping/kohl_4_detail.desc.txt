@@ -1,0 +1,12 @@
+7 back
+11 cart
+22 detail_image
+25 detail_title
+26 detail_price
+38 detail_option
+40 detail_option
+42 detail_option
+44 detail_option
+46 detail_option
+49 detail_option
+51 detail_option

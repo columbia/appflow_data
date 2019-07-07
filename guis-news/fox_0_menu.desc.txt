@@ -1,0 +1,7 @@
+34 item_image
+42 item_image
+50 item_image
+58 item_image
+68 home
+74 bookmark
+80 search

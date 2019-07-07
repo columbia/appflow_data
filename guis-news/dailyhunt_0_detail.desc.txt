@@ -1,0 +1,5 @@
+12 image
+20 title
+22 text
+26 back
+33 share

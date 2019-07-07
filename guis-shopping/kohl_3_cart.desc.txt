@@ -1,0 +1,14 @@
+10 back
+14 cart_count
+15 cart
+33 cart_list
+35 cart_item
+40 item_image
+41 item_title
+47 item_price
+52 item_less
+53 item_count
+54 item_more
+57 item_remove
+87 cart_subtotal
+98 checkout

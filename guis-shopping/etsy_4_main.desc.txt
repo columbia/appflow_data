@@ -1,0 +1,11 @@
+10 menu
+13 search
+14 cart
+17 cart_count
+32 list_list
+33 list_item
+40 list_item
+47 list_item
+57 list_item
+67 list_item
+78 list_item

@@ -1,0 +1,8 @@
+19 account
+28 home
+34 search
+37 notifications
+42 cart
+46 orders
+64 contact
+68 faq

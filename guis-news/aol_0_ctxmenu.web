@@ -1,0 +1,3520 @@
+- page:
+    base_h: 7617
+    base_w: 1080
+    base_x: 1080
+    base_y: 999
+    html_h: 2902.171875
+    html_w: 412.0
+    nodes:
+      102:
+        baseURL: https://mobile-content-service.comet.aol.com/cis/api/v1/GetArticleDetails?os=android&edition=en_us&device=phone&view=portrait&mediaSize=1080x594&appName=aapp&appVersion=4.3.0.5&osVersion=6.0&channel=News&enableMarqueeMedia=false&f=html&query=%7B%22params%22%3A%7B%22related%22%3Atrue%2C%22maxRelated%22%3A2%2C%22relatedArticlesMaxAgeInDays%22%3A%22180%22%2C%22relegence%22%3A%22true%22%2C%22relTagsMinScore%22%3A%220.5%22%2C%22url%22%3A%22https%3A%2F%2Fwww.aol.com%2Farticle%2Fnews%2F2017%2F04%2F03%2Fobama-adviser-susan-rice-sought-names-trump-officials-intelligence-reports%2F22024089%2F%22%2C%22optimize%22%3A%22true%22%7D%2C%22contentSrc%22%3A%22comet%22%7D
+        childNodeCount: 1
+        children:
+        - &id001
+          attributes: [xmlns, 'http://www.w3.org/1999/xhtml', 'xml:lang', en-US, lang,
+            en-US]
+          childNodeCount: 2
+          children:
+          - &id002
+            attributes: []
+            childNodeCount: 6
+            childrenids: [106, 107, 108, 109, 110, 111]
+            h: 0.0
+            localName: head
+            nodeId: 104
+            nodeName: HEAD
+            nodeType: 1
+            nodeValue: ''
+            parent: 103
+            props: {}
+            value: ''
+            w: 0.0
+            x: 0.0
+            y: 0.0
+          - &id003
+            attributes: []
+            childNodeCount: 5
+            childrenids: [112, 115, 197, 199, 201]
+            h: 2902.171875
+            localName: body
+            nodeId: 105
+            nodeName: BODY
+            nodeType: 1
+            nodeValue: ''
+            parent: 103
+            props: {}
+            value: ''
+            w: 412.0
+            x: 0.0
+            y: 0.0
+          childrenids: [104, 105]
+          h: 2902.171875
+          localName: html
+          nodeId: 103
+          nodeName: HTML
+          nodeType: 1
+          nodeValue: ''
+          parent: 102
+          props: {lang: en-US, 'xml:lang': en-US, xmlns: 'http://www.w3.org/1999/xhtml'}
+          value: ''
+          w: 412.0
+          x: 0.0
+          y: 0.0
+        childrenids: [103]
+        documentURL: https://mobile-content-service.comet.aol.com/cis/api/v1/GetArticleDetails?os=android&edition=en_us&device=phone&view=portrait&mediaSize=1080x594&appName=aapp&appVersion=4.3.0.5&osVersion=6.0&channel=News&enableMarqueeMedia=false&f=html&query=%7B%22params%22%3A%7B%22related%22%3Atrue%2C%22maxRelated%22%3A2%2C%22relatedArticlesMaxAgeInDays%22%3A%22180%22%2C%22relegence%22%3A%22true%22%2C%22relTagsMinScore%22%3A%220.5%22%2C%22url%22%3A%22https%3A%2F%2Fwww.aol.com%2Farticle%2Fnews%2F2017%2F04%2F03%2Fobama-adviser-susan-rice-sought-names-trump-officials-intelligence-reports%2F22024089%2F%22%2C%22optimize%22%3A%22true%22%7D%2C%22contentSrc%22%3A%22comet%22%7D
+        localName: ''
+        nodeId: 102
+        nodeName: '#document'
+        nodeType: 9
+        nodeValue: ''
+        parent: -1
+        props: {}
+        xmlVersion: ''
+      103: *id001
+      104: *id002
+      105: *id003
+      106:
+        attributes: [http-equiv, Content-Type, content, text/html; charset=utf-8]
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: meta
+        nodeId: 106
+        nodeName: META
+        nodeType: 1
+        nodeValue: ''
+        parent: 104
+        props: {content: text/html; charset=utf-8, http-equiv: Content-Type}
+      107:
+        attributes: [name, viewport, content, 'initial-scale=1.0,width=device-width,user-scalable=yes,minimum-scale=1.0,maximum-scale=10.0']
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: meta
+        nodeId: 107
+        nodeName: META
+        nodeType: 1
+        nodeValue: ''
+        parent: 104
+        props: {content: 'initial-scale=1.0,width=device-width,user-scalable=yes,minimum-scale=1.0,maximum-scale=10.0',
+          name: viewport}
+      108:
+        attributes: [rel, stylesheet, type, text/css, href, 'https://s3.amazonaws.com/homepages-shared-origin/content/css/article_fonts.css']
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: link
+        nodeId: 108
+        nodeName: LINK
+        nodeType: 1
+        nodeValue: ''
+        parent: 104
+        props: {href: 'https://s3.amazonaws.com/homepages-shared-origin/content/css/article_fonts.css',
+          rel: stylesheet, type: text/css}
+      109:
+        attributes: [rel, stylesheet, type, text/css, href, 'https://s3.amazonaws.com/homepages-shared-origin/content/css/article_phone.css']
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: link
+        nodeId: 109
+        nodeName: LINK
+        nodeType: 1
+        nodeValue: ''
+        parent: 104
+        props: {href: 'https://s3.amazonaws.com/homepages-shared-origin/content/css/article_phone.css',
+          rel: stylesheet, type: text/css}
+      110:
+        attributes: [type, text/javascript, charset, UTF-8, src, 'https://s3.amazonaws.com/homepages-shared-origin/content/js/android_article.js']
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: script
+        nodeId: 110
+        nodeName: SCRIPT
+        nodeType: 1
+        nodeValue: ''
+        parent: 104
+        props: {charset: UTF-8, src: 'https://s3.amazonaws.com/homepages-shared-origin/content/js/android_article.js',
+          type: text/javascript}
+      111:
+        attributes: [type, text/javascript, charset, utf-8, async, '', src, 'https://platform.twitter.com/js/tweet.79cda79b2a2909c45eee1667a4cd9c66.js']
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: script
+        nodeId: 111
+        nodeName: SCRIPT
+        nodeType: 1
+        nodeValue: ''
+        parent: 104
+        props: {async: '', charset: utf-8, src: 'https://platform.twitter.com/js/tweet.79cda79b2a2909c45eee1667a4cd9c66.js',
+          type: text/javascript}
+      112:
+        attributes: [class, ac_marquee]
+        childNodeCount: 2
+        children:
+        - &id004
+          childrenids: []
+          localName: ''
+          nodeId: 113
+          nodeName: '#comment'
+          nodeType: 8
+          nodeValue: AC_IMAGECONTAINER_DIV
+          parent: 112
+          props: {}
+        - &id005
+          childrenids: []
+          localName: ''
+          nodeId: 114
+          nodeName: '#comment'
+          nodeType: 8
+          nodeValue: AC_VIDEOCONTAINER_DIV
+          parent: 112
+          props: {}
+        childrenids: [113, 114]
+        h: 0.0
+        localName: span
+        nodeId: 112
+        nodeName: SPAN
+        nodeType: 1
+        nodeValue: ''
+        parent: 105
+        props: {class: ac_marquee}
+        value: ''
+        w: 0.0
+        x: 0.0
+        y: 0.0
+      113: *id004
+      114: *id005
+      115:
+        attributes: [class, ac_article]
+        childNodeCount: 4
+        children:
+        - &id006
+          attributes: [id, acArticleHeadline, class, ac_headline]
+          childNodeCount: 1
+          children:
+          - &id007
+            childrenids: []
+            localName: ''
+            nodeId: 117
+            nodeName: '#text'
+            nodeType: 3
+            nodeValue: Obama adviser Susan Rice sought names of Trump officials in
+              intelligence reports
+            parent: 116
+            props: {}
+          childrenids: [117]
+          h: 78.0
+          localName: h2
+          nodeId: 116
+          nodeName: H2
+          nodeType: 1
+          nodeValue: ''
+          parent: 115
+          props: {class: ac_headline, id: acArticleHeadline}
+          value: ''
+          w: 372.0
+          x: 20.0
+          y: 30.0
+        - &id008
+          attributes: [class, ac_attribution]
+          childNodeCount: 2
+          children:
+          - &id009
+            attributes: [class, ac_publisher]
+            childNodeCount: 1
+            children:
+            - &id010
+              childrenids: []
+              localName: ''
+              nodeId: 120
+              nodeName: '#text'
+              nodeType: 3
+              nodeValue: AOL.com
+              parent: 119
+              props: {}
+            childrenids: [120]
+            h: 14.0
+            localName: span
+            nodeId: 119
+            nodeName: SPAN
+            nodeType: 1
+            nodeValue: ''
+            parent: 118
+            props: {class: ac_publisher}
+            value: ''
+            w: 54.5625
+            x: 20.0
+            y: 118.0
+          - &id011
+            attributes: [id, acArticleDate]
+            childNodeCount: 1
+            children:
+            - &id012
+              childrenids: []
+              localName: ''
+              nodeId: 122
+              nodeName: '#text'
+              nodeType: 3
+              nodeValue: 1 HR AGO
+              parent: 121
+              props: {}
+            childrenids: [122]
+            h: 14.0
+            localName: span
+            nodeId: 121
+            nodeName: SPAN
+            nodeType: 1
+            nodeValue: ''
+            parent: 118
+            props: {id: acArticleDate}
+            value: ''
+            w: 44.496307373046875
+            x: 97.238525390625
+            y: 118.0
+          childrenids: [119, 121]
+          h: 14.0
+          localName: div
+          nodeId: 118
+          nodeName: DIV
+          nodeType: 1
+          nodeValue: ''
+          parent: 115
+          props: {class: ac_attribution}
+          value: ''
+          w: 372.0
+          x: 20.0
+          y: 118.0
+        - &id013
+          attributes: [class, ac_content]
+          childNodeCount: 17
+          children:
+          - &id014
+            attributes: [class, vdb_player vdb_56c21811e4b009d9eacb4ef95643911267b62318603bce5a,
+              data-placeholder, '//img.vidible.tv/prod/2017-03/22/58d2e103bbbb0a3771359577/58d2e10bf8c580740f885c6a_o_F_v1.jpg?w=1440&h=900',
+              vdb_params, m.embeded=cms_video_plugin_cms.aol.com]
+            childNodeCount: 1
+            children:
+            - &id015
+              attributes: [class, ac_media]
+              childNodeCount: 1
+              children:
+              - &id016
+                attributes: [class, ac_image]
+                childNodeCount: 2
+                children:
+                - &id017
+                  attributes: [src, 'https://s.aolcdn.com/dims-shared/dims4/AOLMOBAPP/45b5c93/2147483647/thumbnail/1080x594/http%3A%2F%2Fo.aolcdn.com%2Fos%2Fmobileapps%2Faolapp%2Fcontent%2Fimages%2Fandroid%2Fimageplaceholder.png',
+                    class, ac_placeholder, style, 'display: none;']
+                  childNodeCount: 0
+                  children: []
+                  childrenids: []
+                  h: 0.0
+                  localName: img
+                  nodeId: 127
+                  nodeName: IMG
+                  nodeType: 1
+                  nodeValue: ''
+                  parent: 126
+                  props: {class: ac_placeholder, src: 'https://s.aolcdn.com/dims-shared/dims4/AOLMOBAPP/45b5c93/2147483647/thumbnail/1080x594/http%3A%2F%2Fo.aolcdn.com%2Fos%2Fmobileapps%2Faolapp%2Fcontent%2Fimages%2Fandroid%2Fimageplaceholder.png',
+                    style: 'display: none;'}
+                  value: ''
+                  w: 0.0
+                  x: 0.0
+                  y: 0.0
+                - &id018
+                  attributes: [src, 'https://s.aolcdn.com/dims-shared/dims4/AOLMOBAPP/d258816/2147483647/resize/1080x594/https%3A%2F%2Fimg.vidible.tv%2Fprod%2F2017-03%2F22%2F58d2e103bbbb0a3771359577%2F58d2e10bf8c580740f885c6a_o_F_v1.jpg',
+                    class, ac_thumbnail, onload, $ac.toggleImage(this);, onerror,
+                    $ac.hide(this);, style, 'height: auto; display: inline;']
+                  childNodeCount: 0
+                  children: []
+                  childrenids: []
+                  h: 209.84375
+                  localName: img
+                  nodeId: 128
+                  nodeName: IMG
+                  nodeType: 1
+                  nodeValue: ''
+                  parent: 126
+                  props: {class: ac_thumbnail, onerror: $ac.hide(this);, onload: $ac.toggleImage(this);,
+                    src: 'https://s.aolcdn.com/dims-shared/dims4/AOLMOBAPP/d258816/2147483647/resize/1080x594/https%3A%2F%2Fimg.vidible.tv%2Fprod%2F2017-03%2F22%2F58d2e103bbbb0a3771359577%2F58d2e10bf8c580740f885c6a_o_F_v1.jpg',
+                    style: 'height: auto; display: inline;'}
+                  value: ''
+                  w: 372.0
+                  x: 20.0
+                  y: 152.0
+                childrenids: [127, 128]
+                h: 209.0
+                localName: div
+                nodeId: 126
+                nodeName: DIV
+                nodeType: 1
+                nodeValue: ''
+                parent: 125
+                props: {class: ac_image}
+                value: ''
+                w: 372.0
+                x: 20.0
+                y: 152.0
+              childrenids: [126]
+              h: 209.0
+              localName: div
+              nodeId: 125
+              nodeName: DIV
+              nodeType: 1
+              nodeValue: ''
+              parent: 124
+              props: {class: ac_media}
+              value: ''
+              w: 372.0
+              x: 20.0
+              y: 152.0
+            childrenids: [125]
+            h: 209.0
+            localName: div
+            nodeId: 124
+            nodeName: DIV
+            nodeType: 1
+            nodeValue: ''
+            parent: 123
+            props: {class: vdb_player vdb_56c21811e4b009d9eacb4ef95643911267b62318603bce5a,
+              data-placeholder: '//img.vidible.tv/prod/2017-03/22/58d2e103bbbb0a3771359577/58d2e10bf8c580740f885c6a_o_F_v1.jpg?w=1440&h=900',
+              vdb_params: m.embeded=cms_video_plugin_cms.aol.com}
+            value: ''
+            w: 372.0
+            x: 20.0
+            y: 152.0
+          - &id019
+            attributes: []
+            childNodeCount: 1
+            children:
+            - &id020
+              childrenids: []
+              localName: ''
+              nodeId: 130
+              nodeName: '#text'
+              nodeType: 3
+              nodeValue: Former Obama administration national security adviser Susan
+                Rice was reportedly behind dozens of requests to unmask the identities
+                of U.S. persons swept-up in foreign surveillance reports that connected
+                to the Trump transition.
+              parent: 129
+              props: {}
+            childrenids: [130]
+            h: 140.0
+            localName: p
+            nodeId: 129
+            nodeName: P
+            nodeType: 1
+            nodeValue: ''
+            parent: 123
+            props: {}
+            value: ''
+            w: 372.0
+            x: 20.0
+            y: 377.0
+          - &id021
+            attributes: []
+            childNodeCount: 3
+            children:
+            - &id022
+              childrenids: []
+              localName: ''
+              nodeId: 132
+              nodeName: '#text'
+              nodeType: 3
+              nodeValue: 'The revelation, '
+              parent: 131
+              props: {}
+            - &id023
+              attributes: [href, 'https://www.bloomberg.com/view/articles/2017-04-03/top-obama-adviser-sought-names-of-trump-associates-in-intel']
+              childNodeCount: 1
+              children:
+              - &id024
+                childrenids: []
+                localName: ''
+                nodeId: 134
+                nodeName: '#text'
+                nodeType: 3
+                nodeValue: reported by Bloomberg
+                parent: 133
+                props: {}
+              childrenids: [134]
+              h: 19.0
+              localName: a
+              nodeId: 133
+              nodeName: A
+              nodeType: 1
+              nodeValue: ''
+              parent: 131
+              props: {href: 'https://www.bloomberg.com/view/articles/2017-04-03/top-obama-adviser-sought-names-of-trump-associates-in-intel'}
+              value: ''
+              w: 170.0323486328125
+              x: 131.0882568359375
+              y: 537.0
+            - &id025
+              childrenids: []
+              localName: ''
+              nodeId: 135
+              nodeName: '#text'
+              nodeType: 3
+              nodeValue: ' on Monday, apparently emerged from a National Security
+                Council review of the government''s policy on unmasking, in which
+                the identities of people in the U.S. who are not being targeted in
+                electronic surveillance, but whose communications get collected incidentally,
+                are disclosed.'
+              parent: 131
+              props: {}
+            childrenids: [132, 133, 135]
+            h: 196.0
+            localName: p
+            nodeId: 131
+            nodeName: P
+            nodeType: 1
+            nodeValue: ''
+            parent: 123
+            props: {}
+            value: ''
+            w: 372.0
+            x: 20.0
+            y: 533.0
+          - &id026
+            attributes: []
+            childNodeCount: 1
+            children:
+            - &id027
+              childrenids: []
+              localName: ''
+              nodeId: 137
+              nodeName: '#text'
+              nodeType: 3
+              nodeValue: Those identities are typically supposed to be minimized,
+                except when that information would provide foreign intelligence value.
+              parent: 136
+              props: {}
+            childrenids: [137]
+            h: 84.0
+            localName: p
+            nodeId: 136
+            nodeName: P
+            nodeType: 1
+            nodeValue: ''
+            parent: 123
+            props: {}
+            value: ''
+            w: 372.0
+            x: 20.0
+            y: 745.0
+          - &id028
+            attributes: []
+            childNodeCount: 1
+            children:
+            - &id029
+              attributes: []
+              childNodeCount: 1
+              children:
+              - &id030
+                childrenids: []
+                localName: ''
+                nodeId: 140
+                nodeName: '#text'
+                nodeType: 3
+                nodeValue: Key players in Trump-Russia connection allegations
+                parent: 139
+                props: {}
+              childrenids: [140]
+              h: 47.0
+              localName: strong
+              nodeId: 139
+              nodeName: STRONG
+              nodeType: 1
+              nodeValue: ''
+              parent: 138
+              props: {}
+              value: ''
+              w: 306.7685546875
+              x: 20.0
+              y: 849.0
+            childrenids: [139]
+            h: 56.0
+            localName: p
+            nodeId: 138
+            nodeName: P
+            nodeType: 1
+            nodeValue: ''
+            parent: 123
+            props: {}
+            value: ''
+            w: 372.0
+            x: 20.0
+            y: 845.0
+          - &id031
+            attributes: [class, ac_media]
+            childNodeCount: 1
+            children:
+            - &id032
+              attributes: [href, 'aolappslides://505843', class, ac_slideshow]
+              childNodeCount: 3
+              children:
+              - &id033
+                attributes: [src, 'https://s.aolcdn.com/dims-shared/dims4/AOLMOBAPP/45b5c93/2147483647/thumbnail/1080x594/http%3A%2F%2Fo.aolcdn.com%2Fos%2Fmobileapps%2Faolapp%2Fcontent%2Fimages%2Fandroid%2Fimageplaceholder.png',
+                  class, ac_placeholder, style, 'display: none;']
+                childNodeCount: 0
+                children: []
+                childrenids: []
+                h: 0.0
+                localName: img
+                nodeId: 143
+                nodeName: IMG
+                nodeType: 1
+                nodeValue: ''
+                parent: 142
+                props: {class: ac_placeholder, src: 'https://s.aolcdn.com/dims-shared/dims4/AOLMOBAPP/45b5c93/2147483647/thumbnail/1080x594/http%3A%2F%2Fo.aolcdn.com%2Fos%2Fmobileapps%2Faolapp%2Fcontent%2Fimages%2Fandroid%2Fimageplaceholder.png',
+                  style: 'display: none;'}
+                value: ''
+                w: 0.0
+                x: 0.0
+                y: 0.0
+              - &id034
+                attributes: [src, 'https://s.aolcdn.com/dims-shared/dims4/AOLMOBAPP/652f618/2147483647/thumbnail/1080x594/https%3A%2F%2Fs.blogcdn.com%2Fslideshows%2Fimages%2Fslides%2F470%2F900%2F8%2FS4709008%2Fslug%2Fl%2Fusa-election-trump-1.jpg',
+                  class, ac_thumbnail, onload, $ac.toggleImage(this);, onerror, $ac.hide(this);,
+                  style, 'height: auto; display: inline;']
+                childNodeCount: 0
+                children: []
+                childrenids: []
+                h: 226.59375
+                localName: img
+                nodeId: 144
+                nodeName: IMG
+                nodeType: 1
+                nodeValue: ''
+                parent: 142
+                props: {class: ac_thumbnail, onerror: $ac.hide(this);, onload: $ac.toggleImage(this);,
+                  src: 'https://s.aolcdn.com/dims-shared/dims4/AOLMOBAPP/652f618/2147483647/thumbnail/1080x594/https%3A%2F%2Fs.blogcdn.com%2Fslideshows%2Fimages%2Fslides%2F470%2F900%2F8%2FS4709008%2Fslug%2Fl%2Fusa-election-trump-1.jpg',
+                  style: 'height: auto; display: inline;'}
+                value: ''
+                w: 412.0
+                x: 0.0
+                y: 917.0
+              - &id035
+                attributes: [src, 'http://o.aolcdn.com/os/mobileapps/aolapp/content/images/android/slideshowbutton.png',
+                  class, ac_playbutton]
+                childNodeCount: 0
+                children: []
+                childrenids: []
+                h: 70.0
+                localName: img
+                nodeId: 145
+                nodeName: IMG
+                nodeType: 1
+                nodeValue: ''
+                parent: 142
+                props: {class: ac_playbutton, src: 'http://o.aolcdn.com/os/mobileapps/aolapp/content/images/android/slideshowbutton.png'}
+                value: ''
+                w: 70.0
+                x: 171.0
+                y: 995.0
+              childrenids: [143, 144, 145]
+              h: 226.0
+              localName: a
+              nodeId: 142
+              nodeName: A
+              nodeType: 1
+              nodeValue: ''
+              parent: 141
+              props: {class: ac_slideshow, href: 'aolappslides://505843'}
+              value: ''
+              w: 412.0
+              x: 0.0
+              y: 917.0
+            childrenids: [142]
+            h: 226.0
+            localName: div
+            nodeId: 141
+            nodeName: DIV
+            nodeType: 1
+            nodeValue: ''
+            parent: 123
+            props: {class: ac_media}
+            value: ''
+            w: 372.0
+            x: 20.0
+            y: 917.0
+          - &id036
+            attributes: []
+            childNodeCount: 0
+            children: []
+            childrenids: []
+            h: 0.0
+            localName: p
+            nodeId: 146
+            nodeName: P
+            nodeType: 1
+            nodeValue: ''
+            parent: 123
+            props: {}
+            value: ''
+            w: 372.0
+            x: 20.0
+            y: 1159.0
+          - &id037
+            attributes: []
+            childNodeCount: 3
+            children:
+            - &id038
+              childrenids: []
+              localName: ''
+              nodeId: 148
+              nodeName: '#text'
+              nodeType: 3
+              nodeValue: 'Rice''s conduct would likely meet that broad standard, and
+                it does not appear that she broke the law. The disclosures also do
+                not provide any support for President Donald Trump''s '
+              parent: 147
+              props: {}
+            - &id039
+              attributes: [href, 'https://twitter.com/realDonaldTrump/status/837996746236182529']
+              childNodeCount: 1
+              children:
+              - &id040
+                childrenids: []
+                localName: ''
+                nodeId: 150
+                nodeName: '#text'
+                nodeType: 3
+                nodeValue: unsubstantiated statements on Twitter
+                parent: 149
+                props: {}
+              childrenids: [150]
+              h: 19.0
+              localName: a
+              nodeId: 149
+              nodeName: A
+              nodeType: 1
+              nodeValue: ''
+              parent: 147
+              props: {href: 'https://twitter.com/realDonaldTrump/status/837996746236182529'}
+              value: ''
+              w: 282.1446838378906
+              x: 20.0
+              y: 1275.0
+            - &id041
+              childrenids: []
+              localName: ''
+              nodeId: 151
+              nodeName: '#text'
+              nodeType: 3
+              nodeValue: ' on March 4 that he had been wiretapped on the orders of
+                President Barack Obama.'
+              parent: 147
+              props: {}
+            childrenids: [148, 149, 151]
+            h: 196.0
+            localName: p
+            nodeId: 147
+            nodeName: P
+            nodeType: 1
+            nodeValue: ''
+            parent: 123
+            props: {}
+            value: ''
+            w: 372.0
+            x: 20.0
+            y: 1159.0
+          - &id042
+            attributes: [class, widget__wrapper widget__wrapper--masonry]
+            childNodeCount: 1
+            children:
+            - &id043
+              attributes: [class, col-md-12]
+              childNodeCount: 1
+              children:
+              - &id044
+                attributes: [class, widget widget--twitter]
+                childNodeCount: 2
+                children:
+                - &id045
+                  attributes: [id, twitter-widget-0, scrolling, 'no', frameborder,
+                    '0', allowtransparency, 'true', allowfullscreen, 'true', class,
+                    twitter-tweet twitter-tweet-rendered, style, 'position: static;
+                      visibility: visible; display: block; width: 500px; height: 225.171875px;
+                      padding: 0px; border: none; max-width: 100%; min-width: 220px;
+                      margin-top: 10px; margin-bottom: 10px;', data-tweet-id, '837996746236182529',
+                    title, Twitter Tweet]
+                  childNodeCount: 0
+                  children: []
+                  childrenids: []
+                  contentDocument: {baseURL: 'https://mobile-content-service.comet.aol.com/cis/api/v1/GetArticleDetails?os=android&edition=en_us&device=phone&view=portrait&mediaSize=1080x594&appName=aapp&appVersion=4.3.0.5&osVersion=6.0&channel=News&enableMarqueeMedia=false&f=html&query=%7B%22params%22%3A%7B%22related%22%3Atrue%2C%22maxRelated%22%3A2%2C%22relatedArticlesMaxAgeInDays%22%3A%22180%22%2C%22relegence%22%3A%22true%22%2C%22relTagsMinScore%22%3A%220.5%22%2C%22url%22%3A%22https%3A%2F%2Fwww.aol.com%2Farticle%2Fnews%2F2017%2F04%2F03%2Fobama-adviser-susan-rice-sought-names-trump-officials-intelligence-reports%2F22024089%2F%22%2C%22optimize%22%3A%22true%22%7D%2C%22contentSrc%22%3A%22comet%22%7D',
+                    childNodeCount: 1, documentURL: 'about:blank', localName: '',
+                    nodeId: 156, nodeName: '#document', nodeType: 9, nodeValue: '',
+                    xmlVersion: ''}
+                  frameId: '4253.1'
+                  h: 225.171875
+                  localName: iframe
+                  nodeId: 155
+                  nodeName: IFRAME
+                  nodeType: 1
+                  nodeValue: ''
+                  parent: 154
+                  props: {allowfullscreen: 'true', allowtransparency: 'true', class: twitter-tweet
+                      twitter-tweet-rendered, data-tweet-id: '837996746236182529',
+                    frameborder: '0', id: twitter-widget-0, scrolling: 'no', style: 'position:
+                      static; visibility: visible; display: block; width: 500px; height:
+                      225.171875px; padding: 0px; border: none; max-width: 100%; min-width:
+                      220px; margin-top: 10px; margin-bottom: 10px;', title: Twitter
+                      Tweet}
+                  value: ''
+                  w: 372.0
+                  x: 20.0
+                  y: 1371.0
+                - &id046
+                  attributes: [async, '', src, //platform.twitter.com/widgets.js,
+                    charset, utf-8]
+                  childNodeCount: 0
+                  children: []
+                  childrenids: []
+                  localName: script
+                  nodeId: 157
+                  nodeName: SCRIPT
+                  nodeType: 1
+                  nodeValue: ''
+                  parent: 154
+                  props: {async: '', charset: utf-8, src: //platform.twitter.com/widgets.js}
+                childrenids: [155, 157]
+                h: 225.171875
+                localName: div
+                nodeId: 154
+                nodeName: DIV
+                nodeType: 1
+                nodeValue: ''
+                parent: 153
+                props: {class: widget widget--twitter}
+                value: ''
+                w: 372.0
+                x: 20.0
+                y: 1371.0
+              childrenids: [154]
+              h: 225.171875
+              localName: div
+              nodeId: 153
+              nodeName: DIV
+              nodeType: 1
+              nodeValue: ''
+              parent: 152
+              props: {class: col-md-12}
+              value: ''
+              w: 372.0
+              x: 20.0
+              y: 1371.0
+            childrenids: [153]
+            h: 225.171875
+            localName: div
+            nodeId: 152
+            nodeName: DIV
+            nodeType: 1
+            nodeValue: ''
+            parent: 123
+            props: {class: widget__wrapper widget__wrapper--masonry}
+            value: ''
+            w: 372.0
+            x: 20.0
+            y: 1371.0
+          - &id047
+            attributes: []
+            childNodeCount: 3
+            children:
+            - &id048
+              childrenids: []
+              localName: ''
+              nodeId: 159
+              nodeName: '#text'
+              nodeType: 3
+              nodeValue: 'However, the information about Rice offers additional context
+                amid '
+              parent: 158
+              props: {}
+            - &id049
+              attributes: [href, 'https://www.usnews.com/news/national-news/articles/2017-03-20/fbi-director-james-comey-confirms-investigation-into-trump-russia-ties']
+              childNodeCount: 1
+              children:
+              - &id050
+                childrenids: []
+                localName: ''
+                nodeId: 161
+                nodeName: '#text'
+                nodeType: 3
+                nodeValue: at least three investigations
+                parent: 160
+                props: {}
+              childrenids: [161]
+              h: 47.0
+              localName: a
+              nodeId: 160
+              nodeName: A
+              nodeType: 1
+              nodeValue: ''
+              parent: 158
+              props: {href: 'https://www.usnews.com/news/national-news/articles/2017-03-20/fbi-director-james-comey-confirms-investigation-into-trump-russia-ties'}
+              value: ''
+              w: 268.8486328125
+              x: 20.0
+              y: 1644.171875
+            - &id051
+              childrenids: []
+              localName: ''
+              nodeId: 162
+              nodeName: '#text'
+              nodeType: 3
+              nodeValue: ' into Russia''s interference in the 2016 election and potential
+                collusion between the Kremlin and the Trump team.'
+              parent: 158
+              props: {}
+            childrenids: [159, 160, 162]
+            h: 140.0
+            localName: p
+            nodeId: 158
+            nodeName: P
+            nodeType: 1
+            nodeValue: ''
+            parent: 123
+            props: {}
+            value: ''
+            w: 372.0
+            x: 20.0
+            y: 1612.171875
+          - &id052
+            attributes: []
+            childNodeCount: 1
+            children:
+            - &id053
+              attributes: []
+              childNodeCount: 2
+              children:
+              - &id054
+                childrenids: []
+                localName: ''
+                nodeId: 165
+                nodeName: '#text'
+                nodeType: 3
+                nodeValue: 'SEE ALSO: '
+                parent: 164
+                props: {}
+              - &id055
+                attributes: [href, 'https://www.aol.com/article/news/2017/04/03/just-asking-trump-goes-on-another-early-morning-tweetstorm-hillary-clinton-russia/22023572/']
+                childNodeCount: 1
+                children:
+                - &id056
+                  childrenids: []
+                  localName: ''
+                  nodeId: 167
+                  nodeName: '#text'
+                  nodeType: 3
+                  nodeValue: Trump goes on another early morning tweetstorm about
+                    Hillary Clinton and Russia
+                  parent: 166
+                  props: {}
+                childrenids: [167]
+                h: 47.0
+                localName: a
+                nodeId: 166
+                nodeName: A
+                nodeType: 1
+                nodeValue: ''
+                parent: 164
+                props: {href: 'https://www.aol.com/article/news/2017/04/03/just-asking-trump-goes-on-another-early-morning-tweetstorm-hillary-clinton-russia/22023572/'}
+                value: ''
+                w: 358.11279296875
+                x: 20.0
+                y: 1772.171875
+              childrenids: [165, 166]
+              h: 47.0
+              localName: strong
+              nodeId: 164
+              nodeName: STRONG
+              nodeType: 1
+              nodeValue: ''
+              parent: 163
+              props: {}
+              value: ''
+              w: 358.11279296875
+              x: 20.0
+              y: 1772.171875
+            childrenids: [164]
+            h: 56.0
+            localName: p
+            nodeId: 163
+            nodeName: P
+            nodeType: 1
+            nodeValue: ''
+            parent: 123
+            props: {}
+            value: ''
+            w: 372.0
+            x: 20.0
+            y: 1768.171875
+          - &id057
+            attributes: []
+            childNodeCount: 3
+            children:
+            - &id058
+              childrenids: []
+              localName: ''
+              nodeId: 169
+              nodeName: '#text'
+              nodeType: 3
+              nodeValue: 'On the House and '
+              parent: 168
+              props: {}
+            - &id059
+              attributes: [href, 'https://www.usnews.com/news/politics/articles/2017-03-29/senate-intel-committee-granted-access-to-classified-documents-in-russia-probe']
+              childNodeCount: 1
+              children:
+              - &id060
+                childrenids: []
+                localName: ''
+                nodeId: 171
+                nodeName: '#text'
+                nodeType: 3
+                nodeValue: Senate
+                parent: 170
+                props: {}
+              childrenids: [171]
+              h: 19.0
+              localName: a
+              nodeId: 170
+              nodeName: A
+              nodeType: 1
+              nodeValue: ''
+              parent: 168
+              props: {href: 'https://www.usnews.com/news/politics/articles/2017-03-29/senate-intel-committee-granted-access-to-classified-documents-in-russia-probe'}
+              value: ''
+              w: 51.808135986328125
+              x: 154.00030517578125
+              y: 1844.171875
+            - &id061
+              childrenids: []
+              localName: ''
+              nodeId: 172
+              nodeName: '#text'
+              nodeType: 3
+              nodeValue: ' intelligence committees, each of which is conducting a
+                Russia inquiry, Republican members in particular have expressed concern
+                about unmasking policies under the Obama administration, warning that
+                the practice could be abused for political purposes.'
+              parent: 168
+              props: {}
+            childrenids: [169, 170, 172]
+            h: 168.0
+            localName: p
+            nodeId: 168
+            nodeName: P
+            nodeType: 1
+            nodeValue: ''
+            parent: 123
+            props: {}
+            value: ''
+            w: 372.0
+            x: 20.0
+            y: 1840.171875
+          - &id062
+            attributes: []
+            childNodeCount: 3
+            children:
+            - &id063
+              childrenids: []
+              localName: ''
+              nodeId: 174
+              nodeName: '#text'
+              nodeType: 3
+              nodeValue: 'The developments about Rice''s involvement also shed more
+                light on the '
+              parent: 173
+              props: {}
+            - &id064
+              attributes: [href, 'https://www.usnews.com/news/national-news/articles/2017-03-30/white-house-mum-on-report-that-staffers-supplied-nunes-with-intel-reports']
+              childNodeCount: 1
+              children:
+              - &id065
+                childrenids: []
+                localName: ''
+                nodeId: 176
+                nodeName: '#text'
+                nodeType: 3
+                nodeValue: controversy
+                parent: 175
+                props: {}
+              childrenids: [176]
+              h: 19.0
+              localName: a
+              nodeId: 175
+              nodeName: A
+              nodeType: 1
+              nodeValue: ''
+              parent: 173
+              props: {href: 'https://www.usnews.com/news/national-news/articles/2017-03-30/white-house-mum-on-report-that-staffers-supplied-nunes-with-intel-reports'}
+              value: ''
+              w: 88.7362060546875
+              x: 186.25640869140625
+              y: 2056.171875
+            - &id066
+              childrenids: []
+              localName: ''
+              nodeId: 177
+              nodeName: '#text'
+              nodeType: 3
+              nodeValue: " surrounding House intelligence committee chairman Devin\
+                \ Nunes, R-Calif., who announced last month to the press and to the\
+                \ White House \u2013 without first meeting with members of his own\
+                \ committee \u2013 that he'd seen intelligence reports indicating\
+                \ that Trump associates had been incidentally swept-up in foreign\
+                \ surveillance."
+              parent: 173
+              props: {}
+            childrenids: [174, 175, 177]
+            h: 252.0
+            localName: p
+            nodeId: 173
+            nodeName: P
+            nodeType: 1
+            nodeValue: ''
+            parent: 123
+            props: {}
+            value: ''
+            w: 372.0
+            x: 20.0
+            y: 2024.171875
+          - &id067
+            attributes: []
+            childNodeCount: 1
+            children:
+            - &id068
+              attributes: []
+              childNodeCount: 2
+              children:
+              - &id069
+                childrenids: []
+                localName: ''
+                nodeId: 180
+                nodeName: '#text'
+                nodeType: 3
+                nodeValue: 'MORE FROM US NEWS: '
+                parent: 179
+                props: {}
+              - &id070
+                attributes: [href, 'https://www.usnews.com/news/national-news/articles/2017-03-30/white-house-mum-on-report-that-staffers-supplied-nunes-with-intel-reports']
+                childNodeCount: 1
+                children:
+                - &id071
+                  childrenids: []
+                  localName: ''
+                  nodeId: 182
+                  nodeName: '#text'
+                  nodeType: 3
+                  nodeValue: White House Mum on Report That Staffers Helped Supply
+                    Nunes with Intel Reports
+                  parent: 181
+                  props: {}
+                childrenids: [182]
+                h: 75.0
+                localName: a
+                nodeId: 181
+                nodeName: A
+                nodeType: 1
+                nodeValue: ''
+                parent: 179
+                props: {href: 'https://www.usnews.com/news/national-news/articles/2017-03-30/white-house-mum-on-report-that-staffers-supplied-nunes-with-intel-reports'}
+                value: ''
+                w: 341.8727722167969
+                x: 20.0
+                y: 2296.171875
+              childrenids: [180, 181]
+              h: 75.0
+              localName: strong
+              nodeId: 179
+              nodeName: STRONG
+              nodeType: 1
+              nodeValue: ''
+              parent: 178
+              props: {}
+              value: ''
+              w: 341.8727722167969
+              x: 20.0
+              y: 2296.171875
+            childrenids: [179]
+            h: 84.0
+            localName: p
+            nodeId: 178
+            nodeName: P
+            nodeType: 1
+            nodeValue: ''
+            parent: 123
+            props: {}
+            value: ''
+            w: 372.0
+            x: 20.0
+            y: 2292.171875
+          - &id072
+            attributes: []
+            childNodeCount: 3
+            children:
+            - &id073
+              childrenids: []
+              localName: ''
+              nodeId: 184
+              nodeName: '#text'
+              nodeType: 3
+              nodeValue: 'Notably, the National Security Council review that uncovered
+                Rice''s requests was apparently being led by Ezra Cohen-Watnick, its
+                senior director for intelligence. The '
+              parent: 183
+              props: {}
+            - &id074
+              attributes: [href, 'https://www.usnews.com/news/national-news/articles/2017-03-30/white-house-mum-on-report-that-staffers-supplied-nunes-with-intel-reports']
+              childNodeCount: 1
+              children:
+              - &id075
+                childrenids: []
+                localName: ''
+                nodeId: 186
+                nodeName: '#text'
+                nodeType: 3
+                nodeValue: New York Times reported last week
+                parent: 185
+                props: {}
+              childrenids: [186]
+              h: 47.0
+              localName: a
+              nodeId: 185
+              nodeName: A
+              nodeType: 1
+              nodeValue: ''
+              parent: 183
+              props: {href: 'https://www.usnews.com/news/national-news/articles/2017-03-30/white-house-mum-on-report-that-staffers-supplied-nunes-with-intel-reports'}
+              value: ''
+              w: 337.36077880859375
+              x: 20.0
+              y: 2480.171875
+            - &id076
+              childrenids: []
+              localName: ''
+              nodeId: 187
+              nodeName: '#text'
+              nodeType: 3
+              nodeValue: ' that Cohen-Watnick was one of two officials who supplied
+                Nunes with the intelligence reports. Nunes confirmed having viewed
+                the reports on the grounds of the White House.'
+              parent: 183
+              props: {}
+            childrenids: [184, 185, 187]
+            h: 224.0
+            localName: p
+            nodeId: 183
+            nodeName: P
+            nodeType: 1
+            nodeValue: ''
+            parent: 123
+            props: {}
+            value: ''
+            w: 372.0
+            x: 20.0
+            y: 2392.171875
+          - &id077
+            attributes: []
+            childNodeCount: 3
+            children:
+            - &id078
+              childrenids: []
+              localName: ''
+              nodeId: 189
+              nodeName: '#text'
+              nodeType: 3
+              nodeValue: 'Rep. Adam Schiff, the the ranking Democrat on the House
+                intelligence committee, was '
+              parent: 188
+              props: {}
+            - &id079
+              attributes: [href, 'https://www.usnews.com/news/national-news/articles/2017-03-30/schiff-happy-to-review-intel-reports-at-white-house']
+              childNodeCount: 1
+              children:
+              - &id080
+                childrenids: []
+                localName: ''
+                nodeId: 191
+                nodeName: '#text'
+                nodeType: 3
+                nodeValue: invited
+                parent: 190
+                props: {}
+              childrenids: [191]
+              h: 19.0
+              localName: a
+              nodeId: 190
+              nodeName: A
+              nodeType: 1
+              nodeValue: ''
+              parent: 188
+              props: {href: 'https://www.usnews.com/news/national-news/articles/2017-03-30/schiff-happy-to-review-intel-reports-at-white-house'}
+              value: ''
+              w: 48.8641357421875
+              x: 276.91259765625
+              y: 2664.171875
+            - &id081
+              childrenids: []
+              localName: ''
+              nodeId: 192
+              nodeName: '#text'
+              nodeType: 3
+              nodeValue: ' to review intelligence reports at the White House on Friday.
+                In a statement, he said that while he "cannot discuss the content
+                of the documents," there was "nothing I could see today" that "warranted
+                a departure from the normal review procedures."'
+              parent: 188
+              props: {}
+            childrenids: [189, 190, 192]
+            h: 196.0
+            localName: p
+            nodeId: 188
+            nodeName: P
+            nodeType: 1
+            nodeValue: ''
+            parent: 123
+            props: {}
+            value: ''
+            w: 372.0
+            x: 20.0
+            y: 2632.171875
+          - &id082
+            childrenids: []
+            localName: ''
+            nodeId: 193
+            nodeName: '#comment'
+            nodeType: 8
+            nodeValue: AC_EXTRA
+            parent: 123
+            props: {}
+          childrenids: [124, 129, 131, 136, 138, 141, 146, 147, 152, 158, 163, 168,
+            173, 178, 183, 188, 193]
+          h: 2676.171875
+          localName: div
+          nodeId: 123
+          nodeName: DIV
+          nodeType: 1
+          nodeValue: ''
+          parent: 115
+          props: {class: ac_content}
+          value: ''
+          w: 372.0
+          x: 20.0
+          y: 152.0
+        - &id083
+          attributes: [class, ac_open_page]
+          childNodeCount: 1
+          children:
+          - &id084
+            attributes: [href, 'javascript:ArticleContentInterface.openPageInBrowser();',
+              id, openInWeb]
+            childNodeCount: 1
+            children:
+            - &id085
+              childrenids: []
+              localName: ''
+              nodeId: 196
+              nodeName: '#text'
+              nodeType: 3
+              nodeValue: Open in Web Browser
+              parent: 195
+              props: {}
+            childrenids: [196]
+            h: 19.0
+            localName: a
+            nodeId: 195
+            nodeName: A
+            nodeType: 1
+            nodeValue: ''
+            parent: 194
+            props: {href: 'javascript:ArticleContentInterface.openPageInBrowser();',
+              id: openInWeb}
+            value: ''
+            w: 157.6643524169922
+            x: 20.0
+            y: 2848.171875
+          childrenids: [195]
+          h: 28.0
+          localName: div
+          nodeId: 194
+          nodeName: DIV
+          nodeType: 1
+          nodeValue: ''
+          parent: 115
+          props: {class: ac_open_page}
+          value: ''
+          w: 372.0
+          x: 20.0
+          y: 2844.171875
+        childrenids: [116, 118, 123, 194]
+        h: 2902.171875
+        localName: div
+        nodeId: 115
+        nodeName: DIV
+        nodeType: 1
+        nodeValue: ''
+        parent: 105
+        props: {class: ac_article}
+        value: ''
+        w: 412.0
+        x: 0.0
+        y: 0.0
+      116: *id006
+      117: *id007
+      118: *id008
+      119: *id009
+      120: *id010
+      121: *id011
+      122: *id012
+      123: *id013
+      124: *id014
+      125: *id015
+      126: *id016
+      127: *id017
+      128: *id018
+      129: *id019
+      130: *id020
+      131: *id021
+      132: *id022
+      133: *id023
+      134: *id024
+      135: *id025
+      136: *id026
+      137: *id027
+      138: *id028
+      139: *id029
+      140: *id030
+      141: *id031
+      142: *id032
+      143: *id033
+      144: *id034
+      145: *id035
+      146: *id036
+      147: *id037
+      148: *id038
+      149: *id039
+      150: *id040
+      151: *id041
+      152: *id042
+      153: *id043
+      154: *id044
+      155: *id045
+      157: *id046
+      158: *id047
+      159: *id048
+      160: *id049
+      161: *id050
+      162: *id051
+      163: *id052
+      164: *id053
+      165: *id054
+      166: *id055
+      167: *id056
+      168: *id057
+      169: *id058
+      170: *id059
+      171: *id060
+      172: *id061
+      173: *id062
+      174: *id063
+      175: *id064
+      176: *id065
+      177: *id066
+      178: *id067
+      179: *id068
+      180: *id069
+      181: *id070
+      182: *id071
+      183: *id072
+      184: *id073
+      185: *id074
+      186: *id075
+      187: *id076
+      188: *id077
+      189: *id078
+      190: *id079
+      191: *id080
+      192: *id081
+      193: *id082
+      194: *id083
+      195: *id084
+      196: *id085
+      197:
+        attributes: []
+        childNodeCount: 1
+        children:
+        - {localName: '', nodeId: 198, nodeName: '#text', nodeType: 3, nodeValue: "var\
+            \ metadata={\"summary\":\"Former Obama administration national security\
+            \ adviser Susan Rice was reportedly behind dozens of requests to unmask\
+            \ the identities of U.S. persons swept-up in foreign surveillance reports\
+            \ that connected to the Trump transition.\",\"commentsEnabled\":true,\"\
+            relegence\":{\"authority_score\":0.5187319,\"topic\":{\"heat\":0,\"avg_access_time\"\
+            :1491218459271,\"document_count\":48,\"created\":\"2017-04-03T07:20:59+00:00\"\
+            ,\"parent_id\":848857858280562688,\"id\":848857858280562688},\"duplicate\"\
+            :[{\"original_doc_id\":848973696207724544,\"type\":\"None\"}],\"categories\"\
+            :[{\"name\":\"World\",\"id\":147},{\"name\":\"U.S.\",\"id\":146}],\"tags\"\
+            :[{\"hits\":[{\"field\":\"Title\",\"offset\":41,\"length\":5},{\"field\"\
+            :\"Body\",\"offset\":841,\"length\":5},{\"field\":\"Body\",\"offset\"\
+            :1727,\"length\":12},{\"field\":\"Body\",\"offset\":2413,\"length\":5},{\"\
+            field\":\"Body\",\"offset\":2597,\"length\":5},{\"field\":\"Body\",\"\
+            offset\":3619,\"length\":5}],\"node_types\":[{\"name\":\"TV Person\",\"\
+            id\":44},{\"name\":\"Movie Person\",\"id\":14},{\"name\":\"Major Celebrity\"\
+            ,\"id\":190},{\"name\":\"Politics Person\",\"id\":53},{\"name\":\"Music\
+            \ Person\",\"id\":6}],\"score\":1,\"in_headline\":true,\"freebase_mid\"\
+            :\"m.0cqt90\",\"disambiguator\":\"Politics Person\",\"name\":\"Donald\
+            \ Trump\",\"id\":2789214,\"type\":\"Entity\"},{\"hits\":[{\"field\":\"\
+            Title\",\"offset\":14,\"length\":10},{\"field\":\"Body\",\"offset\":685,\"\
+            length\":10},{\"field\":\"Body\",\"offset\":1564,\"length\":4},{\"field\"\
+            :\"Body\",\"offset\":2100,\"length\":4},{\"field\":\"Body\",\"offset\"\
+            :3152,\"length\":4},{\"field\":\"Body\",\"offset\":4034,\"length\":4}],\"\
+            node_types\":[{\"name\":\"TV Person\",\"id\":44},{\"name\":\"Politics\
+            \ Person\",\"id\":53}],\"score\":0.9494,\"in_headline\":true,\"freebase_mid\"\
+            :\"m.077k_t\",\"disambiguator\":\"Politics Person\",\"name\":\"Susan Rice\"\
+            ,\"id\":3799418,\"type\":\"Entity\"},{\"hits\":[{\"field\":\"Body\",\"\
+            offset\":3483,\"length\":11},{\"field\":\"Body\",\"offset\":4482,\"length\"\
+            :11},{\"field\":\"Body\",\"offset\":4761,\"length\":11}],\"node_types\"\
+            :[{\"name\":\"Location\",\"id\":30}],\"score\":0.943,\"in_headline\":false,\"\
+            freebase_mid\":\"m.081sq\",\"disambiguator\":\"Historic Building\",\"\
+            name\":\"White House\",\"id\":3698131,\"type\":\"Entity\"},{\"hits\":[{\"\
+            field\":\"Body\",\"offset\":3373,\"length\":28},{\"field\":\"Body\",\"\
+            offset\":4553,\"length\":28}],\"node_types\":[{\"name\":\"Unknown\",\"\
+            id\":48}],\"score\":0.943,\"in_headline\":false,\"freebase_mid\":\"m.07nxbm\"\
+            ,\"disambiguator\":\"\",\"name\":\"House intelligence Committee\",\"id\"\
+            :3811734,\"type\":\"Entity\"},{\"hits\":[{\"field\":\"Title\",\"offset\"\
+            :0,\"length\":5},{\"field\":\"Body\",\"offset\":638,\"length\":20},{\"\
+            field\":\"Body\",\"offset\":1912,\"length\":22},{\"field\":\"Body\",\"\
+            offset\":3033,\"length\":20}],\"node_types\":[{\"name\":\"TV Person\"\
+            ,\"id\":44},{\"name\":\"Movie Person\",\"id\":14},{\"name\":\"Politics\
+            \ Person\",\"id\":53},{\"name\":\"Music Person\",\"id\":6}],\"score\"\
+            :0.8228,\"in_headline\":true,\"freebase_mid\":\"m.02mjmr\",\"disambiguator\"\
+            :\"Politics Person\",\"name\":\"Barack Obama\",\"id\":3646062,\"type\"\
+            :\"Entity\"},{\"hits\":[{\"field\":\"Body\",\"offset\":3411,\"length\"\
+            :11}],\"node_types\":[{\"name\":\"Politics Person\",\"id\":53}],\"score\"\
+            :0.7532,\"in_headline\":false,\"freebase_mid\":\"m.024tds\",\"disambiguator\"\
+            :\"Politics Person(Congressman)\",\"name\":\"Devin Nunes\",\"id\":3607524,\"\
+            type\":\"Entity\"},{\"hits\":[{\"field\":\"Body\",\"offset\":2318,\"length\"\
+            :6},{\"field\":\"Body\",\"offset\":2926,\"length\":6}],\"node_types\"\
+            :[{\"name\":\"Country\",\"id\":31}],\"score\":0.7532,\"in_headline\":false,\"\
+            freebase_mid\":\"m.06bnz\",\"disambiguator\":\"Country\",\"name\":\"Russia\"\
+            ,\"id\":3691301,\"type\":\"Entity\"},{\"hits\":[{\"field\":\"Body\",\"\
+            offset\":1067,\"length\":25},{\"field\":\"Body\",\"offset\":3986,\"length\"\
+            :25}],\"node_types\":[{\"name\":\"Unknown\",\"id\":48}],\"score\":0.6392,\"\
+            in_headline\":false,\"freebase_mid\":\"m.01p3x_\",\"disambiguator\":\"\
+            \",\"name\":\"National Security Council\",\"id\":3548336,\"type\":\"Entity\"\
+            },{\"hits\":[{\"field\":\"Body\",\"offset\":4508,\"length\":11}],\"node_types\"\
+            :[{\"name\":\"Politics Person\",\"id\":53}],\"score\":0.5633,\"in_headline\"\
+            :false,\"freebase_mid\":\"m.024tls\",\"disambiguator\":\"Politics Person(Congressman)\"\
+            ,\"name\":\"Adam Schiff\",\"id\":3599660,\"type\":\"Entity\"},{\"hits\"\
+            :[{\"field\":\"Body\",\"offset\":2397,\"length\":7}],\"node_types\":[{\"\
+            name\":\"Unknown\",\"id\":48}],\"score\":0.5633,\"in_headline\":false,\"\
+            freebase_mid\":\"m.04dnx\",\"disambiguator\":\"\",\"name\":\"Kremlin\"\
+            ,\"id\":3686654,\"type\":\"Entity\"},{\"hits\":[{\"field\":\"Body\",\"\
+            offset\":2650,\"length\":15}],\"node_types\":[{\"name\":\"TV Person\"\
+            ,\"id\":44},{\"name\":\"Movie Person\",\"id\":14},{\"name\":\"Politics\
+            \ Person\",\"id\":53},{\"name\":\"Music Person\",\"id\":6}],\"score\"\
+            :0.5633,\"in_headline\":false,\"freebase_mid\":\"m.0d06m5\",\"disambiguator\"\
+            :\"Politics Person\",\"name\":\"Hillary Clinton\",\"id\":3862709,\"type\"\
+            :\"Entity\"},{\"hits\":[{\"field\":\"Body\",\"offset\":1844,\"length\"\
+            :7}],\"node_types\":[{\"name\":\"Social Network Company\",\"id\":178},{\"\
+            name\":\"Product\",\"id\":87}],\"score\":0.5633,\"in_headline\":false,\"\
+            freebase_mid\":\"m.0289n8t\",\"disambiguator\":\"Company\",\"name\":\"\
+            Twitter\",\"id\":3966039,\"type\":\"Entity\"},{\"hits\":[{\"field\":\"\
+            Body\",\"offset\":4503,\"length\":3}],\"node_types\":[{\"name\":\"Group\"\
+            ,\"id\":2}],\"score\":0.5633,\"in_headline\":false,\"freebase_mid\":\"\
+            m.0b3wk\",\"disambiguator\":\"Legislature\",\"name\":\"U.S. House of Representatives\"\
+            ,\"id\":4157233,\"type\":\"Entity\"},{\"hits\":[{\"field\":\"Body\",\"\
+            offset\":4136,\"length\":18}],\"node_types\":[{\"name\":\"Periodical\"\
+            ,\"id\":232}],\"score\":0.5633,\"in_headline\":false,\"freebase_mid\"\
+            :\"m.07k2d\",\"disambiguator\":\"Company\",\"name\":\"New York Times\"\
+            ,\"id\":4958367,\"type\":\"Entity\"},{\"score\":1,\"disambiguator\":\"\
+            News and Politics\",\"name\":\"International News\",\"id\":980522,\"type\"\
+            :\"Subject\",\"most_granular\":true},{\"score\":1,\"disambiguator\":\"\
+            News and Politics\",\"name\":\"U.S. News\",\"id\":981465,\"type\":\"Subject\"\
+            ,\"most_granular\":true},{\"score\":1,\"disambiguator\":\"News and Politics\"\
+            ,\"name\":\"News\",\"id\":981523,\"type\":\"Subject\",\"most_granular\"\
+            :false},{\"score\":1,\"disambiguator\":\"Subject\",\"name\":\"News and\
+            \ Politics\",\"id\":981525,\"type\":\"Subject\",\"most_granular\":false},{\"\
+            score\":0.9,\"disambiguator\":\"Subject\",\"name\":\"Business and Finance\"\
+            ,\"id\":981284,\"type\":\"Subject\",\"most_granular\":true},{\"score\"\
+            :0.79217464,\"disambiguator\":\"News and Politics\",\"name\":\"Politics\"\
+            ,\"id\":982065,\"type\":\"Subject\",\"most_granular\":false},{\"score\"\
+            :0.79217464,\"disambiguator\":\"News and Politics\",\"name\":\"U.S. Politics\"\
+            ,\"id\":6310529,\"type\":\"Subject\",\"most_granular\":false},{\"score\"\
+            :0.79217464,\"disambiguator\":\"News and Politics\",\"name\":\"Law, Government\
+            \ and Politics\",\"id\":6378649,\"type\":\"Subject\",\"most_granular\"\
+            :false},{\"score\":0.7655229,\"disambiguator\":\"News and Politics\",\"\
+            name\":\"Republican Politics\",\"id\":4944927,\"type\":\"Subject\",\"\
+            most_granular\":true},{\"score\":0.6972676,\"disambiguator\":\"Social\
+            \ Sciences\",\"name\":\"Political Science\",\"id\":982061,\"type\":\"\
+            Subject\",\"most_granular\":true},{\"score\":0.6972676,\"disambiguator\"\
+            :\"Subject\",\"name\":\"Social Sciences\",\"id\":983039,\"type\":\"Subject\"\
+            ,\"most_granular\":false}]},\"related\":[{\"summary\":\"\",\"sourceId\"\
+            :\"\",\"metadata\":{},\"modifiedDateString\":\"\",\"categoryName\":\"\
+            RELATED\",\"articleUrl\":\"https://www.aol.com/article/news/2017/03/31/top-democrat-on-house-intel-committee-says-he-saw-the-documents/22020906/\"\
+            ,\"authorName\":\"\",\"curated\":false,\"modifiedDate\":\"\",\"mediaItem\"\
+            :{\"mediaType\":\"image\",\"thumbnails\":[{\"width\":\"\",\"credit\":\"\
+            \",\"url\":\"http://o.aolcdn.com/hss/storage/midas/bd9959a61e1969487415728b49c5e0c/205101078/RTX315UZ.jpeg\"\
+            ,\"height\":\"\"}]},\"guid\":\"\",\"publisher\":\"AOL.com\",\"publishedDateString\"\
+            :\"2017-04-01 12:27 AM GMT\",\"publishedDate\":\"1491006473000\",\"category\"\
+            :\"\",\"headline\":\"Top Democrat on House Intel committee says he saw\
+            \ the documents at the center of an uproar in the Trump investigation\"\
+            ,\"contentType\":\"\",\"categoryDisplay\":\"RELATED\"},{\"summary\":\"\
+            \",\"sourceId\":\"\",\"metadata\":{},\"modifiedDateString\":\"\",\"categoryName\"\
+            :\"RELATED\",\"articleUrl\":\"http://www.huffingtonpost.com/entry/john-mccain-devin-nunes-bipartisan-probe_us_58e18adde4b0c777f78851b3\"\
+            ,\"authorName\":\"\",\"curated\":false,\"modifiedDate\":\"\",\"mediaItem\"\
+            :{\"mediaType\":\"image\",\"thumbnails\":[{\"width\":\"600\",\"credit\"\
+            :\"\",\"url\":\"http://img.huffingtonpost.com/asset/600_600/58e190dc16000020004d8522.jpg\"\
+            ,\"height\":\"600\"}]},\"guid\":\"\",\"publisher\":\"Huffington Post\"\
+            ,\"publishedDateString\":\"2017-04-03 2:58 PM GMT\",\"publishedDate\"\
+            :\"1491231510000\",\"category\":\"\",\"headline\":\"John McCain: Devin\
+            \ Nunes 'Killed' Bipartisan Russia Investigation In House\",\"contentType\"\
+            :\"\",\"categoryDisplay\":\"RELATED\"}],\"imageURL\":\"\",\"publishDate\"\
+            :\"1491244680000\",\"articleId\":\"22024089\",\"slideshow\":[{\"extractedFromHtml\"\
+            :false,\"slides\":[{\"extractedFromHtml\":false,\"description\":\"<p><strong>Paul\
+            \ Manafort<\\/strong><\\/p>\\n\\n<p>Paul Manafort signed on as&nbsp;Donald\
+            \ Trump's campaign manager in March 2016. A longtime Republican strategist\
+            \ and beltway operative, Manafort had previously served as an adviser\
+            \ to former Ukrainian president Viktor Yanukovich -- a pro-Russia leader\
+            \ who was violently ousted in 2014. Manafort resigned from his campaign\
+            \ position in August 2016 amid questions over his lobbying history in\
+            \ Ukraine for an administration supportive of Russia. The former campaign\
+            \ manager reportedly remained in Trump's circle during the post-election\
+            \ transition period.<\\/p>\\n\",\"id\":\"204224315\",\"medium\":\"IMAGE\"\
+            ,\"credit\":\"Carlo Allegri / Reuters\",\"title\":\"Paul Manafort\",\"\
+            type\":\"dam\",\"url\":\"https://s.blogcdn.com/slideshows/images/slides/470/900/8/S4709008/slug/l/usa-election-trump-1.jpg\"\
+            },{\"extractedFromHtml\":false,\"description\":\"<p><strong>Michael Flynn<\\\
+            /strong><\\/p>\\n\\n<p>Gen. Michael Flynn was named President Trump's\
+            \ national security adviser in November of 2016. Flynn reportedly met\
+            \ and spoke with Russian Ambassador Sergey Kislyak in December, at one\
+            \ point discussing sanctions. Flynn originally told Vice President Pence\
+            \ he did not discuss sanctions -- a point the Department of Justice said\
+            \ made the national security adviser subject to blackmail. Flynn resigned\
+            \ from his position in February.<\\/p>\\n\",\"id\":\"205055658\",\"medium\"\
+            :\"IMAGE\",\"credit\":\"Carlos Barria / Reuters\",\"title\":\"Michael\
+            \ Flynn\",\"type\":\"dam\",\"url\":\"https://s.blogcdn.com/slideshows/images/slides/470/901/0/S4709010/slug/l/usa-trump-1.jpg\"\
+            },{\"extractedFromHtml\":false,\"description\":\"<p><strong>Sergey Kislyak<\\\
+            /strong><\\/p>\\n\\n<p>Outgoing Russian ambassador to the United States\
+            \ Sergey Kislyak is the Russian official U.S. attorney general Jeff Sessions\
+            \ -- communication Sessions denied during his Sen\u2026"}
+        childrenids: []
+        localName: script
+        nodeId: 197
+        nodeName: SCRIPT
+        nodeType: 1
+        nodeValue: ''
+        parent: 105
+        props: {}
+      199:
+        attributes: []
+        childNodeCount: 1
+        children:
+        - {localName: '', nodeId: 200, nodeName: '#text', nodeType: 3, nodeValue: $ac.init();}
+        childrenids: []
+        localName: script
+        nodeId: 199
+        nodeName: SCRIPT
+        nodeType: 1
+        nodeValue: ''
+        parent: 105
+        props: {}
+      201:
+        attributes: [id, rufous-sandbox, scrolling, 'no', frameborder, '0', allowtransparency,
+          'true', allowfullscreen, 'true', style, 'position: absolute; visibility:
+            hidden; display: none; width: 0px; height: 0px; padding: 0px; border:
+            none;', title, Twitter analytics iframe]
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        contentDocument: {baseURL: 'https://mobile-content-service.comet.aol.com/cis/api/v1/GetArticleDetails?os=android&edition=en_us&device=phone&view=portrait&mediaSize=1080x594&appName=aapp&appVersion=4.3.0.5&osVersion=6.0&channel=News&enableMarqueeMedia=false&f=html&query=%7B%22params%22%3A%7B%22related%22%3Atrue%2C%22maxRelated%22%3A2%2C%22relatedArticlesMaxAgeInDays%22%3A%22180%22%2C%22relegence%22%3A%22true%22%2C%22relTagsMinScore%22%3A%220.5%22%2C%22url%22%3A%22https%3A%2F%2Fwww.aol.com%2Farticle%2Fnews%2F2017%2F04%2F03%2Fobama-adviser-susan-rice-sought-names-trump-officials-intelligence-reports%2F22024089%2F%22%2C%22optimize%22%3A%22true%22%7D%2C%22contentSrc%22%3A%22comet%22%7D',
+          childNodeCount: 1, documentURL: 'about:blank', localName: '', nodeId: 202,
+          nodeName: '#document', nodeType: 9, nodeValue: '', xmlVersion: ''}
+        frameId: '4253.2'
+        h: 0.0
+        localName: iframe
+        nodeId: 201
+        nodeName: IFRAME
+        nodeType: 1
+        nodeValue: ''
+        parent: 105
+        props: {allowfullscreen: 'true', allowtransparency: 'true', frameborder: '0',
+          id: rufous-sandbox, scrolling: 'no', style: 'position: absolute; visibility:
+            hidden; display: none; width: 0px; height: 0px; padding: 0px; border:
+            none;', title: Twitter analytics iframe}
+        value: ''
+        w: 0.0
+        x: 0.0
+        y: 0.0
+    page: {base_h: 7617, base_w: 1080, base_x: 1080, base_y: 999, empty: false, title: 'https://mobile-content-service.comet.aol.com/cis/api/v1/GetArticleDetails?os=android&amp;edition=en_us&amp;device=phone&amp;view=portrait&amp;mediaSize=1080x594&amp;appName=aapp&amp;appVersion=4.3.0.5&amp;osVersion=6.0&amp;channel=News&amp;enableMarqueeMedia=false&amp;f=html&amp;query=%7B&quot;params&quot;%3A%7B&quot;related&quot;%3Atrue%2C&quot;maxRelated&quot;%3A2%2C&quot;relatedArticlesMaxAgeInDays&quot;%3A&quot;180&quot;%2C&quot;relegence&quot;%3A&quot;true&quot;%2C&quot;relTagsMinScore&quot;%3A&quot;0.5&quot;%2C&quot;url&quot;%3A&quot;https%3A%2F%2Fwww.aol.com%2Farticle%2Fnews%2F2017%2F04%2F03%2Fobama-adviser-susan-rice-sought-names-trump-officials-intelligence-reports%2F22024089%2F&quot;%2C&quot;optimize&quot;%3A&quot;true&quot;%7D%2C&quot;contentSrc&quot;%3A&quot;comet&quot;%7D',
+      url: 'https://mobile-content-service.comet.aol.com/cis/api/v1/GetArticleDetails?os=android&edition=en_us&device=phone&view=portrait&mediaSize=1080x594&appName=aapp&appVersion=4.3.0.5&osVersion=6.0&channel=News&enableMarqueeMedia=false&f=html&query=%7B%22params%22%3A%7B%22related%22%3Atrue%2C%22maxRelated%22%3A2%2C%22relatedArticlesMaxAgeInDays%22%3A%22180%22%2C%22relegence%22%3A%22true%22%2C%22relTagsMinScore%22%3A%220.5%22%2C%22url%22%3A%22https%3A%2F%2Fwww.aol.com%2Farticle%2Fnews%2F2017%2F04%2F03%2Fobama-adviser-susan-rice-sought-names-trump-officials-intelligence-reports%2F22024089%2F%22%2C%22optimize%22%3A%22true%22%7D%2C%22contentSrc%22%3A%22comet%22%7D',
+      ws_url: 'ws://127.0.0.1:12345/devtools/page/7B18BF9A-663B-4A44-BC3E-14DB45880B99'}
+    parents: {103: 102, 104: 103, 105: 103, 106: 104, 107: 104, 108: 104, 109: 104,
+      110: 104, 111: 104, 112: 105, 113: 112, 114: 112, 115: 105, 116: 115, 117: 116,
+      118: 115, 119: 118, 120: 119, 121: 118, 122: 121, 123: 115, 124: 123, 125: 124,
+      126: 125, 127: 126, 128: 126, 129: 123, 130: 129, 131: 123, 132: 131, 133: 131,
+      134: 133, 135: 131, 136: 123, 137: 136, 138: 123, 139: 138, 140: 139, 141: 123,
+      142: 141, 143: 142, 144: 142, 145: 142, 146: 123, 147: 123, 148: 147, 149: 147,
+      150: 149, 151: 147, 152: 123, 153: 152, 154: 153, 155: 154, 157: 154, 158: 123,
+      159: 158, 160: 158, 161: 160, 162: 158, 163: 123, 164: 163, 165: 164, 166: 164,
+      167: 166, 168: 123, 169: 168, 170: 168, 171: 170, 172: 168, 173: 123, 174: 173,
+      175: 173, 176: 175, 177: 173, 178: 123, 179: 178, 180: 179, 181: 179, 182: 181,
+      183: 123, 184: 183, 185: 183, 186: 185, 187: 183, 188: 123, 189: 188, 190: 188,
+      191: 190, 192: 188, 193: 123, 194: 115, 195: 194, 196: 195, 197: 105, 198: 197,
+      199: 105, 200: 199, 201: 105}
+    scaling: 2.625
+  title: https://mobile-content-service.comet.aol.com/cis/api/v1/GetArticleDetails?os=android&amp;edition=en_us&amp;device=phone&amp;view=portrait&amp;mediaSize=1080x594&amp;appName=aapp&amp;appVersion=4.3.0.5&amp;osVersion=6.0&amp;channel=News&amp;enableMarqueeMedia=false&amp;f=html&amp;query=%7B&quot;params&quot;%3A%7B&quot;related&quot;%3Atrue%2C&quot;maxRelated&quot;%3A2%2C&quot;relatedArticlesMaxAgeInDays&quot;%3A&quot;180&quot;%2C&quot;relegence&quot;%3A&quot;true&quot;%2C&quot;relTagsMinScore&quot;%3A&quot;0.5&quot;%2C&quot;url&quot;%3A&quot;https%3A%2F%2Fwww.aol.com%2Farticle%2Fnews%2F2017%2F04%2F03%2Fobama-adviser-susan-rice-sought-names-trump-officials-intelligence-reports%2F22024089%2F&quot;%2C&quot;optimize&quot;%3A&quot;true&quot;%7D%2C&quot;contentSrc&quot;%3A&quot;comet&quot;%7D
+- page:
+    base_h: 13256
+    base_w: 1080
+    base_x: 0
+    base_y: 999
+    html_h: 5050.0
+    html_w: 412.0
+    nodes:
+      110:
+        baseURL: https://mobile-content-service.comet.aol.com/cis/api/v1/GetArticleDetails?os=android&edition=en_us&device=phone&view=portrait&mediaSize=1080x594&appName=aapp&appVersion=4.3.0.5&osVersion=6.0&channel=News&enableMarqueeMedia=false&f=html&query=%7B%22params%22%3A%7B%22related%22%3Atrue%2C%22maxRelated%22%3A2%2C%22relatedArticlesMaxAgeInDays%22%3A%22180%22%2C%22relegence%22%3A%22true%22%2C%22relTagsMinScore%22%3A%220.5%22%2C%22url%22%3A%22https%3A%2F%2Fwww.aol.com%2Farticle%2Fnews%2F2017%2F04%2F03%2Fdemocrats-officially-able-filibuster-trump-supreme-court-pick-neil-gorsuch%2F22023984%2F%22%2C%22optimize%22%3A%22true%22%7D%2C%22contentSrc%22%3A%22comet%22%7D
+        childNodeCount: 1
+        children:
+        - &id086
+          attributes: [xmlns, 'http://www.w3.org/1999/xhtml', 'xml:lang', en-US, lang,
+            en-US]
+          childNodeCount: 2
+          children:
+          - &id087
+            attributes: []
+            childNodeCount: 5
+            childrenids: [114, 115, 116, 117, 118]
+            h: 0.0
+            localName: head
+            nodeId: 112
+            nodeName: HEAD
+            nodeType: 1
+            nodeValue: ''
+            parent: 111
+            props: {}
+            value: ''
+            w: 0.0
+            x: 0.0
+            y: 0.0
+          - &id088
+            attributes: []
+            childNodeCount: 4
+            childrenids: [119, 122, 215, 217]
+            h: 5050.0
+            localName: body
+            nodeId: 113
+            nodeName: BODY
+            nodeType: 1
+            nodeValue: ''
+            parent: 111
+            props: {}
+            value: ''
+            w: 412.0
+            x: 0.0
+            y: 0.0
+          childrenids: [112, 113]
+          h: 5050.0
+          localName: html
+          nodeId: 111
+          nodeName: HTML
+          nodeType: 1
+          nodeValue: ''
+          parent: 110
+          props: {lang: en-US, 'xml:lang': en-US, xmlns: 'http://www.w3.org/1999/xhtml'}
+          value: ''
+          w: 412.0
+          x: 0.0
+          y: 0.0
+        childrenids: [111]
+        documentURL: https://mobile-content-service.comet.aol.com/cis/api/v1/GetArticleDetails?os=android&edition=en_us&device=phone&view=portrait&mediaSize=1080x594&appName=aapp&appVersion=4.3.0.5&osVersion=6.0&channel=News&enableMarqueeMedia=false&f=html&query=%7B%22params%22%3A%7B%22related%22%3Atrue%2C%22maxRelated%22%3A2%2C%22relatedArticlesMaxAgeInDays%22%3A%22180%22%2C%22relegence%22%3A%22true%22%2C%22relTagsMinScore%22%3A%220.5%22%2C%22url%22%3A%22https%3A%2F%2Fwww.aol.com%2Farticle%2Fnews%2F2017%2F04%2F03%2Fdemocrats-officially-able-filibuster-trump-supreme-court-pick-neil-gorsuch%2F22023984%2F%22%2C%22optimize%22%3A%22true%22%7D%2C%22contentSrc%22%3A%22comet%22%7D
+        localName: ''
+        nodeId: 110
+        nodeName: '#document'
+        nodeType: 9
+        nodeValue: ''
+        parent: -1
+        props: {}
+        xmlVersion: ''
+      111: *id086
+      112: *id087
+      113: *id088
+      114:
+        attributes: [http-equiv, Content-Type, content, text/html; charset=utf-8]
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: meta
+        nodeId: 114
+        nodeName: META
+        nodeType: 1
+        nodeValue: ''
+        parent: 112
+        props: {content: text/html; charset=utf-8, http-equiv: Content-Type}
+      115:
+        attributes: [name, viewport, content, 'initial-scale=1.0,width=device-width,user-scalable=yes,minimum-scale=1.0,maximum-scale=10.0']
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: meta
+        nodeId: 115
+        nodeName: META
+        nodeType: 1
+        nodeValue: ''
+        parent: 112
+        props: {content: 'initial-scale=1.0,width=device-width,user-scalable=yes,minimum-scale=1.0,maximum-scale=10.0',
+          name: viewport}
+      116:
+        attributes: [rel, stylesheet, type, text/css, href, 'https://s3.amazonaws.com/homepages-shared-origin/content/css/article_fonts.css']
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: link
+        nodeId: 116
+        nodeName: LINK
+        nodeType: 1
+        nodeValue: ''
+        parent: 112
+        props: {href: 'https://s3.amazonaws.com/homepages-shared-origin/content/css/article_fonts.css',
+          rel: stylesheet, type: text/css}
+      117:
+        attributes: [rel, stylesheet, type, text/css, href, 'https://s3.amazonaws.com/homepages-shared-origin/content/css/article_phone.css']
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: link
+        nodeId: 117
+        nodeName: LINK
+        nodeType: 1
+        nodeValue: ''
+        parent: 112
+        props: {href: 'https://s3.amazonaws.com/homepages-shared-origin/content/css/article_phone.css',
+          rel: stylesheet, type: text/css}
+      118:
+        attributes: [type, text/javascript, charset, UTF-8, src, 'https://s3.amazonaws.com/homepages-shared-origin/content/js/android_article.js']
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: script
+        nodeId: 118
+        nodeName: SCRIPT
+        nodeType: 1
+        nodeValue: ''
+        parent: 112
+        props: {charset: UTF-8, src: 'https://s3.amazonaws.com/homepages-shared-origin/content/js/android_article.js',
+          type: text/javascript}
+      119:
+        attributes: [class, ac_marquee]
+        childNodeCount: 2
+        children:
+        - &id089
+          childrenids: []
+          localName: ''
+          nodeId: 120
+          nodeName: '#comment'
+          nodeType: 8
+          nodeValue: AC_IMAGECONTAINER_DIV
+          parent: 119
+          props: {}
+        - &id090
+          childrenids: []
+          localName: ''
+          nodeId: 121
+          nodeName: '#comment'
+          nodeType: 8
+          nodeValue: AC_VIDEOCONTAINER_DIV
+          parent: 119
+          props: {}
+        childrenids: [120, 121]
+        h: 0.0
+        localName: span
+        nodeId: 119
+        nodeName: SPAN
+        nodeType: 1
+        nodeValue: ''
+        parent: 113
+        props: {class: ac_marquee}
+        value: ''
+        w: 0.0
+        x: 0.0
+        y: 0.0
+      120: *id089
+      121: *id090
+      122:
+        attributes: [class, ac_article]
+        childNodeCount: 4
+        children:
+        - &id091
+          attributes: [id, acArticleHeadline, class, ac_headline]
+          childNodeCount: 1
+          children:
+          - &id092
+            childrenids: []
+            localName: ''
+            nodeId: 124
+            nodeName: '#text'
+            nodeType: 3
+            nodeValue: Democrats officially able to filibuster Trump's Supreme Court
+              pick Neil Gorsuch
+            parent: 123
+            props: {}
+          childrenids: [124]
+          h: 78.0
+          localName: h2
+          nodeId: 123
+          nodeName: H2
+          nodeType: 1
+          nodeValue: ''
+          parent: 122
+          props: {class: ac_headline, id: acArticleHeadline}
+          value: ''
+          w: 372.0
+          x: 20.0
+          y: 30.0
+        - &id093
+          attributes: [class, ac_attribution]
+          childNodeCount: 2
+          children:
+          - &id094
+            attributes: [class, ac_publisher]
+            childNodeCount: 1
+            children:
+            - &id095
+              childrenids: []
+              localName: ''
+              nodeId: 127
+              nodeName: '#text'
+              nodeType: 3
+              nodeValue: AOL.com
+              parent: 126
+              props: {}
+            childrenids: [127]
+            h: 14.0
+            localName: span
+            nodeId: 126
+            nodeName: SPAN
+            nodeType: 1
+            nodeValue: ''
+            parent: 125
+            props: {class: ac_publisher}
+            value: ''
+            w: 54.5625
+            x: 20.0
+            y: 118.0
+          - &id096
+            attributes: [id, acArticleDate]
+            childNodeCount: 1
+            children:
+            - &id097
+              childrenids: []
+              localName: ''
+              nodeId: 129
+              nodeName: '#text'
+              nodeType: 3
+              nodeValue: 3 HRS AGO
+              parent: 128
+              props: {}
+            childrenids: [129]
+            h: 14.0
+            localName: span
+            nodeId: 128
+            nodeName: SPAN
+            nodeType: 1
+            nodeValue: ''
+            parent: 125
+            props: {id: acArticleDate}
+            value: ''
+            w: 50.760345458984375
+            x: 97.238525390625
+            y: 118.0
+          childrenids: [126, 128]
+          h: 14.0
+          localName: div
+          nodeId: 125
+          nodeName: DIV
+          nodeType: 1
+          nodeValue: ''
+          parent: 122
+          props: {class: ac_attribution}
+          value: ''
+          w: 372.0
+          x: 20.0
+          y: 118.0
+        - &id098
+          attributes: [class, ac_content]
+          childNodeCount: 35
+          children:
+          - &id099
+            attributes: [class, vdb_player vdb_56c21811e4b009d9eacb4ef95643911267b62318603bce5a,
+              data-placeholder, '//img.vidible.tv/prod/2017-03/27/58d98d8c955a3134d68a6529/58d98d954b0a6153c4a092ef_o_F_v1.jpg?w=1440&h=900',
+              vdb_params, m.embeded=cms_video_plugin_cms.aol.com]
+            childNodeCount: 0
+            children: []
+            childrenids: []
+            h: 0.0
+            localName: div
+            nodeId: 131
+            nodeName: DIV
+            nodeType: 1
+            nodeValue: ''
+            parent: 130
+            props: {class: vdb_player vdb_56c21811e4b009d9eacb4ef95643911267b62318603bce5a,
+              data-placeholder: '//img.vidible.tv/prod/2017-03/27/58d98d8c955a3134d68a6529/58d98d954b0a6153c4a092ef_o_F_v1.jpg?w=1440&h=900',
+              vdb_params: m.embeded=cms_video_plugin_cms.aol.com}
+            value: ''
+            w: 372.0
+            x: 20.0
+            y: 152.0
+          - &id100
+            attributes: []
+            childNodeCount: 1
+            children:
+            - &id101
+              childrenids: []
+              localName: ''
+              nodeId: 133
+              nodeName: '#text'
+              nodeType: 3
+              nodeValue: WASHINGTON (Reuters) - Democrats on Monday amassed enough
+                support to block a U.S. Senate confirmation vote on President Donald
+                Trump's Supreme Court nominee, Neil Gorsuch, but Republicans vowed
+                to change the Senate rules to ensure the conservative judge gets the
+                lifetime job.
+              parent: 132
+              props: {}
+            childrenids: [133]
+            h: 168.0
+            localName: p
+            nodeId: 132
+            nodeName: P
+            nodeType: 1
+            nodeValue: ''
+            parent: 130
+            props: {}
+            value: ''
+            w: 372.0
+            x: 20.0
+            y: 152.0
+          - &id102
+            attributes: []
+            childNodeCount: 1
+            children:
+            - &id103
+              childrenids: []
+              localName: ''
+              nodeId: 135
+              nodeName: '#text'
+              nodeType: 3
+              nodeValue: As the Judiciary Committee moved toward sending Gorsuch's
+                nomination to the full Senate, Senator Christopher Coons became the
+                41st Democrat to announce support for a procedural hurdle requiring
+                a super-majority of 60 votes in the 100-seat Senate to allow a confirmation
+                vote.
+              parent: 134
+              props: {}
+            childrenids: [135]
+            h: 168.0
+            localName: p
+            nodeId: 134
+            nodeName: P
+            nodeType: 1
+            nodeValue: ''
+            parent: 130
+            props: {}
+            value: ''
+            w: 372.0
+            x: 20.0
+            y: 336.0
+          - &id104
+            attributes: []
+            childNodeCount: 1
+            children:
+            - &id105
+              childrenids: []
+              localName: ''
+              nodeId: 137
+              nodeName: '#text'
+              nodeType: 3
+              nodeValue: But Republican Senate leaders insist Gorsuch will be confirmed
+                on the Senate floor on Friday regardless of what the Democrats do,
+                even if they have to change long-standing Senate rules.
+              parent: 136
+              props: {}
+            childrenids: [137]
+            h: 112.0
+            localName: p
+            nodeId: 136
+            nodeName: P
+            nodeType: 1
+            nodeValue: ''
+            parent: 130
+            props: {}
+            value: ''
+            w: 372.0
+            x: 20.0
+            y: 520.0
+          - &id106
+            attributes: []
+            childNodeCount: 1
+            children:
+            - &id107
+              attributes: []
+              childNodeCount: 1
+              children:
+              - &id108
+                childrenids: []
+                localName: ''
+                nodeId: 140
+                nodeName: '#text'
+                nodeType: 3
+                nodeValue: 'RELATED: Where SCOTUS nominee Neil Gorsuch stands on key
+                  issues'
+                parent: 139
+                props: {}
+              childrenids: [140]
+              h: 47.0
+              localName: strong
+              nodeId: 139
+              nodeName: STRONG
+              nodeType: 1
+              nodeValue: ''
+              parent: 138
+              props: {}
+              value: ''
+              w: 369.8247375488281
+              x: 20.0
+              y: 652.0
+            childrenids: [139]
+            h: 56.0
+            localName: p
+            nodeId: 138
+            nodeName: P
+            nodeType: 1
+            nodeValue: ''
+            parent: 130
+            props: {}
+            value: ''
+            w: 372.0
+            x: 20.0
+            y: 648.0
+          - &id109
+            attributes: [class, ac_media]
+            childNodeCount: 1
+            children:
+            - &id110
+              attributes: [href, 'aolappslides://506640', class, ac_slideshow]
+              childNodeCount: 3
+              children:
+              - &id111
+                attributes: [src, 'https://s.aolcdn.com/dims-shared/dims4/AOLMOBAPP/45b5c93/2147483647/thumbnail/1080x594/http%3A%2F%2Fo.aolcdn.com%2Fos%2Fmobileapps%2Faolapp%2Fcontent%2Fimages%2Fandroid%2Fimageplaceholder.png',
+                  class, ac_placeholder, style, 'display: none;']
+                childNodeCount: 0
+                children: []
+                childrenids: []
+                h: 0.0
+                localName: img
+                nodeId: 143
+                nodeName: IMG
+                nodeType: 1
+                nodeValue: ''
+                parent: 142
+                props: {class: ac_placeholder, src: 'https://s.aolcdn.com/dims-shared/dims4/AOLMOBAPP/45b5c93/2147483647/thumbnail/1080x594/http%3A%2F%2Fo.aolcdn.com%2Fos%2Fmobileapps%2Faolapp%2Fcontent%2Fimages%2Fandroid%2Fimageplaceholder.png',
+                  style: 'display: none;'}
+                value: ''
+                w: 0.0
+                x: 0.0
+                y: 0.0
+              - &id112
+                attributes: [src, 'https://s.aolcdn.com/dims-shared/dims4/AOLMOBAPP/0ed38e7/2147483647/thumbnail/1080x594/https%3A%2F%2Fs.blogcdn.com%2Fslideshows%2Fimages%2Fslides%2F472%2F007%2F3%2FS4720073%2Fslug%2Fl%2Fsupreme-court-nominee-judge-neil-gorsuch-meets-senators-on-c-1.jpg',
+                  class, ac_thumbnail, onload, $ac.toggleImage(this);, onerror, $ac.hide(this);,
+                  style, 'height: auto; display: inline;']
+                childNodeCount: 0
+                children: []
+                childrenids: []
+                h: 226.59375
+                localName: img
+                nodeId: 144
+                nodeName: IMG
+                nodeType: 1
+                nodeValue: ''
+                parent: 142
+                props: {class: ac_thumbnail, onerror: $ac.hide(this);, onload: $ac.toggleImage(this);,
+                  src: 'https://s.aolcdn.com/dims-shared/dims4/AOLMOBAPP/0ed38e7/2147483647/thumbnail/1080x594/https%3A%2F%2Fs.blogcdn.com%2Fslideshows%2Fimages%2Fslides%2F472%2F007%2F3%2FS4720073%2Fslug%2Fl%2Fsupreme-court-nominee-judge-neil-gorsuch-meets-senators-on-c-1.jpg',
+                  style: 'height: auto; display: inline;'}
+                value: ''
+                w: 412.0
+                x: 0.0
+                y: 720.0
+              - &id113
+                attributes: [src, 'http://o.aolcdn.com/os/mobileapps/aolapp/content/images/android/slideshowbutton.png',
+                  class, ac_playbutton]
+                childNodeCount: 0
+                children: []
+                childrenids: []
+                h: 70.0
+                localName: img
+                nodeId: 145
+                nodeName: IMG
+                nodeType: 1
+                nodeValue: ''
+                parent: 142
+                props: {class: ac_playbutton, src: 'http://o.aolcdn.com/os/mobileapps/aolapp/content/images/android/slideshowbutton.png'}
+                value: ''
+                w: 70.0
+                x: 171.0
+                y: 798.0
+              childrenids: [143, 144, 145]
+              h: 226.0
+              localName: a
+              nodeId: 142
+              nodeName: A
+              nodeType: 1
+              nodeValue: ''
+              parent: 141
+              props: {class: ac_slideshow, href: 'aolappslides://506640'}
+              value: ''
+              w: 412.0
+              x: 0.0
+              y: 720.0
+            childrenids: [142]
+            h: 226.0
+            localName: div
+            nodeId: 141
+            nodeName: DIV
+            nodeType: 1
+            nodeValue: ''
+            parent: 130
+            props: {class: ac_media}
+            value: ''
+            w: 372.0
+            x: 20.0
+            y: 720.0
+          - &id114
+            attributes: []
+            childNodeCount: 0
+            children: []
+            childrenids: []
+            h: 0.0
+            localName: p
+            nodeId: 146
+            nodeName: P
+            nodeType: 1
+            nodeValue: ''
+            parent: 130
+            props: {}
+            value: ''
+            w: 372.0
+            x: 20.0
+            y: 962.0
+          - &id115
+            attributes: []
+            childNodeCount: 1
+            children:
+            - &id116
+              childrenids: []
+              localName: ''
+              nodeId: 148
+              nodeName: '#text'
+              nodeType: 3
+              nodeValue: Coons told fellow members of the Judiciary Committee it would
+                be "tragic" if Republicans change Senate rules to end the filibuster
+                for Supreme Court nominees. "The principles that have defined the
+                Senate are crumbling, and we are poised to hasten that this week,"
+                Coons said.
+              parent: 147
+              props: {}
+            childrenids: [148]
+            h: 168.0
+            localName: p
+            nodeId: 147
+            nodeName: P
+            nodeType: 1
+            nodeValue: ''
+            parent: 130
+            props: {}
+            value: ''
+            w: 372.0
+            x: 20.0
+            y: 962.0
+          - &id117
+            attributes: []
+            childNodeCount: 1
+            children:
+            - &id118
+              childrenids: []
+              localName: ''
+              nodeId: 150
+              nodeName: '#text'
+              nodeType: 3
+              nodeValue: Democratic Senators Dianne Feinstein, the committee's top
+                Democrat, and Mark Warner, not a member of the panel, also announced
+                opposition to Gorsuch on Monday and support for a filibuster.
+              parent: 149
+              props: {}
+            childrenids: [150]
+            h: 112.0
+            localName: p
+            nodeId: 149
+            nodeName: P
+            nodeType: 1
+            nodeValue: ''
+            parent: 130
+            props: {}
+            value: ''
+            w: 372.0
+            x: 20.0
+            y: 1146.0
+          - &id119
+            attributes: []
+            childNodeCount: 1
+            children:
+            - &id120
+              childrenids: []
+              localName: ''
+              nodeId: 152
+              nodeName: '#text'
+              nodeType: 3
+              nodeValue: The panel began its meeting and was set to vote later on
+                Monday after its members spoke on Gorsuch's nomination. Republicans
+                hold a 11-9 majority on the committee, which held a four-day confirmation
+                hearing last month, and control the Senate by a 52-48 margin.
+              parent: 151
+              props: {}
+            childrenids: [152]
+            h: 168.0
+            localName: p
+            nodeId: 151
+            nodeName: P
+            nodeType: 1
+            nodeValue: ''
+            parent: 130
+            props: {}
+            value: ''
+            w: 372.0
+            x: 20.0
+            y: 1274.0
+          - &id121
+            attributes: []
+            childNodeCount: 1
+            children:
+            - &id122
+              childrenids: []
+              localName: ''
+              nodeId: 154
+              nodeName: '#text'
+              nodeType: 3
+              nodeValue: If the Democrats mount a successful filibuster, Senate Majority
+                Leader Mitch McConnell would be expected to force a confirmation vote
+                by having the Senate change its rules and allow for a simple majority
+                vote for confirmation of Supreme Court justices, a move sometimes
+                called the "nuclear option" that Trump has urged.
+              parent: 153
+              props: {}
+            childrenids: [154]
+            h: 196.0
+            localName: p
+            nodeId: 153
+            nodeName: P
+            nodeType: 1
+            nodeValue: ''
+            parent: 130
+            props: {}
+            value: ''
+            w: 372.0
+            x: 20.0
+            y: 1458.0
+          - &id123
+            attributes: []
+            childNodeCount: 1
+            children:
+            - &id124
+              attributes: []
+              childNodeCount: 2
+              children:
+              - &id125
+                childrenids: []
+                localName: ''
+                nodeId: 157
+                nodeName: '#text'
+                nodeType: 3
+                nodeValue: 'SEE ALSO: '
+                parent: 156
+                props: {}
+              - &id126
+                attributes: [href, 'https://www.aol.com/article/news/2017/04/03/white-house-unveils-first-lady-melania-trumps-official-portrait/22023918/',
+                  target, _blank]
+                childNodeCount: 1
+                children:
+                - &id127
+                  childrenids: []
+                  localName: ''
+                  nodeId: 159
+                  nodeName: '#text'
+                  nodeType: 3
+                  nodeValue: White House unveils first lady Melania Trump's official
+                    portrait
+                  parent: 158
+                  props: {}
+                childrenids: [159]
+                h: 47.0
+                localName: a
+                nodeId: 158
+                nodeName: A
+                nodeType: 1
+                nodeValue: ''
+                parent: 156
+                props: {href: 'https://www.aol.com/article/news/2017/04/03/white-house-unveils-first-lady-melania-trumps-official-portrait/22023918/',
+                  target: _blank}
+                value: ''
+                w: 357.55279541015625
+                x: 20.0
+                y: 1674.0
+              childrenids: [157, 158]
+              h: 47.0
+              localName: strong
+              nodeId: 156
+              nodeName: STRONG
+              nodeType: 1
+              nodeValue: ''
+              parent: 155
+              props: {}
+              value: ''
+              w: 357.55279541015625
+              x: 20.0
+              y: 1674.0
+            childrenids: [156]
+            h: 56.0
+            localName: p
+            nodeId: 155
+            nodeName: P
+            nodeType: 1
+            nodeValue: ''
+            parent: 130
+            props: {}
+            value: ''
+            w: 372.0
+            x: 20.0
+            y: 1670.0
+          - &id128
+            attributes: []
+            childNodeCount: 1
+            children:
+            - &id129
+              childrenids: []
+              localName: ''
+              nodeId: 161
+              nodeName: '#text'
+              nodeType: 3
+              nodeValue: Senate confirmation of Gorsuch, 49, would restore the nine-seat
+                high court's conservative majority, fulfilling one of Trump's top
+                campaign promises. Trump in January nominated Gorsuch, a conservative
+                appeals court judge from Colorado, to the lifetime job as a justice.
+              parent: 160
+              props: {}
+            childrenids: [161]
+            h: 168.0
+            localName: p
+            nodeId: 160
+            nodeName: P
+            nodeType: 1
+            nodeValue: ''
+            parent: 130
+            props: {}
+            value: ''
+            w: 372.0
+            x: 20.0
+            y: 1742.0
+          - &id130
+            attributes: []
+            childNodeCount: 1
+            children:
+            - &id131
+              childrenids: []
+              localName: ''
+              nodeId: 163
+              nodeName: '#text'
+              nodeType: 3
+              nodeValue: Gorsuch was nominated to fill a vacancy created by the February
+                2016 death of conservative Justice Antonin Scalia.
+              parent: 162
+              props: {}
+            childrenids: [163]
+            h: 84.0
+            localName: p
+            nodeId: 162
+            nodeName: P
+            nodeType: 1
+            nodeValue: ''
+            parent: 130
+            props: {}
+            value: ''
+            w: 372.0
+            x: 20.0
+            y: 1926.0
+          - &id132
+            attributes: []
+            childNodeCount: 1
+            children:
+            - &id133
+              childrenids: []
+              localName: ''
+              nodeId: 165
+              nodeName: '#text'
+              nodeType: 3
+              nodeValue: The actual confirmation vote would be by a simple majority
+                if the filibuster is stopped. To date, three Democrats have come out
+                in support of Gorsuch, and the Republicans would have needed to secure
+                eight Democratic votes to kill a filibuster.
+              parent: 164
+              props: {}
+            childrenids: [165]
+            h: 140.0
+            localName: p
+            nodeId: 164
+            nodeName: P
+            nodeType: 1
+            nodeValue: ''
+            parent: 130
+            props: {}
+            value: ''
+            w: 372.0
+            x: 20.0
+            y: 2026.0
+          - &id134
+            attributes: []
+            childNodeCount: 1
+            children:
+            - &id135
+              childrenids: []
+              localName: ''
+              nodeId: 167
+              nodeName: '#text'
+              nodeType: 3
+              nodeValue: Democratic Senator Michael Bennet, who represents Gorsuch's
+                home state of Colorado and introduced the nominee during his confirmation
+                hearing, said he would oppose the filibuster effort but did not take
+                a position on whether to vote in favor of the judge.
+              parent: 166
+              props: {}
+            childrenids: [167]
+            h: 168.0
+            localName: p
+            nodeId: 166
+            nodeName: P
+            nodeType: 1
+            nodeValue: ''
+            parent: 130
+            props: {}
+            value: ''
+            w: 372.0
+            x: 20.0
+            y: 2182.0
+          - &id136
+            attributes: []
+            childNodeCount: 1
+            children:
+            - &id137
+              attributes: []
+              childNodeCount: 1
+              children:
+              - &id138
+                childrenids: []
+                localName: ''
+                nodeId: 170
+                nodeName: '#text'
+                nodeType: 3
+                nodeValue: 'RELATED: Democrats who will vote no on Neil Gorsuch''s
+                  confirmation'
+                parent: 169
+                props: {}
+              childrenids: [170]
+              h: 47.0
+              localName: strong
+              nodeId: 169
+              nodeName: STRONG
+              nodeType: 1
+              nodeValue: ''
+              parent: 168
+              props: {}
+              value: ''
+              w: 344.65667724609375
+              x: 20.0
+              y: 2370.0
+            childrenids: [169]
+            h: 56.0
+            localName: p
+            nodeId: 168
+            nodeName: P
+            nodeType: 1
+            nodeValue: ''
+            parent: 130
+            props: {}
+            value: ''
+            w: 372.0
+            x: 20.0
+            y: 2366.0
+          - &id139
+            attributes: [class, ac_media]
+            childNodeCount: 1
+            children:
+            - &id140
+              attributes: [href, 'aolappslides://523448', class, ac_slideshow]
+              childNodeCount: 3
+              children:
+              - &id141
+                attributes: [src, 'https://s.aolcdn.com/dims-shared/dims4/AOLMOBAPP/45b5c93/2147483647/thumbnail/1080x594/http%3A%2F%2Fo.aolcdn.com%2Fos%2Fmobileapps%2Faolapp%2Fcontent%2Fimages%2Fandroid%2Fimageplaceholder.png',
+                  class, ac_placeholder, style, 'display: none;']
+                childNodeCount: 0
+                children: []
+                childrenids: []
+                h: 0.0
+                localName: img
+                nodeId: 173
+                nodeName: IMG
+                nodeType: 1
+                nodeValue: ''
+                parent: 172
+                props: {class: ac_placeholder, src: 'https://s.aolcdn.com/dims-shared/dims4/AOLMOBAPP/45b5c93/2147483647/thumbnail/1080x594/http%3A%2F%2Fo.aolcdn.com%2Fos%2Fmobileapps%2Faolapp%2Fcontent%2Fimages%2Fandroid%2Fimageplaceholder.png',
+                  style: 'display: none;'}
+                value: ''
+                w: 0.0
+                x: 0.0
+                y: 0.0
+              - &id142
+                attributes: [src, 'https://s.aolcdn.com/dims-shared/dims4/AOLMOBAPP/b7eb7d0/2147483647/thumbnail/1080x594/https%3A%2F%2Fs.blogcdn.com%2Fslideshows%2Fimages%2Fslides%2F496%2F425%2F7%2FS4964257%2Fslug%2Fl%2Fsenate-dem-leader-chuck-schumer-discusses-integrity-of-inves-1.jpg',
+                  class, ac_thumbnail, onload, $ac.toggleImage(this);, onerror, $ac.hide(this);,
+                  style, 'height: auto; display: inline;']
+                childNodeCount: 0
+                children: []
+                childrenids: []
+                h: 226.59375
+                localName: img
+                nodeId: 174
+                nodeName: IMG
+                nodeType: 1
+                nodeValue: ''
+                parent: 172
+                props: {class: ac_thumbnail, onerror: $ac.hide(this);, onload: $ac.toggleImage(this);,
+                  src: 'https://s.aolcdn.com/dims-shared/dims4/AOLMOBAPP/b7eb7d0/2147483647/thumbnail/1080x594/https%3A%2F%2Fs.blogcdn.com%2Fslideshows%2Fimages%2Fslides%2F496%2F425%2F7%2FS4964257%2Fslug%2Fl%2Fsenate-dem-leader-chuck-schumer-discusses-integrity-of-inves-1.jpg',
+                  style: 'height: auto; display: inline;'}
+                value: ''
+                w: 412.0
+                x: 0.0
+                y: 2438.0
+              - &id143
+                attributes: [src, 'http://o.aolcdn.com/os/mobileapps/aolapp/content/images/android/slideshowbutton.png',
+                  class, ac_playbutton]
+                childNodeCount: 0
+                children: []
+                childrenids: []
+                h: 70.0
+                localName: img
+                nodeId: 175
+                nodeName: IMG
+                nodeType: 1
+                nodeValue: ''
+                parent: 172
+                props: {class: ac_playbutton, src: 'http://o.aolcdn.com/os/mobileapps/aolapp/content/images/android/slideshowbutton.png'}
+                value: ''
+                w: 70.0
+                x: 171.0
+                y: 2516.0
+              childrenids: [173, 174, 175]
+              h: 226.0
+              localName: a
+              nodeId: 172
+              nodeName: A
+              nodeType: 1
+              nodeValue: ''
+              parent: 171
+              props: {class: ac_slideshow, href: 'aolappslides://523448'}
+              value: ''
+              w: 412.0
+              x: 0.0
+              y: 2438.0
+            childrenids: [172]
+            h: 226.0
+            localName: div
+            nodeId: 171
+            nodeName: DIV
+            nodeType: 1
+            nodeValue: ''
+            parent: 130
+            props: {class: ac_media}
+            value: ''
+            w: 372.0
+            x: 20.0
+            y: 2438.0
+          - &id144
+            attributes: []
+            childNodeCount: 0
+            children: []
+            childrenids: []
+            h: 0.0
+            localName: p
+            nodeId: 176
+            nodeName: P
+            nodeType: 1
+            nodeValue: ''
+            parent: 130
+            props: {}
+            value: ''
+            w: 372.0
+            x: 20.0
+            y: 2680.0
+          - &id145
+            attributes: []
+            childNodeCount: 1
+            children:
+            - &id146
+              childrenids: []
+              localName: ''
+              nodeId: 178
+              nodeName: '#text'
+              nodeType: 3
+              nodeValue: The committee's chairman, Republican Chuck Grassley, defended
+                Gorsuch as a mainstream jurist worthy of confirmation despite the
+                complaints of many Democrats, and that "there isn't a whole lot of
+                mystery" that the panel will approve the nomination.
+              parent: 177
+              props: {}
+            childrenids: [178]
+            h: 168.0
+            localName: p
+            nodeId: 177
+            nodeName: P
+            nodeType: 1
+            nodeValue: ''
+            parent: 130
+            props: {}
+            value: ''
+            w: 372.0
+            x: 20.0
+            y: 2680.0
+          - &id147
+            attributes: []
+            childNodeCount: 1
+            children:
+            - &id148
+              childrenids: []
+              localName: ''
+              nodeId: 180
+              nodeName: '#text'
+              nodeType: 3
+              nodeValue: Feinstein said this was not a "routine nomination," noting
+                that the Republican-led Senate last year flatly refused to consider
+                Democratic former President Barack Obama's nomination of appellate
+                judge Merrick Garland to fill the same high court vacancy.
+              parent: 179
+              props: {}
+            childrenids: [180]
+            h: 168.0
+            localName: p
+            nodeId: 179
+            nodeName: P
+            nodeType: 1
+            nodeValue: ''
+            parent: 130
+            props: {}
+            value: ''
+            w: 372.0
+            x: 20.0
+            y: 2864.0
+          - &id149
+            attributes: []
+            childNodeCount: 1
+            children:
+            - &id150
+              childrenids: []
+              localName: ''
+              nodeId: 182
+              nodeName: '#text'
+              nodeType: 3
+              nodeValue: '"There was simply no reason that the nomination of Judge
+                Garland could not proceed, other than to deny the then-president of
+                the United States, President Barack Obama, the ability to fill the
+                seat," Feinstein said.'
+              parent: 181
+              props: {}
+            childrenids: [182]
+            h: 140.0
+            localName: p
+            nodeId: 181
+            nodeName: P
+            nodeType: 1
+            nodeValue: ''
+            parent: 130
+            props: {}
+            value: ''
+            w: 372.0
+            x: 20.0
+            y: 3048.0
+          - &id151
+            attributes: []
+            childNodeCount: 1
+            children:
+            - &id152
+              childrenids: []
+              localName: ''
+              nodeId: 184
+              nodeName: '#text'
+              nodeType: 3
+              nodeValue: Feinstein criticized Gorsuch's rulings in cases involving
+                a fired truck driver and an autistic child and faulted his actions
+                as a lawyer in Republican former President George W. Bush's Justice
+                Department regarding detainee interrogation techniques critics called
+                torture.
+              parent: 183
+              props: {}
+            childrenids: [184]
+            h: 168.0
+            localName: p
+            nodeId: 183
+            nodeName: P
+            nodeType: 1
+            nodeValue: ''
+            parent: 130
+            props: {}
+            value: ''
+            w: 372.0
+            x: 20.0
+            y: 3204.0
+          - &id153
+            attributes: []
+            childNodeCount: 1
+            children:
+            - &id154
+              childrenids: []
+              localName: ''
+              nodeId: 186
+              nodeName: '#text'
+              nodeType: 3
+              nodeValue: Feinstein also said she was disturbed by the millions of
+                dollars of "dark money" from anonymous donors backing advertising
+                and political advocacy by conservative groups to help Gorsuch win
+                confirmation.
+              parent: 185
+              props: {}
+            childrenids: [186]
+            h: 140.0
+            localName: p
+            nodeId: 185
+            nodeName: P
+            nodeType: 1
+            nodeValue: ''
+            parent: 130
+            props: {}
+            value: ''
+            w: 372.0
+            x: 20.0
+            y: 3388.0
+          - &id155
+            attributes: []
+            childNodeCount: 1
+            children:
+            - &id156
+              attributes: []
+              childNodeCount: 1
+              children:
+              - &id157
+                childrenids: []
+                localName: ''
+                nodeId: 189
+                nodeName: '#text'
+                nodeType: 3
+                nodeValue: '''I HATE THAT'''
+                parent: 188
+                props: {}
+              childrenids: [189]
+              h: 19.0
+              localName: strong
+              nodeId: 188
+              nodeName: STRONG
+              nodeType: 1
+              nodeValue: ''
+              parent: 187
+              props: {}
+              value: ''
+              w: 103.440185546875
+              x: 20.0
+              y: 3548.0
+            childrenids: [188]
+            h: 28.0
+            localName: p
+            nodeId: 187
+            nodeName: P
+            nodeType: 1
+            nodeValue: ''
+            parent: 130
+            props: {}
+            value: ''
+            w: 372.0
+            x: 20.0
+            y: 3544.0
+          - &id158
+            attributes: []
+            childNodeCount: 1
+            children:
+            - &id159
+              childrenids: []
+              localName: ''
+              nodeId: 191
+              nodeName: '#text'
+              nodeType: 3
+              nodeValue: The 60-vote super-majority requirement over the decades has
+                forced the Senate to try to achieve bipartisanship in legislation
+                and in presidential appointments.
+              parent: 190
+              props: {}
+            childrenids: [191]
+            h: 112.0
+            localName: p
+            nodeId: 190
+            nodeName: P
+            nodeType: 1
+            nodeValue: ''
+            parent: 130
+            props: {}
+            value: ''
+            w: 372.0
+            x: 20.0
+            y: 3588.0
+          - &id160
+            attributes: []
+            childNodeCount: 1
+            children:
+            - &id161
+              childrenids: []
+              localName: ''
+              nodeId: 193
+              nodeName: '#text'
+              nodeType: 3
+              nodeValue: Senator Lindsey Graham, a Republican committee member, expressed
+                regret that his party would be forced to change the Senate rules and
+                said the "damage done to the Senate's going to be real."
+              parent: 192
+              props: {}
+            childrenids: [193]
+            h: 112.0
+            localName: p
+            nodeId: 192
+            nodeName: P
+            nodeType: 1
+            nodeValue: ''
+            parent: 130
+            props: {}
+            value: ''
+            w: 372.0
+            x: 20.0
+            y: 3716.0
+          - &id162
+            attributes: []
+            childNodeCount: 1
+            children:
+            - &id163
+              childrenids: []
+              localName: ''
+              nodeId: 195
+              nodeName: '#text'
+              nodeType: 3
+              nodeValue: '"If we have to, we will change the rules, and it looks like
+                we''re going to have to. I hate that. I really, really do," Graham
+                said.'
+              parent: 194
+              props: {}
+            childrenids: [195]
+            h: 84.0
+            localName: p
+            nodeId: 194
+            nodeName: P
+            nodeType: 1
+            nodeValue: ''
+            parent: 130
+            props: {}
+            value: ''
+            w: 372.0
+            x: 20.0
+            y: 3844.0
+          - &id164
+            attributes: []
+            childNodeCount: 1
+            children:
+            - &id165
+              childrenids: []
+              localName: ''
+              nodeId: 197
+              nodeName: '#text'
+              nodeType: 3
+              nodeValue: Democrats have accused Gorsuch of being insufficiently independent
+                of Trump, evading questions on key Supreme Court rulings of the past
+                including on abortion and political spending, and favoring corporate
+                interests over ordinary Americans.
+              parent: 196
+              props: {}
+            childrenids: [197]
+            h: 168.0
+            localName: p
+            nodeId: 196
+            nodeName: P
+            nodeType: 1
+            nodeValue: ''
+            parent: 130
+            props: {}
+            value: ''
+            w: 372.0
+            x: 20.0
+            y: 3944.0
+          - &id166
+            attributes: []
+            childNodeCount: 1
+            children:
+            - &id167
+              childrenids: []
+              localName: ''
+              nodeId: 199
+              nodeName: '#text'
+              nodeType: 3
+              nodeValue: Committee Democratic Senator Patrick Leahy said Gorsuch was
+                "excruciatingly evasive" during his confirmation hearing. He called
+                Gorsuch's approach to responding to the committee "patronizing. It's
+                a disservice to the American people and a blight on the confirmation
+                process." Leahy's office made clear he would back a filibuster.
+              parent: 198
+              props: {}
+            childrenids: [199]
+            h: 224.0
+            localName: p
+            nodeId: 198
+            nodeName: P
+            nodeType: 1
+            nodeValue: ''
+            parent: 130
+            props: {}
+            value: ''
+            w: 372.0
+            x: 20.0
+            y: 4128.0
+          - &id168
+            attributes: []
+            childNodeCount: 1
+            children:
+            - &id169
+              attributes: []
+              childNodeCount: 2
+              children:
+              - &id170
+                childrenids: []
+                localName: ''
+                nodeId: 202
+                nodeName: '#text'
+                nodeType: 3
+                nodeValue: 'SEE ALSO: '
+                parent: 201
+                props: {}
+              - &id171
+                attributes: [href, 'https://www.aol.com/article/news/2017/04/03/los-angeles-times-delves-into-trump-lies-calls-presidency-train-wreck/22023846/']
+                childNodeCount: 1
+                children:
+                - &id172
+                  childrenids: []
+                  localName: ''
+                  nodeId: 204
+                  nodeName: '#text'
+                  nodeType: 3
+                  nodeValue: Los Angeles Times delves into Trump's 'lies,' calls his
+                    presidency a 'train wreck'
+                  parent: 203
+                  props: {}
+                childrenids: [204]
+                h: 47.0
+                localName: a
+                nodeId: 203
+                nodeName: A
+                nodeType: 1
+                nodeValue: ''
+                parent: 201
+                props: {href: 'https://www.aol.com/article/news/2017/04/03/los-angeles-times-delves-into-trump-lies-calls-presidency-train-wreck/22023846/'}
+                value: ''
+                w: 367.6488037109375
+                x: 20.0
+                y: 4372.0
+              childrenids: [202, 203]
+              h: 47.0
+              localName: strong
+              nodeId: 201
+              nodeName: STRONG
+              nodeType: 1
+              nodeValue: ''
+              parent: 200
+              props: {}
+              value: ''
+              w: 367.6488037109375
+              x: 20.0
+              y: 4372.0
+            childrenids: [201]
+            h: 56.0
+            localName: p
+            nodeId: 200
+            nodeName: P
+            nodeType: 1
+            nodeValue: ''
+            parent: 130
+            props: {}
+            value: ''
+            w: 372.0
+            x: 20.0
+            y: 4368.0
+          - &id173
+            attributes: []
+            childNodeCount: 1
+            children:
+            - &id174
+              childrenids: []
+              localName: ''
+              nodeId: 206
+              nodeName: '#text'
+              nodeType: 3
+              nodeValue: '"Over the last couple months, the nominee''s opponents have
+                tried to find fault with him. That fault will not stick," Grassley
+                said.'
+              parent: 205
+              props: {}
+            childrenids: [206]
+            h: 84.0
+            localName: p
+            nodeId: 205
+            nodeName: P
+            nodeType: 1
+            nodeValue: ''
+            parent: 130
+            props: {}
+            value: ''
+            w: 372.0
+            x: 20.0
+            y: 4440.0
+          - &id175
+            attributes: []
+            childNodeCount: 1
+            children:
+            - &id176
+              childrenids: []
+              localName: ''
+              nodeId: 208
+              nodeName: '#text'
+              nodeType: 3
+              nodeValue: '"Judge Gorsuch is by any measure a superbly qualified nominee,"
+                added Senator Orrin Hatch, a committee Republican. "He will be impartial,
+                fair and open-minded."'
+              parent: 207
+              props: {}
+            childrenids: [208]
+            h: 112.0
+            localName: p
+            nodeId: 207
+            nodeName: P
+            nodeType: 1
+            nodeValue: ''
+            parent: 130
+            props: {}
+            value: ''
+            w: 372.0
+            x: 20.0
+            y: 4540.0
+          - &id177
+            attributes: []
+            childNodeCount: 1
+            children:
+            - &id178
+              childrenids: []
+              localName: ''
+              nodeId: 210
+              nodeName: '#text'
+              nodeType: 3
+              nodeValue: While Gorsuch's opponents would fight a Senate rule change,
+                it was the Democrats who in 2013 changed the Senate rules to limit
+                filibusters after Republicans used the procedure against appeals court
+                nominees selected by Obama. The Senate, then led by Democrats, barred
+                filibusters for executive branch nominees and federal judges aside
+                from Supreme Court justices. Even if Republicans do change the rules,
+                legislation, as opposed to appointments, would still need to meet
+                a 60-vote threshold.
+              parent: 209
+              props: {}
+            childrenids: [210]
+            h: 308.0
+            localName: p
+            nodeId: 209
+            nodeName: P
+            nodeType: 1
+            nodeValue: ''
+            parent: 130
+            props: {}
+            value: ''
+            w: 372.0
+            x: 20.0
+            y: 4668.0
+          - &id179
+            childrenids: []
+            localName: ''
+            nodeId: 211
+            nodeName: '#comment'
+            nodeType: 8
+            nodeValue: AC_EXTRA
+            parent: 130
+            props: {}
+          childrenids: [131, 132, 134, 136, 138, 141, 146, 147, 149, 151, 153, 155,
+            160, 162, 164, 166, 168, 171, 176, 177, 179, 181, 183, 185, 187, 190,
+            192, 194, 196, 198, 200, 205, 207, 209, 211]
+          h: 4824.0
+          localName: div
+          nodeId: 130
+          nodeName: DIV
+          nodeType: 1
+          nodeValue: ''
+          parent: 122
+          props: {class: ac_content}
+          value: ''
+          w: 372.0
+          x: 20.0
+          y: 152.0
+        - &id180
+          attributes: [class, ac_open_page]
+          childNodeCount: 1
+          children:
+          - &id181
+            attributes: [href, 'javascript:ArticleContentInterface.openPageInBrowser();',
+              id, openInWeb]
+            childNodeCount: 1
+            children:
+            - &id182
+              childrenids: []
+              localName: ''
+              nodeId: 214
+              nodeName: '#text'
+              nodeType: 3
+              nodeValue: Open in Web Browser
+              parent: 213
+              props: {}
+            childrenids: [214]
+            h: 19.0
+            localName: a
+            nodeId: 213
+            nodeName: A
+            nodeType: 1
+            nodeValue: ''
+            parent: 212
+            props: {href: 'javascript:ArticleContentInterface.openPageInBrowser();',
+              id: openInWeb}
+            value: ''
+            w: 157.6643524169922
+            x: 20.0
+            y: 4996.0
+          childrenids: [213]
+          h: 28.0
+          localName: div
+          nodeId: 212
+          nodeName: DIV
+          nodeType: 1
+          nodeValue: ''
+          parent: 122
+          props: {class: ac_open_page}
+          value: ''
+          w: 372.0
+          x: 20.0
+          y: 4992.0
+        childrenids: [123, 125, 130, 212]
+        h: 5050.0
+        localName: div
+        nodeId: 122
+        nodeName: DIV
+        nodeType: 1
+        nodeValue: ''
+        parent: 113
+        props: {class: ac_article}
+        value: ''
+        w: 412.0
+        x: 0.0
+        y: 0.0
+      123: *id091
+      124: *id092
+      125: *id093
+      126: *id094
+      127: *id095
+      128: *id096
+      129: *id097
+      130: *id098
+      131: *id099
+      132: *id100
+      133: *id101
+      134: *id102
+      135: *id103
+      136: *id104
+      137: *id105
+      138: *id106
+      139: *id107
+      140: *id108
+      141: *id109
+      142: *id110
+      143: *id111
+      144: *id112
+      145: *id113
+      146: *id114
+      147: *id115
+      148: *id116
+      149: *id117
+      150: *id118
+      151: *id119
+      152: *id120
+      153: *id121
+      154: *id122
+      155: *id123
+      156: *id124
+      157: *id125
+      158: *id126
+      159: *id127
+      160: *id128
+      161: *id129
+      162: *id130
+      163: *id131
+      164: *id132
+      165: *id133
+      166: *id134
+      167: *id135
+      168: *id136
+      169: *id137
+      170: *id138
+      171: *id139
+      172: *id140
+      173: *id141
+      174: *id142
+      175: *id143
+      176: *id144
+      177: *id145
+      178: *id146
+      179: *id147
+      180: *id148
+      181: *id149
+      182: *id150
+      183: *id151
+      184: *id152
+      185: *id153
+      186: *id154
+      187: *id155
+      188: *id156
+      189: *id157
+      190: *id158
+      191: *id159
+      192: *id160
+      193: *id161
+      194: *id162
+      195: *id163
+      196: *id164
+      197: *id165
+      198: *id166
+      199: *id167
+      200: *id168
+      201: *id169
+      202: *id170
+      203: *id171
+      204: *id172
+      205: *id173
+      206: *id174
+      207: *id175
+      208: *id176
+      209: *id177
+      210: *id178
+      211: *id179
+      212: *id180
+      213: *id181
+      214: *id182
+      215:
+        attributes: []
+        childNodeCount: 1
+        children:
+        - {localName: '', nodeId: 216, nodeName: '#text', nodeType: 3, nodeValue: "var\
+            \ metadata={\"summary\":\"WASHINGTON, April 3 (Reuters) - Democratic Senator\
+            \ Chris Coons on Monday announced opposition to President Donald Trump's\
+            \ Supreme Court nominee, ensuring Democrats can block a U.S. Senate confirmation\
+            \ vote to give Neil Gorsuch the lifetime job.\",\"commentsEnabled\":true,\"\
+            relegence\":{\"authority_score\":0.45851493,\"topic\":{\"heat\":0,\"avg_access_time\"\
+            :1491239644297,\"document_count\":2,\"created\":\"2017-04-03T13:14:04+00:00\"\
+            ,\"parent_id\":848946714585296896,\"id\":848946714585296896},\"duplicate\"\
+            :[{\"original_doc_id\":848951918416109568,\"type\":\"None\"}],\"categories\"\
+            :[{\"name\":\"U.S.\",\"id\":146}],\"tags\":[{\"hits\":[{\"field\":\"Title\"\
+            ,\"offset\":0,\"length\":9},{\"field\":\"Body\",\"offset\":157,\"length\"\
+            :9},{\"field\":\"Body\",\"offset\":294,\"length\":9}],\"node_types\":[{\"\
+            name\":\"Group\",\"id\":2},{\"name\":\"Politics Group\",\"id\":135}],\"\
+            score\":1,\"in_headline\":true,\"freebase_mid\":\"m.0d075m\",\"disambiguator\"\
+            :\"United States\",\"name\":\"Democratic Party\",\"id\":3851651,\"type\"\
+            :\"Entity\"},{\"hits\":[{\"field\":\"Title\",\"offset\":67,\"length\"\
+            :12},{\"field\":\"Body\",\"offset\":217,\"length\":12},{\"field\":\"Body\"\
+            ,\"offset\":928,\"length\":12}],\"node_types\":[{\"name\":\"Politics Person\"\
+            ,\"id\":53}],\"score\":0.9811,\"in_headline\":true,\"freebase_mid\":null,\"\
+            disambiguator\":\"politicsPerson\",\"name\":\"Neil Gorsuch\",\"id\":6426722,\"\
+            type\":\"Entity\"},{\"hits\":[{\"field\":\"Body\",\"offset\":179,\"length\"\
+            :11}],\"node_types\":[{\"name\":\"Group\",\"id\":2},{\"name\":\"Politics\
+            \ Group\",\"id\":135}],\"score\":0.9151,\"in_headline\":false,\"freebase_mid\"\
+            :null,\"disambiguator\":\"group\",\"name\":\"United States Senate\",\"\
+            id\":6426314,\"type\":\"Entity\"},{\"hits\":[{\"field\":\"Title\",\"offset\"\
+            :40,\"length\":5},{\"field\":\"Body\",\"offset\":110,\"length\":12},{\"\
+            field\":\"Body\",\"offset\":764,\"length\":5}],\"node_types\":[{\"name\"\
+            :\"TV Person\",\"id\":44},{\"name\":\"Movie Person\",\"id\":14},{\"name\"\
+            :\"Major Celebrity\",\"id\":190},{\"name\":\"Politics Person\",\"id\"\
+            :53},{\"name\":\"Music Person\",\"id\":6}],\"score\":0.8868,\"in_headline\"\
+            :true,\"freebase_mid\":\"m.0cqt90\",\"disambiguator\":\"Politics Person\"\
+            ,\"name\":\"Donald Trump\",\"id\":2789214,\"type\":\"Entity\"},{\"hits\"\
+            :[{\"field\":\"Body\",\"offset\":46,\"length\":19}],\"node_types\":[{\"\
+            name\":\"Politics Person\",\"id\":53}],\"score\":0.7453,\"in_headline\"\
+            :false,\"freebase_mid\":\"m.082d3d\",\"disambiguator\":\"Politics Person(Senator)\"\
+            ,\"name\":\"Chris Coons\",\"id\":5440683,\"type\":\"Entity\"},{\"hits\"\
+            :[{\"field\":\"Body\",\"offset\":3,\"length\":10}],\"node_types\":[{\"\
+            name\":\"Location\",\"id\":30}],\"score\":0.6321,\"in_headline\":false,\"\
+            freebase_mid\":\"m.0rh6k\",\"disambiguator\":\"Location\",\"name\":\"\
+            Washington, D.C.\",\"id\":3490892,\"type\":\"Entity\"},{\"score\":1,\"\
+            disambiguator\":\"News and Politics\",\"name\":\"U.S. News\",\"id\":981465,\"\
+            type\":\"Subject\",\"most_granular\":true},{\"score\":1,\"disambiguator\"\
+            :\"News and Politics\",\"name\":\"News\",\"id\":981523,\"type\":\"Subject\"\
+            ,\"most_granular\":false},{\"score\":1,\"disambiguator\":\"Subject\",\"\
+            name\":\"News and Politics\",\"id\":981525,\"type\":\"Subject\",\"most_granular\"\
+            :false},{\"score\":0.96960974,\"disambiguator\":\"News and Politics\"\
+            ,\"name\":\"Politics\",\"id\":982065,\"type\":\"Subject\",\"most_granular\"\
+            :false},{\"score\":0.96960974,\"disambiguator\":\"News and Politics\"\
+            ,\"name\":\"Law, Government and Politics\",\"id\":6378649,\"type\":\"\
+            Subject\",\"most_granular\":false},{\"score\":0.94212633,\"disambiguator\"\
+            :\"News and Politics\",\"name\":\"U.S. Politics\",\"id\":6310529,\"type\"\
+            :\"Subject\",\"most_granular\":false},{\"score\":0.9061513,\"disambiguator\"\
+            :\"News and Politics\",\"name\":\"Government\",\"id\":4941492,\"type\"\
+            :\"Subject\",\"most_granular\":false},{\"score\":0.9,\"disambiguator\"\
+            :\"Subject\",\"name\":\"Business and Finance\",\"id\":981284,\"type\"\
+            :\"Subject\",\"most_granular\":true},{\"score\":0.85435236,\"disambiguator\"\
+            :\"News and Politics\",\"name\":\"Congress\",\"id\":978813,\"type\":\"\
+            Subject\",\"most_granular\":false},{\"score\":0.85435236,\"disambiguator\"\
+            :\"News and Politics\",\"name\":\"Senate\",\"id\":982725,\"type\":\"Subject\"\
+            ,\"most_granular\":true},{\"score\":0.824497,\"disambiguator\":\"News\
+            \ and Politics\",\"name\":\"Elections\",\"id\":979364,\"type\":\"Subject\"\
+            ,\"most_granular\":false},{\"score\":0.824497,\"disambiguator\":\"Politics\"\
+            ,\"name\":\"U.S. Presidential Elections\",\"id\":6258423,\"type\":\"Subject\"\
+            ,\"most_granular\":true}]},\"related\":[{\"summary\":\"\",\"sourceId\"\
+            :\"\",\"metadata\":{},\"modifiedDateString\":\"\",\"categoryName\":\"\
+            RELATED\",\"articleUrl\":\"http://www.huffingtonpost.com/entry/the-10-things-every-american-needs-to-know-about-neil_us_58da5386e4b0e6062d9230d2\"\
+            ,\"authorName\":\"\",\"curated\":false,\"modifiedDate\":\"\",\"mediaItem\"\
+            :{\"mediaType\":\"image\",\"thumbnails\":[{\"width\":\"600\",\"credit\"\
+            :\"\",\"url\":\"http://img.huffingtonpost.com/asset/600_600/58da59491d000014007d0e0d.jpg\"\
+            ,\"height\":\"600\"}]},\"guid\":\"\",\"publisher\":\"Huffington Post\"\
+            ,\"publishedDateString\":\"2017-04-03 4:16 PM GMT\",\"publishedDate\"\
+            :\"1491236163000\",\"category\":\"\",\"headline\":\"The 10 Things Every\
+            \ American Needs To Know About Neil Gorsuch and \\\"The Nuclear Option\\\
+            \"\",\"contentType\":\"\",\"categoryDisplay\":\"RELATED\"},{\"summary\"\
+            :\"\",\"sourceId\":\"\",\"metadata\":{},\"modifiedDateString\":\"\",\"\
+            categoryName\":\"RELATED\",\"articleUrl\":\"https://www.aol.com/article/news/2017/04/01/more-democratic-senators-voice-opposition-trump-supreme-court-pick-neil-gorsuch/22020671/\"\
+            ,\"authorName\":\"\",\"curated\":false,\"modifiedDate\":\"\",\"mediaItem\"\
+            :{\"mediaType\":\"image\",\"thumbnails\":[{\"width\":\"960\",\"credit\"\
+            :\"\",\"url\":\"https://img.vidible.tv/prod/2017-03/31/58de825f92fdde6b2a6de871/58de825f50cd4d3d50b10b41_o_F_v1.jpg\"\
+            ,\"height\":\"540\"}]},\"guid\":\"\",\"publisher\":\"AOL.com\",\"publishedDateString\"\
+            :\"2017-04-01 8:00 AM GMT\",\"publishedDate\":\"1491033600000\",\"category\"\
+            :\"\",\"headline\":\"More Democratic senators keep voicing opposition\
+            \ to Trump's Supreme Court pick\",\"contentType\":\"\",\"categoryDisplay\"\
+            :\"RELATED\"}],\"imageURL\":\"\",\"publishDate\":\"1491240420000\",\"\
+            articleId\":\"22023984\",\"slideshow\":[{\"extractedFromHtml\":false,\"\
+            slides\":[{\"extractedFromHtml\":false,\"description\":\"<p>Supreme Court\
+            \ nominee Neil Gorsuch looks on as Senate Judiciary Committee. President\
+            \ Donald Trump has nominated Judge Gorsuch to the Supreme Court to fill\
+            \ the seat that had left vacant with the death of Associate Justice Antonin\
+            \ Scalia in February 2016.<\\/p>\\n\\n<p>(Photo by Drew Angerer/Getty\
+            \ Images)<\\/p>\\n\",\"id\":\"205078283\",\"medium\":\"IMAGE\",\"credit\"\
+            :\"Drew Angerer via Getty Images\",\"title\":\"Supreme Court Nominee Judge\
+            \ Neil Gorsuch Meets Senators On Capitol Hill\",\"type\":\"dam\",\"url\"\
+            :\"https://s.blogcdn.com/slideshows/images/slides/472/007/3/S4720073/slug/l/supreme-court-nominee-judge-neil-gorsuch-meets-senators-on-c-1.jpg\"\
+            },{\"extractedFromHtml\":false,\"description\":\"<p><strong>Abortion<\\\
+            /strong><\\/p>\\n\\n<p>Gorsuch has never directly ruled on Roe v. Wade,\
+            \ the 1973 ruling that legalized abortion in the U.S., but he&nbsp;was\
+            \ pressed on the landmark ruling during his Senate confirmation hearing.&nbsp;<\\\
+            /p>\\n\\n<p>When Sen. Lindsey Graham (R-S.C.) asked Gorsuch what he would\
+            \ have done if President Trump asked him to overturn Roe v. Wade, the\
+            \ judge responded, &quot;<a href=\\\"https://www.aol.com/article/news/2017/03/21/gorsuch-would-have-walked-out-door-trump-overturn-roe-v-wade/21904651/\\\
+            \">I would have walked out the door.<\\/a>&nbsp;It's not what judges do.\
+            \ I don't do it at that end of Pennsylvania Avenue and they shouldn't\
+            \ do it at this end either, respectfully.&quot;<\\/p>\\n\\n<p>Some refer\
+            \ to passages from a book Gorsuch wrote on assisted suicide. In the book,&nbsp;The\
+            \ Future of Assisted Suicide and Euthanasia, Gorsuch wrote, &quot;The\
+            \ idea that all human beings are intrinsically valuable and the intentional\
+            \ taking of human life by private persons is always wrong.&quot;<\\/p>\\\
+            n\\n<p>(Photo credit should read JIM WATSON/AFP/Getty Images)<\\/p>\\\
+            n\",\"id\":\"205090667\",\"medium\":\"IMAGE\",\"credit\":\"Getty\",\"\
+            title\":\"US-POLITICS-ABORTION-PROTEST\",\"type\":\"dam\",\"url\":\"https://s.blogcdn.com/slideshows/images/slides/493/267/6/S4932676/slug/l/us-politics-abortion-protest-1.jpg\"\
+            },{\"extractedFromHtml\":false,\"description\":\"<p><strong>Second Amendment<\\\
+            /strong><\\/p>\\n\\n<p>Gorsuch has never directly ruled on the Second\
+            \ Amendment. However, during his confirmation hearing,&nbsp;Sen. Dianne\
+            \ Feinstein (Calif.) questioned Gorsuch on <a href=\\\"https://www.supremecourt.gov/opinions/07pdf/07-290.pdf\\\
+            \">District of Columbia v. Heller<\\/a> -- a landmark ruling that overturned\
+            \ a ban on handguns and certain requirements when storing guns in Washington\
+            \ D.C.&nbsp;<\\/p>\\n\\n<p>Gorsuch offered limited responses&nbsp;to Feinstein's\
+            \ questioning, but did conclude that Heller was the &quot;law of the land.&quot;&nbsp;<\\\
+            /p>\\n\\n<p>(REUTERS/John Sommers II/File Photo)<\\/p>\\n\",\"id\":\"\
+            203978013\",\"medium\":\"IMAGE\",\"credit\":\"John Sommers II / Reuters\"\
+            ,\"title\":\"USA-COURT/GUNS\",\"type\":\"dam\",\"url\":\"https://s.blogcdn.com/slideshows/images/slides/493/267/7/S4932677/slug/l/usa-court-guns-1.jpg\"\
+            },{\"extractedFromHtml\":false,\"description\":\"<p><strong>Religion<\\\
+            /strong><\\/p>\\n\\n<p>Gorsuch is widely regarded as a strong proponent\
+            \ of religious liberty.<\\/p>\\n\\n<p>In a landmark ruling, Gorsuch sided\
+            \ with an employer in the Burwell v. Hobby Lobby Stores, Inc. case in\
+            \ 2013, making it legal for a non-profit organization to deny employees\
+            \ access to contraceptives if it goes against their religious beliefs.\
+            \ The case ultimately reached the Supreme Court, where it was also ruled\
+            \ in the favor of Hobby Lobby.&nbsp;<\\/p>\\n\\n<p>In another case, Gorsuch\
+            \ ruled in favor of a Wyoming inmate. The ruling allowed the inmate to\
+            \ use a prison yard sweat lodge, that he had previously been denied access\
+            \ to, for Native American religious worship.<\\/p>\\n\\n<p>(Getty)<\\\
+            /p>\\n\",\"id\":\"205090688\",\"medium\":\"IMAGE\",\"credit\":\"Getty\"\
+            ,\"title\":\"architecture\",\"type\":\"dam\",\"url\":\"https://s.blogcdn.com/slideshows/images/slides/493/267/8/S4932678/slug/l/architecture-1.jpg\"\
+            },{\"extractedFromHtml\":false,\"description\":\"<p><strong>Immigration<\\\
+            /strong><\\/p>\\n\\n<p>Gorsuch has not hinted to how he feels about President\
+            \ Trump's proposed travel ban, and many experts are split on how the SCOTUS\
+            \ nominee would vote on the executive order that bans immigrants from\
+            \ six majority-Muslim countries. The ban is currently suspended following\
+            \ rulings by federal judges in Hawaii and Maryland.&nbsp;<\\/p>\\n\\n<p>Gorsuch\
+            \ has sided with immigrants in past cases, and as&nbsp;Cornell University&nbsp;\u2026"}
+        childrenids: []
+        localName: script
+        nodeId: 215
+        nodeName: SCRIPT
+        nodeType: 1
+        nodeValue: ''
+        parent: 113
+        props: {}
+      217:
+        attributes: []
+        childNodeCount: 1
+        children:
+        - {localName: '', nodeId: 218, nodeName: '#text', nodeType: 3, nodeValue: $ac.init();}
+        childrenids: []
+        localName: script
+        nodeId: 217
+        nodeName: SCRIPT
+        nodeType: 1
+        nodeValue: ''
+        parent: 113
+        props: {}
+    page: {base_h: 13256, base_w: 1080, base_x: 0, base_y: 999, empty: false, title: 'https://mobile-content-service.comet.aol.com/cis/api/v1/GetArticleDetails?os=android&amp;edition=en_us&amp;device=phone&amp;view=portrait&amp;mediaSize=1080x594&amp;appName=aapp&amp;appVersion=4.3.0.5&amp;osVersion=6.0&amp;channel=News&amp;enableMarqueeMedia=false&amp;f=html&amp;query=%7B&quot;params&quot;%3A%7B&quot;related&quot;%3Atrue%2C&quot;maxRelated&quot;%3A2%2C&quot;relatedArticlesMaxAgeInDays&quot;%3A&quot;180&quot;%2C&quot;relegence&quot;%3A&quot;true&quot;%2C&quot;relTagsMinScore&quot;%3A&quot;0.5&quot;%2C&quot;url&quot;%3A&quot;https%3A%2F%2Fwww.aol.com%2Farticle%2Fnews%2F2017%2F04%2F03%2Fdemocrats-officially-able-filibuster-trump-supreme-court-pick-neil-gorsuch%2F22023984%2F&quot;%2C&quot;optimize&quot;%3A&quot;true&quot;%7D%2C&quot;contentSrc&quot;%3A&quot;comet&quot;%7D',
+      url: 'https://mobile-content-service.comet.aol.com/cis/api/v1/GetArticleDetails?os=android&edition=en_us&device=phone&view=portrait&mediaSize=1080x594&appName=aapp&appVersion=4.3.0.5&osVersion=6.0&channel=News&enableMarqueeMedia=false&f=html&query=%7B%22params%22%3A%7B%22related%22%3Atrue%2C%22maxRelated%22%3A2%2C%22relatedArticlesMaxAgeInDays%22%3A%22180%22%2C%22relegence%22%3A%22true%22%2C%22relTagsMinScore%22%3A%220.5%22%2C%22url%22%3A%22https%3A%2F%2Fwww.aol.com%2Farticle%2Fnews%2F2017%2F04%2F03%2Fdemocrats-officially-able-filibuster-trump-supreme-court-pick-neil-gorsuch%2F22023984%2F%22%2C%22optimize%22%3A%22true%22%7D%2C%22contentSrc%22%3A%22comet%22%7D',
+      ws_url: 'ws://127.0.0.1:12345/devtools/page/C719280D-A43A-4325-9553-27CAA1BCA5C2'}
+    parents: {111: 110, 112: 111, 113: 111, 114: 112, 115: 112, 116: 112, 117: 112,
+      118: 112, 119: 113, 120: 119, 121: 119, 122: 113, 123: 122, 124: 123, 125: 122,
+      126: 125, 127: 126, 128: 125, 129: 128, 130: 122, 131: 130, 132: 130, 133: 132,
+      134: 130, 135: 134, 136: 130, 137: 136, 138: 130, 139: 138, 140: 139, 141: 130,
+      142: 141, 143: 142, 144: 142, 145: 142, 146: 130, 147: 130, 148: 147, 149: 130,
+      150: 149, 151: 130, 152: 151, 153: 130, 154: 153, 155: 130, 156: 155, 157: 156,
+      158: 156, 159: 158, 160: 130, 161: 160, 162: 130, 163: 162, 164: 130, 165: 164,
+      166: 130, 167: 166, 168: 130, 169: 168, 170: 169, 171: 130, 172: 171, 173: 172,
+      174: 172, 175: 172, 176: 130, 177: 130, 178: 177, 179: 130, 180: 179, 181: 130,
+      182: 181, 183: 130, 184: 183, 185: 130, 186: 185, 187: 130, 188: 187, 189: 188,
+      190: 130, 191: 190, 192: 130, 193: 192, 194: 130, 195: 194, 196: 130, 197: 196,
+      198: 130, 199: 198, 200: 130, 201: 200, 202: 201, 203: 201, 204: 203, 205: 130,
+      206: 205, 207: 130, 208: 207, 209: 130, 210: 209, 211: 130, 212: 122, 213: 212,
+      214: 213, 215: 113, 216: 215, 217: 113, 218: 217}
+    scaling: 2.625
+  title: https://mobile-content-service.comet.aol.com/cis/api/v1/GetArticleDetails?os=android&amp;edition=en_us&amp;device=phone&amp;view=portrait&amp;mediaSize=1080x594&amp;appName=aapp&amp;appVersion=4.3.0.5&amp;osVersion=6.0&amp;channel=News&amp;enableMarqueeMedia=false&amp;f=html&amp;query=%7B&quot;params&quot;%3A%7B&quot;related&quot;%3Atrue%2C&quot;maxRelated&quot;%3A2%2C&quot;relatedArticlesMaxAgeInDays&quot;%3A&quot;180&quot;%2C&quot;relegence&quot;%3A&quot;true&quot;%2C&quot;relTagsMinScore&quot;%3A&quot;0.5&quot;%2C&quot;url&quot;%3A&quot;https%3A%2F%2Fwww.aol.com%2Farticle%2Fnews%2F2017%2F04%2F03%2Fdemocrats-officially-able-filibuster-trump-supreme-court-pick-neil-gorsuch%2F22023984%2F&quot;%2C&quot;optimize&quot;%3A&quot;true&quot;%7D%2C&quot;contentSrc&quot;%3A&quot;comet&quot;%7D

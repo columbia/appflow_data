@@ -1,0 +1,8 @@
+98 menu_list
+118 notifications
+128 cart
+136 orders
+140 account
+148 giftcard
+155 help
+158 terms

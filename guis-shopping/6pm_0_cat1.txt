@@ -1,0 +1,1 @@
+com.zappos.android.sixpmFlavor/com.zappos.android.activities.HomeActivity

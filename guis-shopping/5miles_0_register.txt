@@ -1,0 +1,1 @@
+com.thirdrock.fivemiles/.login.RegisterActivity

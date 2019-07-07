@@ -1,0 +1,12 @@
+7 back
+20 billing_first
+21 billing_last
+25 card_no
+26 card_month
+28 card_year
+34 billing_line1
+35 billing_city
+38 billing_state
+40 billing_zipcode
+43 billing_country
+46 card_save

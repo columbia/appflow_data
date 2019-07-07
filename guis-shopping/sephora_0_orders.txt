@@ -1,0 +1,1 @@
+com.sephora/.appmodules.purchasehistory.screens.PurchaseHistoryActivity

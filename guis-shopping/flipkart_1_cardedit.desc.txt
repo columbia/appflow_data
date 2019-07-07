@@ -1,0 +1,6 @@
+11 menu
+27 card_no
+30 card_month
+34 card_year
+38 card_name
+39 card_save

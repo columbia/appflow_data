@@ -1,0 +1,15 @@
+22 cat_item
+24 cat_item
+26 cat_item
+28 cat_item
+36 item_image
+42 item_title
+43 item_image
+49 item_title
+50 item_image
+56 item_title
+57 item_image
+78 home
+86 bookmark
+90 search
+100 textsize

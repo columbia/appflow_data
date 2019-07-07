@@ -1,0 +1,1 @@
+com.contextlogic.home/com.contextlogic.wish.activity.settings.SettingsActivity

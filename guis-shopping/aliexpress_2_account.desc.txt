@@ -1,0 +1,4 @@
+9 menu
+25 payments
+30 addresses
+79 logout

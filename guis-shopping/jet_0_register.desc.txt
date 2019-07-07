@@ -1,0 +1,6 @@
+10 back
+20 signin
+25 email
+26 password
+28 zipcode
+31 register

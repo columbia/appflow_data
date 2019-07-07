@@ -1,0 +1,9 @@
+18 addr_name
+21 addr_line1
+24 addr_line2
+26 addr_zipcode
+29 addr_city
+32 addr_state
+35 addr_phone
+39 addr_save
+42 back

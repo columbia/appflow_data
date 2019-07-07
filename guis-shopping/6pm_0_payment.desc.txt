@@ -1,0 +1,5 @@
+14 card
+24 card_new
+27 back
+30 card_delete
+31 search

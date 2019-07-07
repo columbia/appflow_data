@@ -1,0 +1,8 @@
+11 menu
+18 card_no
+23 card_month
+27 card_year
+33 card_cvv
+36 placeorder
+47 shippingcost
+49 totalcost

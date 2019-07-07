@@ -1,0 +1,6 @@
+8 back
+23 address_new
+50 subtotal
+54 shippingcost
+68 totalcost
+70 placeorder

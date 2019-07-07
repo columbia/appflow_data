@@ -1,0 +1,13 @@
+71 cart_list
+72 cart_item
+78 item_title
+79 item_brand
+87 item_count
+91 item_price
+93 cart_item
+99 item_title
+100 item_brand
+110 item_count
+114 item_price
+121 cart_subtotal
+124 checkout

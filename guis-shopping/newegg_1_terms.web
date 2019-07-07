@@ -1,0 +1,167 @@
+- page:
+    base_h: 661
+    base_w: 1028
+    base_x: 26
+    base_y: 236
+    html_h: 252.0
+    html_w: 392.0
+    nodes:
+      1:
+        backendNodeId: 142
+        baseURL: file:///android_res/raw/generaltermsconditions6.html
+        childNodeCount: 1
+        children:
+        - &id001
+          attributes: []
+          backendNodeId: 143
+          childNodeCount: 2
+          children:
+          - &id002
+            attributes: []
+            backendNodeId: 144
+            childNodeCount: 2
+            childrenids: [5, 7]
+            h: 0.0
+            localName: head
+            nodeId: 3
+            nodeName: HEAD
+            nodeType: 1
+            nodeValue: ''
+            parent: 2
+            props: {}
+            value: ''
+            w: 0.0
+            x: 0.0
+            y: 0.0
+          - &id003
+            attributes: []
+            backendNodeId: 145
+            childNodeCount: 1
+            childrenids: [8]
+            h: 228.0
+            localName: body
+            nodeId: 4
+            nodeName: BODY
+            nodeType: 1
+            nodeValue: ''
+            parent: 2
+            props: {}
+            value: ''
+            w: 376.0
+            x: 8.0
+            y: 8.0
+          childrenids: [3, 4]
+          frameId: '7728.4'
+          h: 252.0
+          localName: html
+          nodeId: 2
+          nodeName: HTML
+          nodeType: 1
+          nodeValue: ''
+          parent: 1
+          props: {}
+          value: ''
+          w: 392.0
+          x: 0.0
+          y: 0.0
+        childrenids: [2]
+        documentURL: file:///android_res/raw/generaltermsconditions6.html
+        localName: ''
+        nodeId: 1
+        nodeName: '#document'
+        nodeType: 9
+        nodeValue: ''
+        parent: -1
+        props: {}
+        xmlVersion: ''
+      2: *id001
+      3: *id002
+      4: *id003
+      5:
+        attributes: []
+        backendNodeId: 146
+        childNodeCount: 1
+        children:
+        - &id004
+          backendNodeId: 147
+          childrenids: []
+          localName: ''
+          nodeId: 6
+          nodeName: '#text'
+          nodeType: 3
+          nodeValue: Entire Agreement
+          parent: 5
+          props: {}
+        childrenids: [6]
+        h: 0.0
+        localName: title
+        nodeId: 5
+        nodeName: TITLE
+        nodeType: 1
+        nodeValue: ''
+        parent: 3
+        props: {}
+        value: ''
+        w: 0.0
+        x: 0.0
+        y: 0.0
+      6: *id004
+      7:
+        attributes: [http-equiv, Content-Type, content, text/html; charset=utf-8]
+        backendNodeId: 148
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: meta
+        nodeId: 7
+        nodeName: META
+        nodeType: 1
+        nodeValue: ''
+        parent: 3
+        props: {content: text/html; charset=utf-8, http-equiv: Content-Type}
+      8:
+        attributes: []
+        backendNodeId: 149
+        childNodeCount: 1
+        children:
+        - &id005
+          backendNodeId: 150
+          childrenids: []
+          localName: ''
+          nodeId: 9
+          nodeName: '#text'
+          nodeType: 3
+          nodeValue: "\n        \n                These terms and conditions, together\
+            \ with\n                Newegg.com's invoice regarding the products ordered\
+            \ by Customer, are the complete and exclusive\n                agreement\
+            \ between\n                Newegg.com\n                and Customer, and\
+            \ they supersede all prior or contemporaneous proposals, oral or\n   \
+            \             written, understandings, representations, conditions, warranties,\
+            \ and all other\n                communications between\n            \
+            \    Newegg.com\n                and Customer relating to the subject\
+            \ products. This agreement may not be explained\n                or supplemented\
+            \ by any prior course of dealings or trade by custom or usage.\n     \
+            \       \n    "
+          parent: 8
+          props: {}
+        childrenids: [9]
+        h: 228.0
+        localName: p
+        nodeId: 8
+        nodeName: P
+        nodeType: 1
+        nodeValue: ''
+        parent: 4
+        props: {}
+        value: ''
+        w: 376.0
+        x: 8.0
+        y: 8.0
+      9: *id005
+    page: {base_h: 661, base_w: 1028, base_x: 26, base_y: 236, empty: false, title: Entire
+        Agreement, url: 'file:///android_res/raw/generaltermsconditions6.html', ws_url: 'ws://127.0.0.1:12345/devtools/page/6fc3a37f-1c42-47e2-92cd-6f07d9727e00'}
+    parents: {2: 1, 3: 2, 4: 2, 5: 3, 6: 5, 7: 3, 8: 4, 9: 8}
+    scaling: 2.625
+  pageinfo: {base_h: 661, base_w: 1028, base_x: 26, base_y: 236, empty: false, title: Entire
+      Agreement, url: 'file:///android_res/raw/generaltermsconditions6.html', ws_url: 'ws://127.0.0.1:12345/devtools/page/6fc3a37f-1c42-47e2-92cd-6f07d9727e00'}
+  title: Entire Agreement

@@ -1,0 +1,1 @@
+com.guardian/com.guardian.onboarding.row.OnboardingRowActivity

@@ -1,0 +1,7 @@
+10 back
+18 firstname
+20 lastname
+24 zipcode
+27 email
+30 password
+33 password2

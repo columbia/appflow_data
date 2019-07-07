@@ -1,0 +1,1 @@
+com.groupon/.home.main.activities.Carousel

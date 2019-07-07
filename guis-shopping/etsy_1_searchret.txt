@@ -1,0 +1,1 @@
+com.etsy.android/.ui.search.v2.SearchV2Activity

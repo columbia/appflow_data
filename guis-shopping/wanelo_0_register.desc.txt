@@ -1,0 +1,4 @@
+8 email
+9 register_name
+10 password
+21 register

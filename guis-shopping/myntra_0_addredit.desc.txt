@@ -1,0 +1,7 @@
+8 back
+24 addr_zipcode
+33 addr_city
+39 addr_state
+45 addr_name
+50 addr_line1
+55 addr_phone

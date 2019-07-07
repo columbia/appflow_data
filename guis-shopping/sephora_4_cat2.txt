@@ -1,0 +1,1 @@
+com.sephora/.appmodules.categories.CategoriesActivity

@@ -1,0 +1,7 @@
+8 back
+24 totalcost
+55 subtotal
+59 shippingcost
+72 totalcost
+85 totalcost
+87 placeorder

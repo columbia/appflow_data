@@ -1,0 +1,1 @@
+com.kohls.mcommerce.opal/.framework.view.activity.ProductDetailsActivity

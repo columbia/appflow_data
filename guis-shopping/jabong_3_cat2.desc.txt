@@ -1,0 +1,16 @@
+21 searchbox
+26 cart
+31 cat_list
+39 cat_item
+41 cat_title
+42 cat_item
+44 cat_title
+45 cat_item
+47 cat_title
+48 cat_item
+50 cat_title
+51 cat_item
+53 cat_title
+54 cat_item
+56 cat_title
+86 account

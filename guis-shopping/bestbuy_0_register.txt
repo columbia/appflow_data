@@ -1,0 +1,1 @@
+com.bestbuy.android/com.bestbuy.android.activity.LoginActivity

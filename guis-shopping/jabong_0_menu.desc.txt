@@ -1,0 +1,16 @@
+91 menu_list
+92 signin
+98 home
+102 cat_item
+105 cat_title
+106 cat_item
+109 cat_title
+110 cat_item
+113 cat_title
+114 cat_item
+117 cat_title
+118 cat_item
+121 cat_title
+128 orders
+131 signin
+136 invite

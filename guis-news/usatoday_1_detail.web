@@ -1,0 +1,3795 @@
+- page:
+    base_h: 0
+    base_w: 0
+    base_x: 0
+    base_y: 0
+    html_h: 0.0
+    html_w: 0.0
+    nodes:
+      787:
+        baseURL: file:///data/user/0/com.usatoday.android.news/files/Download/gravity/BkMtwM/creative/index.html
+        childNodeCount: 2
+        children:
+        - &id001
+          childrenids: []
+          localName: ''
+          nodeId: 788
+          nodeName: html
+          nodeType: 10
+          nodeValue: ''
+          parent: 787
+          props: {}
+          publicId: ''
+          systemId: ''
+        - &id002
+          attributes: [lang, en, class, ' js touch history csstransforms csstransforms3d
+              csstransitions video']
+          childNodeCount: 2
+          children:
+          - &id003
+            attributes: []
+            childNodeCount: 11
+            childrenids: [792, 793, 794, 796, 797, 798, 799, 800, 801, 802, 803]
+            h: 0.0
+            localName: head
+            nodeId: 790
+            nodeName: HEAD
+            nodeType: 1
+            nodeValue: ''
+            parent: 789
+            props: {}
+            value: ''
+            w: 0.0
+            x: 0.0
+            y: 0.0
+          - &id004
+            attributes: []
+            childNodeCount: 4
+            childrenids: [804, 873, 875, 876]
+            h: 0.0
+            localName: body
+            nodeId: 791
+            nodeName: BODY
+            nodeType: 1
+            nodeValue: ''
+            parent: 789
+            props: {}
+            value: ''
+            w: 0.0
+            x: 0.0
+            y: 0.0
+          childrenids: [790, 791]
+          h: 0.0
+          localName: html
+          nodeId: 789
+          nodeName: HTML
+          nodeType: 1
+          nodeValue: ''
+          parent: 787
+          props: {class: ' js touch history csstransforms csstransforms3d csstransitions
+              video', lang: en}
+          value: ''
+          w: 0.0
+          x: 0.0
+          y: 0.0
+        childrenids: [788, 789]
+        documentURL: file:///data/user/0/com.usatoday.android.news/files/Download/gravity/BkMtwM/creative/index.html
+        localName: ''
+        nodeId: 787
+        nodeName: '#document'
+        nodeType: 9
+        nodeValue: ''
+        parent: -1
+        props: {}
+        xmlVersion: ''
+      788: *id001
+      789: *id002
+      790: *id003
+      791: *id004
+      792:
+        attributes: [charset, utf-8]
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: meta
+        nodeId: 792
+        nodeName: META
+        nodeType: 1
+        nodeValue: ''
+        parent: 790
+        props: {charset: utf-8}
+      793:
+        attributes: [http-equiv, X-UA-Compatible, content, 'IE=edge,chrome=1']
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: meta
+        nodeId: 793
+        nodeName: META
+        nodeType: 1
+        nodeValue: ''
+        parent: 790
+        props: {content: 'IE=edge,chrome=1', http-equiv: X-UA-Compatible}
+      794:
+        attributes: []
+        childNodeCount: 1
+        children:
+        - &id005
+          childrenids: []
+          localName: ''
+          nodeId: 795
+          nodeName: '#text'
+          nodeType: 3
+          nodeValue: Gravity - Gannett Digital
+          parent: 794
+          props: {}
+        childrenids: [795]
+        h: 0.0
+        localName: title
+        nodeId: 794
+        nodeName: TITLE
+        nodeType: 1
+        nodeValue: ''
+        parent: 790
+        props: {}
+        value: ''
+        w: 0.0
+        x: 0.0
+        y: 0.0
+      795: *id005
+      796:
+        attributes: [rel, stylesheet, type, text/css, href, stylesheets/creative-style.css]
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: link
+        nodeId: 796
+        nodeName: LINK
+        nodeType: 1
+        nodeValue: ''
+        parent: 790
+        props: {href: stylesheets/creative-style.css, rel: stylesheet, type: text/css}
+      797:
+        attributes: [src, scripts/modernizr.js]
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: script
+        nodeId: 797
+        nodeName: SCRIPT
+        nodeType: 1
+        nodeValue: ''
+        parent: 790
+        props: {src: scripts/modernizr.js}
+      798:
+        attributes: [type, text/javascript, charset, utf-8, async, '', data-requirecontext,
+          _, data-requiremodule, mobile-gravity-script, src, scripts/mobile-gravity-script.js]
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: script
+        nodeId: 798
+        nodeName: SCRIPT
+        nodeType: 1
+        nodeValue: ''
+        parent: 790
+        props: {async: '', charset: utf-8, data-requirecontext: _, data-requiremodule: mobile-gravity-script,
+          src: scripts/mobile-gravity-script.js, type: text/javascript}
+      799:
+        attributes: [type, text/javascript, charset, utf-8, async, '', data-requirecontext,
+          _, data-requiremodule, jquery, src, scripts/jquery-2.1.3.min.js]
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: script
+        nodeId: 799
+        nodeName: SCRIPT
+        nodeType: 1
+        nodeValue: ''
+        parent: 790
+        props: {async: '', charset: utf-8, data-requirecontext: _, data-requiremodule: jquery,
+          src: scripts/jquery-2.1.3.min.js, type: text/javascript}
+      800:
+        attributes: [type, text/javascript, charset, utf-8, async, '', data-requirecontext,
+          _, data-requiremodule, creative-script, src, scripts/creative-script.js]
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: script
+        nodeId: 800
+        nodeName: SCRIPT
+        nodeType: 1
+        nodeValue: ''
+        parent: 790
+        props: {async: '', charset: utf-8, data-requirecontext: _, data-requiremodule: creative-script,
+          src: scripts/creative-script.js, type: text/javascript}
+      801:
+        attributes: [type, text/javascript, charset, utf-8, async, '', data-requirecontext,
+          _, data-requiremodule, underscore, src, scripts/underscore.js]
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: script
+        nodeId: 801
+        nodeName: SCRIPT
+        nodeType: 1
+        nodeValue: ''
+        parent: 790
+        props: {async: '', charset: utf-8, data-requirecontext: _, data-requiremodule: underscore,
+          src: scripts/underscore.js, type: text/javascript}
+      802:
+        attributes: [type, text/javascript, charset, utf-8, async, '', data-requirecontext,
+          _, data-requiremodule, base-ad-view, src, scripts/base-ad-view.js]
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: script
+        nodeId: 802
+        nodeName: SCRIPT
+        nodeType: 1
+        nodeValue: ''
+        parent: 790
+        props: {async: '', charset: utf-8, data-requirecontext: _, data-requiremodule: base-ad-view,
+          src: scripts/base-ad-view.js, type: text/javascript}
+      803:
+        attributes: [type, text/javascript, charset, utf-8, async, '', data-requirecontext,
+          _, data-requiremodule, backbone, src, scripts/backbone.js]
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: script
+        nodeId: 803
+        nodeName: SCRIPT
+        nodeType: 1
+        nodeValue: ''
+        parent: 790
+        props: {async: '', charset: utf-8, data-requirecontext: _, data-requiremodule: backbone,
+          src: scripts/backbone.js, type: text/javascript}
+      804:
+        attributes: [class, partner-placement]
+        childNodeCount: 32
+        children:
+        - &id006
+          childrenids: []
+          localName: ''
+          nodeId: 805
+          nodeName: '#comment'
+          nodeType: 8
+          nodeValue: ' Begin creative content '
+          parent: 804
+          props: {}
+        - &id007
+          attributes: [class, content]
+          childNodeCount: 3
+          children:
+          - &id008
+            attributes: [class, video-container]
+            childNodeCount: 1
+            children:
+            - &id009
+              attributes: [webkit-playsinline, 'true', playsinline, 'true', loop,
+                'true', src, video/compiled.mp4]
+              childNodeCount: 0
+              children: []
+              childrenids: []
+              h: 0.0
+              localName: video
+              nodeId: 808
+              nodeName: VIDEO
+              nodeType: 1
+              nodeValue: ''
+              parent: 807
+              props: {loop: 'true', playsinline: 'true', src: video/compiled.mp4,
+                webkit-playsinline: 'true'}
+              shadowRoots:
+              - {childNodeCount: 1, localName: '', nodeId: 809, nodeName: '#document-fragment',
+                nodeType: 11, nodeValue: '', shadowRootType: user-agent}
+              value: ''
+              w: 0.0
+              x: 0.0
+              y: 0.0
+            childrenids: [808]
+            h: 0.0
+            localName: div
+            nodeId: 807
+            nodeName: DIV
+            nodeType: 1
+            nodeValue: ''
+            parent: 806
+            props: {class: video-container}
+            value: ''
+            w: 0.0
+            x: 0.0
+            y: 0.0
+          - &id010
+            attributes: [href, 'gdaup:///open?url=https%3A%2F%2Fadclick.g.doubleclick.net%2Fpcs%2Fclick%3Fxai%3DAKAOjssmX7Z05ZGymbfaYvhHsxX25CVrrqgmTPxZVKPIik-EGPRJ8f1fJk4OoM5qMq2w-97GMcpSdWfF4A5dFsOwy8s0RAO4pkXgukPrOUJSOemdCBcVcC_7D7Q9VdGk8axxOuWhj_LuFTLKMkjCRLFlowfmslUrRu8qqaEOCyZLkD--5cnmbJYLToUyzROEY-01msQPrhlA3_EyBeMtZVMeD2L3WX3rK1XnCw7lzpbGr3M1IyrebKxEhdzrNLCTocAVisGz_thZZ1UY24uKWV3ANbBlCqoWc1tdsH_B9O2h1IFnifpQICkwwM0mFUNZc1kX6t1-tlzYmQSeXncIQhqE2w%26sai%3DAMfl-YRtIXt4n4yMH5MTvTcsPEBdEk-sbotOAKyFyqyNBfaTfKqC8gARwonK62zoFMQ%26sig%3DCg0ArKJSzO9_xHdb_CPVEAE%26urlfix%3D1%26adurl%3Dhttps%3A%2F%2Fad.doubleclick.net%2Fddm%2Fclk%2F320604989%3B145527998%3Ba',
+              class, cta above-content]
+            childNodeCount: 1
+            children:
+            - &id011
+              attributes: [src, images/top-image.png, class, above-content-image,
+                style, 'width: 100%; left: 0%;']
+              childNodeCount: 0
+              children: []
+              childrenids: []
+              h: 0.0
+              localName: img
+              nodeId: 811
+              nodeName: IMG
+              nodeType: 1
+              nodeValue: ''
+              parent: 810
+              props: {class: above-content-image, src: images/top-image.png, style: 'width:
+                  100%; left: 0%;'}
+              value: ''
+              w: 0.0
+              x: 0.0
+              y: -30.0
+            childrenids: [811]
+            h: 0.0
+            localName: a
+            nodeId: 810
+            nodeName: A
+            nodeType: 1
+            nodeValue: ''
+            parent: 806
+            props: {class: cta above-content, href: 'gdaup:///open?url=https%3A%2F%2Fadclick.g.doubleclick.net%2Fpcs%2Fclick%3Fxai%3DAKAOjssmX7Z05ZGymbfaYvhHsxX25CVrrqgmTPxZVKPIik-EGPRJ8f1fJk4OoM5qMq2w-97GMcpSdWfF4A5dFsOwy8s0RAO4pkXgukPrOUJSOemdCBcVcC_7D7Q9VdGk8axxOuWhj_LuFTLKMkjCRLFlowfmslUrRu8qqaEOCyZLkD--5cnmbJYLToUyzROEY-01msQPrhlA3_EyBeMtZVMeD2L3WX3rK1XnCw7lzpbGr3M1IyrebKxEhdzrNLCTocAVisGz_thZZ1UY24uKWV3ANbBlCqoWc1tdsH_B9O2h1IFnifpQICkwwM0mFUNZc1kX6t1-tlzYmQSeXncIQhqE2w%26sai%3DAMfl-YRtIXt4n4yMH5MTvTcsPEBdEk-sbotOAKyFyqyNBfaTfKqC8gARwonK62zoFMQ%26sig%3DCg0ArKJSzO9_xHdb_CPVEAE%26urlfix%3D1%26adurl%3Dhttps%3A%2F%2Fad.doubleclick.net%2Fddm%2Fclk%2F320604989%3B145527998%3Ba'}
+            value: ''
+            w: 0.0
+            x: 0.0
+            y: -30.0
+          - &id012
+            attributes: [href, 'gdaup:///open?url=https%3A%2F%2Fadclick.g.doubleclick.net%2Fpcs%2Fclick%3Fxai%3DAKAOjssmX7Z05ZGymbfaYvhHsxX25CVrrqgmTPxZVKPIik-EGPRJ8f1fJk4OoM5qMq2w-97GMcpSdWfF4A5dFsOwy8s0RAO4pkXgukPrOUJSOemdCBcVcC_7D7Q9VdGk8axxOuWhj_LuFTLKMkjCRLFlowfmslUrRu8qqaEOCyZLkD--5cnmbJYLToUyzROEY-01msQPrhlA3_EyBeMtZVMeD2L3WX3rK1XnCw7lzpbGr3M1IyrebKxEhdzrNLCTocAVisGz_thZZ1UY24uKWV3ANbBlCqoWc1tdsH_B9O2h1IFnifpQICkwwM0mFUNZc1kX6t1-tlzYmQSeXncIQhqE2w%26sai%3DAMfl-YRtIXt4n4yMH5MTvTcsPEBdEk-sbotOAKyFyqyNBfaTfKqC8gARwonK62zoFMQ%26sig%3DCg0ArKJSzO9_xHdb_CPVEAE%26urlfix%3D1%26adurl%3Dhttps%3A%2F%2Fad.doubleclick.net%2Fddm%2Fclk%2F320604989%3B145527998%3Ba',
+              class, cta below-content]
+            childNodeCount: 1
+            children:
+            - &id013
+              attributes: [src, images/bottom-image.png, class, below-content-image,
+                style, 'width: 100%; left: 0%;']
+              childNodeCount: 0
+              children: []
+              childrenids: []
+              h: 0.0
+              localName: img
+              nodeId: 813
+              nodeName: IMG
+              nodeType: 1
+              nodeValue: ''
+              parent: 812
+              props: {class: below-content-image, src: images/bottom-image.png, style: 'width:
+                  100%; left: 0%;'}
+              value: ''
+              w: 0.0
+              x: 0.0
+              y: 30.0
+            childrenids: [813]
+            h: 0.0
+            localName: a
+            nodeId: 812
+            nodeName: A
+            nodeType: 1
+            nodeValue: ''
+            parent: 806
+            props: {class: cta below-content, href: 'gdaup:///open?url=https%3A%2F%2Fadclick.g.doubleclick.net%2Fpcs%2Fclick%3Fxai%3DAKAOjssmX7Z05ZGymbfaYvhHsxX25CVrrqgmTPxZVKPIik-EGPRJ8f1fJk4OoM5qMq2w-97GMcpSdWfF4A5dFsOwy8s0RAO4pkXgukPrOUJSOemdCBcVcC_7D7Q9VdGk8axxOuWhj_LuFTLKMkjCRLFlowfmslUrRu8qqaEOCyZLkD--5cnmbJYLToUyzROEY-01msQPrhlA3_EyBeMtZVMeD2L3WX3rK1XnCw7lzpbGr3M1IyrebKxEhdzrNLCTocAVisGz_thZZ1UY24uKWV3ANbBlCqoWc1tdsH_B9O2h1IFnifpQICkwwM0mFUNZc1kX6t1-tlzYmQSeXncIQhqE2w%26sai%3DAMfl-YRtIXt4n4yMH5MTvTcsPEBdEk-sbotOAKyFyqyNBfaTfKqC8gARwonK62zoFMQ%26sig%3DCg0ArKJSzO9_xHdb_CPVEAE%26urlfix%3D1%26adurl%3Dhttps%3A%2F%2Fad.doubleclick.net%2Fddm%2Fclk%2F320604989%3B145527998%3Ba'}
+            value: ''
+            w: 0.0
+            x: 0.0
+            y: 30.0
+          childrenids: [807, 810, 812]
+          h: 0.0
+          localName: div
+          nodeId: 806
+          nodeName: DIV
+          nodeType: 1
+          nodeValue: ''
+          parent: 804
+          props: {class: content}
+          value: ''
+          w: 0.0
+          x: 0.0
+          y: 0.0
+        - &id014
+          childrenids: []
+          localName: ''
+          nodeId: 814
+          nodeName: '#comment'
+          nodeType: 8
+          nodeValue: ' End creative content '
+          parent: 804
+          props: {}
+        - &id015
+          attributes: [src, 'gdaup:///setup', height, '0', width, '0', border, '0',
+            style, 'display:none']
+          childNodeCount: 0
+          children: []
+          childrenids: []
+          contentDocument: {baseURL: 'file:///data/user/0/com.usatoday.android.news/files/Download/gravity/BkMtwM/creative/index.html',
+            childNodeCount: 1, documentURL: 'about:blank', localName: '', nodeId: 816,
+            nodeName: '#document', nodeType: 9, nodeValue: '', xmlVersion: ''}
+          frameId: '2675.1'
+          h: 0.0
+          localName: iframe
+          nodeId: 815
+          nodeName: IFRAME
+          nodeType: 1
+          nodeValue: ''
+          parent: 804
+          props: {border: '0', height: '0', src: 'gdaup:///setup', style: 'display:none',
+            width: '0'}
+          value: ''
+          w: 0.0
+          x: 0.0
+          y: 0.0
+        - &id016
+          attributes: [src, 'gdaup:///play', height, '0', width, '0', border, '0',
+            style, 'display:none']
+          childNodeCount: 0
+          children: []
+          childrenids: []
+          contentDocument: {baseURL: 'file:///data/user/0/com.usatoday.android.news/files/Download/gravity/BkMtwM/creative/index.html',
+            childNodeCount: 1, documentURL: 'about:blank', localName: '', nodeId: 818,
+            nodeName: '#document', nodeType: 9, nodeValue: '', xmlVersion: ''}
+          frameId: '2675.2'
+          h: 0.0
+          localName: iframe
+          nodeId: 817
+          nodeName: IFRAME
+          nodeType: 1
+          nodeValue: ''
+          parent: 804
+          props: {border: '0', height: '0', src: 'gdaup:///play', style: 'display:none',
+            width: '0'}
+          value: ''
+          w: 0.0
+          x: 0.0
+          y: 0.0
+        - &id017
+          attributes: [src, 'gdaup:///loop', height, '0', width, '0', border, '0',
+            style, 'display:none']
+          childNodeCount: 0
+          children: []
+          childrenids: []
+          contentDocument: {baseURL: 'file:///data/user/0/com.usatoday.android.news/files/Download/gravity/BkMtwM/creative/index.html',
+            childNodeCount: 1, documentURL: 'about:blank', localName: '', nodeId: 820,
+            nodeName: '#document', nodeType: 9, nodeValue: '', xmlVersion: ''}
+          frameId: '2675.3'
+          h: 0.0
+          localName: iframe
+          nodeId: 819
+          nodeName: IFRAME
+          nodeType: 1
+          nodeValue: ''
+          parent: 804
+          props: {border: '0', height: '0', src: 'gdaup:///loop', style: 'display:none',
+            width: '0'}
+          value: ''
+          w: 0.0
+          x: 0.0
+          y: 0.0
+        - &id018
+          attributes: [src, 'gdaup:///loop', height, '0', width, '0', border, '0',
+            style, 'display:none']
+          childNodeCount: 0
+          children: []
+          childrenids: []
+          contentDocument: {baseURL: 'file:///data/user/0/com.usatoday.android.news/files/Download/gravity/BkMtwM/creative/index.html',
+            childNodeCount: 1, documentURL: 'about:blank', localName: '', nodeId: 822,
+            nodeName: '#document', nodeType: 9, nodeValue: '', xmlVersion: ''}
+          frameId: '2675.4'
+          h: 0.0
+          localName: iframe
+          nodeId: 821
+          nodeName: IFRAME
+          nodeType: 1
+          nodeValue: ''
+          parent: 804
+          props: {border: '0', height: '0', src: 'gdaup:///loop', style: 'display:none',
+            width: '0'}
+          value: ''
+          w: 0.0
+          x: 0.0
+          y: 0.0
+        - &id019
+          attributes: [src, 'gdaup:///loop', height, '0', width, '0', border, '0',
+            style, 'display:none']
+          childNodeCount: 0
+          children: []
+          childrenids: []
+          contentDocument: {baseURL: 'file:///data/user/0/com.usatoday.android.news/files/Download/gravity/BkMtwM/creative/index.html',
+            childNodeCount: 1, documentURL: 'about:blank', localName: '', nodeId: 824,
+            nodeName: '#document', nodeType: 9, nodeValue: '', xmlVersion: ''}
+          frameId: '2675.5'
+          h: 0.0
+          localName: iframe
+          nodeId: 823
+          nodeName: IFRAME
+          nodeType: 1
+          nodeValue: ''
+          parent: 804
+          props: {border: '0', height: '0', src: 'gdaup:///loop', style: 'display:none',
+            width: '0'}
+          value: ''
+          w: 0.0
+          x: 0.0
+          y: 0.0
+        - &id020
+          attributes: [src, 'gdaup:///loop', height, '0', width, '0', border, '0',
+            style, 'display:none']
+          childNodeCount: 0
+          children: []
+          childrenids: []
+          contentDocument: {baseURL: 'file:///data/user/0/com.usatoday.android.news/files/Download/gravity/BkMtwM/creative/index.html',
+            childNodeCount: 1, documentURL: 'about:blank', localName: '', nodeId: 826,
+            nodeName: '#document', nodeType: 9, nodeValue: '', xmlVersion: ''}
+          frameId: '2675.7'
+          h: 0.0
+          localName: iframe
+          nodeId: 825
+          nodeName: IFRAME
+          nodeType: 1
+          nodeValue: ''
+          parent: 804
+          props: {border: '0', height: '0', src: 'gdaup:///loop', style: 'display:none',
+            width: '0'}
+          value: ''
+          w: 0.0
+          x: 0.0
+          y: 0.0
+        - &id021
+          attributes: [src, 'gdaup:///loop', height, '0', width, '0', border, '0',
+            style, 'display:none']
+          childNodeCount: 0
+          children: []
+          childrenids: []
+          contentDocument: {baseURL: 'file:///data/user/0/com.usatoday.android.news/files/Download/gravity/BkMtwM/creative/index.html',
+            childNodeCount: 1, documentURL: 'about:blank', localName: '', nodeId: 828,
+            nodeName: '#document', nodeType: 9, nodeValue: '', xmlVersion: ''}
+          frameId: '2675.8'
+          h: 0.0
+          localName: iframe
+          nodeId: 827
+          nodeName: IFRAME
+          nodeType: 1
+          nodeValue: ''
+          parent: 804
+          props: {border: '0', height: '0', src: 'gdaup:///loop', style: 'display:none',
+            width: '0'}
+          value: ''
+          w: 0.0
+          x: 0.0
+          y: 0.0
+        - &id022
+          attributes: [src, 'gdaup:///loop', height, '0', width, '0', border, '0',
+            style, 'display:none']
+          childNodeCount: 0
+          children: []
+          childrenids: []
+          contentDocument: {baseURL: 'file:///data/user/0/com.usatoday.android.news/files/Download/gravity/BkMtwM/creative/index.html',
+            childNodeCount: 1, documentURL: 'about:blank', localName: '', nodeId: 830,
+            nodeName: '#document', nodeType: 9, nodeValue: '', xmlVersion: ''}
+          frameId: '2675.9'
+          h: 0.0
+          localName: iframe
+          nodeId: 829
+          nodeName: IFRAME
+          nodeType: 1
+          nodeValue: ''
+          parent: 804
+          props: {border: '0', height: '0', src: 'gdaup:///loop', style: 'display:none',
+            width: '0'}
+          value: ''
+          w: 0.0
+          x: 0.0
+          y: 0.0
+        - &id023
+          attributes: [src, 'gdaup:///loop', height, '0', width, '0', border, '0',
+            style, 'display:none']
+          childNodeCount: 0
+          children: []
+          childrenids: []
+          contentDocument: {baseURL: 'file:///data/user/0/com.usatoday.android.news/files/Download/gravity/BkMtwM/creative/index.html',
+            childNodeCount: 1, documentURL: 'about:blank', localName: '', nodeId: 832,
+            nodeName: '#document', nodeType: 9, nodeValue: '', xmlVersion: ''}
+          frameId: '2675.10'
+          h: 0.0
+          localName: iframe
+          nodeId: 831
+          nodeName: IFRAME
+          nodeType: 1
+          nodeValue: ''
+          parent: 804
+          props: {border: '0', height: '0', src: 'gdaup:///loop', style: 'display:none',
+            width: '0'}
+          value: ''
+          w: 0.0
+          x: 0.0
+          y: 0.0
+        - &id024
+          attributes: [src, 'gdaup:///loop', height, '0', width, '0', border, '0',
+            style, 'display:none']
+          childNodeCount: 0
+          children: []
+          childrenids: []
+          contentDocument: {baseURL: 'file:///data/user/0/com.usatoday.android.news/files/Download/gravity/BkMtwM/creative/index.html',
+            childNodeCount: 1, documentURL: 'about:blank', localName: '', nodeId: 834,
+            nodeName: '#document', nodeType: 9, nodeValue: '', xmlVersion: ''}
+          frameId: '2675.11'
+          h: 0.0
+          localName: iframe
+          nodeId: 833
+          nodeName: IFRAME
+          nodeType: 1
+          nodeValue: ''
+          parent: 804
+          props: {border: '0', height: '0', src: 'gdaup:///loop', style: 'display:none',
+            width: '0'}
+          value: ''
+          w: 0.0
+          x: 0.0
+          y: 0.0
+        - &id025
+          attributes: [src, 'gdaup:///loop', height, '0', width, '0', border, '0',
+            style, 'display:none']
+          childNodeCount: 0
+          children: []
+          childrenids: []
+          contentDocument: {baseURL: 'file:///data/user/0/com.usatoday.android.news/files/Download/gravity/BkMtwM/creative/index.html',
+            childNodeCount: 1, documentURL: 'about:blank', localName: '', nodeId: 836,
+            nodeName: '#document', nodeType: 9, nodeValue: '', xmlVersion: ''}
+          frameId: '2675.12'
+          h: 0.0
+          localName: iframe
+          nodeId: 835
+          nodeName: IFRAME
+          nodeType: 1
+          nodeValue: ''
+          parent: 804
+          props: {border: '0', height: '0', src: 'gdaup:///loop', style: 'display:none',
+            width: '0'}
+          value: ''
+          w: 0.0
+          x: 0.0
+          y: 0.0
+        - &id026
+          attributes: [src, 'gdaup:///loop', height, '0', width, '0', border, '0',
+            style, 'display:none']
+          childNodeCount: 0
+          children: []
+          childrenids: []
+          contentDocument: {baseURL: 'file:///data/user/0/com.usatoday.android.news/files/Download/gravity/BkMtwM/creative/index.html',
+            childNodeCount: 1, documentURL: 'about:blank', localName: '', nodeId: 838,
+            nodeName: '#document', nodeType: 9, nodeValue: '', xmlVersion: ''}
+          frameId: '2675.13'
+          h: 0.0
+          localName: iframe
+          nodeId: 837
+          nodeName: IFRAME
+          nodeType: 1
+          nodeValue: ''
+          parent: 804
+          props: {border: '0', height: '0', src: 'gdaup:///loop', style: 'display:none',
+            width: '0'}
+          value: ''
+          w: 0.0
+          x: 0.0
+          y: 0.0
+        - &id027
+          attributes: [src, 'gdaup:///loop', height, '0', width, '0', border, '0',
+            style, 'display:none']
+          childNodeCount: 0
+          children: []
+          childrenids: []
+          contentDocument: {baseURL: 'file:///data/user/0/com.usatoday.android.news/files/Download/gravity/BkMtwM/creative/index.html',
+            childNodeCount: 1, documentURL: 'about:blank', localName: '', nodeId: 840,
+            nodeName: '#document', nodeType: 9, nodeValue: '', xmlVersion: ''}
+          frameId: '2675.14'
+          h: 0.0
+          localName: iframe
+          nodeId: 839
+          nodeName: IFRAME
+          nodeType: 1
+          nodeValue: ''
+          parent: 804
+          props: {border: '0', height: '0', src: 'gdaup:///loop', style: 'display:none',
+            width: '0'}
+          value: ''
+          w: 0.0
+          x: 0.0
+          y: 0.0
+        - &id028
+          attributes: [src, 'gdaup:///loop', height, '0', width, '0', border, '0',
+            style, 'display:none']
+          childNodeCount: 0
+          children: []
+          childrenids: []
+          contentDocument: {baseURL: 'file:///data/user/0/com.usatoday.android.news/files/Download/gravity/BkMtwM/creative/index.html',
+            childNodeCount: 1, documentURL: 'about:blank', localName: '', nodeId: 842,
+            nodeName: '#document', nodeType: 9, nodeValue: '', xmlVersion: ''}
+          frameId: '2675.15'
+          h: 0.0
+          localName: iframe
+          nodeId: 841
+          nodeName: IFRAME
+          nodeType: 1
+          nodeValue: ''
+          parent: 804
+          props: {border: '0', height: '0', src: 'gdaup:///loop', style: 'display:none',
+            width: '0'}
+          value: ''
+          w: 0.0
+          x: 0.0
+          y: 0.0
+        - &id029
+          attributes: [src, 'gdaup:///loop', height, '0', width, '0', border, '0',
+            style, 'display:none']
+          childNodeCount: 0
+          children: []
+          childrenids: []
+          contentDocument: {baseURL: 'file:///data/user/0/com.usatoday.android.news/files/Download/gravity/BkMtwM/creative/index.html',
+            childNodeCount: 1, documentURL: 'about:blank', localName: '', nodeId: 844,
+            nodeName: '#document', nodeType: 9, nodeValue: '', xmlVersion: ''}
+          frameId: '2675.16'
+          h: 0.0
+          localName: iframe
+          nodeId: 843
+          nodeName: IFRAME
+          nodeType: 1
+          nodeValue: ''
+          parent: 804
+          props: {border: '0', height: '0', src: 'gdaup:///loop', style: 'display:none',
+            width: '0'}
+          value: ''
+          w: 0.0
+          x: 0.0
+          y: 0.0
+        - &id030
+          attributes: [src, 'gdaup:///loop', height, '0', width, '0', border, '0',
+            style, 'display:none']
+          childNodeCount: 0
+          children: []
+          childrenids: []
+          contentDocument: {baseURL: 'file:///data/user/0/com.usatoday.android.news/files/Download/gravity/BkMtwM/creative/index.html',
+            childNodeCount: 1, documentURL: 'about:blank', localName: '', nodeId: 846,
+            nodeName: '#document', nodeType: 9, nodeValue: '', xmlVersion: ''}
+          frameId: '2675.17'
+          h: 0.0
+          localName: iframe
+          nodeId: 845
+          nodeName: IFRAME
+          nodeType: 1
+          nodeValue: ''
+          parent: 804
+          props: {border: '0', height: '0', src: 'gdaup:///loop', style: 'display:none',
+            width: '0'}
+          value: ''
+          w: 0.0
+          x: 0.0
+          y: 0.0
+        - &id031
+          attributes: [src, 'gdaup:///loop', height, '0', width, '0', border, '0',
+            style, 'display:none']
+          childNodeCount: 0
+          children: []
+          childrenids: []
+          contentDocument: {baseURL: 'file:///data/user/0/com.usatoday.android.news/files/Download/gravity/BkMtwM/creative/index.html',
+            childNodeCount: 1, documentURL: 'about:blank', localName: '', nodeId: 848,
+            nodeName: '#document', nodeType: 9, nodeValue: '', xmlVersion: ''}
+          frameId: '2675.18'
+          h: 0.0
+          localName: iframe
+          nodeId: 847
+          nodeName: IFRAME
+          nodeType: 1
+          nodeValue: ''
+          parent: 804
+          props: {border: '0', height: '0', src: 'gdaup:///loop', style: 'display:none',
+            width: '0'}
+          value: ''
+          w: 0.0
+          x: 0.0
+          y: 0.0
+        - &id032
+          attributes: [src, 'gdaup:///loop', height, '0', width, '0', border, '0',
+            style, 'display:none']
+          childNodeCount: 0
+          children: []
+          childrenids: []
+          contentDocument: {baseURL: 'file:///data/user/0/com.usatoday.android.news/files/Download/gravity/BkMtwM/creative/index.html',
+            childNodeCount: 1, documentURL: 'about:blank', localName: '', nodeId: 850,
+            nodeName: '#document', nodeType: 9, nodeValue: '', xmlVersion: ''}
+          frameId: '2675.19'
+          h: 0.0
+          localName: iframe
+          nodeId: 849
+          nodeName: IFRAME
+          nodeType: 1
+          nodeValue: ''
+          parent: 804
+          props: {border: '0', height: '0', src: 'gdaup:///loop', style: 'display:none',
+            width: '0'}
+          value: ''
+          w: 0.0
+          x: 0.0
+          y: 0.0
+        - &id033
+          attributes: [src, 'gdaup:///loop', height, '0', width, '0', border, '0',
+            style, 'display:none']
+          childNodeCount: 0
+          children: []
+          childrenids: []
+          contentDocument: {baseURL: 'file:///data/user/0/com.usatoday.android.news/files/Download/gravity/BkMtwM/creative/index.html',
+            childNodeCount: 1, documentURL: 'about:blank', localName: '', nodeId: 852,
+            nodeName: '#document', nodeType: 9, nodeValue: '', xmlVersion: ''}
+          frameId: '2675.20'
+          h: 0.0
+          localName: iframe
+          nodeId: 851
+          nodeName: IFRAME
+          nodeType: 1
+          nodeValue: ''
+          parent: 804
+          props: {border: '0', height: '0', src: 'gdaup:///loop', style: 'display:none',
+            width: '0'}
+          value: ''
+          w: 0.0
+          x: 0.0
+          y: 0.0
+        - &id034
+          attributes: [src, 'gdaup:///loop', height, '0', width, '0', border, '0',
+            style, 'display:none']
+          childNodeCount: 0
+          children: []
+          childrenids: []
+          contentDocument: {baseURL: 'file:///data/user/0/com.usatoday.android.news/files/Download/gravity/BkMtwM/creative/index.html',
+            childNodeCount: 1, documentURL: 'about:blank', localName: '', nodeId: 854,
+            nodeName: '#document', nodeType: 9, nodeValue: '', xmlVersion: ''}
+          frameId: '2675.21'
+          h: 0.0
+          localName: iframe
+          nodeId: 853
+          nodeName: IFRAME
+          nodeType: 1
+          nodeValue: ''
+          parent: 804
+          props: {border: '0', height: '0', src: 'gdaup:///loop', style: 'display:none',
+            width: '0'}
+          value: ''
+          w: 0.0
+          x: 0.0
+          y: 0.0
+        - &id035
+          attributes: [src, 'gdaup:///loop', height, '0', width, '0', border, '0',
+            style, 'display:none']
+          childNodeCount: 0
+          children: []
+          childrenids: []
+          contentDocument: {baseURL: 'file:///data/user/0/com.usatoday.android.news/files/Download/gravity/BkMtwM/creative/index.html',
+            childNodeCount: 1, documentURL: 'about:blank', localName: '', nodeId: 856,
+            nodeName: '#document', nodeType: 9, nodeValue: '', xmlVersion: ''}
+          frameId: '2675.22'
+          h: 0.0
+          localName: iframe
+          nodeId: 855
+          nodeName: IFRAME
+          nodeType: 1
+          nodeValue: ''
+          parent: 804
+          props: {border: '0', height: '0', src: 'gdaup:///loop', style: 'display:none',
+            width: '0'}
+          value: ''
+          w: 0.0
+          x: 0.0
+          y: 0.0
+        - &id036
+          attributes: [src, 'gdaup:///loop', height, '0', width, '0', border, '0',
+            style, 'display:none']
+          childNodeCount: 0
+          children: []
+          childrenids: []
+          contentDocument: {baseURL: 'file:///data/user/0/com.usatoday.android.news/files/Download/gravity/BkMtwM/creative/index.html',
+            childNodeCount: 1, documentURL: 'about:blank', localName: '', nodeId: 858,
+            nodeName: '#document', nodeType: 9, nodeValue: '', xmlVersion: ''}
+          frameId: '2675.23'
+          h: 0.0
+          localName: iframe
+          nodeId: 857
+          nodeName: IFRAME
+          nodeType: 1
+          nodeValue: ''
+          parent: 804
+          props: {border: '0', height: '0', src: 'gdaup:///loop', style: 'display:none',
+            width: '0'}
+          value: ''
+          w: 0.0
+          x: 0.0
+          y: 0.0
+        - &id037
+          attributes: [src, 'gdaup:///loop', height, '0', width, '0', border, '0',
+            style, 'display:none']
+          childNodeCount: 0
+          children: []
+          childrenids: []
+          contentDocument: {baseURL: 'file:///data/user/0/com.usatoday.android.news/files/Download/gravity/BkMtwM/creative/index.html',
+            childNodeCount: 1, documentURL: 'about:blank', localName: '', nodeId: 860,
+            nodeName: '#document', nodeType: 9, nodeValue: '', xmlVersion: ''}
+          frameId: '2675.24'
+          h: 0.0
+          localName: iframe
+          nodeId: 859
+          nodeName: IFRAME
+          nodeType: 1
+          nodeValue: ''
+          parent: 804
+          props: {border: '0', height: '0', src: 'gdaup:///loop', style: 'display:none',
+            width: '0'}
+          value: ''
+          w: 0.0
+          x: 0.0
+          y: 0.0
+        - &id038
+          attributes: [src, 'gdaup:///loop', height, '0', width, '0', border, '0',
+            style, 'display:none']
+          childNodeCount: 0
+          children: []
+          childrenids: []
+          contentDocument: {baseURL: 'file:///data/user/0/com.usatoday.android.news/files/Download/gravity/BkMtwM/creative/index.html',
+            childNodeCount: 1, documentURL: 'about:blank', localName: '', nodeId: 862,
+            nodeName: '#document', nodeType: 9, nodeValue: '', xmlVersion: ''}
+          frameId: '2675.25'
+          h: 0.0
+          localName: iframe
+          nodeId: 861
+          nodeName: IFRAME
+          nodeType: 1
+          nodeValue: ''
+          parent: 804
+          props: {border: '0', height: '0', src: 'gdaup:///loop', style: 'display:none',
+            width: '0'}
+          value: ''
+          w: 0.0
+          x: 0.0
+          y: 0.0
+        - &id039
+          attributes: [src, 'gdaup:///loop', height, '0', width, '0', border, '0',
+            style, 'display:none']
+          childNodeCount: 0
+          children: []
+          childrenids: []
+          contentDocument: {baseURL: 'file:///data/user/0/com.usatoday.android.news/files/Download/gravity/BkMtwM/creative/index.html',
+            childNodeCount: 1, documentURL: 'about:blank', localName: '', nodeId: 864,
+            nodeName: '#document', nodeType: 9, nodeValue: '', xmlVersion: ''}
+          frameId: '2675.26'
+          h: 0.0
+          localName: iframe
+          nodeId: 863
+          nodeName: IFRAME
+          nodeType: 1
+          nodeValue: ''
+          parent: 804
+          props: {border: '0', height: '0', src: 'gdaup:///loop', style: 'display:none',
+            width: '0'}
+          value: ''
+          w: 0.0
+          x: 0.0
+          y: 0.0
+        - &id040
+          attributes: [src, 'gdaup:///loop', height, '0', width, '0', border, '0',
+            style, 'display:none']
+          childNodeCount: 0
+          children: []
+          childrenids: []
+          contentDocument: {baseURL: 'file:///data/user/0/com.usatoday.android.news/files/Download/gravity/BkMtwM/creative/index.html',
+            childNodeCount: 1, documentURL: 'about:blank', localName: '', nodeId: 866,
+            nodeName: '#document', nodeType: 9, nodeValue: '', xmlVersion: ''}
+          frameId: '2675.27'
+          h: 0.0
+          localName: iframe
+          nodeId: 865
+          nodeName: IFRAME
+          nodeType: 1
+          nodeValue: ''
+          parent: 804
+          props: {border: '0', height: '0', src: 'gdaup:///loop', style: 'display:none',
+            width: '0'}
+          value: ''
+          w: 0.0
+          x: 0.0
+          y: 0.0
+        - &id041
+          attributes: [src, 'gdaup:///loop', height, '0', width, '0', border, '0',
+            style, 'display:none']
+          childNodeCount: 0
+          children: []
+          childrenids: []
+          contentDocument: {baseURL: 'file:///data/user/0/com.usatoday.android.news/files/Download/gravity/BkMtwM/creative/index.html',
+            childNodeCount: 1, documentURL: 'about:blank', localName: '', nodeId: 868,
+            nodeName: '#document', nodeType: 9, nodeValue: '', xmlVersion: ''}
+          frameId: '2675.28'
+          h: 0.0
+          localName: iframe
+          nodeId: 867
+          nodeName: IFRAME
+          nodeType: 1
+          nodeValue: ''
+          parent: 804
+          props: {border: '0', height: '0', src: 'gdaup:///loop', style: 'display:none',
+            width: '0'}
+          value: ''
+          w: 0.0
+          x: 0.0
+          y: 0.0
+        - &id042
+          attributes: [src, 'gdaup:///loop', height, '0', width, '0', border, '0',
+            style, 'display:none']
+          childNodeCount: 0
+          children: []
+          childrenids: []
+          contentDocument: {baseURL: 'file:///data/user/0/com.usatoday.android.news/files/Download/gravity/BkMtwM/creative/index.html',
+            childNodeCount: 1, documentURL: 'about:blank', localName: '', nodeId: 870,
+            nodeName: '#document', nodeType: 9, nodeValue: '', xmlVersion: ''}
+          frameId: '2675.29'
+          h: 0.0
+          localName: iframe
+          nodeId: 869
+          nodeName: IFRAME
+          nodeType: 1
+          nodeValue: ''
+          parent: 804
+          props: {border: '0', height: '0', src: 'gdaup:///loop', style: 'display:none',
+            width: '0'}
+          value: ''
+          w: 0.0
+          x: 0.0
+          y: 0.0
+        - &id043
+          attributes: [src, 'gdaup:///loop', height, '0', width, '0', border, '0',
+            style, 'display:none']
+          childNodeCount: 0
+          children: []
+          childrenids: []
+          contentDocument: {baseURL: 'file:///data/user/0/com.usatoday.android.news/files/Download/gravity/BkMtwM/creative/index.html',
+            childNodeCount: 1, documentURL: 'about:blank', localName: '', nodeId: 872,
+            nodeName: '#document', nodeType: 9, nodeValue: '', xmlVersion: ''}
+          frameId: '2675.30'
+          h: 0.0
+          localName: iframe
+          nodeId: 871
+          nodeName: IFRAME
+          nodeType: 1
+          nodeValue: ''
+          parent: 804
+          props: {border: '0', height: '0', src: 'gdaup:///loop', style: 'display:none',
+            width: '0'}
+          value: ''
+          w: 0.0
+          x: 0.0
+          y: 0.0
+        childrenids: [805, 806, 814, 815, 817, 819, 821, 823, 825, 827, 829, 831,
+          833, 835, 837, 839, 841, 843, 845, 847, 849, 851, 853, 855, 857, 859, 861,
+          863, 865, 867, 869, 871]
+        h: 0.0
+        localName: div
+        nodeId: 804
+        nodeName: DIV
+        nodeType: 1
+        nodeValue: ''
+        parent: 791
+        props: {class: partner-placement}
+        value: ''
+        w: 0.0
+        x: 0.0
+        y: 0.0
+      805: *id006
+      806: *id007
+      807: *id008
+      808: *id009
+      810: *id010
+      811: *id011
+      812: *id012
+      813: *id013
+      814: *id014
+      815: *id015
+      817: *id016
+      819: *id017
+      821: *id018
+      823: *id019
+      825: *id020
+      827: *id021
+      829: *id022
+      831: *id023
+      833: *id024
+      835: *id025
+      837: *id026
+      839: *id027
+      841: *id028
+      843: *id029
+      845: *id030
+      847: *id031
+      849: *id032
+      851: *id033
+      853: *id034
+      855: *id035
+      857: *id036
+      859: *id037
+      861: *id038
+      863: *id039
+      865: *id040
+      867: *id041
+      869: *id042
+      871: *id043
+      873:
+        attributes: [type, text/javascript]
+        childNodeCount: 1
+        children:
+        - {localName: '', nodeId: 874, nodeName: '#text', nodeType: 3, nodeValue: "\n\
+            \            var dfpTemplateData = {\n                clickTracking: [],\n\
+            \                extraData: {}\n            };\n        "}
+        childrenids: []
+        localName: script
+        nodeId: 873
+        nodeName: SCRIPT
+        nodeType: 1
+        nodeValue: ''
+        parent: 791
+        props: {type: text/javascript}
+      875:
+        attributes: [data-main, scripts/mobile-gravity-script, src, scripts/require.min.js]
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: script
+        nodeId: 875
+        nodeName: SCRIPT
+        nodeType: 1
+        nodeValue: ''
+        parent: 791
+        props: {data-main: scripts/mobile-gravity-script, src: scripts/require.min.js}
+      876:
+        attributes: [src, 'gdaup:///loaded', height, '0', width, '0', border, '0',
+          style, 'display:none']
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        contentDocument: {baseURL: 'file:///data/user/0/com.usatoday.android.news/files/Download/gravity/BkMtwM/creative/index.html',
+          childNodeCount: 1, documentURL: 'about:blank', localName: '', nodeId: 877,
+          nodeName: '#document', nodeType: 9, nodeValue: '', xmlVersion: ''}
+        frameId: '2675.6'
+        h: 0.0
+        localName: iframe
+        nodeId: 876
+        nodeName: IFRAME
+        nodeType: 1
+        nodeValue: ''
+        parent: 791
+        props: {border: '0', height: '0', src: 'gdaup:///loaded', style: 'display:none',
+          width: '0'}
+        value: ''
+        w: 0.0
+        x: 0.0
+        y: 0.0
+    page: {base_h: 0, base_w: 0, base_x: 0, base_y: 0, empty: true, title: Gravity
+        - Gannett Digital, url: 'file:///data/user/0/com.usatoday.android.news/files/Download/gravity/BkMtwM/creative/index.html',
+      ws_url: 'ws://127.0.0.1:12345/devtools/page/E0F5AECC-DF9A-4B2F-B64A-EC0B0B5BB267'}
+    parents: {788: 787, 789: 787, 790: 789, 791: 789, 792: 790, 793: 790, 794: 790,
+      795: 794, 796: 790, 797: 790, 798: 790, 799: 790, 800: 790, 801: 790, 802: 790,
+      803: 790, 804: 791, 805: 804, 806: 804, 807: 806, 808: 807, 810: 806, 811: 810,
+      812: 806, 813: 812, 814: 804, 815: 804, 817: 804, 819: 804, 821: 804, 823: 804,
+      825: 804, 827: 804, 829: 804, 831: 804, 833: 804, 835: 804, 837: 804, 839: 804,
+      841: 804, 843: 804, 845: 804, 847: 804, 849: 804, 851: 804, 853: 804, 855: 804,
+      857: 804, 859: 804, 861: 804, 863: 804, 865: 804, 867: 804, 869: 804, 871: 804,
+      873: 791, 874: 873, 875: 791, 876: 791}
+    scaling: 2.625
+  title: Gravity - Gannett Digital
+- page:
+    base_h: 656
+    base_w: 788
+    base_x: 146
+    base_y: 505
+    html_h: 254.0
+    html_w: 301.0
+    nodes:
+      1:
+        baseURL: http://www.gannett-cdn.com/
+        childNodeCount: 2
+        children:
+        - &id044
+          childrenids: []
+          localName: ''
+          nodeId: 2
+          nodeName: html
+          nodeType: 10
+          nodeValue: ''
+          parent: 1
+          props: {}
+          publicId: ''
+          systemId: ''
+        - &id045
+          attributes: [lang, en]
+          childNodeCount: 2
+          children:
+          - &id046
+            attributes: []
+            childNodeCount: 5
+            childrenids: [6, 7, 8, 9, 11]
+            h: 0.0
+            localName: head
+            nodeId: 4
+            nodeName: HEAD
+            nodeType: 1
+            nodeValue: ''
+            parent: 3
+            props: {}
+            value: ''
+            w: 0.0
+            x: 0.0
+            y: 0.0
+          - &id047
+            attributes: []
+            childNodeCount: 3
+            childrenids: [13, 15, 19]
+            h: 254.0
+            localName: body
+            nodeId: 5
+            nodeName: BODY
+            nodeType: 1
+            nodeValue: ''
+            parent: 3
+            props: {}
+            value: ''
+            w: 301.0
+            x: 0.0
+            y: -4.0
+          childrenids: [4, 5]
+          h: 254.0
+          localName: html
+          nodeId: 3
+          nodeName: HTML
+          nodeType: 1
+          nodeValue: ''
+          parent: 1
+          props: {lang: en}
+          value: ''
+          w: 301.0
+          x: 0.0
+          y: -4.0
+        childrenids: [2, 3]
+        documentURL: http://www.gannett-cdn.com/
+        localName: ''
+        nodeId: 1
+        nodeName: '#document'
+        nodeType: 9
+        nodeValue: ''
+        parent: -1
+        props: {}
+        xmlVersion: ''
+      2: *id044
+      3: *id045
+      4: *id046
+      5: *id047
+      6:
+        attributes: [charset, utf-8]
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: meta
+        nodeId: 6
+        nodeName: META
+        nodeType: 1
+        nodeValue: ''
+        parent: 4
+        props: {charset: utf-8}
+      7:
+        attributes: [http-equiv, X-UA-Compatible, content, 'IE=edge,chrome=1']
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: meta
+        nodeId: 7
+        nodeName: META
+        nodeType: 1
+        nodeValue: ''
+        parent: 4
+        props: {content: 'IE=edge,chrome=1', http-equiv: X-UA-Compatible}
+      8:
+        attributes: [name, format-detection, content, telephone=no]
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: meta
+        nodeId: 8
+        nodeName: META
+        nodeType: 1
+        nodeValue: ''
+        parent: 4
+        props: {content: telephone=no, name: format-detection}
+      9:
+        attributes: []
+        childNodeCount: 1
+        children:
+        - &id048
+          childrenids: []
+          localName: ''
+          nodeId: 10
+          nodeName: '#text'
+          nodeType: 3
+          nodeValue: Gannett Digital - Leavebehind
+          parent: 9
+          props: {}
+        childrenids: [10]
+        h: 0.0
+        localName: title
+        nodeId: 9
+        nodeName: TITLE
+        nodeType: 1
+        nodeValue: ''
+        parent: 4
+        props: {}
+        value: ''
+        w: 0.0
+        x: 0.0
+        y: 0.0
+      10: *id048
+      11:
+        attributes: []
+        childNodeCount: 1
+        children:
+        - &id049
+          childrenids: []
+          localName: ''
+          nodeId: 12
+          nodeName: '#text'
+          nodeType: 3
+          nodeValue: "\n                \n                html,\n                body\
+            \ {\n                    overflow:hidden;\n                }\n\n     \
+            \           body {\n                    height: 250;\n               \
+            \     margin: 0;\n                    padding: 0;\n                  \
+            \  width: %% WIDTH%%;\n                }\n\n                a {\n    \
+            \                outline: none;\n                    display: block;\n\
+            \                    text-align: center;\n                    text-decoration:\
+            \ none;\n                }\n            "
+          parent: 11
+          props: {}
+        childrenids: [12]
+        h: 0.0
+        localName: style
+        nodeId: 11
+        nodeName: STYLE
+        nodeType: 1
+        nodeValue: ''
+        parent: 4
+        props: {}
+        value: ''
+        w: 0.0
+        x: 0.0
+        y: 0.0
+      12: *id049
+      13:
+        attributes: [id, expander, href, 'gdaup:///expand?cacheid=BkMtwM', target,
+          _blank]
+        childNodeCount: 1
+        children:
+        - &id050
+          attributes: [src, 'https://www.gannett-cdn.com/ads/application/creative/BkMtwM/lb_300x250_84751557.png',
+            width, '300', height, '250']
+          childNodeCount: 0
+          children: []
+          childrenids: []
+          h: 250.0
+          localName: img
+          nodeId: 14
+          nodeName: IMG
+          nodeType: 1
+          nodeValue: ''
+          parent: 13
+          props: {height: '250', src: 'https://www.gannett-cdn.com/ads/application/creative/BkMtwM/lb_300x250_84751557.png',
+            width: '300'}
+          value: ''
+          w: 300.0
+          x: 0.5
+          y: -4.0
+        childrenids: [14]
+        h: 254.0
+        localName: a
+        nodeId: 13
+        nodeName: A
+        nodeType: 1
+        nodeValue: ''
+        parent: 5
+        props: {href: 'gdaup:///expand?cacheid=BkMtwM', id: expander, target: _blank}
+        value: ''
+        w: 301.0
+        x: 0.0
+        y: -4.0
+      14: *id050
+      15:
+        attributes: [style, 'display: none;']
+        childNodeCount: 2
+        children:
+        - &id051
+          attributes: [src, 'https://ad.doubleclick.net/ddm/ad/N8493.354331.NOVUSMEDIAINC.COM/B10902486.145528419;sz=1x1;kw=dream;ord=296844388;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=?',
+            border, '0', width, '1', height, '1', alt, Advertisement]
+          childNodeCount: 0
+          children: []
+          childrenids: []
+          h: 0.0
+          localName: img
+          nodeId: 16
+          nodeName: IMG
+          nodeType: 1
+          nodeValue: ''
+          parent: 15
+          props: {alt: Advertisement, border: '0', height: '1', src: 'https://ad.doubleclick.net/ddm/ad/N8493.354331.NOVUSMEDIAINC.COM/B10902486.145528419;sz=1x1;kw=dream;ord=296844388;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=?',
+            width: '1'}
+          value: ''
+          w: 0.0
+          x: 0.0
+          y: 0.0
+        - &id052
+          attributes: [src, 'about:blank', id, clicker]
+          childNodeCount: 0
+          children: []
+          childrenids: []
+          contentDocument: {baseURL: 'http://www.gannett-cdn.com/', childNodeCount: 1,
+            documentURL: 'about:blank', localName: '', nodeId: 18, nodeName: '#document',
+            nodeType: 9, nodeValue: '', xmlVersion: ''}
+          frameId: '2675.31'
+          h: 0.0
+          localName: iframe
+          nodeId: 17
+          nodeName: IFRAME
+          nodeType: 1
+          nodeValue: ''
+          parent: 15
+          props: {id: clicker, src: 'about:blank'}
+          value: ''
+          w: 0.0
+          x: 0.0
+          y: 0.0
+        childrenids: [16, 17]
+        h: 0.0
+        localName: div
+        nodeId: 15
+        nodeName: DIV
+        nodeType: 1
+        nodeValue: ''
+        parent: 5
+        props: {style: 'display: none;'}
+        value: ''
+        w: 0.0
+        x: 0.0
+        y: 0.0
+      16: *id051
+      17: *id052
+      19:
+        attributes: []
+        childNodeCount: 1
+        children:
+        - {localName: '', nodeId: 20, nodeName: '#text', nodeType: 3, nodeValue: "\n\
+            \                document.body.addEventListener('touchmove', function(event)\
+            \ {\n                    event.preventDefault();\n                });\n\
+            \n                window.action = null;\n                window.play =\
+            \ function() {\n                    window.action = 'play'\n         \
+            \       }\n                window.stop = function() {\n              \
+            \      window.action = null;\n                }\n                window.resize\
+            \ = function() {};\n                window.appVersion = '4.12.1';\n\n\
+            \                var expander = document.getElementById('expander');\n\
+            \                expander.onclick = function(){\n                    document.getElementById('clicker').setAttribute('src',\
+            \ 'https://adclick.g.doubleclick.net/pcs/click?xai=AKAOjstOQWfMYDoCOKJD8pAnTX-Rcq6CUp6AiIhuaEMD_qFg9OBrMIfCnfnPQbbqRQIA0Je4gYwelcyBhlc22XLLf1hZ0oQWajeqoEK0PZejdoQR-Qn6pztij-CddhPF8j16rKoFg2ZnlL7jb10VpCvZN87UlwD841yJPa2nRSj5MkJRDKBuAVgdtmkAooXUP8AOpZeE1Tbkytx_zlfQQbBC1314tbnKedMYuqZsBrn7VAF2pCOUzES79w2seL57MeAFL6r3MlB9jfxPA20b2-DyXZzgP4rAOgpdubdfSchKW0gi&sai=AMfl-YTXTDNmcXKYsZJhIp3ju8Vva_GWL9-HrVq1ZeRxwT1dg4h8EncQioTLayfxBfQ&sig=Cg0ArKJSzEVzbZrMREDtEAE&urlfix=1&adurl=https://www.gannett-cdn.com/ads/images/pixels/pixel-transparent.png');\n\
+            \                };\n            "}
+        childrenids: []
+        localName: script
+        nodeId: 19
+        nodeName: SCRIPT
+        nodeType: 1
+        nodeValue: ''
+        parent: 5
+        props: {}
+    page: {base_h: 656, base_w: 788, base_x: 146, base_y: 505, empty: false, title: Gannett
+        Digital - Leavebehind, url: 'about:blank', ws_url: 'ws://127.0.0.1:12345/devtools/page/4C031F6F-4BA1-4921-931F-9E3CD6D5261E'}
+    parents: {2: 1, 3: 1, 4: 3, 5: 3, 6: 4, 7: 4, 8: 4, 9: 4, 10: 9, 11: 4, 12: 11,
+      13: 5, 14: 13, 15: 5, 16: 15, 17: 15, 19: 5, 20: 19}
+    scaling: 2.625
+  title: Gannett Digital - Leavebehind
+- page:
+    base_h: 656
+    base_w: 787
+    base_x: 4193
+    base_y: 703
+    html_h: 250.0
+    html_w: 300.0
+    nodes:
+      1:
+        baseURL: https://pubads.g.doubleclick.net/gampad/ads?_activity_context=false&android_num_video_cache_tasks=0&caps=inlineVideo_interactiveVideo_mraid1_mraid2_sdkVideo_th_autoplay_mediation_av_transparentBackground_sdkAdmobApiForAds_di_aso_sfv_dinm_dim_dinmo_gcache&eid=318475406%2C318477040%2C318476426%2C318476960%2C318477768%2C318477714%2C46621102&format=300x250_as&heap_free=1626560&heap_max=100663296&heap_total=44745600&js=afma-sdk-a-v10298470.9080000.2&msid=com.usatoday.android.news&request_pkg=com.gannett.android.ads.DfpAdRetriever&scroll_index=-1&seq_num=5&target_api=24
+        childNodeCount: 2
+        children:
+        - &id053
+          childrenids: []
+          localName: ''
+          nodeId: 2
+          nodeName: html
+          nodeType: 10
+          nodeValue: ''
+          parent: 1
+          props: {}
+          publicId: ''
+          systemId: ''
+        - &id054
+          attributes: []
+          childNodeCount: 2
+          children:
+          - &id055
+            attributes: []
+            childNodeCount: 11
+            childrenids: [6, 7, 9, 11, 12, 13, 14, 15, 16, 18, 20]
+            h: 0.0
+            localName: head
+            nodeId: 4
+            nodeName: HEAD
+            nodeType: 1
+            nodeValue: ''
+            parent: 3
+            props: {}
+            value: ''
+            w: 0.0
+            x: 0.0
+            y: 0.0
+          - &id056
+            attributes: [leftmargin, '0', topmargin, '0', marginwidth, '0', marginheight,
+              '0']
+            childNodeCount: 15
+            childrenids: [22, 24, 27, 28, 29, 116, 118, 120, 122, 123, 125, 127, 129,
+              131, 133]
+            h: 250.0
+            localName: body
+            nodeId: 5
+            nodeName: BODY
+            nodeType: 1
+            nodeValue: ''
+            parent: 3
+            props: {leftmargin: '0', marginheight: '0', marginwidth: '0', topmargin: '0'}
+            value: ''
+            w: 300.0
+            x: 0.0
+            y: 0.0
+          childrenids: [4, 5]
+          h: 250.0
+          localName: html
+          nodeId: 3
+          nodeName: HTML
+          nodeType: 1
+          nodeValue: ''
+          parent: 1
+          props: {}
+          value: ''
+          w: 300.0
+          x: 0.0
+          y: 0.0
+        childrenids: [2, 3]
+        documentURL: https://pubads.g.doubleclick.net/gampad/ads?_activity_context=false&android_num_video_cache_tasks=0&caps=inlineVideo_interactiveVideo_mraid1_mraid2_sdkVideo_th_autoplay_mediation_av_transparentBackground_sdkAdmobApiForAds_di_aso_sfv_dinm_dim_dinmo_gcache&eid=318475406%2C318477040%2C318476426%2C318476960%2C318477768%2C318477714%2C46621102&format=300x250_as&heap_free=1626560&heap_max=100663296&heap_total=44745600&js=afma-sdk-a-v10298470.9080000.2&msid=com.usatoday.android.news&request_pkg=com.gannett.android.ads.DfpAdRetriever&scroll_index=-1&seq_num=5&target_api=24#_activity_context=false&android_num_video_cache_tasks=0&caps=inlineVideo_interactiveVideo_mraid1_mraid2_sdkVideo_th_autoplay_mediation_av_transparentBackground_sdkAdmobApiForAds_di_aso_sfv_dinm_dim_dinmo_gcache&eid=318475406%252C318477040%252C318476426%252C318476960%252C318477768%252C318477714%252C46621102&format=300x250_as&heap_free=1626560&heap_max=100663296&heap_total=44745600&js=afma-sdk-a-v10298470.9080000.2&msid=com.usatoday.android.news&request_pkg=com.gannett.android.ads.DfpAdRetriever&scroll_index=-1&seq_num=5&target_api=24
+        localName: ''
+        nodeId: 1
+        nodeName: '#document'
+        nodeType: 9
+        nodeValue: ''
+        parent: -1
+        props: {}
+        xmlVersion: ''
+      2: *id053
+      3: *id054
+      4: *id055
+      5: *id056
+      6:
+        attributes: [class, vjs-styles-defaults]
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        h: 0.0
+        localName: style
+        nodeId: 6
+        nodeName: STYLE
+        nodeType: 1
+        nodeValue: ''
+        parent: 4
+        props: {class: vjs-styles-defaults}
+        value: ''
+        w: 0.0
+        x: 0.0
+        y: 0.0
+      7:
+        attributes: [class, vjs-styles-dimensions]
+        childNodeCount: 1
+        children:
+        - &id057
+          childrenids: []
+          localName: ''
+          nodeId: 8
+          nodeName: '#text'
+          nodeType: 3
+          nodeValue: "\n      .video-js.sr-player-ef9e26bf-fda6-45a8-9b03-0540f527ea9b-dimensions\
+            \ {\n        width: 300px;\n        height: 250px;\n      }\n\n      .video-js.sr-player-ef9e26bf-fda6-45a8-9b03-0540f527ea9b-dimensions.vjs-fluid\
+            \ {\n        padding-top: 56.25%;\n      }\n    "
+          parent: 7
+          props: {}
+        childrenids: [8]
+        h: 0.0
+        localName: style
+        nodeId: 7
+        nodeName: STYLE
+        nodeType: 1
+        nodeValue: ''
+        parent: 4
+        props: {class: vjs-styles-dimensions}
+        value: ''
+        w: 0.0
+        x: 0.0
+        y: 0.0
+      8: *id057
+      9:
+        attributes: [class, vjs-styles-dimensions]
+        childNodeCount: 1
+        children:
+        - &id058
+          childrenids: []
+          localName: ''
+          nodeId: 10
+          nodeName: '#text'
+          nodeType: 3
+          nodeValue: "\n      .video-js.sr-player-content-ef9e26bf-fda6-45a8-9b03-0540f527ea9b-dimensions\
+            \ {\n        width: 300px;\n        height: 250px;\n      }\n\n      .video-js.sr-player-content-ef9e26bf-fda6-45a8-9b03-0540f527ea9b-dimensions.vjs-fluid\
+            \ {\n        padding-top: 56.666666666666664%;\n      }\n    "
+          parent: 9
+          props: {}
+        childrenids: [10]
+        h: 0.0
+        localName: style
+        nodeId: 9
+        nodeName: STYLE
+        nodeType: 1
+        nodeValue: ''
+        parent: 4
+        props: {class: vjs-styles-dimensions}
+        value: ''
+        w: 0.0
+        x: 0.0
+        y: 0.0
+      10: *id058
+      11:
+        attributes: [name, viewport, content, 'width=300, initial-scale=1.0, minimum-scale=1.0,
+            maximum-scale=1.0, user-scalable=no']
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: meta
+        nodeId: 11
+        nodeName: META
+        nodeType: 1
+        nodeValue: ''
+        parent: 4
+        props: {content: 'width=300, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0,
+            user-scalable=no', name: viewport}
+      12:
+        attributes: [type, text/javascript, src, 'https://vast-f9-us-va.adhigh.net/p/v_imp.js?cb=1491246772701&b=e34642e573793u5gg00000000000il94qq0r8sa7tap84g708359k4ig9pkg8c6fmctj7dluqhm5u9d55r24ipiioetmra11jbe6qrhdbblinfpcl0c096n3rt4osj966up8miuv9kibk625omn8k58dkkoftkgvh4ib40a8oehbr4gu95nfu3rbrdvfdvffn1k52ufnukcpn6b3uame9181lrcc05od8jcivp6kqiujah6ng47g73j2ok6tm2jvaf9n3525pmb3nr7q6gsd0s4ou4n60kuq2qdt87mbi6ibb7a8jddo3ejb39j3ab831ldglp2rp8to5jlf6h31h6979ecivla9hmqj9p9mpmpm5mhm0i80e3sk68d6fo03hhpq8ck9qf69u1a9h6udh8icjs2v1ogaukrb9o25ub9rqljbbpjuqbkaqtfdnlavmjhi9jrgt5r8lfm5lu5ou7cpv8tfc4q1kjc30i9ch4o89hodsmbcrims4ut1ujp4pufkovhinftlvdh2dlungme57cd8hl2h7u285h5hrh1c14tuok3584jglfce3bo381loqim3nqordf5oqlehv412bujgpqhbj7vvfbqf1tfiaumvhuumqomvul98ooeg3v2r1vnnnfmf6h9sbq66h8bgp1i5sh6ck8ehlu49dgjgpvjmh58f0soj5dshiaskbc42jiqtmi1ngh1b11c7ojb32mgsf1v4fatf7ej5aat2uhg1ceftnr7reu5rsoipkq8kahhgtnd85lnt8lr4shtvm71de5rjv725etsh8ur1k18l3eeshn11tlt8q1apqoi34n24dtdgtm4j36jcit2tt6qa2dnh3cet3p9u5jluoaa070jlreh0bb6qc8m02lcv2kjrik3nmprskqrlm7bhpp1tqoj70fkjf9r2v08pqf8aij0865id6am82hdr4megmc9g4v7g9dkhp4rfplvvjaqofqn3dfu09v22i7knhop7vrn3qa1b195j1d5aedaf5l0odaedkq1jc6glks2n0ccolhp0g2slrntu744vqofjofrqicm2g97iecu9gk68i2kmp3m73q9u57prplnldflrusb4rvkufhpl1uht8nfvtsacpk475neklcj2ib32gnc18atkga4m44qq2lddja4omq1muk8a60mpg9e7p6g2q7t48hr5q8i9sdrkpm11t793n045vjcrnbkk8dvt0qrr1hmgdni1eqvu8470fv8agf5dug1g000&f=4',
+          async, '']
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: script
+        nodeId: 12
+        nodeName: SCRIPT
+        nodeType: 1
+        nodeValue: ''
+        parent: 4
+        props: {async: '', src: 'https://vast-f9-us-va.adhigh.net/p/v_imp.js?cb=1491246772701&b=e34642e573793u5gg00000000000il94qq0r8sa7tap84g708359k4ig9pkg8c6fmctj7dluqhm5u9d55r24ipiioetmra11jbe6qrhdbblinfpcl0c096n3rt4osj966up8miuv9kibk625omn8k58dkkoftkgvh4ib40a8oehbr4gu95nfu3rbrdvfdvffn1k52ufnukcpn6b3uame9181lrcc05od8jcivp6kqiujah6ng47g73j2ok6tm2jvaf9n3525pmb3nr7q6gsd0s4ou4n60kuq2qdt87mbi6ibb7a8jddo3ejb39j3ab831ldglp2rp8to5jlf6h31h6979ecivla9hmqj9p9mpmpm5mhm0i80e3sk68d6fo03hhpq8ck9qf69u1a9h6udh8icjs2v1ogaukrb9o25ub9rqljbbpjuqbkaqtfdnlavmjhi9jrgt5r8lfm5lu5ou7cpv8tfc4q1kjc30i9ch4o89hodsmbcrims4ut1ujp4pufkovhinftlvdh2dlungme57cd8hl2h7u285h5hrh1c14tuok3584jglfce3bo381loqim3nqordf5oqlehv412bujgpqhbj7vvfbqf1tfiaumvhuumqomvul98ooeg3v2r1vnnnfmf6h9sbq66h8bgp1i5sh6ck8ehlu49dgjgpvjmh58f0soj5dshiaskbc42jiqtmi1ngh1b11c7ojb32mgsf1v4fatf7ej5aat2uhg1ceftnr7reu5rsoipkq8kahhgtnd85lnt8lr4shtvm71de5rjv725etsh8ur1k18l3eeshn11tlt8q1apqoi34n24dtdgtm4j36jcit2tt6qa2dnh3cet3p9u5jluoaa070jlreh0bb6qc8m02lcv2kjrik3nmprskqrlm7bhpp1tqoj70fkjf9r2v08pqf8aij0865id6am82hdr4megmc9g4v7g9dkhp4rfplvvjaqofqn3dfu09v22i7knhop7vrn3qa1b195j1d5aedaf5l0odaedkq1jc6glks2n0ccolhp0g2slrntu744vqofjofrqicm2g97iecu9gk68i2kmp3m73q9u57prplnldflrusb4rvkufhpl1uht8nfvtsacpk475neklcj2ib32gnc18atkga4m44qq2lddja4omq1muk8a60mpg9e7p6g2q7t48hr5q8i9sdrkpm11t793n045vjcrnbkk8dvt0qrr1hmgdni1eqvu8470fv8agf5dug1g000&f=4',
+          type: text/javascript}
+      13:
+        attributes: [id, streamrail-jssdk, crossorigin, anonymous, src, 'https://sdk.streamrail.com/player/sr.ads.js']
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: script
+        nodeId: 13
+        nodeName: SCRIPT
+        nodeType: 1
+        nodeValue: ''
+        parent: 4
+        props: {crossorigin: anonymous, id: streamrail-jssdk, src: 'https://sdk.streamrail.com/player/sr.ads.js'}
+      14:
+        attributes: [type, text/javascript, src, 'https://vast-cdn.adhigh.net/adserver/v.js?cb=a3fb80d27d62a098b7d815a40cb4432a',
+          id, __Gvt_gckt3TFamAX, async, '']
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: script
+        nodeId: 14
+        nodeName: SCRIPT
+        nodeType: 1
+        nodeValue: ''
+        parent: 4
+        props: {async: '', id: __Gvt_gckt3TFamAX, src: 'https://vast-cdn.adhigh.net/adserver/v.js?cb=a3fb80d27d62a098b7d815a40cb4432a',
+          type: text/javascript}
+      15:
+        attributes: [type, text/javascript, src, 'https://vast-f9-us-va.adhigh.net/p/imp.js?id=gckt3TFamAX&s=adx&w=WOKetAACoBQKs7vIAAuHr0sL1NMRLuRL5np1yQ&b=e34642e573793u5gg00000000000il94qq0r8sa7tap84g708359k4ig9pkg8c6fmctj7dluqhm5u9d55r24ipiioetmra11jbe6qrhdbblinfpcl0c096n3rt4osj966up8miuv9kibk625omn8k58dkkoftkgvh4ib40a8oehbr4gu95nfu3rbrdvfdvffn1k52ufnukcpn6b3uame9181lrcc05od8jcivp6kqiujah6ng47g73j2ok6tm2jvaf9n3525pmb3nr7q6gsd0s4ou4n60kuq2qdt87mbi6ibb7a8jddo3ejb39j3ab831ldglp2rp8to5jlf6h31h6979ecivla9hmqj9p9mpmpm5mhm0i80e3sk68d6fo03hhpq8ck9qf69u1a9h6udh8icjs2v1ogaukrb9o25ub9rqljbbpjuqbkaqtfdnlavmjhi9jrgt5r8lfm5lu5ou7cpv8tfc4q1kjc30i9ch4o89hodsmbcrims4ut1ujp4pufkovhinftlvdh2dlungme57cd8hl2h7u285h5hrh1c14tuok3584jglfce3bo381loqim3nqordf5oqlehv412bujgpqhbj7vvfbqf1tfiaumvhuumqomvul98ooeg3v2r1vnnnfmf6h9sbq66h8bgp1i5sh6ck8ehlu49dgjgpvjmh58f0soj5dshiaskbc42jiqtmi1ngh1b11c7ojb32mgsf1v4fatf7ej5aat2uhg1ceftnr7reu5rsoipkq8kahhgtnd85lnt8lr4shtvm71de5rjv725etsh8ur1k18l3eeshn11tlt8q1apqoi34n24dtdgtm4j36jcit2tt6qa2dnh3cet3p9u5jluoaa070jlreh0bb6qc8m02lcv2kjrik3nmprskqrlm7bhpp1tqoj70fkjf9r2v08pqf8aij0865id6am82hdr4megmc9g4v7g9dkhp4rfplvvjaqofqn3dfu09v22i7knhop7vrn3qa1b195j1d5aedaf5l0odaedkq1jc6glks2n0ccolhp0g2slrntu744vqofjofrqicm2g97iecu9gk68i2kmp3m73q9u57prplnldflrusb4rvkufhpl1uht8nfvtsacpk475neklcj2ib32gnc18atkga4m44qq2lddja4omq1muk8a60mpg9e7p6g2q7t48hr5q8i9sdrkpm11t793n045vjcrnbkk8dvt0qrr1hmgdni1eqvu8470fv8agf5dug1g000&f=56192&cl=https%3A%2F%2Fadclick.g.doubleclick.net%2Faclk%3Fsa%3DL%26ai%3DC_yFItJ7iWJTACsj3zgWvj66gAab97qRHp9K9k6sCwI23ARABIABgycapi8Ck2A-CAR5jYS1tYi1hcHAtcHViLTU3MTcwOTI1MzM5MTM1MTXIAQngAgCoAwGqBNACT9BXof1167JtGchb1BkX-fPiXnMoy4LXmFb2GEaOOBdX3Iq1ARtMOnOiiSBgg4ieKg6DCqP6vg9oXpvKxJJaIzxZo06OaDHF0JKGlQ4dxvwqRaSrx1cE_kryipjZAq8tPYR0xf6bEFmwNmElOoBp2a0zTMp1w4B2axAkhHHvZgdud04Aj7zX5CdgwYhyzvMMjb06bC4hKSS03DnBwpqeaADvXtf3y16-nvwIdZQmR8hB4pJqlclgqd1okHI8hy1Hj7He8lUw9Z1AMu4zR4czsJKbVpVvUJmVZDzosPXAw3h60xgLdpBU-SO7RFxQx9ijPcnfAv8tORhIDfg8J6Gacz10fRilZjx6lPdTEjSHcbIh4WDlvxoE9l2YwA9xXo0LvFv2jFi8Op0ylhTpSyuV6bgJTtvDj90L8lSuRnxKqd1EjuppP2_41ouTsYs_FJHP4AQBgAbEgLiry8-EyOwBoAYhqAemvhvYBwDSCAUIgCkQAQ%26num%3D1%26sig%3DAOD64_3uTo3_RFsx0xYGnHi3DwDtbqbYig%26client%3Dca-mb-app-pub-5717092533913515%26adurl%3D&tz=-240&scr=412x732x32&uit=1491246772661',
+          async, '']
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: script
+        nodeId: 15
+        nodeName: SCRIPT
+        nodeType: 1
+        nodeValue: ''
+        parent: 4
+        props: {async: '', src: 'https://vast-f9-us-va.adhigh.net/p/imp.js?id=gckt3TFamAX&s=adx&w=WOKetAACoBQKs7vIAAuHr0sL1NMRLuRL5np1yQ&b=e34642e573793u5gg00000000000il94qq0r8sa7tap84g708359k4ig9pkg8c6fmctj7dluqhm5u9d55r24ipiioetmra11jbe6qrhdbblinfpcl0c096n3rt4osj966up8miuv9kibk625omn8k58dkkoftkgvh4ib40a8oehbr4gu95nfu3rbrdvfdvffn1k52ufnukcpn6b3uame9181lrcc05od8jcivp6kqiujah6ng47g73j2ok6tm2jvaf9n3525pmb3nr7q6gsd0s4ou4n60kuq2qdt87mbi6ibb7a8jddo3ejb39j3ab831ldglp2rp8to5jlf6h31h6979ecivla9hmqj9p9mpmpm5mhm0i80e3sk68d6fo03hhpq8ck9qf69u1a9h6udh8icjs2v1ogaukrb9o25ub9rqljbbpjuqbkaqtfdnlavmjhi9jrgt5r8lfm5lu5ou7cpv8tfc4q1kjc30i9ch4o89hodsmbcrims4ut1ujp4pufkovhinftlvdh2dlungme57cd8hl2h7u285h5hrh1c14tuok3584jglfce3bo381loqim3nqordf5oqlehv412bujgpqhbj7vvfbqf1tfiaumvhuumqomvul98ooeg3v2r1vnnnfmf6h9sbq66h8bgp1i5sh6ck8ehlu49dgjgpvjmh58f0soj5dshiaskbc42jiqtmi1ngh1b11c7ojb32mgsf1v4fatf7ej5aat2uhg1ceftnr7reu5rsoipkq8kahhgtnd85lnt8lr4shtvm71de5rjv725etsh8ur1k18l3eeshn11tlt8q1apqoi34n24dtdgtm4j36jcit2tt6qa2dnh3cet3p9u5jluoaa070jlreh0bb6qc8m02lcv2kjrik3nmprskqrlm7bhpp1tqoj70fkjf9r2v08pqf8aij0865id6am82hdr4megmc9g4v7g9dkhp4rfplvvjaqofqn3dfu09v22i7knhop7vrn3qa1b195j1d5aedaf5l0odaedkq1jc6glks2n0ccolhp0g2slrntu744vqofjofrqicm2g97iecu9gk68i2kmp3m73q9u57prplnldflrusb4rvkufhpl1uht8nfvtsacpk475neklcj2ib32gnc18atkga4m44qq2lddja4omq1muk8a60mpg9e7p6g2q7t48hr5q8i9sdrkpm11t793n045vjcrnbkk8dvt0qrr1hmgdni1eqvu8470fv8agf5dug1g000&f=56192&cl=https%3A%2F%2Fadclick.g.doubleclick.net%2Faclk%3Fsa%3DL%26ai%3DC_yFItJ7iWJTACsj3zgWvj66gAab97qRHp9K9k6sCwI23ARABIABgycapi8Ck2A-CAR5jYS1tYi1hcHAtcHViLTU3MTcwOTI1MzM5MTM1MTXIAQngAgCoAwGqBNACT9BXof1167JtGchb1BkX-fPiXnMoy4LXmFb2GEaOOBdX3Iq1ARtMOnOiiSBgg4ieKg6DCqP6vg9oXpvKxJJaIzxZo06OaDHF0JKGlQ4dxvwqRaSrx1cE_kryipjZAq8tPYR0xf6bEFmwNmElOoBp2a0zTMp1w4B2axAkhHHvZgdud04Aj7zX5CdgwYhyzvMMjb06bC4hKSS03DnBwpqeaADvXtf3y16-nvwIdZQmR8hB4pJqlclgqd1okHI8hy1Hj7He8lUw9Z1AMu4zR4czsJKbVpVvUJmVZDzosPXAw3h60xgLdpBU-SO7RFxQx9ijPcnfAv8tORhIDfg8J6Gacz10fRilZjx6lPdTEjSHcbIh4WDlvxoE9l2YwA9xXo0LvFv2jFi8Op0ylhTpSyuV6bgJTtvDj90L8lSuRnxKqd1EjuppP2_41ouTsYs_FJHP4AQBgAbEgLiry8-EyOwBoAYhqAemvhvYBwDSCAUIgCkQAQ%26num%3D1%26sig%3DAOD64_3uTo3_RFsx0xYGnHi3DwDtbqbYig%26client%3Dca-mb-app-pub-5717092533913515%26adurl%3D&tz=-240&scr=412x732x32&uit=1491246772661',
+          type: text/javascript}
+      16:
+        attributes: []
+        childNodeCount: 1
+        children:
+        - {localName: '', nodeId: 17, nodeName: '#text', nodeType: 3, nodeValue: 'var
+            google_casm=["afma-sdk-a-v10298470.9080000.2",0,null,0,0];'}
+        childrenids: []
+        localName: script
+        nodeId: 16
+        nodeName: SCRIPT
+        nodeType: 1
+        nodeValue: ''
+        parent: 4
+        props: {}
+      18:
+        attributes: [type, text/css]
+        childNodeCount: 1
+        children:
+        - &id059
+          childrenids: []
+          localName: ''
+          nodeId: 19
+          nodeName: '#text'
+          nodeType: 3
+          nodeValue: .sr-ns-ccfdcc872b6fc5ef6eeb0060da652c4c1cf275ac sr-video{position:relative;background-repeat:no-repeat;background-size:contain;display:block}.sr-ns-ccfdcc872b6fc5ef6eeb0060da652c4c1cf275ac
+            sr-video.sr-video--no-poster{background-image:none!important}.sr-ns-ccfdcc872b6fc5ef6eeb0060da652c4c1cf275ac
+            sr-video,.sr-ns-ccfdcc872b6fc5ef6eeb0060da652c4c1cf275ac sr-video *{box-sizing:border-box!important}.sr-ns-ccfdcc872b6fc5ef6eeb0060da652c4c1cf275ac
+            sr-video .sr-video--player{width:100%;height:100%}.sr-ns-ccfdcc872b6fc5ef6eeb0060da652c4c1cf275ac
+            sr-video .sr-video--hidden-el{display:none!important}.sr-ns-ccfdcc872b6fc5ef6eeb0060da652c4c1cf275ac
+            sr-video.sr-video--show-player-type:after{content:attr(data-current-player-type);position:absolute;background-color:#000;color:#fff;top:0;left:0;font-size:16px;padding:5px}.sr-ns-ccfdcc872b6fc5ef6eeb0060da652c4c1cf275ac
+            sr-video .sr-video--pepsi-player{box-sizing:border-box!important;margin:0
+            auto!important}.sr-ns-ccfdcc872b6fc5ef6eeb0060da652c4c1cf275ac sr-video
+            .sr-video--pepsi-player .sr-video--pepsi-canvas{max-width:100%!important;max-height:100%!important;border-width:0!important;display:none!important;margin:0
+            auto!important}.sr-ns-ccfdcc872b6fc5ef6eeb0060da652c4c1cf275ac sr-video
+            .sr-video--pepsi-player .sr-video--pepsi-dummy{display:none!important}.sr-ns-ccfdcc872b6fc5ef6eeb0060da652c4c1cf275ac
+            sr-video.sr-video--no-poster .sr-video--pepsi-player .sr-video--pepsi-canvas{display:block!important}.sr-ns-ccfdcc872b6fc5ef6eeb0060da652c4c1cf275ac
+            sr-video .sr-video--native{width:100%;height:100%}.sr-ns-ccfdcc872b6fc5ef6eeb0060da652c4c1cf275ac
+            sr-video .sr-video--mobile-autoplay-native-hidden{visibility:hidden}.sr-ns-ccfdcc872b6fc5ef6eeb0060da652c4c1cf275ac
+            sr-video .sr-video--mobile-autoplay-native::-webkit-media-controls,.sr-ns-ccfdcc872b6fc5ef6eeb0060da652c4c1cf275ac
+            sr-video .sr-video--mobile-autoplay-native::-webkit-media-controls-start-playback-button{display:none!important}.sr-ns-ccfdcc872b6fc5ef6eeb0060da652c4c1cf275ac
+            sr-video .custom-video-controls{z-index:2147483647}.sr-ns-ccfdcc872b6fc5ef6eeb0060da652c4c1cf275ac
+            sr-video .sr-video--mobile-autoplay-native::-webkit-media-controls-play-button,.sr-ns-ccfdcc872b6fc5ef6eeb0060da652c4c1cf275ac
+            sr-video .sr-video--mobile-autoplay-native::-webkit-media-controls-start-playback-button,.sr-ns-ccfdcc872b6fc5ef6eeb0060da652c4c1cf275ac
+            sr-video .sr-video--mobile-autoplay-native::-webkit-slider-thumb{opacity:0!important;pointer-events:none!important;width:5px!important}
+          parent: 18
+          props: {}
+        childrenids: [19]
+        h: 0.0
+        localName: style
+        nodeId: 18
+        nodeName: STYLE
+        nodeType: 1
+        nodeValue: ''
+        parent: 4
+        props: {type: text/css}
+        value: ''
+        w: 0.0
+        x: 0.0
+        y: 0.0
+      19: *id059
+      20:
+        attributes: [type, text/css]
+        childNodeCount: 1
+        children:
+        - &id060
+          childrenids: []
+          localName: ''
+          nodeId: 21
+          nodeName: '#text'
+          nodeType: 3
+          nodeValue: ".sr-ns-ccfdcc872b6fc5ef6eeb0060da652c4c1cf275ac .video-js .vjs-big-play-button:before,.sr-ns-ccfdcc872b6fc5ef6eeb0060da652c4c1cf275ac\
+            \ .video-js .vjs-control:before{position:absolute;top:0;left:0;width:100%;height:100%;text-align:center}@font-face{font-family:VideoJS;src:url(data:application/vnd.ms-fontobject;base64,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)\
+            \ format(\"eot\")}@font-face{font-family:VideoJS;src:url(data:application/font-woff;charset=utf-8;base64,d09GRgABAAAAAA9UAAoAAAAAF/wAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAABPUy8yAAAA9AAAAD4AAABWUZFeB2NtYXAAAAE0AAAAOgAAAUriMhC2Z2x5ZgAAAXAAAAruAAAQtDEaq9poZWFkAAAMYAAAACsAAAA2DBVc52hoZWEAAAyMAAAAGgAAACQOowchaG10eAAADKgAAAAUAAAAhOb+AABsb2NhAAAMvAAAAEQAAABEOBQ9Bm1heHAAAA0AAAAAHwAAACABMgB5bmFtZQAADSAAAAElAAACCtXH9aBwb3N0AAAOSAAAAQoAAAGlfluH2nicY2BkZ2CcwMDKwMFSyPKMgYHhF4RmjmEIZzzHwMDEwMrMgBUEpLmmMDh8ZPyowA7iLmSHCDOCCADvNgpAAAB4nGNgYGBmgGAZBkYGEHAB8hjBfBYGDSDNBqQZGZgYGD4q/P8PUvCREUTzM0DVAwEjG8OIBwCRsQbXAAB4nI1Xe3BU1Rm/37mvbBI2udkXhGSzN5vsahZDkn0FYnZXIRADRAgJj/AIgQQSgkOQAR8psiMOjomDWLJriwiVKYyCr9ZRLAyU6tSx7RBBTSx1GNdW/hAog9OgYrLHfufuJhqCDnv33nvOd77zne98j993Lgcc/sQesYcjHAcKkAbeJ/YMXSJpHMezMalD6sAxPZfNcTpiEDg+ixMLOAPhwME5fZzfzFkkjlyG0zQUoe/RxpQUOAyVeB1OSaGN9L04fU2SoC4ehzpJoq+REpiP1/Pa2Fj+7z/4CV8c5+HyRNMvhPrxnIwaqsqdoKgKnAYX7ScN4IItgnnokmBGNkHT1ybZOIkzcAWcE/mLwWmy+PySbAmAFxU2mbNARikq7lWSTQHwW/wgW4Sz0NrwDn+CODcV3iHSzy8e6hs61gTN9ABbAQJzV9R2V/y2Kb5q3z4+3LLfdeidiRPXL9s0a1/9IKwp3+uhg3C5iR6gIdoD39B3K3L3Zs0s/U2TEN23D5VgeglHxQFOZDZmS5M0KIKttFtYxaYIR2jP6F7XIp/EpSd0VwKQmCC2Qmt9feuwwvShPZoS8cOu/TDzRwF8cv8ZuE4685chMTUhh8etWyQim9BnDi6WkEP+ivtuaD1+qI/n+w5dBFXEzf+oVCy5Cvkf2+Jbb9FBz95yWH39Oqwe\u2026"
+          parent: 20
+          props: {}
+        childrenids: [21]
+        h: 0.0
+        localName: style
+        nodeId: 20
+        nodeName: STYLE
+        nodeType: 1
+        nodeValue: ''
+        parent: 4
+        props: {type: text/css}
+        value: ''
+        w: 0.0
+        x: 0.0
+        y: 0.0
+      21: *id060
+      22:
+        attributes: [type, text/javascript]
+        childNodeCount: 1
+        children:
+        - {localName: '', nodeId: 23, nodeName: '#text', nodeType: 3, nodeValue: 'var
+            __GetI=window.__GetI||[],__GetI_vt=window.__GetI_vt||[],__GetI_domain=''vast-f9-us-va.adhigh.net'',__GetI_static_domain=''vast-cdn.adhigh.net/adserver'',__GetI_protocol=''https'',__GetI_context=''app'';
+
+            (function(){document.write(''\x3cdiv style\x3d"width:0;height:0;position:absolute"\x3e'');document.write(''\x3cdiv
+            id\x3d"gw_wrapper" style\x3d"width:1px; height:1px"\x3e\x3cdiv id\x3d"gw"
+            style\x3d"position:relative"\x3e\x3c/div\x3e\x3c/div\x3e'');document.write(''\x3c/div\x3e'');var
+            a={type:''IMP'',clPref:''https://adclick.g.doubleclick.net/aclk?sa=L&ai=C_yFItJ7iWJTACsj3zgWvj66gAab97qRHp9K9k6sCwI23ARABIABgycapi8Ck2A-CAR5jYS1tYi1hcHAtcHViLTU3MTcwOTI1MzM5MTM1MTXIAQngAgCoAwGqBNACT9BXof1167JtGchb1BkX-fPiXnMoy4LXmFb2GEaOOBdX3Iq1ARtMOnOiiSBgg4ieKg6DCqP6vg9oXpvKxJJaIzxZo06OaDHF0JKGlQ4dxvwqRaSrx1cE_kryipjZAq8tPYR0xf6bEFmwNmElOoBp2a0zTMp1w4B2axAkhHHvZgdud04Aj7zX5CdgwYhyzvMMjb06bC4hKSS03DnBwpqeaADvXtf3y16-nvwIdZQmR8hB4pJqlclgqd1okHI8hy1Hj7He8lUw9Z1AMu4zR4czsJKbVpVvUJmVZDzosPXAw3h60xgLdpBU-SO7RFxQx9ijPcnfAv8tORhIDfg8J6Gacz10fRilZjx6lPdTEjSHcbIh4WDlvxoE9l2YwA9xXo0LvFv2jFi8Op0ylhTpSyuV6bgJTtvDj90L8lSuRnxKqd1EjuppP2_41ouTsYs_FJHP4AQBgAbEgLiry8-EyOwBoAYhqAemvhvYBwDSCAUIgCkQAQ&num=1&sig=AOD64_3uTo3_RFsx0xYGnHi3DwDtbqbYig&client=ca-mb-app-pub-5717092533913515&adurl='',evId:''gckt3TFamAX'',winPrice:''WOKetAACoBQKs7vIAAuHr0sL1NMRLuRL5np1yQ'',bidResponse:''e34642e573793u5gg00000000000il94qq0r8sa7tap84g708359k4ig9pkg8c6fmctj7dluqhm5u9d55r24ipiioetmra11jbe6qrhdbblinfpcl0c096n3rt4osj966up8miuv9kibk625omn8k58dkkoftkgvh4ib40a8oehbr4gu95nfu3rbrdvfdvffn1k52ufnukcpn6b3uame9181lrcc05od8jcivp6kqiujah6ng47g73j2ok6tm2jvaf9n3525pmb3nr7q6gsd0s4ou4n60kuq2qdt87mbi6ibb7a8jddo3ejb39j3ab831ldglp2rp8to5jlf6h31h6979ecivla9hmqj9p9mpmpm5mhm0i80e3sk68d6fo03hhpq8ck9qf69u1a9h6udh8icjs2v1ogaukrb9o25ub9rqljbbpjuqbkaqtfdnlavmjhi9jrgt5r8lfm5lu5ou7cpv8tfc4q1kjc30i9ch4o89hodsmbcrims4ut1ujp4pufkovhinftlvdh2dlungme57cd8hl2h7u285h5hrh1c14tuok3584jglfce3bo381loqim3nqordf5oqlehv412bujgpqhbj7vvfbqf1tfiaumvhuumqomvul98ooeg3v2r1vnnnfmf6h9sbq66h8bgp1i5sh6ck8ehlu49dgjgpvjmh58f0soj5dshiaskbc42jiqtmi1ngh1b11c7ojb32mgsf1v4fatf7ej5aat2uhg1ceftnr7reu5rsoipkq8kahhgtnd85lnt8lr4shtvm71de5rjv725etsh8ur1k18l3eeshn11tlt8q1apqoi34n24dtdgtm4j36jcit2tt6qa2dnh3cet3p9u5jluoaa070jlreh0bb6qc8m02lcv2kjrik3nmprskqrlm7bhpp1tqoj70fkjf9r2v08pqf8aij0865id6am82hdr4megmc9g4v7g9dkhp4rfplvvjaqofqn3dfu09v22i7knhop7vrn3qa1b195j1d5aedaf5l0odaedkq1jc6glks2n0ccolhp0g2slrntu744vqofjofrqicm2g97iecu9gk68i2kmp3m73q9u57prplnldflrusb4rvkufhpl1uht8nfvtsacpk475neklcj2ib32gnc18atkga4m44qq2lddja4omq1muk8a60mpg9e7p6g2q7t48hr5q8i9sdrkpm11t793n045vjcrnbkk8dvt0qrr1hmgdni1eqvu8470fv8agf5dug1g000'',iframeHost:''vast-px.adhigh.net'',iframe:''0'',ssp:''adx'',
+
+            async:''true'',vt:''true'',vt_cb:''a3fb80d27d62a098b7d815a40cb4432a'',iasId:'''',advId:''3352'',campId:''34642'',crId:''57379'',pubId:'''',plId:''''};__GetI.push(a);var
+            b=''undefined''==typeof __GetI_domain?''px.adhigh.net'':__GetI_domain,b=''undefined''==typeof
+            __GetI_static_domain?b:__GetI_static_domain;a.forward_tag=a.forward_tag||!1;a='''';''''!=a&&document.write(''\x3cscript
+            src\x3d"''+a+''"  type\x3d"text/javascript"\x3e\x3c/script\x3e'');a=''https''==
+
+            __GetI_protocol||''https:''==document.location.protocol?''https://'':''http://'';document.write(''\x3cscript
+            src\x3d"''+a+b+''/m.js" type\x3d"text/javascript"\x3e\x3c/script\x3e'');document.write(''\x3cscript
+            src\x3d"''+a+b+''/p.js?cb\x3da3fb80d27d62a098b7d815a40cb4432a" type\x3d"text/javascript"\x3e\x3c/script\x3e'')})();document.write(''<div
+            id=\"player-58809ea82ee7330002168d0a\"><\/div>\n<script>\n  (function()
+            {\n    window.srAsyncInit = function() {\n      SR(\"player-58809ea82ee7330002168d0a\",
+            {\n        \"playerId\": \"58809ea82ee7330002168d0a\",\n        \"apiKey\":
+            \"585a8783a76e2f0002000001\",\n        \"version\": \"1.0\",\n        \"macros\":
+            {\n          \"rand\": Math.random().toString(),\n          \"cb\": \"1491246772316\",\n          \"publisher\":
+            \"${REFERER_URL_ENC}\",\n         \"ctd\": \"${TAG_ID}\",\n          \"carrier\":
+            \"0\",\n          \"user_lat\": \"40.80059814453125\",\n          \"user_lon\":
+            \"-73.96530151367188\",\n          \"width\": \"300\",\n          \"height\":
+            \"250\",\n          \"ip\": \"128.59.21.1\",\n          \"ua\": \"Mozilla%2F5.0+%28Linux%3B+Android+6.0%3B+Google+Nexus+5X+-+6.0.0+-+API+23+-+1080x1920+Build%2FMRA58K%3B+wv%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Version%2F4.0+Chrome%2F44.0.2403.119+Mobile+Safari%2F537.36+%28Mobile%3B+afma-sdk-a-v10298470.9080000.2%29\",\n          \"pub_id\":
+            \"${PUBLISHER_ID}\",\n          \"seller_id\": \"${SELLER_MEMBER_ID}\",\n          \"placement_id\":
+            \"${TAG_ID}\",\n          \"sub_id\": \"${CAMPAIGN_ID}\",\n          \"page_url\":
+            \"https:\/\/play.google.com\/store\/apps\/details?id=com.usatoday.android.news\",\n          \"ifa\":
+            \"52E517B0-1940-4D01-914E-4DC3D59A0F44\",\n          \"app_name\": \"tennessean.com\",\n          \"app_category\":\"52E517B0-1940-4D01-914E-4DC3D59A0F44\",\n          \"bundle_id\":
+            \"com.usatoday.android.news\"\n        }\n      });\n    };\n    \n    (function(d,
+            s, id){\n        var js, srjs = d.getElementsByTagName(s)[0];\n        if
+            (d.getElementById(id)) {return;}\n        js = d.createElement(s); js.id
+            = id;\n        js.setAttribute(\"crossorigin\", \"anonymous\");\n        js.src
+            = \"https:\/\/sdk.streamrail.com\/player\/sr.ads.js\";\n        srjs.parentNode.insertBefore(js,
+            srjs);\n    }(document, \"script\", \"streamrail-jssdk\"));\n  })();\n<\/script>'');'}
+        childrenids: []
+        localName: script
+        nodeId: 22
+        nodeName: SCRIPT
+        nodeType: 1
+        nodeValue: ''
+        parent: 5
+        props: {type: text/javascript}
+      24:
+        attributes: [style, 'width:0;height:0;position:absolute']
+        childNodeCount: 1
+        children:
+        - &id061
+          attributes: [id, gw_wrapper, style, 'width:1px; height:1px']
+          childNodeCount: 1
+          children:
+          - &id062
+            attributes: [id, gw, style, 'position:relative']
+            childNodeCount: 0
+            children: []
+            childrenids: []
+            h: 0.0
+            localName: div
+            nodeId: 26
+            nodeName: DIV
+            nodeType: 1
+            nodeValue: ''
+            parent: 25
+            props: {id: gw, style: 'position:relative'}
+            value: ''
+            w: 1.0
+            x: 0.0
+            y: 0.0
+          childrenids: [26]
+          h: 1.0
+          localName: div
+          nodeId: 25
+          nodeName: DIV
+          nodeType: 1
+          nodeValue: ''
+          parent: 24
+          props: {id: gw_wrapper, style: 'width:1px; height:1px'}
+          value: ''
+          w: 1.0
+          x: 0.0
+          y: 0.0
+        childrenids: [25]
+        h: 0.0
+        localName: div
+        nodeId: 24
+        nodeName: DIV
+        nodeType: 1
+        nodeValue: ''
+        parent: 5
+        props: {style: 'width:0;height:0;position:absolute'}
+        value: ''
+        w: 0.0
+        x: 0.0
+        y: 0.0
+      25: *id061
+      26: *id062
+      27:
+        attributes: [src, 'https://vast-cdn.adhigh.net/adserver/m.js', type, text/javascript]
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: script
+        nodeId: 27
+        nodeName: SCRIPT
+        nodeType: 1
+        nodeValue: ''
+        parent: 5
+        props: {src: 'https://vast-cdn.adhigh.net/adserver/m.js', type: text/javascript}
+      28:
+        attributes: [src, 'https://vast-cdn.adhigh.net/adserver/p.js?cb=a3fb80d27d62a098b7d815a40cb4432a',
+          type, text/javascript]
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: script
+        nodeId: 28
+        nodeName: SCRIPT
+        nodeType: 1
+        nodeValue: ''
+        parent: 5
+        props: {src: 'https://vast-cdn.adhigh.net/adserver/p.js?cb=a3fb80d27d62a098b7d815a40cb4432a',
+          type: text/javascript}
+      29:
+        attributes: [id, player-58809ea82ee7330002168d0a, class, sr-ns-ccfdcc872b6fc5ef6eeb0060da652c4c1cf275ac]
+        childNodeCount: 1
+        children:
+        - &id063
+          attributes: [id, sr-container-ef9e26bf-fda6-45a8-9b03-0540f527ea9b, style,
+            'position:relative;']
+          childNodeCount: 2
+          children:
+          - &id064
+            attributes: [style, 'background-color: rgb(0, 0, 0);', class, video-js
+                vjs-default-skin vjs-big-play-centered sr-player sr-no-bp srv sr-player-content-ef9e26bf-fda6-45a8-9b03-0540f527ea9b-dimensions
+                vjs-controls-enabled vjs-user-active vjs-playing vjs-has-started,
+              data-player-config, '{"bgColor":"#000000","fetchManifestSettings":{"orgId":"585a8783a76e2f0002000001","sessionId":"ef9e26bf-fda6-45a8-9b03-0540f527ea9b","domain":"pubads.g.doubleclick.net","srcSetter":"sr.ads.js","isContent":true,"playerVersion":"2314"},"manifestTimeout":300000}',
+              volume, '0', muted, 'true', controls, 'true', id, sr-player-content-ef9e26bf-fda6-45a8-9b03-0540f527ea9b]
+            childNodeCount: 6
+            children:
+            - &id065
+              attributes: [id, sr-player-content-ef9e26bf-fda6-45a8-9b03-0540f527ea9b_html5_api,
+                controls, 'false', muted, '', volume, '0', data-player-config, '{"fetchManifestSettings":{"orgId":"585a8783a76e2f0002000001","sessionId":"ef9e26bf-fda6-45a8-9b03-0540f527ea9b","domain":"pubads.g.doubleclick.net","srcSetter":"sr.ads.js","isContent":true,"playerVersion":"2314"},"manifestTimeout":300000,"bgColor":"#000000"}',
+                class, vjs-tech sr-video--no-poster, style, 'background-color: rgb(0,
+                  0, 0);', src, 'https://d8pkd30le26fz.cloudfront.net/ENCODING/169p_OUT/Ananey/AN_parisdessert.mp4',
+                data-current-player-type, pepsi]
+              childNodeCount: 1
+              children:
+              - &id066
+                attributes: [class, sr-video--player sr-video--pepsi-player, style,
+                  'width: 100%; height: 100%; padding-top: 40.15625px;']
+                childNodeCount: 1
+                children:
+                - &id067
+                  attributes: [class, sr-video--pepsi-canvas, width, '320', height,
+                    '181', style, 'width: 300px; height: 169.6875px;']
+                  childNodeCount: 0
+                  children: []
+                  childrenids: []
+                  h: 169.6875
+                  localName: canvas
+                  nodeId: 34
+                  nodeName: CANVAS
+                  nodeType: 1
+                  nodeValue: ''
+                  parent: 33
+                  props: {class: sr-video--pepsi-canvas, height: '181', style: 'width:
+                      300px; height: 169.6875px;', width: '320'}
+                  value: ''
+                  w: 300.0
+                  x: 0.0
+                  y: 40.15625
+                childrenids: [34]
+                h: 250.0
+                localName: div
+                nodeId: 33
+                nodeName: DIV
+                nodeType: 1
+                nodeValue: ''
+                parent: 32
+                props: {class: sr-video--player sr-video--pepsi-player, style: 'width:
+                    100%; height: 100%; padding-top: 40.15625px;'}
+                value: ''
+                w: 300.0
+                x: 0.0
+                y: 0.0
+              childrenids: [33]
+              h: 250.0
+              localName: sr-video
+              nodeId: 32
+              nodeName: SR-VIDEO
+              nodeType: 1
+              nodeValue: ''
+              parent: 31
+              props: {class: vjs-tech sr-video--no-poster, controls: 'false', data-current-player-type: pepsi,
+                data-player-config: '{"fetchManifestSettings":{"orgId":"585a8783a76e2f0002000001","sessionId":"ef9e26bf-fda6-45a8-9b03-0540f527ea9b","domain":"pubads.g.doubleclick.net","srcSetter":"sr.ads.js","isContent":true,"playerVersion":"2314"},"manifestTimeout":300000,"bgColor":"#000000"}',
+                id: sr-player-content-ef9e26bf-fda6-45a8-9b03-0540f527ea9b_html5_api,
+                muted: '', src: 'https://d8pkd30le26fz.cloudfront.net/ENCODING/169p_OUT/Ananey/AN_parisdessert.mp4',
+                style: 'background-color: rgb(0, 0, 0);', volume: '0'}
+              value: ''
+              w: 300.0
+              x: 0.0
+              y: 0.0
+            - &id068
+              attributes: [class, content-click-overlay, target, _blank, href, 'https://www.facebook.com/URNextVacation/posts/1009988135796079?utm_source=ads&utm_medium=banner&utm_campaign=ParisDessert']
+              childNodeCount: 0
+              children: []
+              childrenids: []
+              h: 250.0
+              localName: a
+              nodeId: 35
+              nodeName: A
+              nodeType: 1
+              nodeValue: ''
+              parent: 31
+              props: {class: content-click-overlay, href: 'https://www.facebook.com/URNextVacation/posts/1009988135796079?utm_source=ads&utm_medium=banner&utm_campaign=ParisDessert',
+                target: _blank}
+              value: ''
+              w: 300.0
+              x: 0.0
+              y: 0.0
+            - &id069
+              attributes: []
+              childNodeCount: 0
+              children: []
+              childrenids: []
+              h: 0.0
+              localName: div
+              nodeId: 36
+              nodeName: DIV
+              nodeType: 1
+              nodeValue: ''
+              parent: 31
+              props: {}
+              value: ''
+              w: 300.0
+              x: 0.0
+              y: 0.0
+            - &id070
+              attributes: [class, vjs-loading-spinner]
+              childNodeCount: 0
+              children: []
+              childrenids: []
+              h: 0.0
+              localName: div
+              nodeId: 37
+              nodeName: DIV
+              nodeType: 1
+              nodeValue: ''
+              parent: 31
+              props: {class: vjs-loading-spinner}
+              value: ''
+              w: 0.0
+              x: 0.0
+              y: 0.0
+            - &id071
+              attributes: [class, vjs-control-bar]
+              childNodeCount: 4
+              children:
+              - &id072
+                attributes: [class, vjs-play-control vjs-control vjs-button  vjs-playing,
+                  tabindex, '0', role, button, type, button, aria-live, polite]
+                childNodeCount: 1
+                children:
+                - &id073
+                  attributes: [class, vjs-control-text]
+                  childNodeCount: 1
+                  children:
+                  - &id074
+                    childrenids: []
+                    localName: ''
+                    nodeId: 42
+                    nodeName: '#text'
+                    nodeType: 3
+                    nodeValue: Pause
+                    parent: 41
+                    props: {}
+                  childrenids: [42]
+                  h: 1.0
+                  localName: span
+                  nodeId: 41
+                  nodeName: SPAN
+                  nodeType: 1
+                  nodeValue: ''
+                  parent: 39
+                  props: {class: vjs-control-text}
+                  value: ''
+                  w: 1.0
+                  x: 19.0
+                  y: 234.0
+                childrenids: [41]
+                h: 30.0
+                localName: button
+                nodeId: 39
+                nodeName: BUTTON
+                nodeType: 1
+                nodeValue: ''
+                parent: 38
+                props: {aria-live: polite, class: vjs-play-control vjs-control vjs-button  vjs-playing,
+                  role: button, tabindex: '0', type: button}
+                pseudoElements:
+                - attributes: []
+                  childNodeCount: 0
+                  localName: <pseudo:before>
+                  nodeId: 40
+                  nodeName: <pseudo:before>
+                  nodeType: 1
+                  nodeValue: ''
+                  pseudoType: before
+                value: ''
+                w: 40.0
+                x: 0.0
+                y: 220.0
+              - &id075
+                attributes: [class, vjs-volume-menu-button vjs-menu-button vjs-menu-button-inline
+                    vjs-control vjs-button  vjs-volume-menu-button-horizontal vjs-vol-0,
+                  tabindex, '0', role, button, type, button, aria-live, polite, aria-haspopup,
+                  'true']
+                childNodeCount: 2
+                children:
+                - &id076
+                  attributes: [class, vjs-control-text]
+                  childNodeCount: 1
+                  children:
+                  - &id077
+                    childrenids: []
+                    localName: ''
+                    nodeId: 46
+                    nodeName: '#text'
+                    nodeType: 3
+                    nodeValue: Unmute
+                    parent: 45
+                    props: {}
+                  childrenids: [46]
+                  h: 1.0
+                  localName: span
+                  nodeId: 45
+                  nodeName: SPAN
+                  nodeType: 1
+                  nodeValue: ''
+                  parent: 43
+                  props: {class: vjs-control-text}
+                  value: ''
+                  w: 1.0
+                  x: 59.0
+                  y: 219.0
+                - &id078
+                  attributes: [class, vjs-menu]
+                  childNodeCount: 1
+                  children:
+                  - &id079
+                    attributes: [class, vjs-menu-content]
+                    childNodeCount: 1
+                    children:
+                    - &id080
+                      attributes: [tabindex, '0', class, vjs-volume-bar vjs-slider-bar
+                          vjs-slider vjs-slider-horizontal, role, slider, aria-valuenow,
+                        '0.00', aria-valuemin, '0', aria-valuemax, '100', aria-label,
+                        volume level, aria-valuetext, 0.00%]
+                      childNodeCount: 1
+                      children:
+                      - &id081
+                        attributes: [class, vjs-volume-level]
+                        childNodeCount: 1
+                        children:
+                        - &id082
+                          attributes: [class, vjs-control-text]
+                          childNodeCount: 0
+                          children: []
+                          childrenids: []
+                          h: 0.0
+                          localName: span
+                          nodeId: 51
+                          nodeName: SPAN
+                          nodeType: 1
+                          nodeValue: ''
+                          parent: 50
+                          props: {class: vjs-control-text}
+                          value: ''
+                          w: 0.0
+                          x: 0.0
+                          y: 0.0
+                        childrenids: [51]
+                        h: 0.0
+                        localName: div
+                        nodeId: 50
+                        nodeName: DIV
+                        nodeType: 1
+                        nodeValue: ''
+                        parent: 49
+                        props: {class: vjs-volume-level}
+                        value: ''
+                        w: 0.0
+                        x: 0.0
+                        y: 0.0
+                      childrenids: [50]
+                      h: 0.0
+                      localName: div
+                      nodeId: 49
+                      nodeName: DIV
+                      nodeType: 1
+                      nodeValue: ''
+                      parent: 48
+                      props: {aria-label: volume level, aria-valuemax: '100', aria-valuemin: '0',
+                        aria-valuenow: '0.00', aria-valuetext: 0.00%, class: vjs-volume-bar
+                          vjs-slider-bar vjs-slider vjs-slider-horizontal, role: slider,
+                        tabindex: '0'}
+                      value: ''
+                      w: 0.0
+                      x: 0.0
+                      y: 0.0
+                    childrenids: [49]
+                    h: 0.0
+                    localName: div
+                    nodeId: 48
+                    nodeName: DIV
+                    nodeType: 1
+                    nodeValue: ''
+                    parent: 47
+                    props: {class: vjs-menu-content}
+                    value: ''
+                    w: 0.0
+                    x: 0.0
+                    y: 0.0
+                  childrenids: [48]
+                  h: 0.0
+                  localName: div
+                  nodeId: 47
+                  nodeName: DIV
+                  nodeType: 1
+                  nodeValue: ''
+                  parent: 43
+                  props: {class: vjs-menu}
+                  value: ''
+                  w: 0.0
+                  x: 0.0
+                  y: 0.0
+                childrenids: [45, 47]
+                h: 30.0
+                localName: div
+                nodeId: 43
+                nodeName: DIV
+                nodeType: 1
+                nodeValue: ''
+                parent: 38
+                props: {aria-haspopup: 'true', aria-live: polite, class: vjs-volume-menu-button
+                    vjs-menu-button vjs-menu-button-inline vjs-control vjs-button  vjs-volume-menu-button-horizontal
+                    vjs-vol-0, role: button, tabindex: '0', type: button}
+                pseudoElements:
+                - attributes: []
+                  childNodeCount: 0
+                  localName: <pseudo:before>
+                  nodeId: 44
+                  nodeName: <pseudo:before>
+                  nodeType: 1
+                  nodeValue: ''
+                  pseudoType: before
+                value: ''
+                w: 40.0
+                x: 40.0
+                y: 220.0
+              - &id083
+                attributes: [class, vjs-progress-control vjs-control]
+                childNodeCount: 1
+                children:
+                - &id084
+                  attributes: [tabindex, '0', class, vjs-progress-holder vjs-slider
+                      vjs-slider-horizontal, role, slider, aria-valuenow, '0.89',
+                    aria-valuemin, '0', aria-valuemax, '100', aria-label, video progress
+                      bar, aria-valuetext, '0:00']
+                  childNodeCount: 3
+                  children:
+                  - &id085
+                    attributes: [class, vjs-load-progress, style, 'width: 18.4485252429806%;']
+                    childNodeCount: 1
+                    children:
+                    - &id086
+                      attributes: [class, vjs-control-text, style, 'left: 0%; width:
+                          100%;']
+                      childNodeCount: 2
+                      children:
+                      - &id087
+                        attributes: []
+                        childNodeCount: 1
+                        children:
+                        - &id088
+                          childrenids: []
+                          localName: ''
+                          nodeId: 57
+                          nodeName: '#text'
+                          nodeType: 3
+                          nodeValue: Loaded
+                          parent: 56
+                          props: {}
+                        childrenids: [57]
+                        h: 11.0
+                        localName: span
+                        nodeId: 56
+                        nodeName: SPAN
+                        nodeType: 1
+                        nodeValue: ''
+                        parent: 55
+                        props: {}
+                        value: ''
+                        w: 33.1005859375
+                        x: 83.5
+                        y: 231.5
+                      - &id089
+                        childrenids: []
+                        localName: ''
+                        nodeId: 58
+                        nodeName: '#text'
+                        nodeType: 3
+                        nodeValue: ': 0%'
+                        parent: 55
+                        props: {}
+                      childrenids: [56, 58]
+                      h: 1.0
+                      localName: span
+                      nodeId: 55
+                      nodeName: SPAN
+                      nodeType: 1
+                      nodeValue: ''
+                      parent: 54
+                      props: {class: vjs-control-text, style: 'left: 0%; width: 100%;'}
+                      value: ''
+                      w: 31.546875
+                      x: 83.5
+                      y: 232.5
+                    childrenids: [55]
+                    h: 3.0
+                    localName: div
+                    nodeId: 54
+                    nodeName: DIV
+                    nodeType: 1
+                    nodeValue: ''
+                    parent: 53
+                    props: {class: vjs-load-progress, style: 'width: 18.4485252429806%;'}
+                    value: ''
+                    w: 31.546875
+                    x: 84.5
+                    y: 233.5
+                  - &id090
+                    attributes: [class, vjs-mouse-display, data-current-time, '0:00',
+                      style, 'left: 0px;']
+                    childNodeCount: 0
+                    children: []
+                    childrenids: []
+                    h: 0.0
+                    localName: div
+                    nodeId: 59
+                    nodeName: DIV
+                    nodeType: 1
+                    nodeValue: ''
+                    parent: 53
+                    props: {class: vjs-mouse-display, data-current-time: '0:00', style: 'left:
+                        0px;'}
+                    value: ''
+                    w: 0.0
+                    x: 0.0
+                    y: 0.0
+                  - &id091
+                    attributes: [class, vjs-play-progress vjs-slider-bar, data-current-time,
+                      '0:00', style, 'width: 0.89%;']
+                    childNodeCount: 1
+                    children:
+                    - &id092
+                      attributes: [class, vjs-control-text]
+                      childNodeCount: 2
+                      children:
+                      - &id093
+                        attributes: []
+                        childNodeCount: 1
+                        children:
+                        - &id094
+                          childrenids: []
+                          localName: ''
+                          nodeId: 64
+                          nodeName: '#text'
+                          nodeType: 3
+                          nodeValue: Progress
+                          parent: 63
+                          props: {}
+                        childrenids: [64]
+                        h: 10.0
+                        localName: span
+                        nodeId: 63
+                        nodeName: SPAN
+                        nodeType: 1
+                        nodeValue: ''
+                        parent: 62
+                        props: {}
+                        value: ''
+                        w: 40.0
+                        x: 84.40625
+                        y: 232.5
+                      - &id095
+                        childrenids: []
+                        localName: ''
+                        nodeId: 65
+                        nodeName: '#text'
+                        nodeType: 3
+                        nodeValue: ': 0%'
+                        parent: 62
+                        props: {}
+                      childrenids: [63, 65]
+                      h: 1.0
+                      localName: span
+                      nodeId: 62
+                      nodeName: SPAN
+                      nodeType: 1
+                      nodeValue: ''
+                      parent: 60
+                      props: {class: vjs-control-text}
+                      value: ''
+                      w: 1.0
+                      x: 84.40625
+                      y: 232.5
+                    childrenids: [62]
+                    h: 3.0
+                    localName: div
+                    nodeId: 60
+                    nodeName: DIV
+                    nodeType: 1
+                    nodeValue: ''
+                    parent: 53
+                    props: {class: vjs-play-progress vjs-slider-bar, data-current-time: '0:00',
+                      style: 'width: 0.89%;'}
+                    pseudoElements:
+                    - attributes: []
+                      childNodeCount: 0
+                      localName: <pseudo:before>
+                      nodeId: 61
+                      nodeName: <pseudo:before>
+                      nodeType: 1
+                      nodeValue: ''
+                      pseudoType: before
+                    value: ''
+                    w: 1.8125
+                    x: 84.5
+                    y: 233.5
+                  childrenids: [54, 59, 60]
+                  h: 3.0
+                  localName: div
+                  nodeId: 53
+                  nodeName: DIV
+                  nodeType: 1
+                  nodeValue: ''
+                  parent: 52
+                  props: {aria-label: video progress bar, aria-valuemax: '100', aria-valuemin: '0',
+                    aria-valuenow: '0.89', aria-valuetext: '0:00', class: vjs-progress-holder
+                      vjs-slider vjs-slider-horizontal, role: slider, tabindex: '0'}
+                  value: ''
+                  w: 171.0
+                  x: 84.5
+                  y: 233.5
+                childrenids: [53]
+                h: 30.0
+                localName: div
+                nodeId: 52
+                nodeName: DIV
+                nodeType: 1
+                nodeValue: ''
+                parent: 38
+                props: {class: vjs-progress-control vjs-control}
+                value: ''
+                w: 180.0
+                x: 80.0
+                y: 220.0
+              - &id096
+                attributes: [class, vjs-remaining-time vjs-time-control vjs-control]
+                childNodeCount: 1
+                children:
+                - &id097
+                  attributes: [class, vjs-remaining-time-display, aria-live, 'off']
+                  childNodeCount: 2
+                  children:
+                  - &id098
+                    attributes: [class, vjs-control-text]
+                    childNodeCount: 1
+                    children:
+                    - &id099
+                      childrenids: []
+                      localName: ''
+                      nodeId: 69
+                      nodeName: '#text'
+                      nodeType: 3
+                      nodeValue: Remaining Time
+                      parent: 68
+                      props: {}
+                    childrenids: [69]
+                    h: 1.0
+                    localName: span
+                    nodeId: 68
+                    nodeName: SPAN
+                    nodeType: 1
+                    nodeValue: ''
+                    parent: 67
+                    props: {class: vjs-control-text}
+                    value: ''
+                    w: 1.0
+                    x: 267.984375
+                    y: 219.0
+                  - &id100
+                    childrenids: []
+                    localName: ''
+                    nodeId: 70
+                    nodeName: '#text'
+                    nodeType: 3
+                    nodeValue: ' -0:29'
+                    parent: 67
+                    props: {}
+                  childrenids: [68, 70]
+                  h: 30.0
+                  localName: div
+                  nodeId: 67
+                  nodeName: DIV
+                  nodeType: 1
+                  nodeValue: ''
+                  parent: 66
+                  props: {aria-live: 'off', class: vjs-remaining-time-display}
+                  value: ''
+                  w: 40.0
+                  x: 260.0
+                  y: 220.0
+                childrenids: [67]
+                h: 30.0
+                localName: div
+                nodeId: 66
+                nodeName: DIV
+                nodeType: 1
+                nodeValue: ''
+                parent: 38
+                props: {class: vjs-remaining-time vjs-time-control vjs-control}
+                value: ''
+                w: 40.0
+                x: 260.0
+                y: 220.0
+              childrenids: [39, 43, 52, 66]
+              h: 30.0
+              localName: div
+              nodeId: 38
+              nodeName: DIV
+              nodeType: 1
+              nodeValue: ''
+              parent: 31
+              props: {class: vjs-control-bar}
+              value: ''
+              w: 300.0
+              x: 0.0
+              y: 220.0
+            - &id101
+              attributes: [class, vjs-big-play-button, tabindex, '0', role, button,
+                type, button, aria-live, polite]
+              childNodeCount: 1
+              children:
+              - &id102
+                attributes: [class, vjs-control-text]
+                childNodeCount: 1
+                children:
+                - &id103
+                  childrenids: []
+                  localName: ''
+                  nodeId: 73
+                  nodeName: '#text'
+                  nodeType: 3
+                  nodeValue: Play Video
+                  parent: 72
+                  props: {}
+                childrenids: [73]
+                h: 0.0
+                localName: span
+                nodeId: 72
+                nodeName: SPAN
+                nodeType: 1
+                nodeValue: ''
+                parent: 71
+                props: {class: vjs-control-text}
+                value: ''
+                w: 0.0
+                x: 0.0
+                y: 0.0
+              childrenids: [72]
+              h: 0.0
+              localName: button
+              nodeId: 71
+              nodeName: BUTTON
+              nodeType: 1
+              nodeValue: ''
+              parent: 31
+              props: {aria-live: polite, class: vjs-big-play-button, role: button,
+                tabindex: '0', type: button}
+              value: ''
+              w: 0.0
+              x: 0.0
+              y: 0.0
+            childrenids: [32, 35, 36, 37, 38, 71]
+            h: 250.0
+            localName: div
+            nodeId: 31
+            nodeName: DIV
+            nodeType: 1
+            nodeValue: ''
+            parent: 30
+            props: {class: video-js vjs-default-skin vjs-big-play-centered sr-player
+                sr-no-bp srv sr-player-content-ef9e26bf-fda6-45a8-9b03-0540f527ea9b-dimensions
+                vjs-controls-enabled vjs-user-active vjs-playing vjs-has-started,
+              controls: 'true', data-player-config: '{"bgColor":"#000000","fetchManifestSettings":{"orgId":"585a8783a76e2f0002000001","sessionId":"ef9e26bf-fda6-45a8-9b03-0540f527ea9b","domain":"pubads.g.doubleclick.net","srcSetter":"sr.ads.js","isContent":true,"playerVersion":"2314"},"manifestTimeout":300000}',
+              id: sr-player-content-ef9e26bf-fda6-45a8-9b03-0540f527ea9b, muted: 'true',
+              style: 'background-color: rgb(0, 0, 0);', volume: '0'}
+            value: ''
+            w: 300.0
+            x: 0.0
+            y: 0.0
+          - &id104
+            attributes: [style, 'background-color: rgb(0, 0, 0);', class, video-js
+                vjs-default-skin vjs-big-play-centered sr-player sr-hidden-player
+                sr-no-bp srv vjs-paused sr-player-ef9e26bf-fda6-45a8-9b03-0540f527ea9b-dimensions
+                vjs-controls-enabled vjs-user-active vjs-vast-ad-loading vjs-vpaid-html5-ad,
+              data-player-config, '{"bgColor":"#000000","fetchManifestSettings":{"orgId":"585a8783a76e2f0002000001","sessionId":"ef9e26bf-fda6-45a8-9b03-0540f527ea9b","domain":"pubads.g.doubleclick.net","srcSetter":"sr.ads.js","isContent":false,"playerVersion":"2314"}}',
+              volume, '0', muted, 'true', controls, 'true', id, sr-player-ef9e26bf-fda6-45a8-9b03-0540f527ea9b]
+            childNodeCount: 8
+            children:
+            - &id105
+              attributes: [id, sr-player-ef9e26bf-fda6-45a8-9b03-0540f527ea9b_html5_api,
+                controls, 'false', muted, '', volume, '0', data-player-config, '{"fetchManifestSettings":{"orgId":"585a8783a76e2f0002000001","sessionId":"ef9e26bf-fda6-45a8-9b03-0540f527ea9b","domain":"pubads.g.doubleclick.net","srcSetter":"sr.ads.js","isContent":false,"playerVersion":"2314"},"bgColor":"#000000"}',
+                class, vjs-tech, style, 'background-color: rgb(0, 0, 0);']
+              childNodeCount: 0
+              children: []
+              childrenids: []
+              h: 250.0
+              localName: sr-video
+              nodeId: 75
+              nodeName: SR-VIDEO
+              nodeType: 1
+              nodeValue: ''
+              parent: 74
+              props: {class: vjs-tech, controls: 'false', data-player-config: '{"fetchManifestSettings":{"orgId":"585a8783a76e2f0002000001","sessionId":"ef9e26bf-fda6-45a8-9b03-0540f527ea9b","domain":"pubads.g.doubleclick.net","srcSetter":"sr.ads.js","isContent":false,"playerVersion":"2314"},"bgColor":"#000000"}',
+                id: sr-player-ef9e26bf-fda6-45a8-9b03-0540f527ea9b_html5_api, muted: '',
+                style: 'background-color: rgb(0, 0, 0);', volume: '0'}
+              value: ''
+              w: 300.0
+              x: 0.0
+              y: 0.0
+            - &id106
+              attributes: [style, 'z-index: 1; width: 300px; height: 250px; overflow:
+                  hidden; margin: 0px; padding: 0px; line-height: 0px; vertical-align:
+                  top; border: 0px; font-size: 0px; position: relative; left: 0px;
+                  top: 0px; text-align: center; display: table-cell; background-image:
+                  url(https://ad.lkqd.net/vpaid/loading_icon.gif); background-color:
+                  rgb(0, 0, 0); background-size: 40px; background-position: 50% 50%;
+                  background-repeat: no-repeat;']
+              childNodeCount: 0
+              children: []
+              childrenids: []
+              h: 250.0
+              localName: div
+              nodeId: 76
+              nodeName: DIV
+              nodeType: 1
+              nodeValue: ''
+              parent: 74
+              props: {style: 'z-index: 1; width: 300px; height: 250px; overflow: hidden;
+                  margin: 0px; padding: 0px; line-height: 0px; vertical-align: top;
+                  border: 0px; font-size: 0px; position: relative; left: 0px; top:
+                  0px; text-align: center; display: table-cell; background-image:
+                  url(https://ad.lkqd.net/vpaid/loading_icon.gif); background-color:
+                  rgb(0, 0, 0); background-size: 40px; background-position: 50% 50%;
+                  background-repeat: no-repeat;'}
+              value: ''
+              w: 300.0
+              x: 0.0
+              y: 0.0
+            - &id107
+              attributes: []
+              childNodeCount: 0
+              children: []
+              childrenids: []
+              h: 0.0
+              localName: div
+              nodeId: 77
+              nodeName: DIV
+              nodeType: 1
+              nodeValue: ''
+              parent: 74
+              props: {}
+              value: ''
+              w: 300.0
+              x: 0.0
+              y: 250.0
+            - &id108
+              attributes: [class, vjs-loading-spinner]
+              childNodeCount: 0
+              children: []
+              childrenids: []
+              h: 50.0
+              localName: div
+              nodeId: 78
+              nodeName: DIV
+              nodeType: 1
+              nodeValue: ''
+              parent: 74
+              props: {class: vjs-loading-spinner}
+              pseudoElements:
+              - attributes: []
+                childNodeCount: 0
+                localName: <pseudo:before>
+                nodeId: 79
+                nodeName: <pseudo:before>
+                nodeType: 1
+                nodeValue: ''
+                pseudoType: before
+              - attributes: []
+                childNodeCount: 0
+                localName: <pseudo:after>
+                nodeId: 80
+                nodeName: <pseudo:after>
+                nodeType: 1
+                nodeValue: ''
+                pseudoType: after
+              value: ''
+              w: 50.0
+              x: 125.0
+              y: 100.0
+            - &id109
+              attributes: [class, VPAID-container VPAID-loading]
+              childNodeCount: 1
+              children:
+              - &id110
+                attributes: []
+                childNodeCount: 1
+                children:
+                - &id111
+                  attributes: [src, 'about:blank', marginwidth, '0', marginheight,
+                    '0', frameborder, '0', width, 100%, height, 100%, scrolling, 'NO',
+                    style, 'position: absolute; left: 0px; top: 0px; margin: 0px;
+                      padding: 0px; border: none;']
+                  childNodeCount: 0
+                  children: []
+                  childrenids: []
+                  contentDocument: {baseURL: 'https://pubads.g.doubleclick.net/gampad/ads?_activity_context=false&android_num_video_cache_tasks=0&caps=inlineVideo_interactiveVideo_mraid1_mraid2_sdkVideo_th_autoplay_mediation_av_transparentBackground_sdkAdmobApiForAds_di_aso_sfv_dinm_dim_dinmo_gcache&eid=318475406%2C318477040%2C318476426%2C318476960%2C318477768%2C318477714%2C46621102&format=300x250_as&heap_free=1626560&heap_max=100663296&heap_total=44745600&js=afma-sdk-a-v10298470.9080000.2&msid=com.usatoday.android.news&request_pkg=com.gannett.android.ads.DfpAdRetriever&scroll_index=-1&seq_num=5&target_api=24',
+                    childNodeCount: 2, documentURL: 'https://pubads.g.doubleclick.net/gampad/ads?_activity_context=false&android_num_video_cache_tasks=0&caps=inlineVideo_interactiveVideo_mraid1_mraid2_sdkVideo_th_autoplay_mediation_av_transparentBackground_sdkAdmobApiForAds_di_aso_sfv_dinm_dim_dinmo_gcache&eid=318475406%2C318477040%2C318476426%2C318476960%2C318477768%2C318477714%2C46621102&format=300x250_as&heap_free=1626560&heap_max=100663296&heap_total=44745600&js=afma-sdk-a-v10298470.9080000.2&msid=com.usatoday.android.news&request_pkg=com.gannett.android.ads.DfpAdRetriever&scroll_index=-1&seq_num=5&target_api=24#_activity_context=false&android_num_video_cache_tasks=0&caps=inlineVideo_interactiveVideo_mraid1_mraid2_sdkVideo_th_autoplay_mediation_av_transparentBackground_sdkAdmobApiForAds_di_aso_sfv_dinm_dim_dinmo_gcache&eid=318475406%252C318477040%252C318476426%252C318476960%252C318477768%252C318477714%252C46621102&format=300x250_as&heap_free=1626560&heap_max=100663296&heap_total=44745600&js=afma-sdk-a-v10298470.9080000.2&msid=com.usatoday.android.news&request_pkg=com.gannett.android.ads.DfpAdRetriever&scroll_index=-1&seq_num=5&target_api=24',
+                    localName: '', nodeId: 84, nodeName: '#document', nodeType: 9,
+                    nodeValue: '', xmlVersion: ''}
+                  frameId: '2675.32'
+                  h: 250.0
+                  localName: iframe
+                  nodeId: 83
+                  nodeName: IFRAME
+                  nodeType: 1
+                  nodeValue: ''
+                  parent: 82
+                  props: {frameborder: '0', height: 100%, marginheight: '0', marginwidth: '0',
+                    scrolling: 'NO', src: 'about:blank', style: 'position: absolute;
+                      left: 0px; top: 0px; margin: 0px; padding: 0px; border: none;',
+                    width: 100%}
+                  value: ''
+                  w: 300.0
+                  x: 0.0
+                  y: -10000.0
+                childrenids: [83]
+                h: 0.0
+                localName: div
+                nodeId: 82
+                nodeName: DIV
+                nodeType: 1
+                nodeValue: ''
+                parent: 81
+                props: {}
+                value: ''
+                w: 300.0
+                x: 0.0
+                y: -10000.0
+              childrenids: [82]
+              h: 250.0
+              localName: div
+              nodeId: 81
+              nodeName: DIV
+              nodeType: 1
+              nodeValue: ''
+              parent: 74
+              props: {class: VPAID-container VPAID-loading}
+              value: ''
+              w: 300.0
+              x: 0.0
+              y: -10000.0
+            - &id112
+              attributes: [class, vjs-control-bar]
+              childNodeCount: 3
+              children:
+              - &id113
+                attributes: [class, vjs-volume-menu-button vjs-menu-button vjs-menu-button-inline
+                    vjs-control vjs-button  vjs-volume-menu-button-horizontal vjs-vol-0,
+                  tabindex, '0', role, button, type, button, aria-live, polite, aria-haspopup,
+                  'true']
+                childNodeCount: 2
+                children:
+                - &id114
+                  attributes: [class, vjs-control-text]
+                  childNodeCount: 1
+                  children:
+                  - &id115
+                    childrenids: []
+                    localName: ''
+                    nodeId: 88
+                    nodeName: '#text'
+                    nodeType: 3
+                    nodeValue: Unmute
+                    parent: 87
+                    props: {}
+                  childrenids: [88]
+                  h: 0.0
+                  localName: span
+                  nodeId: 87
+                  nodeName: SPAN
+                  nodeType: 1
+                  nodeValue: ''
+                  parent: 86
+                  props: {class: vjs-control-text}
+                  value: ''
+                  w: 0.0
+                  x: 0.0
+                  y: 0.0
+                - &id116
+                  attributes: [class, vjs-menu]
+                  childNodeCount: 1
+                  children:
+                  - &id117
+                    attributes: [class, vjs-menu-content]
+                    childNodeCount: 1
+                    children:
+                    - &id118
+                      attributes: [tabindex, '0', class, vjs-volume-bar vjs-slider-bar
+                          vjs-slider vjs-slider-horizontal, role, slider, aria-valuenow,
+                        '0.00', aria-valuemin, '0', aria-valuemax, '100', aria-label,
+                        volume level, aria-valuetext, 0.00%]
+                      childNodeCount: 1
+                      children:
+                      - &id119
+                        attributes: [class, vjs-volume-level]
+                        childNodeCount: 1
+                        children:
+                        - &id120
+                          attributes: [class, vjs-control-text]
+                          childNodeCount: 0
+                          children: []
+                          childrenids: []
+                          h: 0.0
+                          localName: span
+                          nodeId: 93
+                          nodeName: SPAN
+                          nodeType: 1
+                          nodeValue: ''
+                          parent: 92
+                          props: {class: vjs-control-text}
+                          value: ''
+                          w: 0.0
+                          x: 0.0
+                          y: 0.0
+                        childrenids: [93]
+                        h: 0.0
+                        localName: div
+                        nodeId: 92
+                        nodeName: DIV
+                        nodeType: 1
+                        nodeValue: ''
+                        parent: 91
+                        props: {class: vjs-volume-level}
+                        value: ''
+                        w: 0.0
+                        x: 0.0
+                        y: 0.0
+                      childrenids: [92]
+                      h: 0.0
+                      localName: div
+                      nodeId: 91
+                      nodeName: DIV
+                      nodeType: 1
+                      nodeValue: ''
+                      parent: 90
+                      props: {aria-label: volume level, aria-valuemax: '100', aria-valuemin: '0',
+                        aria-valuenow: '0.00', aria-valuetext: 0.00%, class: vjs-volume-bar
+                          vjs-slider-bar vjs-slider vjs-slider-horizontal, role: slider,
+                        tabindex: '0'}
+                      value: ''
+                      w: 0.0
+                      x: 0.0
+                      y: 0.0
+                    childrenids: [91]
+                    h: 0.0
+                    localName: div
+                    nodeId: 90
+                    nodeName: DIV
+                    nodeType: 1
+                    nodeValue: ''
+                    parent: 89
+                    props: {class: vjs-menu-content}
+                    value: ''
+                    w: 0.0
+                    x: 0.0
+                    y: 0.0
+                  childrenids: [90]
+                  h: 0.0
+                  localName: div
+                  nodeId: 89
+                  nodeName: DIV
+                  nodeType: 1
+                  nodeValue: ''
+                  parent: 86
+                  props: {class: vjs-menu}
+                  value: ''
+                  w: 0.0
+                  x: 0.0
+                  y: 0.0
+                childrenids: [87, 89]
+                h: 0.0
+                localName: div
+                nodeId: 86
+                nodeName: DIV
+                nodeType: 1
+                nodeValue: ''
+                parent: 85
+                props: {aria-haspopup: 'true', aria-live: polite, class: vjs-volume-menu-button
+                    vjs-menu-button vjs-menu-button-inline vjs-control vjs-button  vjs-volume-menu-button-horizontal
+                    vjs-vol-0, role: button, tabindex: '0', type: button}
+                value: ''
+                w: 0.0
+                x: 0.0
+                y: 0.0
+              - &id121
+                attributes: [class, vjs-progress-control vjs-control]
+                childNodeCount: 1
+                children:
+                - &id122
+                  attributes: [tabindex, '0', class, vjs-progress-holder vjs-slider
+                      vjs-slider-horizontal, role, slider, aria-valuenow, NaN, aria-valuemin,
+                    '0', aria-valuemax, '100', aria-label, video progress bar, aria-valuetext,
+                    '0:00']
+                  childNodeCount: 3
+                  children:
+                  - &id123
+                    attributes: [class, vjs-load-progress]
+                    childNodeCount: 1
+                    children:
+                    - &id124
+                      attributes: [class, vjs-control-text]
+                      childNodeCount: 2
+                      children:
+                      - &id125
+                        attributes: []
+                        childNodeCount: 1
+                        children:
+                        - &id126
+                          childrenids: []
+                          localName: ''
+                          nodeId: 99
+                          nodeName: '#text'
+                          nodeType: 3
+                          nodeValue: Loaded
+                          parent: 98
+                          props: {}
+                        childrenids: [99]
+                        h: 0.0
+                        localName: span
+                        nodeId: 98
+                        nodeName: SPAN
+                        nodeType: 1
+                        nodeValue: ''
+                        parent: 97
+                        props: {}
+                        value: ''
+                        w: 0.0
+                        x: 0.0
+                        y: 0.0
+                      - &id127
+                        childrenids: []
+                        localName: ''
+                        nodeId: 100
+                        nodeName: '#text'
+                        nodeType: 3
+                        nodeValue: ': 0%'
+                        parent: 97
+                        props: {}
+                      childrenids: [98, 100]
+                      h: 0.0
+                      localName: span
+                      nodeId: 97
+                      nodeName: SPAN
+                      nodeType: 1
+                      nodeValue: ''
+                      parent: 96
+                      props: {class: vjs-control-text}
+                      value: ''
+                      w: 0.0
+                      x: 0.0
+                      y: 0.0
+                    childrenids: [97]
+                    h: 0.0
+                    localName: div
+                    nodeId: 96
+                    nodeName: DIV
+                    nodeType: 1
+                    nodeValue: ''
+                    parent: 95
+                    props: {class: vjs-load-progress}
+                    value: ''
+                    w: 0.0
+                    x: 0.0
+                    y: 0.0
+                  - &id128
+                    attributes: [class, vjs-mouse-display, data-current-time, '0:00',
+                      style, 'left: 0px;']
+                    childNodeCount: 0
+                    children: []
+                    childrenids: []
+                    h: 0.0
+                    localName: div
+                    nodeId: 101
+                    nodeName: DIV
+                    nodeType: 1
+                    nodeValue: ''
+                    parent: 95
+                    props: {class: vjs-mouse-display, data-current-time: '0:00', style: 'left:
+                        0px;'}
+                    value: ''
+                    w: 0.0
+                    x: 0.0
+                    y: 0.0
+                  - &id129
+                    attributes: [class, vjs-play-progress vjs-slider-bar, data-current-time,
+                      '0:00']
+                    childNodeCount: 1
+                    children:
+                    - &id130
+                      attributes: [class, vjs-control-text]
+                      childNodeCount: 2
+                      children:
+                      - &id131
+                        attributes: []
+                        childNodeCount: 1
+                        children:
+                        - &id132
+                          childrenids: []
+                          localName: ''
+                          nodeId: 105
+                          nodeName: '#text'
+                          nodeType: 3
+                          nodeValue: Progress
+                          parent: 104
+                          props: {}
+                        childrenids: [105]
+                        h: 0.0
+                        localName: span
+                        nodeId: 104
+                        nodeName: SPAN
+                        nodeType: 1
+                        nodeValue: ''
+                        parent: 103
+                        props: {}
+                        value: ''
+                        w: 0.0
+                        x: 0.0
+                        y: 0.0
+                      - &id133
+                        childrenids: []
+                        localName: ''
+                        nodeId: 106
+                        nodeName: '#text'
+                        nodeType: 3
+                        nodeValue: ': 0%'
+                        parent: 103
+                        props: {}
+                      childrenids: [104, 106]
+                      h: 0.0
+                      localName: span
+                      nodeId: 103
+                      nodeName: SPAN
+                      nodeType: 1
+                      nodeValue: ''
+                      parent: 102
+                      props: {class: vjs-control-text}
+                      value: ''
+                      w: 0.0
+                      x: 0.0
+                      y: 0.0
+                    childrenids: [103]
+                    h: 0.0
+                    localName: div
+                    nodeId: 102
+                    nodeName: DIV
+                    nodeType: 1
+                    nodeValue: ''
+                    parent: 95
+                    props: {class: vjs-play-progress vjs-slider-bar, data-current-time: '0:00'}
+                    value: ''
+                    w: 0.0
+                    x: 0.0
+                    y: 0.0
+                  childrenids: [96, 101, 102]
+                  h: 0.0
+                  localName: div
+                  nodeId: 95
+                  nodeName: DIV
+                  nodeType: 1
+                  nodeValue: ''
+                  parent: 94
+                  props: {aria-label: video progress bar, aria-valuemax: '100', aria-valuemin: '0',
+                    aria-valuenow: NaN, aria-valuetext: '0:00', class: vjs-progress-holder
+                      vjs-slider vjs-slider-horizontal, role: slider, tabindex: '0'}
+                  value: ''
+                  w: 0.0
+                  x: 0.0
+                  y: 0.0
+                childrenids: [95]
+                h: 0.0
+                localName: div
+                nodeId: 94
+                nodeName: DIV
+                nodeType: 1
+                nodeValue: ''
+                parent: 85
+                props: {class: vjs-progress-control vjs-control}
+                value: ''
+                w: 0.0
+                x: 0.0
+                y: 0.0
+              - &id134
+                attributes: [class, vjs-remaining-time vjs-time-control vjs-control]
+                childNodeCount: 1
+                children:
+                - &id135
+                  attributes: [class, vjs-remaining-time-display, aria-live, 'off']
+                  childNodeCount: 2
+                  children:
+                  - &id136
+                    attributes: [class, vjs-control-text]
+                    childNodeCount: 1
+                    children:
+                    - &id137
+                      childrenids: []
+                      localName: ''
+                      nodeId: 110
+                      nodeName: '#text'
+                      nodeType: 3
+                      nodeValue: Remaining Time
+                      parent: 109
+                      props: {}
+                    childrenids: [110]
+                    h: 0.0
+                    localName: span
+                    nodeId: 109
+                    nodeName: SPAN
+                    nodeType: 1
+                    nodeValue: ''
+                    parent: 108
+                    props: {class: vjs-control-text}
+                    value: ''
+                    w: 0.0
+                    x: 0.0
+                    y: 0.0
+                  - &id138
+                    childrenids: []
+                    localName: ''
+                    nodeId: 111
+                    nodeName: '#text'
+                    nodeType: 3
+                    nodeValue: ' -0:00'
+                    parent: 108
+                    props: {}
+                  childrenids: [109, 111]
+                  h: 0.0
+                  localName: div
+                  nodeId: 108
+                  nodeName: DIV
+                  nodeType: 1
+                  nodeValue: ''
+                  parent: 107
+                  props: {aria-live: 'off', class: vjs-remaining-time-display}
+                  value: ''
+                  w: 0.0
+                  x: 0.0
+                  y: 0.0
+                childrenids: [108]
+                h: 0.0
+                localName: div
+                nodeId: 107
+                nodeName: DIV
+                nodeType: 1
+                nodeValue: ''
+                parent: 85
+                props: {class: vjs-remaining-time vjs-time-control vjs-control}
+                value: ''
+                w: 0.0
+                x: 0.0
+                y: 0.0
+              childrenids: [86, 94, 107]
+              h: 0.0
+              localName: div
+              nodeId: 85
+              nodeName: DIV
+              nodeType: 1
+              nodeValue: ''
+              parent: 74
+              props: {class: vjs-control-bar}
+              value: ''
+              w: 0.0
+              x: 0.0
+              y: 0.0
+            - &id139
+              attributes: [class, vjs-big-play-button, tabindex, '0', role, button,
+                type, button, aria-live, polite]
+              childNodeCount: 1
+              children:
+              - &id140
+                attributes: [class, vjs-control-text]
+                childNodeCount: 1
+                children:
+                - &id141
+                  childrenids: []
+                  localName: ''
+                  nodeId: 114
+                  nodeName: '#text'
+                  nodeType: 3
+                  nodeValue: Play Video
+                  parent: 113
+                  props: {}
+                childrenids: [114]
+                h: 0.0
+                localName: span
+                nodeId: 113
+                nodeName: SPAN
+                nodeType: 1
+                nodeValue: ''
+                parent: 112
+                props: {class: vjs-control-text}
+                value: ''
+                w: 0.0
+                x: 0.0
+                y: 0.0
+              childrenids: [113]
+              h: 0.0
+              localName: button
+              nodeId: 112
+              nodeName: BUTTON
+              nodeType: 1
+              nodeValue: ''
+              parent: 74
+              props: {aria-live: polite, class: vjs-big-play-button, role: button,
+                tabindex: '0', type: button}
+              value: ''
+              w: 0.0
+              x: 0.0
+              y: 0.0
+            - &id142
+              attributes: [class, vjs-black-poster]
+              childNodeCount: 0
+              children: []
+              childrenids: []
+              h: 0.0
+              localName: div
+              nodeId: 115
+              nodeName: DIV
+              nodeType: 1
+              nodeValue: ''
+              parent: 74
+              props: {class: vjs-black-poster}
+              value: ''
+              w: 300.0
+              x: 0.0
+              y: 250.0
+            childrenids: [75, 76, 77, 78, 81, 85, 112, 115]
+            h: 250.0
+            localName: div
+            nodeId: 74
+            nodeName: DIV
+            nodeType: 1
+            nodeValue: ''
+            parent: 30
+            props: {class: video-js vjs-default-skin vjs-big-play-centered sr-player
+                sr-hidden-player sr-no-bp srv vjs-paused sr-player-ef9e26bf-fda6-45a8-9b03-0540f527ea9b-dimensions
+                vjs-controls-enabled vjs-user-active vjs-vast-ad-loading vjs-vpaid-html5-ad,
+              controls: 'true', data-player-config: '{"bgColor":"#000000","fetchManifestSettings":{"orgId":"585a8783a76e2f0002000001","sessionId":"ef9e26bf-fda6-45a8-9b03-0540f527ea9b","domain":"pubads.g.doubleclick.net","srcSetter":"sr.ads.js","isContent":false,"playerVersion":"2314"}}',
+              id: sr-player-ef9e26bf-fda6-45a8-9b03-0540f527ea9b, muted: 'true', style: 'background-color:
+                rgb(0, 0, 0);', volume: '0'}
+            value: ''
+            w: 300.0
+            x: 0.0
+            y: 0.0
+          childrenids: [31, 74]
+          h: 250.0
+          localName: div
+          nodeId: 30
+          nodeName: DIV
+          nodeType: 1
+          nodeValue: ''
+          parent: 29
+          props: {id: sr-container-ef9e26bf-fda6-45a8-9b03-0540f527ea9b, style: 'position:relative;'}
+          value: ''
+          w: 300.0
+          x: 0.0
+          y: 0.0
+        childrenids: [30]
+        h: 250.0
+        localName: div
+        nodeId: 29
+        nodeName: DIV
+        nodeType: 1
+        nodeValue: ''
+        parent: 5
+        props: {class: sr-ns-ccfdcc872b6fc5ef6eeb0060da652c4c1cf275ac, id: player-58809ea82ee7330002168d0a}
+        value: ''
+        w: 300.0
+        x: 0.0
+        y: 0.0
+      30: *id063
+      31: *id064
+      32: *id065
+      33: *id066
+      34: *id067
+      35: *id068
+      36: *id069
+      37: *id070
+      38: *id071
+      39: *id072
+      41: *id073
+      42: *id074
+      43: *id075
+      45: *id076
+      46: *id077
+      47: *id078
+      48: *id079
+      49: *id080
+      50: *id081
+      51: *id082
+      52: *id083
+      53: *id084
+      54: *id085
+      55: *id086
+      56: *id087
+      57: *id088
+      58: *id089
+      59: *id090
+      60: *id091
+      62: *id092
+      63: *id093
+      64: *id094
+      65: *id095
+      66: *id096
+      67: *id097
+      68: *id098
+      69: *id099
+      70: *id100
+      71: *id101
+      72: *id102
+      73: *id103
+      74: *id104
+      75: *id105
+      76: *id106
+      77: *id107
+      78: *id108
+      81: *id109
+      82: *id110
+      83: *id111
+      85: *id112
+      86: *id113
+      87: *id114
+      88: *id115
+      89: *id116
+      90: *id117
+      91: *id118
+      92: *id119
+      93: *id120
+      94: *id121
+      95: *id122
+      96: *id123
+      97: *id124
+      98: *id125
+      99: *id126
+      100: *id127
+      101: *id128
+      102: *id129
+      103: *id130
+      104: *id131
+      105: *id132
+      106: *id133
+      107: *id134
+      108: *id135
+      109: *id136
+      110: *id137
+      111: *id138
+      112: *id139
+      113: *id140
+      114: *id141
+      115: *id142
+      116:
+        attributes: []
+        childNodeCount: 1
+        children:
+        - {localName: '', nodeId: 117, nodeName: '#text', nodeType: 3, nodeValue: "\n\
+            \  (function() {\n    window.srAsyncInit = function() {\n      SR(\"player-58809ea82ee7330002168d0a\"\
+            , {\n        \"playerId\": \"58809ea82ee7330002168d0a\",\n        \"apiKey\"\
+            : \"585a8783a76e2f0002000001\",\n        \"version\": \"1.0\",\n     \
+            \   \"macros\": {\n          \"rand\": Math.random().toString(),\n   \
+            \       \"cb\": \"1491246772316\",\n          \"publisher\": \"${REFERER_URL_ENC}\"\
+            ,\n         \"ctd\": \"${TAG_ID}\",\n          \"carrier\": \"0\",\n \
+            \         \"user_lat\": \"40.80059814453125\",\n          \"user_lon\"\
+            : \"-73.96530151367188\",\n          \"width\": \"300\",\n          \"\
+            height\": \"250\",\n          \"ip\": \"128.59.21.1\",\n          \"ua\"\
+            : \"Mozilla%2F5.0+%28Linux%3B+Android+6.0%3B+Google+Nexus+5X+-+6.0.0+-+API+23+-+1080x1920+Build%2FMRA58K%3B+wv%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Version%2F4.0+Chrome%2F44.0.2403.119+Mobile+Safari%2F537.36+%28Mobile%3B+afma-sdk-a-v10298470.9080000.2%29\"\
+            ,\n          \"pub_id\": \"${PUBLISHER_ID}\",\n          \"seller_id\"\
+            : \"${SELLER_MEMBER_ID}\",\n          \"placement_id\": \"${TAG_ID}\"\
+            ,\n          \"sub_id\": \"${CAMPAIGN_ID}\",\n          \"page_url\":\
+            \ \"https://play.google.com/store/apps/details?id=com.usatoday.android.news\"\
+            ,\n          \"ifa\": \"52E517B0-1940-4D01-914E-4DC3D59A0F44\",\n    \
+            \      \"app_name\": \"tennessean.com\",\n          \"app_category\":\"\
+            52E517B0-1940-4D01-914E-4DC3D59A0F44\",\n          \"bundle_id\": \"com.usatoday.android.news\"\
+            \n        }\n      });\n    };\n    \n    (function(d, s, id){\n     \
+            \   var js, srjs = d.getElementsByTagName(s)[0];\n        if (d.getElementById(id))\
+            \ {return;}\n        js = d.createElement(s); js.id = id;\n        js.setAttribute(\"\
+            crossorigin\", \"anonymous\");\n        js.src = \"https://sdk.streamrail.com/player/sr.ads.js\"\
+            ;\n        srjs.parentNode.insertBefore(js, srjs);\n    }(document, \"\
+            script\", \"streamrail-jssdk\"));\n  })();\n"}
+        childrenids: []
+        localName: script
+        nodeId: 116
+        nodeName: SCRIPT
+        nodeType: 1
+        nodeValue: ''
+        parent: 5
+        props: {}
+      118:
+        attributes: []
+        childNodeCount: 1
+        children:
+        - {localName: '', nodeId: 119, nodeName: '#text', nodeType: 3, nodeValue: '(function(){var
+            e=this,g=function(a,b,c){return a.call.apply(a.bind,arguments)},h=function(a,b,c){if(!a)throw
+            Error();if(2<arguments.length){var d=Array.prototype.slice.call(arguments,2);return
+            function(){var c=Array.prototype.slice.call(arguments);Array.prototype.unshift.apply(c,d);return
+            a.apply(b,c)}}return function(){return a.apply(b,arguments)}},k=function(a,b,c){Function.prototype.bind&&-1!=Function.prototype.bind.toString().indexOf("native
+            code")?k=g:k=h;return k.apply(null,arguments)},m=Date.now||function(){return+new
+            Date};var n=Array.prototype.forEach?function(a,b,c){Array.prototype.forEach.call(a,b,c)}:function(a,b,c){for(var
+            d=a.length,l="string"==typeof a?a.split(""):a,f=0;f<d;f++)f in l&&b.call(c,l[f],f,a)};var
+            p=function(a){p[" "](a);return a};p[" "]=function(){};var q=function(){var
+            a=!1;try{var b=Object.defineProperty({},"passive",{get:function(){a=!0}});e.addEventListener("test",null,b)}catch(c){}return
+            a}(),r=function(a,b,c){a.addEventListener?a.addEventListener(b,c,q?void
+            0:!1):a.attachEvent&&a.attachEvent("on"+b,c)};var t=function(a,b){var
+            c;c=(c=e.performance)&&c.now?c.now():m();this.label=a;this.type=b;this.value=c;this.duration=0;this.uniqueId=this.label+"_"+this.type+"_"+Math.random()};var
+            u=function(a,b){this.h=[];this.i=b||e;var c=null;b&&(b.google_js_reporting_queue=b.google_js_reporting_queue||[],this.h=b.google_js_reporting_queue,c=b.google_measure_js_timing);this.g=null!=c?c:Math.random()<a};u.prototype.j=function(a){var
+            b=this.i.performance;a&&b&&b.clearMarks&&(b.clearMarks("goog_"+a.uniqueId+"_start"),b.clearMarks("goog_"+a.uniqueId+"_end"))};u.prototype.start=function(a,b){if(!this.g)return
+            null;a=new t(a,b);(b=this.i.performance)&&b.mark&&b.mark("goog_"+a.uniqueId+"_start");return
+            a};var v=/^(?:([^:/?#.]+):)?(?:\/\/(?:([^/?#]*)@)?([^/#?]*?)(?::([0-9]+))?(?=[/#?]|$))?([^?#]+)?(?:\?([^#]*))?(?:#([\s\S]*))?$/,w=function(a){return
+            a?decodeURI(a):a};var y=function(){var a=x;try{var b;if(b=!!a&&null!=a.location.href)a:{try{p(a.foo);b=!0;break
+            a}catch(c){}b=!1}return b}catch(c){return!1}};var z=document,A=window;var
+            B=!!window.google_async_iframe_id,x=B&&window.parent||window;var C;if(B&&!y()){var
+            F="."+z.domain;try{for(;2<F.split(".").length&&!y();)z.domain=F=F.substr(F.indexOf(".")+1),x=window.parent}catch(a){}y()||(x=window)}C=x;var
+            G=new u(1,C),H=function(){C.google_measure_js_timing||(n(G.h,G.j,G),G.h.length=0,G.g=!1)};"complete"==C.document.readyState?H():G.g&&r(C,"load",function(){H()});var
+            L=function(a,b,c,d,l,f,D,E,Q){I(z.hidden)?(this.h="hidden",this.j="visibilitychange"):I(z.mozHidden)?(this.h="mozHidden",this.j="mozvisibilitychange"):I(z.msHidden)?(this.h="msHidden",this.j="msvisibilitychange"):I(z.webkitHidden)&&(this.h="webkitHidden",this.j="webkitvisibilitychange");this.o=!1;this.g=a;this.i=-1;this.s=b;this.u=c;this.I=d;this.F=f;this.A=D?"mousedown":"click";l&&z[this.h]&&J(this,2);this.G=E;this.D=Q||0;this.v=this.B=this.l=this.w=null;a=k(this.H,this);r(z,this.j,a);K(this)};L.prototype.H=function(){if(z[this.h])this.o&&(this.C(),this.i=m(),J(this,0));else{if(-1!=this.i){var
+            a=m()-this.i;a>this.D&&(this.i=-1,J(this,1,a),null!==this.g&&(this.g.registerFinalizeCallback(k(this.g.fireOnObject,this.g,"attempt_survey_trigger",["wfocus",this.u,this.s,this.l,this.B,this.v,a])),5E3<a&&this.g.fireOnObject("should_show_thank_you",{})))}this.F&&J(this,3)}};var
+            K=function(a){if(null!==a.g){var b=k(function(a,b,c){this.l=b.L().K();this.l||(a=b.J(),this.l=""+w(a.match(v)[3]||null)+w(a.match(v)[5]||null));this.B=b.creativeConversionUrl();this.v=b.adGroupCreativeId();this.m(c)},a),c=a.A;a.g.forEachAd(function(a){a.forEachNavigationAdPiece(function(d){a.listen(d,c,b)})})}else{var
+            d=k(a.m,a);r(A,a.A,d)}};L.prototype.m=function(a){this.w=a.button;this.o=!0;a=k(this.C,this);A.setTimeout(a,5E3)};L.prototype.handleClick=L.prototype.m;L.prototype.C=function(){this.o=!1};var
+            J=function(a,b,c){var d=["//",a.I?"googleads.g.doubleclick.net":"pagead2.googlesyndication.com","/pagead/gen_204?id=wfocus","&gqid="+a.s,"&qqid="+a.u].join("");0==b&&(d+="&return=0");1==b&&(d+="&return=1&timeDelta="+c,a.G&&(d+="&cbtn="+a.w));2==b&&(d+="&bgload=1");3==b&&(d+="&fg=1");A.google_image_requests||(A.google_image_requests=[]);a=A.document.createElement("img");a.src=d;A.google_image_requests.push(a)},I=function(a){return"undefined"!==typeof
+            a};var M=function(a,b,c,d,l,f,D,E){return new L(null,a,b,c,d,l,f,D,E)},N=["wfocusnhinit"],O=e;N[0]in
+            O||!O.execScript||O.execScript("var "+N[0]);for(var P;N.length&&(P=N.shift());){var
+            R;if(R=!N.length)R=void 0!==M;R?O[P]=M:O[P]&&O[P]!==Object.prototype[P]?O=O[P]:O=O[P]={}};}).call(this);window[''window_focus_for_click'']
+            =wfocusnhinit("","CJTqgpH_iNMCFci7swodr4cLFA",true,true,true,false,false,0);'}
+        childrenids: []
+        localName: script
+        nodeId: 118
+        nodeName: SCRIPT
+        nodeType: 1
+        nodeValue: ''
+        parent: 5
+        props: {}
+      120:
+        attributes: []
+        childNodeCount: 1
+        children:
+        - {localName: '', nodeId: 121, nodeName: '#text', nodeType: 3, nodeValue: '(function(){var
+            k="function"==typeof Object.defineProperties?Object.defineProperty:function(a,b,c){if(c.get||c.set)throw
+            new TypeError("ES3 does not support getters and setters.");a!=Array.prototype&&a!=Object.prototype&&(a[b]=c.value)},n="undefined"!=typeof
+            window&&window===this?this:"undefined"!=typeof global&&null!=global?global:this,p=function(){p=function(){};n.Symbol||(n.Symbol=q)},t=0,q=function(a){return"jscomp_symbol_"+(a||"")+t++},w=function(){p();var
+            a=n.Symbol.iterator;a||(a=n.Symbol.iterator=n.Symbol("iterator"));"function"!=typeof
+            Array.prototype[a]&&k(Array.prototype,a,{configurable:!0,writable:!0,value:function(){return
+            u(this)}});w=function(){}},u=function(a){var b=0;return x(function(){return
+            b<a.length?{done:!1,value:a[b++]}:{done:!0}})},x=function(a){w();a={next:a};a[n.Symbol.iterator]=function(){return
+            this};return a},y=function(a){w();var b=a[Symbol.iterator];return b?b.call(a):u(a)},z=this,A=function(a,b){a=a.split(".");var
+            c=z;a[0]in c||!c.execScript||c.execScript("var "+a[0]);for(var d;a.length&&(d=a.shift());)a.length||void
+            0===b?c[d]&&c[d]!==Object.prototype[d]?c=c[d]:c=c[d]={}:c[d]=b},B=function(a){var
+            b=typeof a;if("object"==b)if(a){if(a instanceof Array)return"array";if(a
+            instanceof Object)return b;var c=Object.prototype.toString.call(a);if("[object
+            Window]"==c)return"object";if("[object Array]"==c||"number"==typeof a.length&&"undefined"!=typeof
+            a.splice&&"undefined"!=typeof a.propertyIsEnumerable&&!a.propertyIsEnumerable("splice"))return"array";if("[object
+            Function]"==c||"undefined"!=typeof a.call&&"undefined"!=typeof a.propertyIsEnumerable&&!a.propertyIsEnumerable("call"))return"function"}else
+            return"null";else if("function"==b&&"undefined"==typeof a.call)return"object";return
+            b},C=function(a,b,c){return a.call.apply(a.bind,arguments)},D=function(a,b,c){if(!a)throw
+            Error();if(2<arguments.length){var d=Array.prototype.slice.call(arguments,2);return
+            function(){var c=Array.prototype.slice.call(arguments);Array.prototype.unshift.apply(c,d);return
+            a.apply(b,c)}}return function(){return a.apply(b,arguments)}},E=function(a,b,c){Function.prototype.bind&&-1!=Function.prototype.bind.toString().indexOf("native
+            code")?E=C:E=D;return E.apply(null,arguments)},F=Date.now||function(){return+new
+            Date},G=function(a,b){function c(){}c.prototype=b.prototype;a.F=b.prototype;a.prototype=new
+            c;a.prototype.constructor=a;a.H=function(a,c,r){for(var d=Array(arguments.length-2),f=2;f<arguments.length;f++)d[f-2]=arguments[f];return
+            b.prototype[c].apply(a,d)}};var H=function(a){this.data=a||[]},I=function(a,b,c){a=a.data[b];return
+            null!=a?a:c},J=function(a,b){a=a.data;a[0]||(a[0]=[]);return a[0][b]};var
+            K=function(a){this.data=a||[]};G(K,H);var L=function(a){this.data=a||[]};G(L,H);var
+            M=function(a){this.data=a||[]};G(M,H);var N=document,P=window;var aa={capture:!0},ba=function(){var
+            a=!1;try{var b=Object.defineProperty({},"passive",{get:function(){a=!0}});z.addEventListener("test",null,b)}catch(c){}return
+            a}(),Q=function(a,b,c,d){a.addEventListener?a.addEventListener(b,c,ba?d:d?d.capture||!1:!1):a.attachEvent&&a.attachEvent("on"+b,c)};var
+            ca=Object.prototype.hasOwnProperty,da=function(a,b){for(var c in a)ca.call(a,c)&&b.call(void
+            0,a[c],c,a)},R=function(a,b){a&&da(b,function(b,d){a.style[d]=b})},ea=function(a){for(var
+            b=N.body,c=document.createDocumentFragment(),d=a.length,f=0;f<d;++f)c.appendChild(a[f]);b.appendChild(c)};var
+            S=function(){this.i=this.i;this.j=this.j};S.prototype.i=!1;var fa=function(a){a.i||(a.i=!0,a.l())};S.prototype.l=function(){if(this.j)for(;this.j.length;)this.j.shift()()};var
+            T=function(a,b,c){S.call(this);this.m=a;this.A=b||0;this.o=c;this.u=E(this.v,this)};G(T,S);T.prototype.g=0;T.prototype.l=function(){T.F.l.call(this);this.g&&z.clearTimeout(this.g);this.g=0;delete
+            this.m;delete this.o};T.prototype.start=function(a){this.g&&z.clearTimeout(this.g);this.g=0;var
+            b=this.u;a=void 0!==a?a:this.A;if("function"!=B(b))if(b&&"function"==typeof
+            b.handleEvent)b=E(b.handleEvent,b);else throw Error("Invalid listener
+            argument");this.g=2147483647<Number(a)?-1:z.setTimeout(b,a||0)};T.prototype.v=function(){this.g=0;this.m&&this.m.call(this.o)};var
+            ga=function(a){return/^\s*$/.test(a)?!1:/^[\],:{}\s\u2028\u2029]*$/.test(a.replace(/\\["\\\/bfnrtu]/g,"@").replace(/(?:"[^"\\\n\r\u2028\u2029\x00-\x08\x0a-\x1f]*"|true|false|null|-?\d+(?:\.\d*)?(?:[eE][+\-]?\d+)?)[\s\u2028\u2029]*(?=:|,|]|}|$)/g,"]").replace(/(?:^|:|,)(?:[\s\u2028\u2029]*\[)+/g,""))},ha=function(a){a=String(a);if(ga(a))try{return
+            eval("("+a+")")}catch(b){}throw Error("Invalid JSON string: "+a);};var
+            ia=function(a){Q(P,"message",function(b){var c;try{c=ha(b.data)}catch(d){return}!c||"ig"!==c.googMsgType||a(c,b)})};var
+            ka={display:"inline-block",position:"absolute","z-index":"2147483647"},la={width:"50px",height:"50px",top:"0",left:"0"},ma={display:"none",width:"100%",height:"100%",top:"0",left:"0"},U=function(){this.j=[];this.m=this.u=this.g=null;this.C=[];this.l=null;this.A=[];this.i=[];this.o=[];this.v={}};U.prototype.G=function(a){var
+            b=this;this.l=new M(a);a=new K(this.l.data[0]);for(var c=a.data[0]?a.data[0].length:0,d=0;d<c;++d){var
+            f=new L(J(a,d));this.o.push({B:0,s:!1,h:f,w:-1})}if(I(this.l,3,void 0)){try{this.i=N.querySelectorAll("*[data-ifc]")}catch(r){}a=this.i.length;for(c=0;c<a;++c)for(d=new
+            K(JSON.parse(this.i[c].getAttribute("data-ifc")||"[]")),f=0;f<(d.data[0]?d.data[0].length:0);++f)this.o.push({B:0,s:!1,h:new
+            L(J(d,f)),w:c})}a=y(this.o);for(c=a.next();!c.done;c=a.next())c=c.value,d=c.h,null!=d.data[1]&&null!=d.data[4]?(!this.g&&I(d,8,void
+            0)&&(this.g=V(ma)),na(this,c)):null!=d.data[0]&&I(d,8,void 0)&&oa(this,I(d,0,""));I(this.l,2,void
+            0)&&(this.u=V(la));a=this.j.slice(0);this.g&&a.push(this.g);this.u&&a.push(this.u);N.body&&ea(a);Q(N,"click",function(a){for(var
+            c,d=-1,g=[],f=y(b.o),m=f.next();!m.done;m=f.next()){var m=m.value,e=m.w,l=-1!==e;if(!(I(m.h,2,0)<=d||m.s||l&&!1===g[e])){var
+            h=!l||g[e]||b.i[e].contains(a.target);l&&h&&(g[e]=!0);if(e=h)if(l=a,e=m,h=e.h,null!=h.data[1]&&null!=h.data[4])e=b.v[I(h,4,1)],e=void
+            0!==e&&F()<e+I(h,1,0);else if(null!=h.data[0]){var h=(0<=e.w?b.i[e.w]:N.body).getBoundingClientRect(),v=y([l.clientX-h.left,l.clientY-h.top,h.width,h.height]),l=v.next().value,h=v.next().value,r=v.next().value,v=v.next().value;!(0<r&&0<v)||isNaN(l)||isNaN(h)||0>l||0>h?e=!1:(e=W(I(e.h,0,"")),e=!(l>=e.left&&r-l>e.right&&h>=e.top&&v-h>e.bottom))}else
+            e=!0;e&&(c=m,d=I(m.h,2,0))}}if(c)switch(d=c.h,I(d,3,1)){case 2:case 3:case
+            4:a.preventDefault?a.preventDefault():a.returnValue=!1;g=c.h;if(null!=g.data[7]&&++c.B>=I(g,7,0))if(c.s=!0,b.g&&null!=g.data[1])X(b);else
+            if(0<b.j.length&&null!=g.data[0])for(c=y(b.j),g=c.next();!g.done;g=c.next())g.value.style.display="none";c=y(b.A);for(g=c.next();!g.done;g=c.next())g=g.value,g(a,d)}},aa)};U.prototype.D=function(a){this.A.push(a)};var
+            oa=function(a,b){b=W(b);a.j=[{width:"100%",height:b.top+"px",top:"0",left:"0"},{width:b.right+"px",height:"100%",top:"0",right:"0"},{width:"100%",height:b.bottom+"px",bottom:"0",left:"0"},{width:b.left+"px",height:"100%",top:"0",left:"0"}].map(function(a){return
+            V(a)})},Y=function(a,b){b.s||(a.v[I(b.h,4,1)]=F(),I(b.h,8,void 0)&&(a.C.push(b),X(a)))},na=function(a,b){switch(I(b.h,4,1)){case
+            2:P.AFMA_Communicator&&P.AFMA_Communicator.addEventListener&&Q(P.AFMA_Communicator,"onshow",function(){Y(a,b)});break;case
+            4:Q(N,"DOMContentLoaded",function(){Y(a,b)});break;case 7:P.mraid&&P.mraid.isViewable&&Q(P.mraid,"viewableChange",function(){var
+            c=P.mraid;"function"==B(c.isViewable)&&c.isViewable()&&Y(a,b)});break;case
+            8:ia(function(c){c.rr&&Y(a,b)})}},X=function(a){for(var b=0,c=y(a.C),d=c.next();!d.done;d=c.next()){var
+            d=d.value,f=d.h,r=a.v[I(f,4,1)];d.s||void 0===r||(b=Math.max(b,r+I(f,1,0)))}b-=F();a.m&&fa(a.m);if(0<b){var
+            O=a.g;O.style.display="inline-block";a.m=new T(function(){O.style.display="none"},b);a.m.start()}else
+            a.g.style.display="none"},V=function(a){var b=N.createElement("DIV");R(b,ka);R(b,a);return
+            b},W=function(a){a=void 0===a?"":a;var b={top:0,right:0,bottom:0,left:0};a&&(a=a.split(","),4==a.length&&a.reduce(function(a,b){return
+            a&&!isNaN(b)},!0)&&(a=y(a.map(function(a){return+a})),b.top=a.next().value,b.right=a.next().value,b.bottom=a.next().value,b.left=a.next().value));return
+            b};var Z=new U;A("googqscp",Z);var pa=E(Z.G,Z);A("googqscp.init",pa);var
+            qa=E(Z.D,Z);A("googqscp.registerCallback",qa);}).call(this);googqscp.init([[[[null,1000,10,2,4,null,null,null,1]]],null,0,1]);'}
+        childrenids: []
+        localName: script
+        nodeId: 120
+        nodeName: SCRIPT
+        nodeType: 1
+        nodeValue: ''
+        parent: 5
+        props: {}
+      122:
+        attributes: [style, 'display: none; position: absolute; z-index: 2147483647;
+            width: 100%; height: 100%; top: 0px; left: 0px;']
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        h: 0.0
+        localName: div
+        nodeId: 122
+        nodeName: DIV
+        nodeType: 1
+        nodeValue: ''
+        parent: 5
+        props: {style: 'display: none; position: absolute; z-index: 2147483647; width:
+            100%; height: 100%; top: 0px; left: 0px;'}
+        value: ''
+        w: 0.0
+        x: 0.0
+        y: 0.0
+      123:
+        attributes: []
+        childNodeCount: 1
+        children:
+        - {localName: '', nodeId: 124, nodeName: '#text', nodeType: 3, nodeValue: 'if
+            (window.top && window.top.postMessage) {window.top.postMessage(''{"googMsgType":"adpnt"}'',''*'');}'}
+        childrenids: []
+        localName: script
+        nodeId: 123
+        nodeName: SCRIPT
+        nodeType: 1
+        nodeValue: ''
+        parent: 5
+        props: {}
+      125:
+        attributes: []
+        childNodeCount: 1
+        children:
+        - {localName: '', nodeId: 126, nodeName: '#text', nodeType: 3, nodeValue: '(function(){var
+            g=this,h=function(a){var b=typeof a;if("object"==b)if(a){if(a instanceof
+            Array)return"array";if(a instanceof Object)return b;var c=Object.prototype.toString.call(a);if("[object
+            Window]"==c)return"object";if("[object Array]"==c||"number"==typeof a.length&&"undefined"!=typeof
+            a.splice&&"undefined"!=typeof a.propertyIsEnumerable&&!a.propertyIsEnumerable("splice"))return"array";if("[object
+            Function]"==c||"undefined"!=typeof a.call&&"undefined"!=typeof a.propertyIsEnumerable&&!a.propertyIsEnumerable("call"))return"function"}else
+            return"null";else if("function"==b&&"undefined"==typeof a.call)return"object";return
+            b},l=function(a,b,c){return a.call.apply(a.bind,arguments)},m=function(a,b,c){if(!a)throw
+            Error();if(2<arguments.length){var d=Array.prototype.slice.call(arguments,2);return
+            function(){var c=Array.prototype.slice.call(arguments);Array.prototype.unshift.apply(c,d);return
+            a.apply(b,c)}}return function(){return a.apply(b,arguments)}},n=function(a,b,c){Function.prototype.bind&&-1!=Function.prototype.bind.toString().indexOf("native
+            code")?n=l:n=m;return n.apply(null,arguments)},q=Date.now||function(){return+new
+            Date},t=function(a){var b=r;function c(){}c.prototype=b.prototype;a.v=b.prototype;a.prototype=new
+            c;a.prototype.constructor=a;a.D=function(a,c,f){for(var d=Array(arguments.length-2),e=2;e<arguments.length;e++)d[e-2]=arguments[e];return
+            b.prototype[c].apply(a,d)}};var u=document,v=window;var x=Array.prototype.forEach?function(a,b,c){Array.prototype.forEach.call(a,b,c)}:function(a,b,c){for(var
+            d=a.length,e="string"==typeof a?a.split(""):a,f=0;f<d;f++)f in e&&b.call(c,e[f],f,a)};var
+            y=function(a){y[" "](a);return a};y[" "]=function(){};var z=function(a,b){var
+            c;c=(c=g.performance)&&c.now?c.now():q();this.label=a;this.type=b;this.value=c;this.duration=0;this.uniqueId=this.label+"_"+this.type+"_"+Math.random()};var
+            A=function(a,b){this.i=[];this.h=b||g;var c=null;b&&(b.google_js_reporting_queue=b.google_js_reporting_queue||[],this.i=b.google_js_reporting_queue,c=b.google_measure_js_timing);this.g=null!=c?c:Math.random()<a};A.prototype.j=function(a){var
+            b=this.h.performance;a&&b&&b.clearMarks&&(b.clearMarks("goog_"+a.uniqueId+"_start"),b.clearMarks("goog_"+a.uniqueId+"_end"))};A.prototype.start=function(a,b){if(!this.g)return
+            null;a=new z(a,b);(b=this.h.performance)&&b.mark&&b.mark("goog_"+a.uniqueId+"_start");return
+            a};var B=function(){var a=!1;try{var b=Object.defineProperty({},"passive",{get:function(){a=!0}});g.addEventListener("test",null,b)}catch(c){}return
+            a}(),C=function(a,b,c){a.addEventListener?a.addEventListener(b,c,B?void
+            0:!1):a.attachEvent&&a.attachEvent("on"+b,c)};var E=function(){var a=D;try{var
+            b;if(b=!!a&&null!=a.location.href)a:{try{y(a.foo);b=!0;break a}catch(c){}b=!1}return
+            b}catch(c){return!1}},G=function(a,b){for(var c in a)Object.prototype.hasOwnProperty.call(a,c)&&b.call(void
+            0,a[c],c,a)};var H=function(a,b,c,d,e){this.l=c||4E3;this.j=a||"&";this.m=b||",$";this.i=void
+            0!==d?d:"trn";this.s=e||null;this.h={};this.o=0;this.g=[]},K=function(a,b,c,d){b=b+"//"+c+d;var
+            e=I(a)-d.length-0;if(0>e)return"";a.g.sort(function(a,b){return a-b});d=null;c="";for(var
+            f=0;f<a.g.length;f++)for(var k=a.g[f],w=a.h[k],F=0;F<w.length;F++){if(!e){d=null==d?k:d;break}var
+            p=J(w[F],a.j,a.m);if(p){p=c+p;if(e>=p.length){e-=p.length;b+=p;c=a.j;break}d=null==d?k:d}}e="";a.i&&null!=d&&(e=c+a.i+"="+(a.s||d));return
+            b+e+""},I=function(a){if(!a.i)return a.l;var b=1,c;for(c in a.h)b=c.length>b?c.length:b;return
+            a.l-a.i.length-b-a.j.length-1},J=function(a,b,c,d,e){var f=[];G(a,function(a,w){(a=L(a,b,c,d,e))&&f.push(w+"="+a)});return
+            f.join(b)},L=function(a,b,c,d,e){if(null==a)return"";b=b||"&";c=c||",$";"string"==typeof
+            c&&(c=c.split(""));if(a instanceof Array){if(d=d||0,d<c.length){for(var
+            f=[],k=0;k<a.length;k++)f.push(L(a[k],b,c,d+1,e));return f.join(c[d])}}else
+            if("object"==typeof a)return e=e||0,2>e?encodeURIComponent(J(a,b,c,d,e+1)):"...";return
+            encodeURIComponent(String(a))};var aa=function(a,b,c){var d=M;if(.1>(c?d.j:Math.random()))try{var
+            e;b instanceof H?e=b:(e=new H,G(b,function(a,b){var c=e,d=c.o++,f={};f[b]=a;a=[f];c.g.push(d);c.h[d]=a}));var
+            f=K(e,d.h,d.g,d.i+a+"&");f&&N(f)}catch(k){}},N=function(a){g.google_image_requests||(g.google_image_requests=[]);var
+            b=g.document.createElement("img");b.src=a;g.google_image_requests.push(b)};var
+            O=!!window.google_async_iframe_id,D=O&&window.parent||window;var M,P;if(O&&!E()){var
+            Q="."+u.domain;try{for(;2<Q.split(".").length&&!E();)u.domain=Q=Q.substr(Q.indexOf(".")+1),D=window.parent}catch(a){}E()||(D=window)}P=D;var
+            R=new A(1,P),S=function(){P.google_measure_js_timing||(x(R.i,R.j,R),R.i.length=0,R.g=!1)};M=new
+            function(){this.h="http:"===v.location.protocol?"http:":"https:";this.g="pagead2.googlesyndication.com";this.i="/pagead/gen_204?id=";this.j=Math.random()};"complete"==P.document.readyState?S():R.g&&C(P,"load",function(){S()});var
+            r=function(){this.j=this.j;this.l=this.l};r.prototype.j=!1;var ba=function(a){a.j||(a.j=!0,a.i())};r.prototype.i=function(){if(this.l)for(;this.l.length;)this.l.shift()()};var
+            T=function(a,b,c){r.call(this);this.h=a;this.u=b||0;this.m=c;this.o=n(this.s,this)};t(T);T.prototype.g=0;T.prototype.i=function(){T.v.i.call(this);this.g&&g.clearTimeout(this.g);this.g=0;delete
+            this.h;delete this.m};T.prototype.start=function(a){this.g&&g.clearTimeout(this.g);this.g=0;var
+            b=this.o;a=void 0!==a?a:this.u;if("function"!=h(b))if(b&&"function"==typeof
+            b.handleEvent)b=n(b.handleEvent,b);else throw Error("Invalid listener
+            argument");this.g=2147483647<Number(a)?-1:g.setTimeout(b,a||0)};T.prototype.s=function(){this.g=0;this.h&&this.h.call(this.m)};var
+            V=function(a,b,c){r.call(this);this.h=[];this.u=q();this.B=c;this.s=0;this.g=null;this.m=u.getElementsByClassName("click_blocker_glasspane")[0];"DOMContentLoaded"==a&&(U(this,u,a,b),"undefined"!==typeof
+            AFMA_Communicator&&AFMA_Communicator&&AFMA_Communicator.addEventListener&&U(this,AFMA_Communicator,"onshow",b));"onshow"==a&&(U(this,v,a,b),b||C(this.m,"click",n(this.o,this)))};t(V);V.prototype.o=function(a){var
+            b=this.B||"";a={dt:q()-this.u,gpc:++this.s,x:a.clientX,y:a.clientY};aa(b,a,"jserror"!=b)};V.prototype.C=function(a){var
+            b=this.m;b&&(a?(b.style.display="block",this.g&&(ba(this.g),this.g=null),this.g=new
+            T(function(){b.style.display="none"},a),this.g.start()):b.style.display="none")};var
+            U=function(a,b,c,d){d=n(a.C,a,d);C(b,c,d);a.h.push({target:b,A:c,w:d})};V.prototype.i=function(){for(var
+            a=0;a<this.h.length;++a){var b=this.h[a].target,c=this.h[a].A,d=this.h[a].w;b.removeEventListener?b.removeEventListener(c,d,B?void
+            0:!1):b.detachEvent&&b.detachEvent("on"+c,d)}V.v.i.call(this)};var W=function(a,b,c){return
+            new V(a,b,c)},X=["googleInitCd"],Y=g;X[0]in Y||!Y.execScript||Y.execScript("var
+            "+X[0]);for(var Z;X.length&&(Z=X.shift());)X.length||void 0===W?Y[Z]&&Y[Z]!==Object.prototype[Z]?Y=Y[Z]:Y=Y[Z]={}:Y[Z]=W;}).call(this);googleInitCd(''DOMContentLoaded'',
+            1000);'}
+        childrenids: []
+        localName: script
+        nodeId: 125
+        nodeName: SCRIPT
+        nodeType: 1
+        nodeValue: ''
+        parent: 5
+        props: {}
+      127:
+        attributes: []
+        childNodeCount: 1
+        children:
+        - {localName: '', nodeId: 128, nodeName: '#text', nodeType: 3, nodeValue: '(function(){var
+            e=this,f=function(a){return"number"==typeof a},g=function(a,b,c){return
+            a.call.apply(a.bind,arguments)},h=function(a,b,c){if(!a)throw Error();if(2<arguments.length){var
+            d=Array.prototype.slice.call(arguments,2);return function(){var c=Array.prototype.slice.call(arguments);Array.prototype.unshift.apply(c,d);return
+            a.apply(b,c)}}return function(){return a.apply(b,arguments)}},k=function(a,b,c){Function.prototype.bind&&-1!=Function.prototype.bind.toString().indexOf("native
+            code")?k=g:k=h;return k.apply(null,arguments)};var m=function(){var a=!1;try{var
+            b=Object.defineProperty({},"passive",{get:function(){a=!0}});e.addEventListener("test",null,b)}catch(c){}return
+            a}();var n=function(a){this.h=null;var b={top:10,right:10,bottom:10,left:10};a&&(a=a.split(","),4!=a.length||isNaN(a[0])||isNaN(a[1])||isNaN(a[2])||isNaN(a[3])||(b.top=+a[0],b.right=+a[1],b.bottom=+a[2],b.left=+a[3]));this.g=b};n.prototype.i=function(a){for(var
+            b=!1,c=a.target;c;c=c.parentNode)if("abgc"==c.id){b=!0;break}if(!b)var
+            d=this.h.getBoundingClientRect(),b=d.width,c=d.height,l=a.clientX-d.left,d=a.clientY-d.top,b=!(f(b)&&f(c)&&f(a.clientX)&&f(a.clientY))||0>=b||0>=c||0>l||0>d?!0:l>=this.g.left&&b-l>=this.g.right&&d>=this.g.top&&c-d>=this.g.bottom;b||(a.preventDefault?a.preventDefault():a.returnValue=!1)};var
+            p=function(a,b){b||(b="");b=new n(b);b.h=a;a=b.h;var c=k(b.i,b);a.addEventListener?a.addEventListener("click",c,m?void
+            0:!1):a.attachEvent&&a.attachEvent("onclick",c);return b},q=["googleInitIc"],r=e;q[0]in
+            r||!r.execScript||r.execScript("var "+q[0]);for(var t;q.length&&(t=q.shift());){var
+            u;if(u=!q.length)u=void 0!==p;u?r[t]=p:r[t]&&r[t]!==Object.prototype[t]?r=r[t]:r=r[t]={}};}).call(this);googleInitIc(document.body,''10,10,10,10'');'}
+        childrenids: []
+        localName: script
+        nodeId: 127
+        nodeName: SCRIPT
+        nodeType: 1
+        nodeValue: ''
+        parent: 5
+        props: {}
+      129:
+        attributes: []
+        childNodeCount: 1
+        children:
+        - &id143
+          childrenids: []
+          localName: ''
+          nodeId: 130
+          nodeName: '#text'
+          nodeType: 3
+          nodeValue: '.click_blocker_glasspane {display: none;height: 250px;left:
+            0;position: absolute;top: 0;width: 300px;z-index: 1;}'
+          parent: 129
+          props: {}
+        childrenids: [130]
+        h: 0.0
+        localName: style
+        nodeId: 129
+        nodeName: STYLE
+        nodeType: 1
+        nodeValue: ''
+        parent: 5
+        props: {}
+        value: ''
+        w: 0.0
+        x: 0.0
+        y: 0.0
+      130: *id143
+      131:
+        attributes: [class, click_blocker_glasspane]
+        childNodeCount: 1
+        children:
+        - &id144
+          attributes: [src, //tpc.googlesyndication.com/pagead/images/transparent.png,
+            style, 'height:100%; width:100%;']
+          childNodeCount: 0
+          children: []
+          childrenids: []
+          h: 0.0
+          localName: img
+          nodeId: 132
+          nodeName: IMG
+          nodeType: 1
+          nodeValue: ''
+          parent: 131
+          props: {src: //tpc.googlesyndication.com/pagead/images/transparent.png,
+            style: 'height:100%; width:100%;'}
+          value: ''
+          w: 0.0
+          x: 0.0
+          y: 0.0
+        childrenids: [132]
+        h: 0.0
+        localName: div
+        nodeId: 131
+        nodeName: DIV
+        nodeType: 1
+        nodeValue: ''
+        parent: 5
+        props: {class: click_blocker_glasspane}
+        value: ''
+        w: 0.0
+        x: 0.0
+        y: 0.0
+      132: *id144
+      133:
+        attributes: [type, text/javascript, src, 'https://vast-cdn.adhigh.net/adserver/ua-parser.min.js']
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: script
+        nodeId: 133
+        nodeName: SCRIPT
+        nodeType: 1
+        nodeValue: ''
+        parent: 5
+        props: {src: 'https://vast-cdn.adhigh.net/adserver/ua-parser.min.js', type: text/javascript}
+    page: {base_h: 656, base_w: 787, base_x: 4193, base_y: 703, empty: false, title: 'about:blank',
+      url: 'about:blank', ws_url: 'ws://127.0.0.1:12345/devtools/page/03BCB723-1DF7-4834-ACD8-B11AE9647C80'}
+    parents: {2: 1, 3: 1, 4: 3, 5: 3, 6: 4, 7: 4, 8: 7, 9: 4, 10: 9, 11: 4, 12: 4,
+      13: 4, 14: 4, 15: 4, 16: 4, 17: 16, 18: 4, 19: 18, 20: 4, 21: 20, 22: 5, 23: 22,
+      24: 5, 25: 24, 26: 25, 27: 5, 28: 5, 29: 5, 30: 29, 31: 30, 32: 31, 33: 32,
+      34: 33, 35: 31, 36: 31, 37: 31, 38: 31, 39: 38, 41: 39, 42: 41, 43: 38, 45: 43,
+      46: 45, 47: 43, 48: 47, 49: 48, 50: 49, 51: 50, 52: 38, 53: 52, 54: 53, 55: 54,
+      56: 55, 57: 56, 58: 55, 59: 53, 60: 53, 62: 60, 63: 62, 64: 63, 65: 62, 66: 38,
+      67: 66, 68: 67, 69: 68, 70: 67, 71: 31, 72: 71, 73: 72, 74: 30, 75: 74, 76: 74,
+      77: 74, 78: 74, 81: 74, 82: 81, 83: 82, 85: 74, 86: 85, 87: 86, 88: 87, 89: 86,
+      90: 89, 91: 90, 92: 91, 93: 92, 94: 85, 95: 94, 96: 95, 97: 96, 98: 97, 99: 98,
+      100: 97, 101: 95, 102: 95, 103: 102, 104: 103, 105: 104, 106: 103, 107: 85,
+      108: 107, 109: 108, 110: 109, 111: 108, 112: 74, 113: 112, 114: 113, 115: 74,
+      116: 5, 117: 116, 118: 5, 119: 118, 120: 5, 121: 120, 122: 5, 123: 5, 124: 123,
+      125: 5, 126: 125, 127: 5, 128: 127, 129: 5, 130: 129, 131: 5, 132: 131, 133: 5}
+    scaling: 2.625
+  title: about:blank

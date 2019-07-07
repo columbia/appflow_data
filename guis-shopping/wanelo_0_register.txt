@@ -1,0 +1,1 @@
+com.wanelo.android/.ui.activity.login.SignupActivity

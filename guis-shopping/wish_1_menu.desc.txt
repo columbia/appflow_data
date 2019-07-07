@@ -1,0 +1,10 @@
+80 menu_list
+89 home
+93 search
+97 notifications
+102 cart
+107 orders
+120 invite
+124 contact
+128 faq
+132 setting

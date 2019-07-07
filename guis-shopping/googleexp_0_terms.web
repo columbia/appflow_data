@@ -1,0 +1,1936 @@
+- page:
+    base_h: 1594
+    base_w: 1080
+    base_x: 0
+    base_y: 200
+    html_h: 1446.0
+    html_w: 980.0
+    nodes:
+      1:
+        backendNodeId: 2478
+        baseURL: https://www.google.com/express/terms
+        childNodeCount: 2
+        children:
+        - &id001
+          backendNodeId: 2479
+          childrenids: []
+          localName: ''
+          nodeId: 2
+          nodeName: html
+          nodeType: 10
+          nodeValue: ''
+          parent: 1
+          props: {}
+          publicId: ''
+          systemId: ''
+        - &id002
+          attributes: [class, google, lang, en]
+          backendNodeId: 2480
+          childNodeCount: 2
+          children:
+          - &id003
+            attributes: []
+            backendNodeId: 2481
+            childNodeCount: 9
+            childrenids: [6, 8, 9, 10, 11, 12, 13, 14, 15]
+            h: 0.0
+            localName: head
+            nodeId: 4
+            nodeName: HEAD
+            nodeType: 1
+            nodeValue: ''
+            parent: 3
+            props: {}
+            value: ''
+            w: 0.0
+            x: 0.0
+            y: 0.0
+          - &id004
+            attributes: []
+            backendNodeId: 2482
+            childNodeCount: 1
+            childrenids: [16]
+            h: 1446.0
+            localName: body
+            nodeId: 5
+            nodeName: BODY
+            nodeType: 1
+            nodeValue: ''
+            parent: 3
+            props: {}
+            value: ''
+            w: 880.0
+            x: 50.0
+            y: 50.0
+          childrenids: [4, 5]
+          frameId: '31020.32'
+          h: 1446.0
+          localName: html
+          nodeId: 3
+          nodeName: HTML
+          nodeType: 1
+          nodeValue: ''
+          parent: 1
+          props: {class: google, lang: en}
+          value: ''
+          w: 980.0
+          x: 0.0
+          y: 0.0
+        childrenids: [2, 3]
+        documentURL: https://www.google.com/express/terms
+        localName: ''
+        nodeId: 1
+        nodeName: '#document'
+        nodeType: 9
+        nodeValue: ''
+        parent: -1
+        props: {}
+        xmlVersion: ''
+      2: *id001
+      3: *id002
+      4: *id003
+      5: *id004
+      6:
+        attributes: []
+        backendNodeId: 2483
+        childNodeCount: 1
+        children:
+        - &id005
+          backendNodeId: 2484
+          childrenids: []
+          localName: ''
+          nodeId: 7
+          nodeName: '#text'
+          nodeType: 3
+          nodeValue: Google Express
+          parent: 6
+          props: {}
+        childrenids: [7]
+        h: 0.0
+        localName: title
+        nodeId: 6
+        nodeName: TITLE
+        nodeType: 1
+        nodeValue: ''
+        parent: 4
+        props: {}
+        value: ''
+        w: 0.0
+        x: 0.0
+        y: 0.0
+      7: *id005
+      8:
+        attributes: [rel, icon, type, image/png, href, //www.gstatic.com/gsx/gx_icon_27x27_tilt2.png]
+        backendNodeId: 2485
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: link
+        nodeId: 8
+        nodeName: LINK
+        nodeType: 1
+        nodeValue: ''
+        parent: 4
+        props: {href: //www.gstatic.com/gsx/gx_icon_27x27_tilt2.png, rel: icon, type: image/png}
+      9:
+        attributes: [http-equiv, content-type, content, text/html; charset=utf-8]
+        backendNodeId: 2486
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: meta
+        nodeId: 9
+        nodeName: META
+        nodeType: 1
+        nodeValue: ''
+        parent: 4
+        props: {content: text/html; charset=utf-8, http-equiv: content-type}
+      10:
+        attributes: [http-equiv, cache-control, content, max-age=0]
+        backendNodeId: 2487
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: meta
+        nodeId: 10
+        nodeName: META
+        nodeType: 1
+        nodeValue: ''
+        parent: 4
+        props: {content: max-age=0, http-equiv: cache-control}
+      11:
+        attributes: [http-equiv, cache-control, content, no-cache]
+        backendNodeId: 2488
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: meta
+        nodeId: 11
+        nodeName: META
+        nodeType: 1
+        nodeValue: ''
+        parent: 4
+        props: {content: no-cache, http-equiv: cache-control}
+      12:
+        attributes: [http-equiv, expires, content, '0']
+        backendNodeId: 2489
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: meta
+        nodeId: 12
+        nodeName: META
+        nodeType: 1
+        nodeValue: ''
+        parent: 4
+        props: {content: '0', http-equiv: expires}
+      13:
+        attributes: [http-equiv, expires, content, 'Tue, 01 Jan 1980 1:00:00 GMT']
+        backendNodeId: 2490
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: meta
+        nodeId: 13
+        nodeName: META
+        nodeType: 1
+        nodeValue: ''
+        parent: 4
+        props: {content: 'Tue, 01 Jan 1980 1:00:00 GMT', http-equiv: expires}
+      14:
+        attributes: [http-equiv, pragma, content, no-cache]
+        backendNodeId: 2491
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: meta
+        nodeId: 14
+        nodeName: META
+        nodeType: 1
+        nodeValue: ''
+        parent: 4
+        props: {content: no-cache, http-equiv: pragma}
+      15:
+        attributes: [rel, stylesheet, media, screen, charset, utf-8, type, text/css,
+          href, '/express/v2/u/0/css/terms.css?27d93dc8-80dc-413c-8a94-c74e45b48801']
+        backendNodeId: 2492
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: link
+        nodeId: 15
+        nodeName: LINK
+        nodeType: 1
+        nodeValue: ''
+        parent: 4
+        props: {charset: utf-8, href: '/express/v2/u/0/css/terms.css?27d93dc8-80dc-413c-8a94-c74e45b48801',
+          media: screen, rel: stylesheet, type: text/css}
+      16:
+        attributes: [id, content]
+        backendNodeId: 2493
+        childNodeCount: 38
+        children:
+        - &id006
+          attributes: [href, 'https://www.google.com/express']
+          backendNodeId: 2494
+          childNodeCount: 1
+          children:
+          - &id007
+            attributes: [src, //www.gstatic.com/sameday/static/images/wb_gx_ic-full_149x28_2x.png,
+              alt, Google Express]
+            backendNodeId: 2495
+            childNodeCount: 0
+            children: []
+            childrenids: []
+            h: 56.0
+            localName: img
+            nodeId: 18
+            nodeName: IMG
+            nodeType: 1
+            nodeValue: ''
+            parent: 17
+            props: {alt: Google Express, src: //www.gstatic.com/sameday/static/images/wb_gx_ic-full_149x28_2x.png}
+            value: ''
+            w: 299.0
+            x: 50.0
+            y: 50.0
+          childrenids: [18]
+          h: 18.0
+          localName: a
+          nodeId: 17
+          nodeName: A
+          nodeType: 1
+          nodeValue: ''
+          parent: 16
+          props: {href: 'https://www.google.com/express'}
+          value: ''
+          w: 299.0
+          x: 50.0
+          y: 92.0
+        - &id008
+          attributes: []
+          backendNodeId: 2496
+          childNodeCount: 1
+          children:
+          - &id009
+            backendNodeId: 2497
+            childrenids: []
+            localName: ''
+            nodeId: 20
+            nodeName: '#text'
+            nodeType: 3
+            nodeValue: Terms of Service
+            parent: 19
+            props: {}
+          childrenids: [20]
+          h: 27.0
+          localName: h2
+          nodeId: 19
+          nodeName: H2
+          nodeType: 1
+          nodeValue: ''
+          parent: 16
+          props: {}
+          value: ''
+          w: 880.0
+          x: 50.0
+          y: 126.171875
+        - &id010
+          attributes: []
+          backendNodeId: 2498
+          childNodeCount: 1
+          children:
+          - &id011
+            backendNodeId: 2499
+            childrenids: []
+            localName: ''
+            nodeId: 22
+            nodeName: '#text'
+            nodeType: 3
+            nodeValue: 'Last modified: September 7, 2016'
+            parent: 21
+            props: {}
+          childrenids: [22]
+          h: 20.0
+          localName: p
+          nodeId: 21
+          nodeName: P
+          nodeType: 1
+          nodeValue: ''
+          parent: 16
+          props: {}
+          value: ''
+          w: 880.0
+          x: 50.0
+          y: 169.34375
+        - &id012
+          attributes: []
+          backendNodeId: 2500
+          childNodeCount: 1
+          children:
+          - &id013
+            attributes: []
+            backendNodeId: 2501
+            childNodeCount: 1
+            children:
+            - &id014
+              attributes: []
+              backendNodeId: 2502
+              childNodeCount: 1
+              children:
+              - &id015
+                backendNodeId: 2503
+                childrenids: []
+                localName: ''
+                nodeId: 26
+                nodeName: '#text'
+                nodeType: 3
+                nodeValue: "By using Google Express (\u201CGX\u201D) you:"
+                parent: 25
+                props: {}
+              childrenids: [26]
+              h: 15.0
+              localName: strong
+              nodeId: 25
+              nodeName: STRONG
+              nodeType: 1
+              nodeValue: ''
+              parent: 24
+              props: {}
+              value: ''
+              w: 212.390625
+              x: 50.0
+              y: 211.109375
+            childrenids: [25]
+            h: 20.0
+            localName: p
+            nodeId: 24
+            nodeName: P
+            nodeType: 1
+            nodeValue: ''
+            parent: 23
+            props: {}
+            value: ''
+            w: 880.0
+            x: 50.0
+            y: 209.109375
+          childrenids: [24]
+          h: 20.0
+          localName: h5
+          nodeId: 23
+          nodeName: H5
+          nodeType: 1
+          nodeValue: ''
+          parent: 16
+          props: {}
+          value: ''
+          w: 880.0
+          x: 50.0
+          y: 209.109375
+        - &id016
+          attributes: []
+          backendNodeId: 2504
+          childNodeCount: 3
+          children:
+          - &id017
+            backendNodeId: 2505
+            childrenids: []
+            localName: ''
+            nodeId: 28
+            nodeName: '#text'
+            nodeType: 3
+            nodeValue: '(a) understand that (i) Google may access and use your Google
+              Payments info (billing addresses, shipping addresses, and phone numbers)
+              and other personal info (like names and email addresses along with your
+              orders) according to our '
+            parent: 27
+            props: {}
+          - &id018
+            attributes: [href, 'https://www.google.com/policies/privacy/']
+            backendNodeId: 2506
+            childNodeCount: 1
+            children:
+            - &id019
+              backendNodeId: 2507
+              childrenids: []
+              localName: ''
+              nodeId: 30
+              nodeName: '#text'
+              nodeType: 3
+              nodeValue: Privacy Policy
+              parent: 29
+              props: {}
+            childrenids: [30]
+            h: 15.0
+            localName: a
+            nodeId: 29
+            nodeName: A
+            nodeType: 1
+            nodeValue: ''
+            parent: 27
+            props: {href: 'https://www.google.com/policies/privacy/'}
+            value: ''
+            w: 79.984375
+            x: 554.703125
+            y: 261.109375
+          - &id020
+            backendNodeId: 2508
+            childrenids: []
+            localName: ''
+            nodeId: 31
+            nodeName: '#text'
+            nodeType: 3
+            nodeValue: ', (ii) we may share this info with merchants, delivery personnel,
+              and other third-party vendors to fulfill your orders, and for analytics,
+              and (iii) if you belong to merchant membership programs, this info may
+              also be used by them according to their membership program terms; and'
+            parent: 27
+            props: {}
+          childrenids: [28, 29, 31]
+          h: 80.0
+          localName: p
+          nodeId: 27
+          nodeName: P
+          nodeType: 1
+          nodeValue: ''
+          parent: 16
+          props: {}
+          value: ''
+          w: 880.0
+          x: 50.0
+          y: 239.109375
+        - &id021
+          attributes: []
+          backendNodeId: 2509
+          childNodeCount: 5
+          children:
+          - &id022
+            backendNodeId: 2510
+            childrenids: []
+            localName: ''
+            nodeId: 33
+            nodeName: '#text'
+            nodeType: 3
+            nodeValue: '(b) agree to be bound by our (i) '
+            parent: 32
+            props: {}
+          - &id023
+            attributes: [href, 'https://www.google.com/intl/en/policies/terms/', target,
+              _blank]
+            backendNodeId: 2511
+            childNodeCount: 1
+            children:
+            - &id024
+              backendNodeId: 2512
+              childrenids: []
+              localName: ''
+              nodeId: 35
+              nodeName: '#text'
+              nodeType: 3
+              nodeValue: Google Terms of Service
+              parent: 34
+              props: {}
+            childrenids: [35]
+            h: 15.0
+            localName: a
+            nodeId: 34
+            nodeName: A
+            nodeType: 1
+            nodeValue: ''
+            parent: 32
+            props: {href: 'https://www.google.com/intl/en/policies/terms/', target: _blank}
+            value: ''
+            w: 141.359375
+            x: 230.984375
+            y: 331.109375
+          - &id025
+            backendNodeId: 2513
+            childrenids: []
+            localName: ''
+            nodeId: 36
+            nodeName: '#text'
+            nodeType: 3
+            nodeValue: ", and (ii) these GX Terms of Service (the \u201C"
+            parent: 32
+            props: {}
+          - &id026
+            attributes: []
+            backendNodeId: 2514
+            childNodeCount: 1
+            children:
+            - &id027
+              backendNodeId: 2515
+              childrenids: []
+              localName: ''
+              nodeId: 38
+              nodeName: '#text'
+              nodeType: 3
+              nodeValue: GX Terms
+              parent: 37
+              props: {}
+            childrenids: [38]
+            h: 15.0
+            localName: b
+            nodeId: 37
+            nodeName: B
+            nodeType: 1
+            nodeValue: ''
+            parent: 32
+            props: {}
+            value: ''
+            w: 57.53125
+            x: 607.625
+            y: 331.109375
+          - &id028
+            backendNodeId: 2516
+            childrenids: []
+            localName: ''
+            nodeId: 39
+            nodeName: '#text'
+            nodeType: 3
+            nodeValue: "\u201D):"
+            parent: 32
+            props: {}
+          childrenids: [33, 34, 36, 37, 39]
+          h: 20.0
+          localName: p
+          nodeId: 32
+          nodeName: P
+          nodeType: 1
+          nodeValue: ''
+          parent: 16
+          props: {}
+          value: ''
+          w: 880.0
+          x: 50.0
+          y: 329.109375
+        - &id029
+          attributes: []
+          backendNodeId: 2517
+          childNodeCount: 1
+          children:
+          - &id030
+            backendNodeId: 2518
+            childrenids: []
+            localName: ''
+            nodeId: 41
+            nodeName: '#text'
+            nodeType: 3
+            nodeValue: 1. Use of Ordered Items.
+            parent: 40
+            props: {}
+          childrenids: [41]
+          h: 20.0
+          localName: h5
+          nodeId: 40
+          nodeName: H5
+          nodeType: 1
+          nodeValue: ''
+          parent: 16
+          props: {}
+          value: ''
+          w: 880.0
+          x: 50.0
+          y: 368.875
+        - &id031
+          attributes: []
+          backendNodeId: 2519
+          childNodeCount: 1
+          children:
+          - &id032
+            backendNodeId: 2520
+            childrenids: []
+            localName: ''
+            nodeId: 43
+            nodeName: '#text'
+            nodeType: 3
+            nodeValue: Items purchased via GX are for personal use only, except items
+              that you purchase for your business, like office supplies, can be purchased
+              via GX for use by your business, but not for commercial resale.
+            parent: 42
+            props: {}
+          childrenids: [43]
+          h: 40.0
+          localName: p
+          nodeId: 42
+          nodeName: P
+          nodeType: 1
+          nodeValue: ''
+          parent: 16
+          props: {}
+          value: ''
+          w: 880.0
+          x: 50.0
+          y: 398.875
+        - &id033
+          attributes: []
+          backendNodeId: 2521
+          childNodeCount: 1
+          children:
+          - &id034
+            backendNodeId: 2522
+            childrenids: []
+            localName: ''
+            nodeId: 45
+            nodeName: '#text'
+            nodeType: 3
+            nodeValue: 2. Order Cancellations.
+            parent: 44
+            props: {}
+          childrenids: [45]
+          h: 20.0
+          localName: h5
+          nodeId: 44
+          nodeName: H5
+          nodeType: 1
+          nodeValue: ''
+          parent: 16
+          props: {}
+          value: ''
+          w: 880.0
+          x: 50.0
+          y: 458.640625
+        - &id035
+          attributes: []
+          backendNodeId: 2523
+          childNodeCount: 1
+          children:
+          - &id036
+            backendNodeId: 2524
+            childrenids: []
+            localName: ''
+            nodeId: 47
+            nodeName: '#text'
+            nodeType: 3
+            nodeValue: If you would like to cancel a GX order once it has been placed
+              you can request cancellation online through your GX account. Google
+              cannot guarantee that we will be able to cancel the order. If you receive
+              delivery of an order you attempted to cancel you must complete the GX
+              returns process in order to receive a refund for that order (the standard
+              GX refund policy will apply).  If you order an item that turns out to
+              be unavailable at the merchant store location you selected, the item
+              may be sourced from another store location or swapped for a similar
+              item according to your substitution preferences.  If Google is unable
+              to have any part of your order fulfilled for any reason (other than
+              your not being present to sign for a delivery when that option is selected
+              at checkout), Google will automatically cancel that part of your order
+              and you will not be charged for the items that comprise the unfulfilled
+              part of your order.
+            parent: 46
+            props: {}
+          childrenids: [47]
+          h: 140.0
+          localName: p
+          nodeId: 46
+          nodeName: P
+          nodeType: 1
+          nodeValue: ''
+          parent: 16
+          props: {}
+          value: ''
+          w: 880.0
+          x: 50.0
+          y: 488.640625
+        - &id037
+          attributes: []
+          backendNodeId: 2525
+          childNodeCount: 1
+          children:
+          - &id038
+            backendNodeId: 2526
+            childrenids: []
+            localName: ''
+            nodeId: 49
+            nodeName: '#text'
+            nodeType: 3
+            nodeValue: 3. Signed-for Deliveries.
+            parent: 48
+            props: {}
+          childrenids: [49]
+          h: 20.0
+          localName: h5
+          nodeId: 48
+          nodeName: H5
+          nodeType: 1
+          nodeValue: ''
+          parent: 16
+          props: {}
+          value: ''
+          w: 880.0
+          x: 50.0
+          y: 648.40625
+        - &id039
+          attributes: []
+          backendNodeId: 2527
+          childNodeCount: 1
+          children:
+          - &id040
+            backendNodeId: 2528
+            childrenids: []
+            localName: ''
+            nodeId: 51
+            nodeName: '#text'
+            nodeType: 3
+            nodeValue: During checkout, if you choose to sign for delivery for an
+              order and you are not present when the order arrives during the delivery
+              window you chose, then you may be charged (a) for the value of the perishable
+              items in your order, like cold groceries, and associated taxes and other
+              fees, as those perishable items will be discarded, (b) a service fee
+              to offset our costs in arranging for the redelivery or discarding of
+              your order, or (c) both.
+            parent: 50
+            props: {}
+          childrenids: [51]
+          h: 60.0
+          localName: p
+          nodeId: 50
+          nodeName: P
+          nodeType: 1
+          nodeValue: ''
+          parent: 16
+          props: {}
+          value: ''
+          w: 880.0
+          x: 50.0
+          y: 678.40625
+        - &id041
+          attributes: []
+          backendNodeId: 2529
+          childNodeCount: 1
+          children:
+          - &id042
+            backendNodeId: 2530
+            childrenids: []
+            localName: ''
+            nodeId: 53
+            nodeName: '#text'
+            nodeType: 3
+            nodeValue: 4. Return and Refund Policy.
+            parent: 52
+            props: {}
+          childrenids: [53]
+          h: 20.0
+          localName: h5
+          nodeId: 52
+          nodeName: H5
+          nodeType: 1
+          nodeValue: ''
+          parent: 16
+          props: {}
+          value: ''
+          w: 880.0
+          x: 50.0
+          y: 758.171875
+        - &id043
+          attributes: []
+          backendNodeId: 2531
+          childNodeCount: 3
+          children:
+          - &id044
+            backendNodeId: 2532
+            childrenids: []
+            localName: ''
+            nodeId: 55
+            nodeName: '#text'
+            nodeType: 3
+            nodeValue: 'You can find our return policy '
+            parent: 54
+            props: {}
+          - &id045
+            attributes: [href, 'https://support.google.com/shoppingexpress/answer/4565661',
+              target, _blank]
+            backendNodeId: 2533
+            childNodeCount: 1
+            children:
+            - &id046
+              backendNodeId: 2534
+              childrenids: []
+              localName: ''
+              nodeId: 57
+              nodeName: '#text'
+              nodeType: 3
+              nodeValue: here
+              parent: 56
+              props: {}
+            childrenids: [57]
+            h: 15.0
+            localName: a
+            nodeId: 56
+            nodeName: A
+            nodeType: 1
+            nodeValue: ''
+            parent: 54
+            props: {href: 'https://support.google.com/shoppingexpress/answer/4565661',
+              target: _blank}
+            value: ''
+            w: 25.203125
+            x: 221.125
+            y: 790.171875
+          - &id047
+            backendNodeId: 2535
+            childrenids: []
+            localName: ''
+            nodeId: 58
+            nodeName: '#text'
+            nodeType: 3
+            nodeValue: . By placing a GX order you acknowledge and understand that
+              attempting to collect a cash refund for a credit card purchase or initiating
+              a fraudulent chargeback is prohibited by law and you hereby agree to
+              indemnify, defend and hold harmless Google, the merchant and each of
+              their affiliates from any claims, losses or liabilities arising from
+              or in connection with your violation of the applicable return policy.
+            parent: 54
+            props: {}
+          childrenids: [55, 56, 58]
+          h: 60.0
+          localName: p
+          nodeId: 54
+          nodeName: P
+          nodeType: 1
+          nodeValue: ''
+          parent: 16
+          props: {}
+          value: ''
+          w: 880.0
+          x: 50.0
+          y: 788.171875
+        - &id048
+          attributes: []
+          backendNodeId: 2536
+          childNodeCount: 1
+          children:
+          - &id049
+            backendNodeId: 2537
+            childrenids: []
+            localName: ''
+            nodeId: 60
+            nodeName: '#text'
+            nodeType: 3
+            nodeValue: 5. Item Prices and Related Fees.
+            parent: 59
+            props: {}
+          childrenids: [60]
+          h: 20.0
+          localName: h5
+          nodeId: 59
+          nodeName: H5
+          nodeType: 1
+          nodeValue: ''
+          parent: 16
+          props: {}
+          value: ''
+          w: 880.0
+          x: 50.0
+          y: 867.9375
+        - &id050
+          attributes: []
+          backendNodeId: 2538
+          childNodeCount: 1
+          children:
+          - &id051
+            backendNodeId: 2539
+            childrenids: []
+            localName: ''
+            nodeId: 62
+            nodeName: '#text'
+            nodeType: 3
+            nodeValue: "Item prices and applicable fees (such as taxes and other fees\
+              \ that the merchant charges, like bottle deposits and e-waste fees)\
+              \ may vary. Prices on Google Express are set by each merchant, and in\
+              \ most cases you\u2019ll pay the same amount as what you\u2019d pay\
+              \ in-store."
+            parent: 61
+            props: {}
+          childrenids: [62]
+          h: 40.0
+          localName: p
+          nodeId: 61
+          nodeName: P
+          nodeType: 1
+          nodeValue: ''
+          parent: 16
+          props: {}
+          value: ''
+          w: 880.0
+          x: 50.0
+          y: 897.9375
+        - &id052
+          attributes: []
+          backendNodeId: 2540
+          childNodeCount: 1
+          children:
+          - &id053
+            backendNodeId: 2541
+            childrenids: []
+            localName: ''
+            nodeId: 64
+            nodeName: '#text'
+            nodeType: 3
+            nodeValue: "If something's out of stock, the substitutes you get may have\
+              \ prices different from your original items. Because these prices (and\
+              \ the associated taxes and other fees the merchant charges) may vary\
+              \ based on current in-store or in-warehouse item prices and availability,\
+              \ we authorize your card for an estimated amount that includes a reasonable\
+              \ buffer to cover that variance, and the total will show on your final\
+              \ receipt. Because item prices are set by merchants, sometimes you\u2019\
+              ll see higher prices on Google Express than in-store. If the total exceeds\
+              \ the designated reasonable buffer for your order, then part or all\
+              \ of your order will be automatically declined and you may choose to\
+              \ resubmit the declined part of your order at the new price."
+            parent: 63
+            props: {}
+          childrenids: [64]
+          h: 100.0
+          localName: p
+          nodeId: 63
+          nodeName: P
+          nodeType: 1
+          nodeValue: ''
+          parent: 16
+          props: {}
+          value: ''
+          w: 880.0
+          x: 50.0
+          y: 947.9375
+        - &id054
+          attributes: []
+          backendNodeId: 2542
+          childNodeCount: 1
+          children:
+          - &id055
+            backendNodeId: 2543
+            childrenids: []
+            localName: ''
+            nodeId: 66
+            nodeName: '#text'
+            nodeType: 3
+            nodeValue: Items are purchased from individual stores as listed in your
+              cart and your order history. The shipping & service fee is not a tip.
+              All service fees are paid to Google.
+            parent: 65
+            props: {}
+          childrenids: [66]
+          h: 40.0
+          localName: p
+          nodeId: 65
+          nodeName: P
+          nodeType: 1
+          nodeValue: ''
+          parent: 16
+          props: {}
+          value: ''
+          w: 880.0
+          x: 50.0
+          y: 1057.9375
+        - &id056
+          attributes: []
+          backendNodeId: 2544
+          childNodeCount: 1
+          children:
+          - &id057
+            backendNodeId: 2545
+            childrenids: []
+            localName: ''
+            nodeId: 68
+            nodeName: '#text'
+            nodeType: 3
+            nodeValue: 6. Title, Estimated and Final Sales Taxes.
+            parent: 67
+            props: {}
+          childrenids: [68]
+          h: 20.0
+          localName: h5
+          nodeId: 67
+          nodeName: H5
+          nodeType: 1
+          nodeValue: ''
+          parent: 16
+          props: {}
+          value: ''
+          w: 880.0
+          x: 50.0
+          y: 1117.703125
+        - &id058
+          attributes: []
+          backendNodeId: 2546
+          childNodeCount: 1
+          children:
+          - &id059
+            backendNodeId: 2547
+            childrenids: []
+            localName: ''
+            nodeId: 70
+            nodeName: '#text'
+            nodeType: 3
+            nodeValue: "GX sales are online sales and are processed as online transactions.\
+              \ You will receive an electronic receipt for your order. Google does\
+              \ not take title for any GX items. Rather, title for each item you purchase\
+              \ will pass directly from the merchant to you, either in the merchant\u2019\
+              s store at the point of sale if Google arranges for delivery of the\
+              \ items, or at the delivery address if the merchant arranges for delivery\
+              \ of the items from the merchant\u2019s warehouse or distribution center.\
+              \ Sales tax will be calculated at the time title passes to you. Google\
+              \ may display estimated taxes on your purchase to you online during\
+              \ the GX purchase process; however, your final receipt will display\
+              \ the final sales tax calculated. Each merchant is solely responsible\
+              \ for calculating and informing Google how much sales tax to collect\
+              \ on each order. Google will collect the instructed amount from you\
+              \ on behalf of the merchant and will remit those funds to the merchant."
+            parent: 69
+            props: {}
+          childrenids: [70]
+          h: 140.0
+          localName: p
+          nodeId: 69
+          nodeName: P
+          nodeType: 1
+          nodeValue: ''
+          parent: 16
+          props: {}
+          value: ''
+          w: 880.0
+          x: 50.0
+          y: 1147.703125
+        - &id060
+          attributes: []
+          backendNodeId: 2548
+          childNodeCount: 1
+          children:
+          - &id061
+            backendNodeId: 2549
+            childrenids: []
+            localName: ''
+            nodeId: 72
+            nodeName: '#text'
+            nodeType: 3
+            nodeValue: 7. Merchant Loyalty Programs.
+            parent: 71
+            props: {}
+          childrenids: [72]
+          h: 20.0
+          localName: h5
+          nodeId: 71
+          nodeName: H5
+          nodeType: 1
+          nodeValue: ''
+          parent: 16
+          props: {}
+          value: ''
+          w: 880.0
+          x: 50.0
+          y: 1307.46875
+        - &id062
+          attributes: []
+          backendNodeId: 2550
+          childNodeCount: 1
+          children:
+          - &id063
+            backendNodeId: 2551
+            childrenids: []
+            localName: ''
+            nodeId: 74
+            nodeName: '#text'
+            nodeType: 3
+            nodeValue: "When ordering from a merchant via GX you may provide Google\
+              \ with your account number for that merchant\u2019s loyalty/rewards\
+              \ program and Google will pass that information to the merchant. If\
+              \ the merchant has deemed GX orders eligible to receive benefits or\
+              \ discounts under their program then you may receive such benefits and\
+              \ discounts for eligible purchases. Google has no control over which\
+              \ benefits and discounts are ultimately provided to you, and Google\
+              \ bears no responsibility for any merchant loyalty or reward programs.\
+              \ Each GX merchant reserves the right to refuse to grant loyalty/reward\
+              \ benefits or discounts for any GX order in their sole discretion. The\
+              \ terms and conditions applicable to a merchant\u2019s loyalty/rewards\
+              \ program are between you and the merchant."
+            parent: 73
+            props: {}
+          childrenids: [74]
+          h: 120.0
+          localName: p
+          nodeId: 73
+          nodeName: P
+          nodeType: 1
+          nodeValue: ''
+          parent: 16
+          props: {}
+          value: ''
+          w: 880.0
+          x: 50.0
+          y: 1337.46875
+        - &id064
+          attributes: []
+          backendNodeId: 2552
+          childNodeCount: 1
+          children:
+          - &id065
+            backendNodeId: 2553
+            childrenids: []
+            localName: ''
+            nodeId: 76
+            nodeName: '#text'
+            nodeType: 3
+            nodeValue: 8. Warranties.
+            parent: 75
+            props: {}
+          childrenids: [76]
+          h: 20.0
+          localName: h5
+          nodeId: 75
+          nodeName: H5
+          nodeType: 1
+          nodeValue: ''
+          parent: 16
+          props: {}
+          value: ''
+          w: 880.0
+          x: 50.0
+          y: 1477.234375
+        - &id066
+          attributes: []
+          backendNodeId: 2554
+          childNodeCount: 1
+          children:
+          - &id067
+            backendNodeId: 2555
+            childrenids: []
+            localName: ''
+            nodeId: 78
+            nodeName: '#text'
+            nodeType: 3
+            nodeValue: "GX AND THE ITEMS PURCHASED THROUGH GX ARE BROUGHT TO YOU \u201C\
+              AS IS\u201D AND \u201CWITH ALL FAULTS\u201D. NEITHER GOOGLE NOR THE\
+              \ MERCHANTS THAT SELL THE ITEMS THROUGH GX MAKE ANY WARRANTIES OR PROMISES\
+              \ ABOUT THE ITEMS PURCHASED THROUGH GX. FOR EXAMPLE, NEITHER WE (NOR\
+              \ THE MERCHANTS) MAKE ANY PROMISES OR COMMITMENTS ABOUT THE FUNCTIONALITY\
+              \ OF THE ITEMS, OR THEIR QUALITY, DURABILITY, SAFETY, RELIABILITY, AVAILABILITY,\
+              \ OR ABILITY TO MEET YOUR NEEDS. SOME JURISDICTIONS PROVIDE FOR CERTAIN\
+              \ WARRANTIES, LIKE THE IMPLIED WARRANTY OF MERCHANTABILITY, FITNESS\
+              \ FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. TO THE EXTENT PERMITTED\
+              \ BY LAW, WE (AND THE MERCHANTS) EXCLUDE ALL WARRANTIES AND WE (AND\
+              \ THE MERCHANTS) ALSO DISCLAIM AND EXCLUDE ALL REMEDIES, DAMAGES OR\
+              \ FINANCIAL LOSSES INCLUDING REPAIR AND REPLACEMENT REMEDIES, DIMINUTION\
+              \ IN ITEM VALUE, INDIRECT, SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE\
+              \ DAMAGES."
+            parent: 77
+            props: {}
+          childrenids: [78]
+          h: 160.0
+          localName: p
+          nodeId: 77
+          nodeName: P
+          nodeType: 1
+          nodeValue: ''
+          parent: 16
+          props: {}
+          value: ''
+          w: 880.0
+          x: 50.0
+          y: 1507.234375
+        - &id068
+          attributes: []
+          backendNodeId: 2556
+          childNodeCount: 1
+          children:
+          - &id069
+            backendNodeId: 2557
+            childrenids: []
+            localName: ''
+            nodeId: 80
+            nodeName: '#text'
+            nodeType: 3
+            nodeValue: If you need a copy of the manufacturer's warranty for a product
+              purchased via GX, please contact the manufacturer or visit their website
+              for more information. In some cases, you may be able to access the warranty
+              information from the product's detail page within GX.
+            parent: 79
+            props: {}
+          childrenids: [80]
+          h: 40.0
+          localName: p
+          nodeId: 79
+          nodeName: P
+          nodeType: 1
+          nodeValue: ''
+          parent: 16
+          props: {}
+          value: ''
+          w: 880.0
+          x: 50.0
+          y: 1677.234375
+        - &id070
+          attributes: []
+          backendNodeId: 2558
+          childNodeCount: 1
+          children:
+          - &id071
+            attributes: []
+            backendNodeId: 2559
+            childNodeCount: 3
+            children:
+            - &id072
+              backendNodeId: 2560
+              childrenids: []
+              localName: ''
+              nodeId: 83
+              nodeName: '#text'
+              nodeType: 3
+              nodeValue: "For items purchased from the Google Store merchant via GX,\
+                \ the Data and Deactivation, Defects; Warranties; Disclaimer of Warranties,\
+                \ and Device Features Outside of Google\u2019s Control sections of\
+                \ the "
+              parent: 82
+              props: {}
+            - &id073
+              attributes: [href, 'https://store.google.com/intl/en-US_us/about/device-terms.html']
+              backendNodeId: 2561
+              childNodeCount: 1
+              children:
+              - &id074
+                backendNodeId: 2562
+                childrenids: []
+                localName: ''
+                nodeId: 85
+                nodeName: '#text'
+                nodeType: 3
+                nodeValue: Google Store Terms of Sale for Devices
+                parent: 84
+                props: {}
+              childrenids: [85]
+              h: 15.0
+              localName: a
+              nodeId: 84
+              nodeName: A
+              nodeType: 1
+              nodeValue: ''
+              parent: 82
+              props: {href: 'https://store.google.com/intl/en-US_us/about/device-terms.html'}
+              value: ''
+              w: 229.34375
+              x: 356.4375
+              y: 1749.234375
+            - &id075
+              backendNodeId: 2563
+              childrenids: []
+              localName: ''
+              nodeId: 86
+              nodeName: '#text'
+              nodeType: 3
+              nodeValue: ' applies to your purchase of those items.'
+              parent: 82
+              props: {}
+            childrenids: [83, 84, 86]
+            h: 35.0
+            localName: b
+            nodeId: 82
+            nodeName: B
+            nodeType: 1
+            nodeValue: ''
+            parent: 81
+            props: {}
+            value: ''
+            w: 849.4375
+            x: 50.0
+            y: 1729.234375
+          childrenids: [82]
+          h: 40.0
+          localName: p
+          nodeId: 81
+          nodeName: P
+          nodeType: 1
+          nodeValue: ''
+          parent: 16
+          props: {}
+          value: ''
+          w: 880.0
+          x: 50.0
+          y: 1727.234375
+        - &id076
+          attributes: []
+          backendNodeId: 2564
+          childNodeCount: 1
+          children:
+          - &id077
+            backendNodeId: 2565
+            childrenids: []
+            localName: ''
+            nodeId: 88
+            nodeName: '#text'
+            nodeType: 3
+            nodeValue: 9. Your GX Account.
+            parent: 87
+            props: {}
+          childrenids: [88]
+          h: 20.0
+          localName: h5
+          nodeId: 87
+          nodeName: H5
+          nodeType: 1
+          nodeValue: ''
+          parent: 16
+          props: {}
+          value: ''
+          w: 880.0
+          x: 50.0
+          y: 1787.0
+        - &id078
+          attributes: []
+          backendNodeId: 2566
+          childNodeCount: 1
+          children:
+          - &id079
+            backendNodeId: 2567
+            childrenids: []
+            localName: ''
+            nodeId: 90
+            nodeName: '#text'
+            nodeType: 3
+            nodeValue: Google may terminate or suspend your GX user account at any
+              time for any reason. If any suspension or termination of your GX account
+              by Google results in you not receiving an order placed before such suspension
+              or termination, you will receive a full refund for such order.
+            parent: 89
+            props: {}
+          childrenids: [90]
+          h: 40.0
+          localName: p
+          nodeId: 89
+          nodeName: P
+          nodeType: 1
+          nodeValue: ''
+          parent: 16
+          props: {}
+          value: ''
+          w: 880.0
+          x: 50.0
+          y: 1817.0
+        - &id080
+          attributes: []
+          backendNodeId: 2568
+          childNodeCount: 1
+          children:
+          - &id081
+            backendNodeId: 2569
+            childrenids: []
+            localName: ''
+            nodeId: 92
+            nodeName: '#text'
+            nodeType: 3
+            nodeValue: 10. GX Membership.
+            parent: 91
+            props: {}
+          childrenids: [92]
+          h: 20.0
+          localName: h5
+          nodeId: 91
+          nodeName: H5
+          nodeType: 1
+          nodeValue: ''
+          parent: 16
+          props: {}
+          value: ''
+          w: 880.0
+          x: 50.0
+          y: 1876.765625
+        - &id082
+          attributes: []
+          backendNodeId: 2570
+          childNodeCount: 3
+          children:
+          - &id083
+            backendNodeId: 2571
+            childrenids: []
+            localName: ''
+            nodeId: 94
+            nodeName: '#text'
+            nodeType: 3
+            nodeValue: "If you choose to sign up for a Google Express membership (a\
+              \ \u201CGX Membership\u201D), the terms stated below, and the additional\
+              \ terms and pricing found "
+            parent: 93
+            props: {}
+          - &id084
+            attributes: [href, 'https://support.google.com/shoppingexpress/answer/4562219?hl=en&ref_topic=4541748']
+            backendNodeId: 2572
+            childNodeCount: 1
+            children:
+            - &id085
+              backendNodeId: 2573
+              childrenids: []
+              localName: ''
+              nodeId: 96
+              nodeName: '#text'
+              nodeType: 3
+              nodeValue: here
+              parent: 95
+              props: {}
+            childrenids: [96]
+            h: 15.0
+            localName: a
+            nodeId: 95
+            nodeName: A
+            nodeType: 1
+            nodeValue: ''
+            parent: 93
+            props: {href: 'https://support.google.com/shoppingexpress/answer/4562219?hl=en&ref_topic=4541748'}
+            value: ''
+            w: 25.203125
+            x: 901.421875
+            y: 1908.765625
+          - &id086
+            backendNodeId: 2574
+            childrenids: []
+            localName: ''
+            nodeId: 97
+            nodeName: '#text'
+            nodeType: 3
+            nodeValue: ' will govern your participation in that program.'
+            parent: 93
+            props: {}
+          childrenids: [94, 95, 97]
+          h: 40.0
+          localName: p
+          nodeId: 93
+          nodeName: P
+          nodeType: 1
+          nodeValue: ''
+          parent: 16
+          props: {}
+          value: ''
+          w: 880.0
+          x: 50.0
+          y: 1906.765625
+        - &id087
+          attributes: []
+          backendNodeId: 2575
+          childNodeCount: 1
+          children:
+          - &id088
+            attributes: []
+            backendNodeId: 2576
+            childNodeCount: 1
+            children:
+            - &id089
+              backendNodeId: 2577
+              childrenids: []
+              localName: ''
+              nodeId: 100
+              nodeName: '#text'
+              nodeType: 3
+              nodeValue: Free Membership Trial
+              parent: 99
+              props: {}
+            childrenids: [100]
+            h: 22.0
+            localName: i
+            nodeId: 99
+            nodeName: I
+            nodeType: 1
+            nodeValue: ''
+            parent: 98
+            props: {}
+            value: ''
+            w: 178.671875
+            x: 50.0
+            y: 1965.53125
+          childrenids: [99]
+          h: 20.0
+          localName: h5
+          nodeId: 98
+          nodeName: H5
+          nodeType: 1
+          nodeValue: ''
+          parent: 16
+          props: {}
+          value: ''
+          w: 880.0
+          x: 50.0
+          y: 1966.53125
+        - &id090
+          attributes: []
+          backendNodeId: 2578
+          childNodeCount: 3
+          children:
+          - &id091
+            backendNodeId: 2579
+            childrenids: []
+            localName: ''
+            nodeId: 102
+            nodeName: '#text'
+            nodeType: 3
+            nodeValue: "From time to time GX Membership may be offered on a free trial\
+              \ basis (each a \u201CTrial\u201D). If you participate in a Trial, your\
+              \ participation will be governed by the terms found "
+            parent: 101
+            props: {}
+          - &id092
+            attributes: [href, 'https://www.google.com/express/about/newbiedeliveryterms.html']
+            backendNodeId: 2580
+            childNodeCount: 1
+            children:
+            - &id093
+              backendNodeId: 2581
+              childrenids: []
+              localName: ''
+              nodeId: 104
+              nodeName: '#text'
+              nodeType: 3
+              nodeValue: here
+              parent: 103
+              props: {}
+            childrenids: [104]
+            h: 15.0
+            localName: a
+            nodeId: 103
+            nodeName: A
+            nodeType: 1
+            nodeValue: ''
+            parent: 101
+            props: {href: 'https://www.google.com/express/about/newbiedeliveryterms.html'}
+            value: ''
+            w: 25.203125
+            x: 145.171875
+            y: 2018.53125
+          - &id094
+            backendNodeId: 2582
+            childrenids: []
+            localName: ''
+            nodeId: 105
+            nodeName: '#text'
+            nodeType: 3
+            nodeValue: .
+            parent: 101
+            props: {}
+          childrenids: [102, 103, 105]
+          h: 40.0
+          localName: p
+          nodeId: 101
+          nodeName: P
+          nodeType: 1
+          nodeValue: ''
+          parent: 16
+          props: {}
+          value: ''
+          w: 880.0
+          x: 50.0
+          y: 1996.53125
+        - &id095
+          attributes: []
+          backendNodeId: 2583
+          childNodeCount: 1
+          children:
+          - &id096
+            attributes: []
+            backendNodeId: 2584
+            childNodeCount: 1
+            children:
+            - &id097
+              backendNodeId: 2585
+              childrenids: []
+              localName: ''
+              nodeId: 108
+              nodeName: '#text'
+              nodeType: 3
+              nodeValue: Membership Cancellation by You
+              parent: 107
+              props: {}
+            childrenids: [108]
+            h: 22.0
+            localName: i
+            nodeId: 107
+            nodeName: I
+            nodeType: 1
+            nodeValue: ''
+            parent: 106
+            props: {}
+            value: ''
+            w: 261.28125
+            x: 50.0
+            y: 2055.296875
+          childrenids: [107]
+          h: 20.0
+          localName: h5
+          nodeId: 106
+          nodeName: H5
+          nodeType: 1
+          nodeValue: ''
+          parent: 16
+          props: {}
+          value: ''
+          w: 880.0
+          x: 50.0
+          y: 2056.296875
+        - &id098
+          attributes: []
+          backendNodeId: 2586
+          childNodeCount: 1
+          children:
+          - &id099
+            backendNodeId: 2587
+            childrenids: []
+            localName: ''
+            nodeId: 110
+            nodeName: '#text'
+            nodeType: 3
+            nodeValue: You may end your GX Membership at any time through any of the
+              GX online properties. When you choose to end your membership, Google
+              will ensure your membership does not renew on the next auto-renewal
+              date, and you may continue to enjoy your GX Membership benefits until
+              that date.
+            parent: 109
+            props: {}
+          childrenids: [110]
+          h: 40.0
+          localName: p
+          nodeId: 109
+          nodeName: P
+          nodeType: 1
+          nodeValue: ''
+          parent: 16
+          props: {}
+          value: ''
+          w: 880.0
+          x: 50.0
+          y: 2086.296875
+        - &id100
+          attributes: []
+          backendNodeId: 2588
+          childNodeCount: 1
+          children:
+          - &id101
+            attributes: []
+            backendNodeId: 2589
+            childNodeCount: 1
+            children:
+            - &id102
+              backendNodeId: 2590
+              childrenids: []
+              localName: ''
+              nodeId: 113
+              nodeName: '#text'
+              nodeType: 3
+              nodeValue: Membership Cancellation by Us
+              parent: 112
+              props: {}
+            childrenids: [113]
+            h: 22.0
+            localName: i
+            nodeId: 112
+            nodeName: I
+            nodeType: 1
+            nodeValue: ''
+            parent: 111
+            props: {}
+            value: ''
+            w: 251.71875
+            x: 50.0
+            y: 2145.0625
+          childrenids: [112]
+          h: 20.0
+          localName: h5
+          nodeId: 111
+          nodeName: H5
+          nodeType: 1
+          nodeValue: ''
+          parent: 16
+          props: {}
+          value: ''
+          w: 880.0
+          x: 50.0
+          y: 2146.0625
+        - &id103
+          attributes: []
+          backendNodeId: 2591
+          childNodeCount: 1
+          children:
+          - &id104
+            backendNodeId: 2592
+            childrenids: []
+            localName: ''
+            nodeId: 115
+            nodeName: '#text'
+            nodeType: 3
+            nodeValue: "We may cancel your GX Membership any time for any reason without\
+              \ prior notice. If we do so, we will give you a prorated refund based\
+              \ on the number of full months remaining in your GX Membership unless\
+              \ the cancellation is related to conduct that Google determines, in\
+              \ our sole discretion (i) violates the GX Terms, the Google Terms of\
+              \ Service or any applicable law; (ii) involves fraud or misuse of your\
+              \ GX Membership; or (iii) is harmful to our interests or another user.\
+              \ Google\u2019s failure to insist upon or enforce your strict compliance\
+              \ with the GX Terms will not constitute a waiver of any of our rights."
+            parent: 114
+            props: {}
+          childrenids: [115]
+          h: 80.0
+          localName: p
+          nodeId: 114
+          nodeName: P
+          nodeType: 1
+          nodeValue: ''
+          parent: 16
+          props: {}
+          value: ''
+          w: 880.0
+          x: 50.0
+          y: 2176.0625
+        - &id105
+          attributes: []
+          backendNodeId: 2593
+          childNodeCount: 1
+          children:
+          - &id106
+            backendNodeId: 2594
+            childrenids: []
+            localName: ''
+            nodeId: 117
+            nodeName: '#text'
+            nodeType: 3
+            nodeValue: 11. Changes to the GX Terms
+            parent: 116
+            props: {}
+          childrenids: [117]
+          h: 20.0
+          localName: h5
+          nodeId: 116
+          nodeName: H5
+          nodeType: 1
+          nodeValue: ''
+          parent: 16
+          props: {}
+          value: ''
+          w: 880.0
+          x: 50.0
+          y: 2275.828125
+        - &id107
+          attributes: []
+          backendNodeId: 2595
+          childNodeCount: 1
+          children:
+          - &id108
+            backendNodeId: 2596
+            childrenids: []
+            localName: ''
+            nodeId: 119
+            nodeName: '#text'
+            nodeType: 3
+            nodeValue: Google may add to, delete from or modify the GX Terms at any
+              time. You should check the GX Terms regularly. Changes to the GX Terms
+              will not apply retroactively, and will become effective 7 days after
+              posting. If any change to the GX Terms is found invalid, void, or for
+              any reason unenforceable, that change will be deemed severable and will
+              not affect the validity and enforceability of any remaining changes
+              or conditions. YOUR CONTINUED USE OF YOUR GX ACCOUNT AFTER WE CHANGE
+              THE GX TERMS CONSTITUTES YOUR ACCEPTANCE OF THE CHANGES.
+            parent: 118
+            props: {}
+          childrenids: [119]
+          h: 80.0
+          localName: p
+          nodeId: 118
+          nodeName: P
+          nodeType: 1
+          nodeValue: ''
+          parent: 16
+          props: {}
+          value: ''
+          w: 880.0
+          x: 50.0
+          y: 2305.828125
+        childrenids: [17, 19, 21, 23, 27, 32, 40, 42, 44, 46, 48, 50, 52, 54, 59,
+          61, 63, 65, 67, 69, 71, 73, 75, 77, 79, 81, 87, 89, 91, 93, 98, 101, 106,
+          109, 111, 114, 116, 118]
+        h: 2335.828125
+        localName: div
+        nodeId: 16
+        nodeName: DIV
+        nodeType: 1
+        nodeValue: ''
+        parent: 5
+        props: {id: content}
+        value: ''
+        w: 880.0
+        x: 50.0
+        y: 50.0
+      17: *id006
+      18: *id007
+      19: *id008
+      20: *id009
+      21: *id010
+      22: *id011
+      23: *id012
+      24: *id013
+      25: *id014
+      26: *id015
+      27: *id016
+      28: *id017
+      29: *id018
+      30: *id019
+      31: *id020
+      32: *id021
+      33: *id022
+      34: *id023
+      35: *id024
+      36: *id025
+      37: *id026
+      38: *id027
+      39: *id028
+      40: *id029
+      41: *id030
+      42: *id031
+      43: *id032
+      44: *id033
+      45: *id034
+      46: *id035
+      47: *id036
+      48: *id037
+      49: *id038
+      50: *id039
+      51: *id040
+      52: *id041
+      53: *id042
+      54: *id043
+      55: *id044
+      56: *id045
+      57: *id046
+      58: *id047
+      59: *id048
+      60: *id049
+      61: *id050
+      62: *id051
+      63: *id052
+      64: *id053
+      65: *id054
+      66: *id055
+      67: *id056
+      68: *id057
+      69: *id058
+      70: *id059
+      71: *id060
+      72: *id061
+      73: *id062
+      74: *id063
+      75: *id064
+      76: *id065
+      77: *id066
+      78: *id067
+      79: *id068
+      80: *id069
+      81: *id070
+      82: *id071
+      83: *id072
+      84: *id073
+      85: *id074
+      86: *id075
+      87: *id076
+      88: *id077
+      89: *id078
+      90: *id079
+      91: *id080
+      92: *id081
+      93: *id082
+      94: *id083
+      95: *id084
+      96: *id085
+      97: *id086
+      98: *id087
+      99: *id088
+      100: *id089
+      101: *id090
+      102: *id091
+      103: *id092
+      104: *id093
+      105: *id094
+      106: *id095
+      107: *id096
+      108: *id097
+      109: *id098
+      110: *id099
+      111: *id100
+      112: *id101
+      113: *id102
+      114: *id103
+      115: *id104
+      116: *id105
+      117: *id106
+      118: *id107
+      119: *id108
+    page: {base_h: 1594, base_w: 1080, base_x: 0, base_y: 200, empty: false, title: Google
+        Express, url: 'https://www.google.com/express/terms', ws_url: 'ws://127.0.0.1:12345/devtools/page/6179134a-7499-4775-8cbb-d0df5c3056fb'}
+    parents: {2: 1, 3: 1, 4: 3, 5: 3, 6: 4, 7: 6, 8: 4, 9: 4, 10: 4, 11: 4, 12: 4,
+      13: 4, 14: 4, 15: 4, 16: 5, 17: 16, 18: 17, 19: 16, 20: 19, 21: 16, 22: 21,
+      23: 16, 24: 23, 25: 24, 26: 25, 27: 16, 28: 27, 29: 27, 30: 29, 31: 27, 32: 16,
+      33: 32, 34: 32, 35: 34, 36: 32, 37: 32, 38: 37, 39: 32, 40: 16, 41: 40, 42: 16,
+      43: 42, 44: 16, 45: 44, 46: 16, 47: 46, 48: 16, 49: 48, 50: 16, 51: 50, 52: 16,
+      53: 52, 54: 16, 55: 54, 56: 54, 57: 56, 58: 54, 59: 16, 60: 59, 61: 16, 62: 61,
+      63: 16, 64: 63, 65: 16, 66: 65, 67: 16, 68: 67, 69: 16, 70: 69, 71: 16, 72: 71,
+      73: 16, 74: 73, 75: 16, 76: 75, 77: 16, 78: 77, 79: 16, 80: 79, 81: 16, 82: 81,
+      83: 82, 84: 82, 85: 84, 86: 82, 87: 16, 88: 87, 89: 16, 90: 89, 91: 16, 92: 91,
+      93: 16, 94: 93, 95: 93, 96: 95, 97: 93, 98: 16, 99: 98, 100: 99, 101: 16, 102: 101,
+      103: 101, 104: 103, 105: 101, 106: 16, 107: 106, 108: 107, 109: 16, 110: 109,
+      111: 16, 112: 111, 113: 112, 114: 16, 115: 114, 116: 16, 117: 116, 118: 16,
+      119: 118}
+    scaling: 1.1020408163265305
+  pageinfo: {base_h: 1594, base_w: 1080, base_x: 0, base_y: 200, empty: false, title: Google
+      Express, url: 'https://www.google.com/express/terms', ws_url: 'ws://127.0.0.1:12345/devtools/page/6179134a-7499-4775-8cbb-d0df5c3056fb'}
+  title: Google Express

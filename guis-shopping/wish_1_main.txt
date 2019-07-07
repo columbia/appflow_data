@@ -1,0 +1,1 @@
+com.contextlogic.wish/.activity.browse.BrowseActivity

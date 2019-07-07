@@ -1,0 +1,7 @@
+7 back
+13 firstname
+14 lastname
+15 email
+16 password
+17 password2
+18 register

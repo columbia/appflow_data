@@ -1,0 +1,4 @@
+7 back
+29 textsize
+30 smaller
+40 larger

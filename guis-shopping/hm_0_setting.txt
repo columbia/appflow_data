@@ -1,0 +1,1 @@
+com.hm.goe/com.hm.goe.app.SettingsActivity

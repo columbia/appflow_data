@@ -1,0 +1,1182 @@
+- page:
+    base_h: 0
+    base_w: 0
+    base_x: 0
+    base_y: 0
+    html_h: 0.0
+    html_w: 0.0
+    nodes:
+      423:
+        baseURL: file:///data/user/0/com.usatoday.android.news/files/Download/gravity/BkMtwM/creative/index.html
+        childNodeCount: 2
+        children:
+        - &id001
+          childrenids: []
+          localName: ''
+          nodeId: 424
+          nodeName: html
+          nodeType: 10
+          nodeValue: ''
+          parent: 423
+          props: {}
+          publicId: ''
+          systemId: ''
+        - &id002
+          attributes: [lang, en, class, ' js touch history csstransforms csstransforms3d
+              csstransitions video']
+          childNodeCount: 2
+          children:
+          - &id003
+            attributes: []
+            childNodeCount: 11
+            childrenids: [428, 429, 430, 432, 433, 434, 435, 436, 437, 438, 439]
+            h: 0.0
+            localName: head
+            nodeId: 426
+            nodeName: HEAD
+            nodeType: 1
+            nodeValue: ''
+            parent: 425
+            props: {}
+            value: ''
+            w: 0.0
+            x: 0.0
+            y: 0.0
+          - &id004
+            attributes: []
+            childNodeCount: 4
+            childrenids: [512, 440, 509, 511]
+            h: 0.0
+            localName: body
+            nodeId: 427
+            nodeName: BODY
+            nodeType: 1
+            nodeValue: ''
+            parent: 425
+            props: {}
+            value: ''
+            w: 0.0
+            x: 0.0
+            y: 0.0
+          childrenids: [426, 427]
+          h: 0.0
+          localName: html
+          nodeId: 425
+          nodeName: HTML
+          nodeType: 1
+          nodeValue: ''
+          parent: 423
+          props: {class: ' js touch history csstransforms csstransforms3d csstransitions
+              video', lang: en}
+          value: ''
+          w: 0.0
+          x: 0.0
+          y: 0.0
+        childrenids: [424, 425]
+        documentURL: file:///data/user/0/com.usatoday.android.news/files/Download/gravity/BkMtwM/creative/index.html
+        localName: ''
+        nodeId: 423
+        nodeName: '#document'
+        nodeType: 9
+        nodeValue: ''
+        parent: -1
+        props: {}
+        xmlVersion: ''
+      424: *id001
+      425: *id002
+      426: *id003
+      427: *id004
+      428:
+        attributes: [charset, utf-8]
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: meta
+        nodeId: 428
+        nodeName: META
+        nodeType: 1
+        nodeValue: ''
+        parent: 426
+        props: {charset: utf-8}
+      429:
+        attributes: [http-equiv, X-UA-Compatible, content, 'IE=edge,chrome=1']
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: meta
+        nodeId: 429
+        nodeName: META
+        nodeType: 1
+        nodeValue: ''
+        parent: 426
+        props: {content: 'IE=edge,chrome=1', http-equiv: X-UA-Compatible}
+      430:
+        attributes: []
+        childNodeCount: 1
+        children:
+        - &id005
+          childrenids: []
+          localName: ''
+          nodeId: 431
+          nodeName: '#text'
+          nodeType: 3
+          nodeValue: Gravity - Gannett Digital
+          parent: 430
+          props: {}
+        childrenids: [431]
+        h: 0.0
+        localName: title
+        nodeId: 430
+        nodeName: TITLE
+        nodeType: 1
+        nodeValue: ''
+        parent: 426
+        props: {}
+        value: ''
+        w: 0.0
+        x: 0.0
+        y: 0.0
+      431: *id005
+      432:
+        attributes: [rel, stylesheet, type, text/css, href, stylesheets/creative-style.css]
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: link
+        nodeId: 432
+        nodeName: LINK
+        nodeType: 1
+        nodeValue: ''
+        parent: 426
+        props: {href: stylesheets/creative-style.css, rel: stylesheet, type: text/css}
+      433:
+        attributes: [src, scripts/modernizr.js]
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: script
+        nodeId: 433
+        nodeName: SCRIPT
+        nodeType: 1
+        nodeValue: ''
+        parent: 426
+        props: {src: scripts/modernizr.js}
+      434:
+        attributes: [type, text/javascript, charset, utf-8, async, '', data-requirecontext,
+          _, data-requiremodule, mobile-gravity-script, src, scripts/mobile-gravity-script.js]
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: script
+        nodeId: 434
+        nodeName: SCRIPT
+        nodeType: 1
+        nodeValue: ''
+        parent: 426
+        props: {async: '', charset: utf-8, data-requirecontext: _, data-requiremodule: mobile-gravity-script,
+          src: scripts/mobile-gravity-script.js, type: text/javascript}
+      435:
+        attributes: [type, text/javascript, charset, utf-8, async, '', data-requirecontext,
+          _, data-requiremodule, jquery, src, scripts/jquery-2.1.3.min.js]
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: script
+        nodeId: 435
+        nodeName: SCRIPT
+        nodeType: 1
+        nodeValue: ''
+        parent: 426
+        props: {async: '', charset: utf-8, data-requirecontext: _, data-requiremodule: jquery,
+          src: scripts/jquery-2.1.3.min.js, type: text/javascript}
+      436:
+        attributes: [type, text/javascript, charset, utf-8, async, '', data-requirecontext,
+          _, data-requiremodule, creative-script, src, scripts/creative-script.js]
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: script
+        nodeId: 436
+        nodeName: SCRIPT
+        nodeType: 1
+        nodeValue: ''
+        parent: 426
+        props: {async: '', charset: utf-8, data-requirecontext: _, data-requiremodule: creative-script,
+          src: scripts/creative-script.js, type: text/javascript}
+      437:
+        attributes: [type, text/javascript, charset, utf-8, async, '', data-requirecontext,
+          _, data-requiremodule, underscore, src, scripts/underscore.js]
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: script
+        nodeId: 437
+        nodeName: SCRIPT
+        nodeType: 1
+        nodeValue: ''
+        parent: 426
+        props: {async: '', charset: utf-8, data-requirecontext: _, data-requiremodule: underscore,
+          src: scripts/underscore.js, type: text/javascript}
+      438:
+        attributes: [type, text/javascript, charset, utf-8, async, '', data-requirecontext,
+          _, data-requiremodule, base-ad-view, src, scripts/base-ad-view.js]
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: script
+        nodeId: 438
+        nodeName: SCRIPT
+        nodeType: 1
+        nodeValue: ''
+        parent: 426
+        props: {async: '', charset: utf-8, data-requirecontext: _, data-requiremodule: base-ad-view,
+          src: scripts/base-ad-view.js, type: text/javascript}
+      439:
+        attributes: [type, text/javascript, charset, utf-8, async, '', data-requirecontext,
+          _, data-requiremodule, backbone, src, scripts/backbone.js]
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: script
+        nodeId: 439
+        nodeName: SCRIPT
+        nodeType: 1
+        nodeValue: ''
+        parent: 426
+        props: {async: '', charset: utf-8, data-requirecontext: _, data-requiremodule: backbone,
+          src: scripts/backbone.js, type: text/javascript}
+      440:
+        attributes: [class, partner-placement]
+        childNodeCount: 32
+        children:
+        - &id006
+          childrenids: []
+          localName: ''
+          nodeId: 441
+          nodeName: '#comment'
+          nodeType: 8
+          nodeValue: ' Begin creative content '
+          parent: 440
+          props: {}
+        - &id007
+          attributes: [class, content]
+          childNodeCount: 3
+          children:
+          - &id008
+            attributes: [class, video-container]
+            childNodeCount: 1
+            children:
+            - &id009
+              attributes: [webkit-playsinline, 'true', playsinline, 'true', loop,
+                'true', src, video/compiled.mp4]
+              childNodeCount: 0
+              children: []
+              childrenids: []
+              h: 0.0
+              localName: video
+              nodeId: 444
+              nodeName: VIDEO
+              nodeType: 1
+              nodeValue: ''
+              parent: 443
+              props: {loop: 'true', playsinline: 'true', src: video/compiled.mp4,
+                webkit-playsinline: 'true'}
+              shadowRoots:
+              - {childNodeCount: 1, localName: '', nodeId: 445, nodeName: '#document-fragment',
+                nodeType: 11, nodeValue: '', shadowRootType: user-agent}
+              value: ''
+              w: 0.0
+              x: 0.0
+              y: 0.0
+            childrenids: [444]
+            h: 0.0
+            localName: div
+            nodeId: 443
+            nodeName: DIV
+            nodeType: 1
+            nodeValue: ''
+            parent: 442
+            props: {class: video-container}
+            value: ''
+            w: 0.0
+            x: 0.0
+            y: 0.0
+          - &id010
+            attributes: [href, 'gdaup:///open?url=https%3A%2F%2Fadclick.g.doubleclick.net%2Fpcs%2Fclick%3Fxai%3DAKAOjssmX7Z05ZGymbfaYvhHsxX25CVrrqgmTPxZVKPIik-EGPRJ8f1fJk4OoM5qMq2w-97GMcpSdWfF4A5dFsOwy8s0RAO4pkXgukPrOUJSOemdCBcVcC_7D7Q9VdGk8axxOuWhj_LuFTLKMkjCRLFlowfmslUrRu8qqaEOCyZLkD--5cnmbJYLToUyzROEY-01msQPrhlA3_EyBeMtZVMeD2L3WX3rK1XnCw7lzpbGr3M1IyrebKxEhdzrNLCTocAVisGz_thZZ1UY24uKWV3ANbBlCqoWc1tdsH_B9O2h1IFnifpQICkwwM0mFUNZc1kX6t1-tlzYmQSeXncIQhqE2w%26sai%3DAMfl-YRtIXt4n4yMH5MTvTcsPEBdEk-sbotOAKyFyqyNBfaTfKqC8gARwonK62zoFMQ%26sig%3DCg0ArKJSzO9_xHdb_CPVEAE%26urlfix%3D1%26adurl%3Dhttps%3A%2F%2Fad.doubleclick.net%2Fddm%2Fclk%2F320604989%3B145527998%3Ba',
+              class, cta above-content]
+            childNodeCount: 1
+            children:
+            - &id011
+              attributes: [src, images/top-image.png, class, above-content-image,
+                style, 'width: 100%; left: 0%;']
+              childNodeCount: 0
+              children: []
+              childrenids: []
+              h: 0.0
+              localName: img
+              nodeId: 447
+              nodeName: IMG
+              nodeType: 1
+              nodeValue: ''
+              parent: 446
+              props: {class: above-content-image, src: images/top-image.png, style: 'width:
+                  100%; left: 0%;'}
+              value: ''
+              w: 0.0
+              x: 0.0
+              y: -30.0
+            childrenids: [447]
+            h: 0.0
+            localName: a
+            nodeId: 446
+            nodeName: A
+            nodeType: 1
+            nodeValue: ''
+            parent: 442
+            props: {class: cta above-content, href: 'gdaup:///open?url=https%3A%2F%2Fadclick.g.doubleclick.net%2Fpcs%2Fclick%3Fxai%3DAKAOjssmX7Z05ZGymbfaYvhHsxX25CVrrqgmTPxZVKPIik-EGPRJ8f1fJk4OoM5qMq2w-97GMcpSdWfF4A5dFsOwy8s0RAO4pkXgukPrOUJSOemdCBcVcC_7D7Q9VdGk8axxOuWhj_LuFTLKMkjCRLFlowfmslUrRu8qqaEOCyZLkD--5cnmbJYLToUyzROEY-01msQPrhlA3_EyBeMtZVMeD2L3WX3rK1XnCw7lzpbGr3M1IyrebKxEhdzrNLCTocAVisGz_thZZ1UY24uKWV3ANbBlCqoWc1tdsH_B9O2h1IFnifpQICkwwM0mFUNZc1kX6t1-tlzYmQSeXncIQhqE2w%26sai%3DAMfl-YRtIXt4n4yMH5MTvTcsPEBdEk-sbotOAKyFyqyNBfaTfKqC8gARwonK62zoFMQ%26sig%3DCg0ArKJSzO9_xHdb_CPVEAE%26urlfix%3D1%26adurl%3Dhttps%3A%2F%2Fad.doubleclick.net%2Fddm%2Fclk%2F320604989%3B145527998%3Ba'}
+            value: ''
+            w: 0.0
+            x: 0.0
+            y: -30.0
+          - &id012
+            attributes: [href, 'gdaup:///open?url=https%3A%2F%2Fadclick.g.doubleclick.net%2Fpcs%2Fclick%3Fxai%3DAKAOjssmX7Z05ZGymbfaYvhHsxX25CVrrqgmTPxZVKPIik-EGPRJ8f1fJk4OoM5qMq2w-97GMcpSdWfF4A5dFsOwy8s0RAO4pkXgukPrOUJSOemdCBcVcC_7D7Q9VdGk8axxOuWhj_LuFTLKMkjCRLFlowfmslUrRu8qqaEOCyZLkD--5cnmbJYLToUyzROEY-01msQPrhlA3_EyBeMtZVMeD2L3WX3rK1XnCw7lzpbGr3M1IyrebKxEhdzrNLCTocAVisGz_thZZ1UY24uKWV3ANbBlCqoWc1tdsH_B9O2h1IFnifpQICkwwM0mFUNZc1kX6t1-tlzYmQSeXncIQhqE2w%26sai%3DAMfl-YRtIXt4n4yMH5MTvTcsPEBdEk-sbotOAKyFyqyNBfaTfKqC8gARwonK62zoFMQ%26sig%3DCg0ArKJSzO9_xHdb_CPVEAE%26urlfix%3D1%26adurl%3Dhttps%3A%2F%2Fad.doubleclick.net%2Fddm%2Fclk%2F320604989%3B145527998%3Ba',
+              class, cta below-content]
+            childNodeCount: 1
+            children:
+            - &id013
+              attributes: [src, images/bottom-image.png, class, below-content-image,
+                style, 'width: 100%; left: 0%;']
+              childNodeCount: 0
+              children: []
+              childrenids: []
+              h: 0.0
+              localName: img
+              nodeId: 449
+              nodeName: IMG
+              nodeType: 1
+              nodeValue: ''
+              parent: 448
+              props: {class: below-content-image, src: images/bottom-image.png, style: 'width:
+                  100%; left: 0%;'}
+              value: ''
+              w: 0.0
+              x: 0.0
+              y: 30.0
+            childrenids: [449]
+            h: 0.0
+            localName: a
+            nodeId: 448
+            nodeName: A
+            nodeType: 1
+            nodeValue: ''
+            parent: 442
+            props: {class: cta below-content, href: 'gdaup:///open?url=https%3A%2F%2Fadclick.g.doubleclick.net%2Fpcs%2Fclick%3Fxai%3DAKAOjssmX7Z05ZGymbfaYvhHsxX25CVrrqgmTPxZVKPIik-EGPRJ8f1fJk4OoM5qMq2w-97GMcpSdWfF4A5dFsOwy8s0RAO4pkXgukPrOUJSOemdCBcVcC_7D7Q9VdGk8axxOuWhj_LuFTLKMkjCRLFlowfmslUrRu8qqaEOCyZLkD--5cnmbJYLToUyzROEY-01msQPrhlA3_EyBeMtZVMeD2L3WX3rK1XnCw7lzpbGr3M1IyrebKxEhdzrNLCTocAVisGz_thZZ1UY24uKWV3ANbBlCqoWc1tdsH_B9O2h1IFnifpQICkwwM0mFUNZc1kX6t1-tlzYmQSeXncIQhqE2w%26sai%3DAMfl-YRtIXt4n4yMH5MTvTcsPEBdEk-sbotOAKyFyqyNBfaTfKqC8gARwonK62zoFMQ%26sig%3DCg0ArKJSzO9_xHdb_CPVEAE%26urlfix%3D1%26adurl%3Dhttps%3A%2F%2Fad.doubleclick.net%2Fddm%2Fclk%2F320604989%3B145527998%3Ba'}
+            value: ''
+            w: 0.0
+            x: 0.0
+            y: 30.0
+          childrenids: [443, 446, 448]
+          h: 0.0
+          localName: div
+          nodeId: 442
+          nodeName: DIV
+          nodeType: 1
+          nodeValue: ''
+          parent: 440
+          props: {class: content}
+          value: ''
+          w: 0.0
+          x: 0.0
+          y: 0.0
+        - &id014
+          childrenids: []
+          localName: ''
+          nodeId: 450
+          nodeName: '#comment'
+          nodeType: 8
+          nodeValue: ' End creative content '
+          parent: 440
+          props: {}
+        - &id015
+          attributes: [src, 'gdaup:///setup', height, '0', width, '0', border, '0',
+            style, 'display:none']
+          childNodeCount: 0
+          children: []
+          childrenids: []
+          contentDocument: {baseURL: 'file:///data/user/0/com.usatoday.android.news/files/Download/gravity/BkMtwM/creative/index.html',
+            childNodeCount: 1, documentURL: 'about:blank', localName: '', nodeId: 452,
+            nodeName: '#document', nodeType: 9, nodeValue: '', xmlVersion: ''}
+          frameId: '2675.1'
+          h: 0.0
+          localName: iframe
+          nodeId: 451
+          nodeName: IFRAME
+          nodeType: 1
+          nodeValue: ''
+          parent: 440
+          props: {border: '0', height: '0', src: 'gdaup:///setup', style: 'display:none',
+            width: '0'}
+          value: ''
+          w: 0.0
+          x: 0.0
+          y: 0.0
+        - &id016
+          attributes: [src, 'gdaup:///play', height, '0', width, '0', border, '0',
+            style, 'display:none']
+          childNodeCount: 0
+          children: []
+          childrenids: []
+          contentDocument: {baseURL: 'file:///data/user/0/com.usatoday.android.news/files/Download/gravity/BkMtwM/creative/index.html',
+            childNodeCount: 1, documentURL: 'about:blank', localName: '', nodeId: 454,
+            nodeName: '#document', nodeType: 9, nodeValue: '', xmlVersion: ''}
+          frameId: '2675.2'
+          h: 0.0
+          localName: iframe
+          nodeId: 453
+          nodeName: IFRAME
+          nodeType: 1
+          nodeValue: ''
+          parent: 440
+          props: {border: '0', height: '0', src: 'gdaup:///play', style: 'display:none',
+            width: '0'}
+          value: ''
+          w: 0.0
+          x: 0.0
+          y: 0.0
+        - &id017
+          attributes: [src, 'gdaup:///loop', height, '0', width, '0', border, '0',
+            style, 'display:none']
+          childNodeCount: 0
+          children: []
+          childrenids: []
+          contentDocument: {baseURL: 'file:///data/user/0/com.usatoday.android.news/files/Download/gravity/BkMtwM/creative/index.html',
+            childNodeCount: 1, documentURL: 'about:blank', localName: '', nodeId: 456,
+            nodeName: '#document', nodeType: 9, nodeValue: '', xmlVersion: ''}
+          frameId: '2675.3'
+          h: 0.0
+          localName: iframe
+          nodeId: 455
+          nodeName: IFRAME
+          nodeType: 1
+          nodeValue: ''
+          parent: 440
+          props: {border: '0', height: '0', src: 'gdaup:///loop', style: 'display:none',
+            width: '0'}
+          value: ''
+          w: 0.0
+          x: 0.0
+          y: 0.0
+        - &id018
+          attributes: [src, 'gdaup:///loop', height, '0', width, '0', border, '0',
+            style, 'display:none']
+          childNodeCount: 0
+          children: []
+          childrenids: []
+          contentDocument: {baseURL: 'file:///data/user/0/com.usatoday.android.news/files/Download/gravity/BkMtwM/creative/index.html',
+            childNodeCount: 1, documentURL: 'about:blank', localName: '', nodeId: 458,
+            nodeName: '#document', nodeType: 9, nodeValue: '', xmlVersion: ''}
+          frameId: '2675.4'
+          h: 0.0
+          localName: iframe
+          nodeId: 457
+          nodeName: IFRAME
+          nodeType: 1
+          nodeValue: ''
+          parent: 440
+          props: {border: '0', height: '0', src: 'gdaup:///loop', style: 'display:none',
+            width: '0'}
+          value: ''
+          w: 0.0
+          x: 0.0
+          y: 0.0
+        - &id019
+          attributes: [src, 'gdaup:///loop', height, '0', width, '0', border, '0',
+            style, 'display:none']
+          childNodeCount: 0
+          children: []
+          childrenids: []
+          contentDocument: {baseURL: 'file:///data/user/0/com.usatoday.android.news/files/Download/gravity/BkMtwM/creative/index.html',
+            childNodeCount: 1, documentURL: 'about:blank', localName: '', nodeId: 460,
+            nodeName: '#document', nodeType: 9, nodeValue: '', xmlVersion: ''}
+          frameId: '2675.5'
+          h: 0.0
+          localName: iframe
+          nodeId: 459
+          nodeName: IFRAME
+          nodeType: 1
+          nodeValue: ''
+          parent: 440
+          props: {border: '0', height: '0', src: 'gdaup:///loop', style: 'display:none',
+            width: '0'}
+          value: ''
+          w: 0.0
+          x: 0.0
+          y: 0.0
+        - &id020
+          attributes: [src, 'gdaup:///loop', height, '0', width, '0', border, '0',
+            style, 'display:none']
+          childNodeCount: 0
+          children: []
+          childrenids: []
+          contentDocument: {baseURL: 'file:///data/user/0/com.usatoday.android.news/files/Download/gravity/BkMtwM/creative/index.html',
+            childNodeCount: 1, documentURL: 'about:blank', localName: '', nodeId: 462,
+            nodeName: '#document', nodeType: 9, nodeValue: '', xmlVersion: ''}
+          frameId: '2675.7'
+          h: 0.0
+          localName: iframe
+          nodeId: 461
+          nodeName: IFRAME
+          nodeType: 1
+          nodeValue: ''
+          parent: 440
+          props: {border: '0', height: '0', src: 'gdaup:///loop', style: 'display:none',
+            width: '0'}
+          value: ''
+          w: 0.0
+          x: 0.0
+          y: 0.0
+        - &id021
+          attributes: [src, 'gdaup:///loop', height, '0', width, '0', border, '0',
+            style, 'display:none']
+          childNodeCount: 0
+          children: []
+          childrenids: []
+          contentDocument: {baseURL: 'file:///data/user/0/com.usatoday.android.news/files/Download/gravity/BkMtwM/creative/index.html',
+            childNodeCount: 1, documentURL: 'about:blank', localName: '', nodeId: 464,
+            nodeName: '#document', nodeType: 9, nodeValue: '', xmlVersion: ''}
+          frameId: '2675.8'
+          h: 0.0
+          localName: iframe
+          nodeId: 463
+          nodeName: IFRAME
+          nodeType: 1
+          nodeValue: ''
+          parent: 440
+          props: {border: '0', height: '0', src: 'gdaup:///loop', style: 'display:none',
+            width: '0'}
+          value: ''
+          w: 0.0
+          x: 0.0
+          y: 0.0
+        - &id022
+          attributes: [src, 'gdaup:///loop', height, '0', width, '0', border, '0',
+            style, 'display:none']
+          childNodeCount: 0
+          children: []
+          childrenids: []
+          contentDocument: {baseURL: 'file:///data/user/0/com.usatoday.android.news/files/Download/gravity/BkMtwM/creative/index.html',
+            childNodeCount: 1, documentURL: 'about:blank', localName: '', nodeId: 466,
+            nodeName: '#document', nodeType: 9, nodeValue: '', xmlVersion: ''}
+          frameId: '2675.9'
+          h: 0.0
+          localName: iframe
+          nodeId: 465
+          nodeName: IFRAME
+          nodeType: 1
+          nodeValue: ''
+          parent: 440
+          props: {border: '0', height: '0', src: 'gdaup:///loop', style: 'display:none',
+            width: '0'}
+          value: ''
+          w: 0.0
+          x: 0.0
+          y: 0.0
+        - &id023
+          attributes: [src, 'gdaup:///loop', height, '0', width, '0', border, '0',
+            style, 'display:none']
+          childNodeCount: 0
+          children: []
+          childrenids: []
+          contentDocument: {baseURL: 'file:///data/user/0/com.usatoday.android.news/files/Download/gravity/BkMtwM/creative/index.html',
+            childNodeCount: 1, documentURL: 'about:blank', localName: '', nodeId: 468,
+            nodeName: '#document', nodeType: 9, nodeValue: '', xmlVersion: ''}
+          frameId: '2675.10'
+          h: 0.0
+          localName: iframe
+          nodeId: 467
+          nodeName: IFRAME
+          nodeType: 1
+          nodeValue: ''
+          parent: 440
+          props: {border: '0', height: '0', src: 'gdaup:///loop', style: 'display:none',
+            width: '0'}
+          value: ''
+          w: 0.0
+          x: 0.0
+          y: 0.0
+        - &id024
+          attributes: [src, 'gdaup:///loop', height, '0', width, '0', border, '0',
+            style, 'display:none']
+          childNodeCount: 0
+          children: []
+          childrenids: []
+          contentDocument: {baseURL: 'file:///data/user/0/com.usatoday.android.news/files/Download/gravity/BkMtwM/creative/index.html',
+            childNodeCount: 1, documentURL: 'about:blank', localName: '', nodeId: 470,
+            nodeName: '#document', nodeType: 9, nodeValue: '', xmlVersion: ''}
+          frameId: '2675.11'
+          h: 0.0
+          localName: iframe
+          nodeId: 469
+          nodeName: IFRAME
+          nodeType: 1
+          nodeValue: ''
+          parent: 440
+          props: {border: '0', height: '0', src: 'gdaup:///loop', style: 'display:none',
+            width: '0'}
+          value: ''
+          w: 0.0
+          x: 0.0
+          y: 0.0
+        - &id025
+          attributes: [src, 'gdaup:///loop', height, '0', width, '0', border, '0',
+            style, 'display:none']
+          childNodeCount: 0
+          children: []
+          childrenids: []
+          contentDocument: {baseURL: 'file:///data/user/0/com.usatoday.android.news/files/Download/gravity/BkMtwM/creative/index.html',
+            childNodeCount: 1, documentURL: 'about:blank', localName: '', nodeId: 472,
+            nodeName: '#document', nodeType: 9, nodeValue: '', xmlVersion: ''}
+          frameId: '2675.12'
+          h: 0.0
+          localName: iframe
+          nodeId: 471
+          nodeName: IFRAME
+          nodeType: 1
+          nodeValue: ''
+          parent: 440
+          props: {border: '0', height: '0', src: 'gdaup:///loop', style: 'display:none',
+            width: '0'}
+          value: ''
+          w: 0.0
+          x: 0.0
+          y: 0.0
+        - &id026
+          attributes: [src, 'gdaup:///loop', height, '0', width, '0', border, '0',
+            style, 'display:none']
+          childNodeCount: 0
+          children: []
+          childrenids: []
+          contentDocument: {baseURL: 'file:///data/user/0/com.usatoday.android.news/files/Download/gravity/BkMtwM/creative/index.html',
+            childNodeCount: 1, documentURL: 'about:blank', localName: '', nodeId: 474,
+            nodeName: '#document', nodeType: 9, nodeValue: '', xmlVersion: ''}
+          frameId: '2675.13'
+          h: 0.0
+          localName: iframe
+          nodeId: 473
+          nodeName: IFRAME
+          nodeType: 1
+          nodeValue: ''
+          parent: 440
+          props: {border: '0', height: '0', src: 'gdaup:///loop', style: 'display:none',
+            width: '0'}
+          value: ''
+          w: 0.0
+          x: 0.0
+          y: 0.0
+        - &id027
+          attributes: [src, 'gdaup:///loop', height, '0', width, '0', border, '0',
+            style, 'display:none']
+          childNodeCount: 0
+          children: []
+          childrenids: []
+          contentDocument: {baseURL: 'file:///data/user/0/com.usatoday.android.news/files/Download/gravity/BkMtwM/creative/index.html',
+            childNodeCount: 1, documentURL: 'about:blank', localName: '', nodeId: 476,
+            nodeName: '#document', nodeType: 9, nodeValue: '', xmlVersion: ''}
+          frameId: '2675.14'
+          h: 0.0
+          localName: iframe
+          nodeId: 475
+          nodeName: IFRAME
+          nodeType: 1
+          nodeValue: ''
+          parent: 440
+          props: {border: '0', height: '0', src: 'gdaup:///loop', style: 'display:none',
+            width: '0'}
+          value: ''
+          w: 0.0
+          x: 0.0
+          y: 0.0
+        - &id028
+          attributes: [src, 'gdaup:///loop', height, '0', width, '0', border, '0',
+            style, 'display:none']
+          childNodeCount: 0
+          children: []
+          childrenids: []
+          contentDocument: {baseURL: 'file:///data/user/0/com.usatoday.android.news/files/Download/gravity/BkMtwM/creative/index.html',
+            childNodeCount: 1, documentURL: 'about:blank', localName: '', nodeId: 478,
+            nodeName: '#document', nodeType: 9, nodeValue: '', xmlVersion: ''}
+          frameId: '2675.15'
+          h: 0.0
+          localName: iframe
+          nodeId: 477
+          nodeName: IFRAME
+          nodeType: 1
+          nodeValue: ''
+          parent: 440
+          props: {border: '0', height: '0', src: 'gdaup:///loop', style: 'display:none',
+            width: '0'}
+          value: ''
+          w: 0.0
+          x: 0.0
+          y: 0.0
+        - &id029
+          attributes: [src, 'gdaup:///loop', height, '0', width, '0', border, '0',
+            style, 'display:none']
+          childNodeCount: 0
+          children: []
+          childrenids: []
+          contentDocument: {baseURL: 'file:///data/user/0/com.usatoday.android.news/files/Download/gravity/BkMtwM/creative/index.html',
+            childNodeCount: 1, documentURL: 'about:blank', localName: '', nodeId: 480,
+            nodeName: '#document', nodeType: 9, nodeValue: '', xmlVersion: ''}
+          frameId: '2675.16'
+          h: 0.0
+          localName: iframe
+          nodeId: 479
+          nodeName: IFRAME
+          nodeType: 1
+          nodeValue: ''
+          parent: 440
+          props: {border: '0', height: '0', src: 'gdaup:///loop', style: 'display:none',
+            width: '0'}
+          value: ''
+          w: 0.0
+          x: 0.0
+          y: 0.0
+        - &id030
+          attributes: [src, 'gdaup:///loop', height, '0', width, '0', border, '0',
+            style, 'display:none']
+          childNodeCount: 0
+          children: []
+          childrenids: []
+          contentDocument: {baseURL: 'file:///data/user/0/com.usatoday.android.news/files/Download/gravity/BkMtwM/creative/index.html',
+            childNodeCount: 1, documentURL: 'about:blank', localName: '', nodeId: 482,
+            nodeName: '#document', nodeType: 9, nodeValue: '', xmlVersion: ''}
+          frameId: '2675.17'
+          h: 0.0
+          localName: iframe
+          nodeId: 481
+          nodeName: IFRAME
+          nodeType: 1
+          nodeValue: ''
+          parent: 440
+          props: {border: '0', height: '0', src: 'gdaup:///loop', style: 'display:none',
+            width: '0'}
+          value: ''
+          w: 0.0
+          x: 0.0
+          y: 0.0
+        - &id031
+          attributes: [src, 'gdaup:///loop', height, '0', width, '0', border, '0',
+            style, 'display:none']
+          childNodeCount: 0
+          children: []
+          childrenids: []
+          contentDocument: {baseURL: 'file:///data/user/0/com.usatoday.android.news/files/Download/gravity/BkMtwM/creative/index.html',
+            childNodeCount: 1, documentURL: 'about:blank', localName: '', nodeId: 484,
+            nodeName: '#document', nodeType: 9, nodeValue: '', xmlVersion: ''}
+          frameId: '2675.18'
+          h: 0.0
+          localName: iframe
+          nodeId: 483
+          nodeName: IFRAME
+          nodeType: 1
+          nodeValue: ''
+          parent: 440
+          props: {border: '0', height: '0', src: 'gdaup:///loop', style: 'display:none',
+            width: '0'}
+          value: ''
+          w: 0.0
+          x: 0.0
+          y: 0.0
+        - &id032
+          attributes: [src, 'gdaup:///loop', height, '0', width, '0', border, '0',
+            style, 'display:none']
+          childNodeCount: 0
+          children: []
+          childrenids: []
+          contentDocument: {baseURL: 'file:///data/user/0/com.usatoday.android.news/files/Download/gravity/BkMtwM/creative/index.html',
+            childNodeCount: 1, documentURL: 'about:blank', localName: '', nodeId: 486,
+            nodeName: '#document', nodeType: 9, nodeValue: '', xmlVersion: ''}
+          frameId: '2675.19'
+          h: 0.0
+          localName: iframe
+          nodeId: 485
+          nodeName: IFRAME
+          nodeType: 1
+          nodeValue: ''
+          parent: 440
+          props: {border: '0', height: '0', src: 'gdaup:///loop', style: 'display:none',
+            width: '0'}
+          value: ''
+          w: 0.0
+          x: 0.0
+          y: 0.0
+        - &id033
+          attributes: [src, 'gdaup:///loop', height, '0', width, '0', border, '0',
+            style, 'display:none']
+          childNodeCount: 0
+          children: []
+          childrenids: []
+          contentDocument: {baseURL: 'file:///data/user/0/com.usatoday.android.news/files/Download/gravity/BkMtwM/creative/index.html',
+            childNodeCount: 1, documentURL: 'about:blank', localName: '', nodeId: 488,
+            nodeName: '#document', nodeType: 9, nodeValue: '', xmlVersion: ''}
+          frameId: '2675.20'
+          h: 0.0
+          localName: iframe
+          nodeId: 487
+          nodeName: IFRAME
+          nodeType: 1
+          nodeValue: ''
+          parent: 440
+          props: {border: '0', height: '0', src: 'gdaup:///loop', style: 'display:none',
+            width: '0'}
+          value: ''
+          w: 0.0
+          x: 0.0
+          y: 0.0
+        - &id034
+          attributes: [src, 'gdaup:///loop', height, '0', width, '0', border, '0',
+            style, 'display:none']
+          childNodeCount: 0
+          children: []
+          childrenids: []
+          contentDocument: {baseURL: 'file:///data/user/0/com.usatoday.android.news/files/Download/gravity/BkMtwM/creative/index.html',
+            childNodeCount: 1, documentURL: 'about:blank', localName: '', nodeId: 490,
+            nodeName: '#document', nodeType: 9, nodeValue: '', xmlVersion: ''}
+          frameId: '2675.21'
+          h: 0.0
+          localName: iframe
+          nodeId: 489
+          nodeName: IFRAME
+          nodeType: 1
+          nodeValue: ''
+          parent: 440
+          props: {border: '0', height: '0', src: 'gdaup:///loop', style: 'display:none',
+            width: '0'}
+          value: ''
+          w: 0.0
+          x: 0.0
+          y: 0.0
+        - &id035
+          attributes: [src, 'gdaup:///loop', height, '0', width, '0', border, '0',
+            style, 'display:none']
+          childNodeCount: 0
+          children: []
+          childrenids: []
+          contentDocument: {baseURL: 'file:///data/user/0/com.usatoday.android.news/files/Download/gravity/BkMtwM/creative/index.html',
+            childNodeCount: 1, documentURL: 'about:blank', localName: '', nodeId: 492,
+            nodeName: '#document', nodeType: 9, nodeValue: '', xmlVersion: ''}
+          frameId: '2675.22'
+          h: 0.0
+          localName: iframe
+          nodeId: 491
+          nodeName: IFRAME
+          nodeType: 1
+          nodeValue: ''
+          parent: 440
+          props: {border: '0', height: '0', src: 'gdaup:///loop', style: 'display:none',
+            width: '0'}
+          value: ''
+          w: 0.0
+          x: 0.0
+          y: 0.0
+        - &id036
+          attributes: [src, 'gdaup:///loop', height, '0', width, '0', border, '0',
+            style, 'display:none']
+          childNodeCount: 0
+          children: []
+          childrenids: []
+          contentDocument: {baseURL: 'file:///data/user/0/com.usatoday.android.news/files/Download/gravity/BkMtwM/creative/index.html',
+            childNodeCount: 1, documentURL: 'about:blank', localName: '', nodeId: 494,
+            nodeName: '#document', nodeType: 9, nodeValue: '', xmlVersion: ''}
+          frameId: '2675.23'
+          h: 0.0
+          localName: iframe
+          nodeId: 493
+          nodeName: IFRAME
+          nodeType: 1
+          nodeValue: ''
+          parent: 440
+          props: {border: '0', height: '0', src: 'gdaup:///loop', style: 'display:none',
+            width: '0'}
+          value: ''
+          w: 0.0
+          x: 0.0
+          y: 0.0
+        - &id037
+          attributes: [src, 'gdaup:///loop', height, '0', width, '0', border, '0',
+            style, 'display:none']
+          childNodeCount: 0
+          children: []
+          childrenids: []
+          contentDocument: {baseURL: 'file:///data/user/0/com.usatoday.android.news/files/Download/gravity/BkMtwM/creative/index.html',
+            childNodeCount: 1, documentURL: 'about:blank', localName: '', nodeId: 496,
+            nodeName: '#document', nodeType: 9, nodeValue: '', xmlVersion: ''}
+          frameId: '2675.24'
+          h: 0.0
+          localName: iframe
+          nodeId: 495
+          nodeName: IFRAME
+          nodeType: 1
+          nodeValue: ''
+          parent: 440
+          props: {border: '0', height: '0', src: 'gdaup:///loop', style: 'display:none',
+            width: '0'}
+          value: ''
+          w: 0.0
+          x: 0.0
+          y: 0.0
+        - &id038
+          attributes: [src, 'gdaup:///loop', height, '0', width, '0', border, '0',
+            style, 'display:none']
+          childNodeCount: 0
+          children: []
+          childrenids: []
+          contentDocument: {baseURL: 'file:///data/user/0/com.usatoday.android.news/files/Download/gravity/BkMtwM/creative/index.html',
+            childNodeCount: 1, documentURL: 'about:blank', localName: '', nodeId: 498,
+            nodeName: '#document', nodeType: 9, nodeValue: '', xmlVersion: ''}
+          frameId: '2675.25'
+          h: 0.0
+          localName: iframe
+          nodeId: 497
+          nodeName: IFRAME
+          nodeType: 1
+          nodeValue: ''
+          parent: 440
+          props: {border: '0', height: '0', src: 'gdaup:///loop', style: 'display:none',
+            width: '0'}
+          value: ''
+          w: 0.0
+          x: 0.0
+          y: 0.0
+        - &id039
+          attributes: [src, 'gdaup:///loop', height, '0', width, '0', border, '0',
+            style, 'display:none']
+          childNodeCount: 0
+          children: []
+          childrenids: []
+          contentDocument: {baseURL: 'file:///data/user/0/com.usatoday.android.news/files/Download/gravity/BkMtwM/creative/index.html',
+            childNodeCount: 1, documentURL: 'about:blank', localName: '', nodeId: 500,
+            nodeName: '#document', nodeType: 9, nodeValue: '', xmlVersion: ''}
+          frameId: '2675.26'
+          h: 0.0
+          localName: iframe
+          nodeId: 499
+          nodeName: IFRAME
+          nodeType: 1
+          nodeValue: ''
+          parent: 440
+          props: {border: '0', height: '0', src: 'gdaup:///loop', style: 'display:none',
+            width: '0'}
+          value: ''
+          w: 0.0
+          x: 0.0
+          y: 0.0
+        - &id040
+          attributes: [src, 'gdaup:///loop', height, '0', width, '0', border, '0',
+            style, 'display:none']
+          childNodeCount: 0
+          children: []
+          childrenids: []
+          contentDocument: {baseURL: 'file:///data/user/0/com.usatoday.android.news/files/Download/gravity/BkMtwM/creative/index.html',
+            childNodeCount: 1, documentURL: 'about:blank', localName: '', nodeId: 502,
+            nodeName: '#document', nodeType: 9, nodeValue: '', xmlVersion: ''}
+          frameId: '2675.27'
+          h: 0.0
+          localName: iframe
+          nodeId: 501
+          nodeName: IFRAME
+          nodeType: 1
+          nodeValue: ''
+          parent: 440
+          props: {border: '0', height: '0', src: 'gdaup:///loop', style: 'display:none',
+            width: '0'}
+          value: ''
+          w: 0.0
+          x: 0.0
+          y: 0.0
+        - &id041
+          attributes: [src, 'gdaup:///loop', height, '0', width, '0', border, '0',
+            style, 'display:none']
+          childNodeCount: 0
+          children: []
+          childrenids: []
+          contentDocument: {baseURL: 'file:///data/user/0/com.usatoday.android.news/files/Download/gravity/BkMtwM/creative/index.html',
+            childNodeCount: 1, documentURL: 'about:blank', localName: '', nodeId: 504,
+            nodeName: '#document', nodeType: 9, nodeValue: '', xmlVersion: ''}
+          frameId: '2675.28'
+          h: 0.0
+          localName: iframe
+          nodeId: 503
+          nodeName: IFRAME
+          nodeType: 1
+          nodeValue: ''
+          parent: 440
+          props: {border: '0', height: '0', src: 'gdaup:///loop', style: 'display:none',
+            width: '0'}
+          value: ''
+          w: 0.0
+          x: 0.0
+          y: 0.0
+        - &id042
+          attributes: [src, 'gdaup:///loop', height, '0', width, '0', border, '0',
+            style, 'display:none']
+          childNodeCount: 0
+          children: []
+          childrenids: []
+          contentDocument: {baseURL: 'file:///data/user/0/com.usatoday.android.news/files/Download/gravity/BkMtwM/creative/index.html',
+            childNodeCount: 1, documentURL: 'about:blank', localName: '', nodeId: 506,
+            nodeName: '#document', nodeType: 9, nodeValue: '', xmlVersion: ''}
+          frameId: '2675.29'
+          h: 0.0
+          localName: iframe
+          nodeId: 505
+          nodeName: IFRAME
+          nodeType: 1
+          nodeValue: ''
+          parent: 440
+          props: {border: '0', height: '0', src: 'gdaup:///loop', style: 'display:none',
+            width: '0'}
+          value: ''
+          w: 0.0
+          x: 0.0
+          y: 0.0
+        - &id043
+          attributes: [src, 'gdaup:///loop', height, '0', width, '0', border, '0',
+            style, 'display:none']
+          childNodeCount: 0
+          children: []
+          childrenids: []
+          contentDocument: {baseURL: 'file:///data/user/0/com.usatoday.android.news/files/Download/gravity/BkMtwM/creative/index.html',
+            childNodeCount: 1, documentURL: 'about:blank', localName: '', nodeId: 508,
+            nodeName: '#document', nodeType: 9, nodeValue: '', xmlVersion: ''}
+          frameId: '2675.30'
+          h: 0.0
+          localName: iframe
+          nodeId: 507
+          nodeName: IFRAME
+          nodeType: 1
+          nodeValue: ''
+          parent: 440
+          props: {border: '0', height: '0', src: 'gdaup:///loop', style: 'display:none',
+            width: '0'}
+          value: ''
+          w: 0.0
+          x: 0.0
+          y: 0.0
+        childrenids: [441, 442, 450, 451, 453, 455, 457, 459, 461, 463, 465, 467,
+          469, 471, 473, 475, 477, 479, 481, 483, 485, 487, 489, 491, 493, 495, 497,
+          499, 501, 503, 505, 507]
+        h: 0.0
+        localName: div
+        nodeId: 440
+        nodeName: DIV
+        nodeType: 1
+        nodeValue: ''
+        parent: 427
+        props: {class: partner-placement}
+        value: ''
+        w: 0.0
+        x: 0.0
+        y: 0.0
+      441: *id006
+      442: *id007
+      443: *id008
+      444: *id009
+      446: *id010
+      447: *id011
+      448: *id012
+      449: *id013
+      450: *id014
+      451: *id015
+      453: *id016
+      455: *id017
+      457: *id018
+      459: *id019
+      461: *id020
+      463: *id021
+      465: *id022
+      467: *id023
+      469: *id024
+      471: *id025
+      473: *id026
+      475: *id027
+      477: *id028
+      479: *id029
+      481: *id030
+      483: *id031
+      485: *id032
+      487: *id033
+      489: *id034
+      491: *id035
+      493: *id036
+      495: *id037
+      497: *id038
+      499: *id039
+      501: *id040
+      503: *id041
+      505: *id042
+      507: *id043
+      509:
+        attributes: [type, text/javascript]
+        childNodeCount: 1
+        children:
+        - {localName: '', nodeId: 510, nodeName: '#text', nodeType: 3, nodeValue: "\n\
+            \            var dfpTemplateData = {\n                clickTracking: [],\n\
+            \                extraData: {}\n            };\n        "}
+        childrenids: []
+        localName: script
+        nodeId: 509
+        nodeName: SCRIPT
+        nodeType: 1
+        nodeValue: ''
+        parent: 427
+        props: {type: text/javascript}
+      511:
+        attributes: [data-main, scripts/mobile-gravity-script, src, scripts/require.min.js]
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: script
+        nodeId: 511
+        nodeName: SCRIPT
+        nodeType: 1
+        nodeValue: ''
+        parent: 427
+        props: {data-main: scripts/mobile-gravity-script, src: scripts/require.min.js}
+      512:
+        attributes: [src, 'gdaup:///loaded', height, '0', width, '0', border, '0',
+          style, 'display:none']
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        contentDocument: {baseURL: 'file:///data/user/0/com.usatoday.android.news/files/Download/gravity/BkMtwM/creative/index.html',
+          childNodeCount: 1, documentURL: 'about:blank', localName: '', nodeId: 513,
+          nodeName: '#document', nodeType: 9, nodeValue: '', xmlVersion: ''}
+        frameId: '2675.6'
+        h: 0.0
+        localName: iframe
+        nodeId: 512
+        nodeName: IFRAME
+        nodeType: 1
+        nodeValue: ''
+        parent: 427
+        props: {border: '0', height: '0', src: 'gdaup:///loaded', style: 'display:none',
+          width: '0'}
+        value: ''
+        w: 0.0
+        x: 0.0
+        y: 0.0
+    page: {base_h: 0, base_w: 0, base_x: 0, base_y: 0, empty: true, title: Gravity
+        - Gannett Digital, url: 'file:///data/user/0/com.usatoday.android.news/files/Download/gravity/BkMtwM/creative/index.html',
+      ws_url: 'ws://127.0.0.1:12345/devtools/page/E0F5AECC-DF9A-4B2F-B64A-EC0B0B5BB267'}
+    parents: {424: 423, 425: 423, 426: 425, 427: 425, 428: 426, 429: 426, 430: 426,
+      431: 430, 432: 426, 433: 426, 434: 426, 435: 426, 436: 426, 437: 426, 438: 426,
+      439: 426, 440: 427, 441: 440, 442: 440, 443: 442, 444: 443, 446: 442, 447: 446,
+      448: 442, 449: 448, 450: 440, 451: 440, 453: 440, 455: 440, 457: 440, 459: 440,
+      461: 440, 463: 440, 465: 440, 467: 440, 469: 440, 471: 440, 473: 440, 475: 440,
+      477: 440, 479: 440, 481: 440, 483: 440, 485: 440, 487: 440, 489: 440, 491: 440,
+      493: 440, 495: 440, 497: 440, 499: 440, 501: 440, 503: 440, 505: 440, 507: 440,
+      509: 427, 510: 509, 511: 427, 512: 427}
+    scaling: 2.625
+  title: Gravity - Gannett Digital

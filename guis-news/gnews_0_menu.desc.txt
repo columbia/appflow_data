@@ -1,0 +1,13 @@
+22 item_image
+27 item_image
+29 item_title
+62 cat_item
+63 cat_item
+64 cat_item
+65 cat_item
+66 cat_item
+67 cat_item
+68 cat_item
+69 cat_item
+70 cat_item
+73 setting

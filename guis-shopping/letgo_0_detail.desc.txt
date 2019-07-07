@@ -1,0 +1,5 @@
+13 detail_image
+40 detail_title
+41 detail_price
+44 back
+45 share

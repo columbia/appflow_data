@@ -1,0 +1,7 @@
+9 menu
+11 cart
+21 avatar
+26 name
+28 email
+45 orders
+77 payments

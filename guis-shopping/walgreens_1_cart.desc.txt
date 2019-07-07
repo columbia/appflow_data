@@ -1,0 +1,8 @@
+10 back
+46 cart_item
+51 item_image
+55 item_title
+62 item_price
+69 item_less
+70 item_count
+71 item_more

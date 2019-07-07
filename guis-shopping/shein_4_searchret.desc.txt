@@ -1,0 +1,14 @@
+10 search_keyword
+11 back
+18 searchret_item
+20 item_image
+21 item_price
+23 searchret_item
+25 item_image
+27 item_price
+29 searchret_item
+31 item_image
+32 item_price
+34 searchret_item
+36 item_image
+38 item_price

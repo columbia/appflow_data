@@ -1,0 +1,5 @@
+11 addresses
+14 shipmethod
+17 payments
+30 totalcost
+31 placeorder

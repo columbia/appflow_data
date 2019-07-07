@@ -1,0 +1,1 @@
+com.gpshopper.charlotterusse/com.predictspring.mobile.consumer.ui.account.PaymentCardActivity

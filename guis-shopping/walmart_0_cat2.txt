@@ -1,0 +1,1 @@
+com.walmart.android/com.walmart.core.shop.impl.shared.app.BrowseActivity

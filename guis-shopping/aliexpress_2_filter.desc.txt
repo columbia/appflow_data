@@ -1,0 +1,6 @@
+8 back
+22 filter_list
+23 filter_category
+26 filter_color
+65 filter_reset
+66 apply

@@ -1,0 +1,3 @@
+8 menu
+13 cart
+25 searchbox

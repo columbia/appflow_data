@@ -1,0 +1,6 @@
+9 back
+23 card_name
+27 card_no
+31 card_exp
+35 back
+36 card_save

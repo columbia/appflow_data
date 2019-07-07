@@ -1,0 +1,9 @@
+82 menu_list
+83 account
+91 home
+94 search
+104 cart
+109 orders
+122 invite
+126 contact
+130 faq

@@ -1,0 +1,7 @@
+11 image
+16 title
+20 text
+23 bookmark
+24 share
+41 title
+46 menu

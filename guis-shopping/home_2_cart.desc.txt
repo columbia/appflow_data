@@ -1,0 +1,15 @@
+13 back
+37 cart_item
+42 item_image
+51 item_title
+58 item_remove
+60 item_count
+64 item_price
+66 cart_item
+70 item_image
+74 item_title
+79 item_remove
+81 item_count
+82 item_remove
+85 item_price
+97 checkout

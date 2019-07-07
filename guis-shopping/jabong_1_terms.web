@@ -1,0 +1,3403 @@
+- page:
+    base_h: 1584
+    base_w: 1080
+    base_x: 0
+    base_y: 210
+    html_h: 4925.0
+    html_w: 412.0
+    nodes:
+      1:
+        backendNodeId: 637
+        baseURL: https://m.jabong.com/privacy_policy/
+        childNodeCount: 6
+        children:
+        - &id001
+          backendNodeId: 638
+          childrenids: []
+          localName: ''
+          nodeId: 2
+          nodeName: html
+          nodeType: 10
+          nodeValue: ''
+          parent: 1
+          props: {}
+          publicId: ''
+          systemId: ''
+        - &id002
+          backendNodeId: 639
+          childrenids: []
+          localName: ''
+          nodeId: 3
+          nodeName: '#comment'
+          nodeType: 8
+          nodeValue: '[if IE 7]>    <html class="ie7 oldie" lang="en"> <![endif]'
+          parent: 1
+          props: {}
+        - &id003
+          backendNodeId: 640
+          childrenids: []
+          localName: ''
+          nodeId: 4
+          nodeName: '#comment'
+          nodeType: 8
+          nodeValue: '[if IE 8]>    <html class="ie8 oldie" lang="en"> <![endif]'
+          parent: 1
+          props: {}
+        - &id004
+          backendNodeId: 641
+          childrenids: []
+          localName: ''
+          nodeId: 5
+          nodeName: '#comment'
+          nodeType: 8
+          nodeValue: '[if IE 9]>    <html class="ie9 oldie" lang="en"> <![endif]'
+          parent: 1
+          props: {}
+        - &id005
+          backendNodeId: 642
+          childrenids: []
+          localName: ''
+          nodeId: 6
+          nodeName: '#comment'
+          nodeType: 8
+          nodeValue: '[if gt IE 9]><!'
+          parent: 1
+          props: {}
+        - &id006
+          attributes: [lang, en, class, touch-enabled dynamic]
+          backendNodeId: 643
+          childNodeCount: 3
+          children:
+          - &id007
+            backendNodeId: 644
+            childrenids: []
+            localName: ''
+            nodeId: 8
+            nodeName: '#comment'
+            nodeType: 8
+            nodeValue: <![endif]
+            parent: 7
+            props: {}
+          - &id008
+            attributes: []
+            backendNodeId: 645
+            childNodeCount: 32
+            childrenids: [11, 12, 13, 15, 16, 17, 18, 19, 21, 22, 23, 24, 25, 26,
+              27, 28, 29, 30, 32, 33, 34, 35, 36, 37, 38, 39, 40, 42, 43, 44, 45,
+              47]
+            h: 0.0
+            localName: head
+            nodeId: 9
+            nodeName: HEAD
+            nodeType: 1
+            nodeValue: ''
+            parent: 7
+            props: {}
+            value: ''
+            w: 0.0
+            x: 0.0
+            y: 0.0
+          - &id009
+            attributes: [class, cms  chrome webview  mobile chrome webview  mobile
+                page-loaded, data-device-type, mobile, data-res-ts, '1502276431918']
+            backendNodeId: 646
+            childNodeCount: 25
+            childrenids: [48, 50, 52, 53, 54, 56, 58, 59, 166, 168, 171, 172, 174,
+              177, 179, 181, 183, 185, 187, 189, 191, 192, 193, 195, 196]
+            h: 4885.0
+            localName: body
+            nodeId: 10
+            nodeName: BODY
+            nodeType: 1
+            nodeValue: ''
+            parent: 7
+            props: {class: cms  chrome webview  mobile chrome webview  mobile page-loaded,
+              data-device-type: mobile, data-res-ts: '1502276431918'}
+            value: ''
+            w: 412.0
+            x: 0.0
+            y: 40.0
+          childrenids: [8, 9, 10]
+          frameId: '4990.10'
+          h: 4925.0
+          localName: html
+          nodeId: 7
+          nodeName: HTML
+          nodeType: 1
+          nodeValue: ''
+          parent: 1
+          props: {class: touch-enabled dynamic, lang: en}
+          value: ''
+          w: 412.0
+          x: 0.0
+          y: 0.0
+        childrenids: [2, 3, 4, 5, 6, 7]
+        documentURL: https://m.jabong.com/privacy_policy/
+        localName: ''
+        nodeId: 1
+        nodeName: '#document'
+        nodeType: 9
+        nodeValue: ''
+        parent: -1
+        props: {}
+        xmlVersion: ''
+      2: *id001
+      3: *id002
+      4: *id003
+      5: *id004
+      6: *id005
+      7: *id006
+      8: *id007
+      9: *id008
+      10: *id009
+      11:
+        attributes: [charset, UTF-8]
+        backendNodeId: 647
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: meta
+        nodeId: 11
+        nodeName: META
+        nodeType: 1
+        nodeValue: ''
+        parent: 9
+        props: {charset: UTF-8}
+      12:
+        attributes: [http-equiv, X-UA-Compatible, content, 'IE=edge,chrome=1']
+        backendNodeId: 648
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: meta
+        nodeId: 12
+        nodeName: META
+        nodeType: 1
+        nodeValue: ''
+        parent: 9
+        props: {content: 'IE=edge,chrome=1', http-equiv: X-UA-Compatible}
+      13:
+        attributes: []
+        backendNodeId: 649
+        childNodeCount: 1
+        children:
+        - &id010
+          backendNodeId: 650
+          childrenids: []
+          localName: ''
+          nodeId: 14
+          nodeName: '#text'
+          nodeType: 3
+          nodeValue: ' Privacy Policy - Jabong.com '
+          parent: 13
+          props: {}
+        childrenids: [14]
+        h: 0.0
+        localName: title
+        nodeId: 13
+        nodeName: TITLE
+        nodeType: 1
+        nodeValue: ''
+        parent: 9
+        props: {}
+        value: ''
+        w: 0.0
+        x: 0.0
+        y: 0.0
+      14: *id010
+      15:
+        attributes: [name, description, content, Please visit the page for Jabong.com
+            privacy policy]
+        backendNodeId: 651
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: meta
+        nodeId: 15
+        nodeName: META
+        nodeType: 1
+        nodeValue: ''
+        parent: 9
+        props: {content: Please visit the page for Jabong.com privacy policy, name: description}
+      16:
+        attributes: [name, viewport, content, 'width=device-width, height=device-height,
+            initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=0']
+        backendNodeId: 652
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: meta
+        nodeId: 16
+        nodeName: META
+        nodeType: 1
+        nodeValue: ''
+        parent: 9
+        props: {content: 'width=device-width, height=device-height, initial-scale=1,
+            minimum-scale=1, maximum-scale=1, user-scalable=0', name: viewport}
+      17:
+        attributes: [name, format-detection, content, telephone=no]
+        backendNodeId: 653
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: meta
+        nodeId: 17
+        nodeName: META
+        nodeType: 1
+        nodeValue: ''
+        parent: 9
+        props: {content: telephone=no, name: format-detection}
+      18:
+        attributes: [name, keywords, content, '']
+        backendNodeId: 654
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: meta
+        nodeId: 18
+        nodeName: META
+        nodeType: 1
+        nodeValue: ''
+        parent: 9
+        props: {content: '', name: keywords}
+      19:
+        attributes: [src, 'https://sg-pl.vizury.com/analyze/analyze.php?account_id=VIZVRM4273&URL=https%3A%2F%2Fm.jabong.com%2Fprivacy_policy%2F&referrer=https%3A%2F%2Fm.jabong.com%2Fterms_and_conditions%2F&fp34=&param=e100&section=1&level=1&fp1=&fp2=&fp30=&type=other_page&cb=viz_599375b83d723',
+          scrolling, 'no', width, '1', height, '1', style, 'display: none;']
+        backendNodeId: 655
+        childNodeCount: 0
+        children: []
+        childrenids: [20]
+        contentDocument: &id011
+          backendNodeId: 656
+          baseURL: https://sg-pl.vizury.com/analyze/analyze.php?account_id=VIZVRM4273&URL=https%3A%2F%2Fm.jabong.com%2Fprivacy_policy%2F&referrer=https%3A%2F%2Fm.jabong.com%2Fterms_and_conditions%2F&fp34=&param=e100&section=1&level=1&fp1=&fp2=&fp30=&type=other_page&cb=viz_599375b83d723
+          childNodeCount: 1
+          childrenids: [198]
+          documentURL: https://sg-pl.vizury.com/analyze/analyze.php?account_id=VIZVRM4273&URL=https%3A%2F%2Fm.jabong.com%2Fprivacy_policy%2F&referrer=https%3A%2F%2Fm.jabong.com%2Fterms_and_conditions%2F&fp34=&param=e100&section=1&level=1&fp1=&fp2=&fp30=&type=other_page&cb=viz_599375b83d723
+          localName: ''
+          nodeId: 20
+          nodeName: '#document'
+          nodeType: 9
+          nodeValue: ''
+          parent: 19
+          props: {}
+          xmlVersion: ''
+        frameId: '4990.20'
+        h: 0.0
+        localName: iframe
+        nodeId: 19
+        nodeName: IFRAME
+        nodeType: 1
+        nodeValue: ''
+        parent: 9
+        props: {height: '1', scrolling: 'no', src: 'https://sg-pl.vizury.com/analyze/analyze.php?account_id=VIZVRM4273&URL=https%3A%2F%2Fm.jabong.com%2Fprivacy_policy%2F&referrer=https%3A%2F%2Fm.jabong.com%2Fterms_and_conditions%2F&fp34=&param=e100&section=1&level=1&fp1=&fp2=&fp30=&type=other_page&cb=viz_599375b83d723',
+          style: 'display: none;', width: '1'}
+        value: ''
+        w: 0.0
+        x: 0.0
+        y: 0.0
+      20: *id011
+      21:
+        attributes: [type, text/javascript, src, 'https://sg-pl.vizury.com/analyze/cookieCallback.php?cb=.jabong.com',
+          async, '']
+        backendNodeId: 657
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: script
+        nodeId: 21
+        nodeName: SCRIPT
+        nodeType: 1
+        nodeValue: ''
+        parent: 9
+        props: {async: '', src: 'https://sg-pl.vizury.com/analyze/cookieCallback.php?cb=.jabong.com',
+          type: text/javascript}
+      22:
+        attributes: [type, text/javascript, src, 'https://bam.nr-data.net/1/b53369accd?a=9470070&v=1044.a6554e7&to=YF0GbBEEWkAHU0JZDVkXIUATF1FAFVpFHyVybEsXAAhHHA9eUlUaGAINXFw%3D&rst=874&ref=https://m.jabong.com/privacy_policy/&ap=12.1357&be=683&fe=855&dc=770&tt=17be654f0c23ac&af=err,xhr,stn,ins&perf=%7B%22timing%22:%7B%22of%22:1502999462855,%22n%22:0,%22u%22:666,%22r%22:1,%22ue%22:667,%22re%22:375,%22f%22:375,%22dn%22:375,%22dne%22:375,%22c%22:375,%22ce%22:375,%22rq%22:376,%22rp%22:627,%22rpe%22:665,%22dl%22:673,%22di%22:770,%22ds%22:770,%22de%22:791,%22dc%22:855,%22l%22:855,%22le%22:859%7D,%22navigation%22:%7B%22rc%22:1%7D%7D&jsonp=NREUM.setToken']
+        backendNodeId: 658
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: script
+        nodeId: 22
+        nodeName: SCRIPT
+        nodeType: 1
+        nodeValue: ''
+        parent: 9
+        props: {src: 'https://bam.nr-data.net/1/b53369accd?a=9470070&v=1044.a6554e7&to=YF0GbBEEWkAHU0JZDVkXIUATF1FAFVpFHyVybEsXAAhHHA9eUlUaGAINXFw%3D&rst=874&ref=https://m.jabong.com/privacy_policy/&ap=12.1357&be=683&fe=855&dc=770&tt=17be654f0c23ac&af=err,xhr,stn,ins&perf=%7B%22timing%22:%7B%22of%22:1502999462855,%22n%22:0,%22u%22:666,%22r%22:1,%22ue%22:667,%22re%22:375,%22f%22:375,%22dn%22:375,%22dne%22:375,%22c%22:375,%22ce%22:375,%22rq%22:376,%22rp%22:627,%22rpe%22:665,%22dl%22:673,%22di%22:770,%22ds%22:770,%22de%22:791,%22dc%22:855,%22l%22:855,%22le%22:859%7D,%22navigation%22:%7B%22rc%22:1%7D%7D&jsonp=NREUM.setToken',
+          type: text/javascript}
+      23:
+        attributes: [type, text/javascript, async, '', src, 'https://cdn.getblueshift.com/blueshift.js']
+        backendNodeId: 659
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: script
+        nodeId: 23
+        nodeName: SCRIPT
+        nodeType: 1
+        nodeValue: ''
+        parent: 9
+        props: {async: '', src: 'https://cdn.getblueshift.com/blueshift.js', type: text/javascript}
+      24:
+        attributes: [src, 'https://connect.facebook.net/signals/config/616471315093196?v=2.7.19',
+          async, '']
+        backendNodeId: 660
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: script
+        nodeId: 24
+        nodeName: SCRIPT
+        nodeType: 1
+        nodeValue: ''
+        parent: 9
+        props: {async: '', src: 'https://connect.facebook.net/signals/config/616471315093196?v=2.7.19'}
+      25:
+        attributes: [async, '', src, //connect.facebook.net/en_US/fbevents.js]
+        backendNodeId: 661
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: script
+        nodeId: 25
+        nodeName: SCRIPT
+        nodeType: 1
+        nodeValue: ''
+        parent: 9
+        props: {async: '', src: //connect.facebook.net/en_US/fbevents.js}
+      26:
+        attributes: [type, text/javascript, async, '', src, 'https://in-tags.vizury.com/analyze/pixel.php?account_id=VIZVRM4273']
+        backendNodeId: 662
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: script
+        nodeId: 26
+        nodeName: SCRIPT
+        nodeType: 1
+        nodeValue: ''
+        parent: 9
+        props: {async: '', src: 'https://in-tags.vizury.com/analyze/pixel.php?account_id=VIZVRM4273',
+          type: text/javascript}
+      27:
+        attributes: [src, 'https://js-agent.newrelic.com/nr-1044.min.js']
+        backendNodeId: 663
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: script
+        nodeId: 27
+        nodeName: SCRIPT
+        nodeType: 1
+        nodeValue: ''
+        parent: 9
+        props: {src: 'https://js-agent.newrelic.com/nr-1044.min.js'}
+      28:
+        attributes: [async, '', src, '//www.googletagmanager.com/gtm.js?id=GTM-T37P6Z']
+        backendNodeId: 664
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: script
+        nodeId: 28
+        nodeName: SCRIPT
+        nodeType: 1
+        nodeValue: ''
+        parent: 9
+        props: {async: '', src: '//www.googletagmanager.com/gtm.js?id=GTM-T37P6Z'}
+      29:
+        attributes: [async, '', src, 'https://www.google-analytics.com/analytics.js']
+        backendNodeId: 665
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: script
+        nodeId: 29
+        nodeName: SCRIPT
+        nodeType: 1
+        nodeValue: ''
+        parent: 9
+        props: {async: '', src: 'https://www.google-analytics.com/analytics.js'}
+      30:
+        attributes: [type, text/javascript]
+        backendNodeId: 666
+        childNodeCount: 1
+        children:
+        - {backendNodeId: 667, localName: '', nodeId: 31, nodeName: '#text', nodeType: 3,
+          nodeValue: "window.NREUM||(NREUM={});NREUM.info = {\"agent\":\"\",\"beacon\"\
+            :\"bam.nr-data.net\",\"errorBeacon\":\"bam.nr-data.net\",\"licenseKey\"\
+            :\"b53369accd\",\"applicationID\":\"9470070\",\"applicationTime\":12.1357,\"\
+            transactionName\":\"YF0GbBEEWkAHU0JZDVkXIUATF1FAFVpFHyVybEsXAAhHHA9eUlUaGAINXFw=\"\
+            ,\"queueTime\":0,\"ttGuid\":\"17be654f0c23ac\",\"agentToken\":null}; (window.NREUM||(NREUM={})).loader_config={xpid:\"\
+            Ug4PUVRAAQcHVFFVBw==\"};window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function\
+            \ r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var\
+            \ o=t[e][1][n];return r(o||n)},o,o.exports)}return n[e].exports}if(\"\
+            function\"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return\
+            \ r}({1:[function(t,n,e){function r(t){try{s.console&&console.log(t)}catch(n){}}var\
+            \ o,i=t(\"ee\"),a=t(15),s={};try{o=localStorage.getItem(\"__nr_flags\"\
+            ).split(\",\"),console&&\"function\"==typeof console.log&&(s.console=!0,o.indexOf(\"\
+            dev\")!==-1&&(s.dev=!0),o.indexOf(\"nr_dev\")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on(\"\
+            internal-error\",function(t){r(t.stack)}),s.dev&&i.on(\"fn-err\",function(t,n,e){r(e.stack)}),s.dev&&(r(\"\
+            NR AGENT IN DEVELOPMENT MODE\"),r(\"flags: \"+a(s,function(t,n){return\
+            \ t}).join(\", \")))},{}],2:[function(t,n,e){function r(t,n,e,r,o){try{d?d-=1:i(\"\
+            err\",[o||new UncaughtException(t,n,e)])}catch(s){try{i(\"ierr\",[s,c.now(),!0])}catch(u){}}return\"\
+            function\"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,n,e){this.message=t||\"\
+            Uncaught error with no additional information\",this.sourceURL=n,this.line=e}function\
+            \ o(t){i(\"err\",[t,c.now()])}var i=t(\"handle\"),a=t(16),s=t(\"ee\"),c=t(\"\
+            loader\"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw\
+            \ new Error}catch(l){\"stack\"in l&&(t(8),t(7),\"addEventListener\"in\
+            \ window&&t(5),c.xhrWrappable&&t(9),u=!0)}s.on(\"fn-start\",function(t,n,e){u&&(d+=1)}),s.on(\"\
+            fn-err\",function(t,n,e){u&&(this.thrown=!0,o(e))}),s.on(\"fn-end\",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on(\"\
+            internal-error\",function(t){i(\"ierr\",[t,c.now(),!0])})},{}],3:[function(t,n,e){t(\"\
+            loader\").features.ins=!0},{}],4:[function(t,n,e){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var\
+            \ o=t(\"ee\"),i=t(\"handle\"),a=t(8),s=t(7),c=\"learResourceTimings\"\
+            ,f=\"addEventListener\",u=\"resourcetimingbufferfull\",d=\"bstResource\"\
+            ,l=\"resource\",p=\"-start\",h=\"-end\",m=\"fn\"+p,w=\"fn\"+h,v=\"bstTimer\"\
+            ,y=\"pushState\",g=t(\"loader\");g.features.stn=!0,t(6);var b=NREUM.o.EV;o.on(m,function(t,n){var\
+            \ e=t[0];e instanceof b&&(this.bstStart=g.now())}),o.on(w,function(t,n){var\
+            \ e=t[0];e instanceof b&&i(\"bst\",[e,n,this.bstStart,g.now()])}),a.on(m,function(t,n,e){this.bstStart=g.now(),this.bstType=e}),a.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),this.bstType])}),s.on(m,function(){this.bstStart=g.now()}),s.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),\"\
+            requestAnimationFrame\"])}),o.on(y+p,function(t){this.time=g.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i(\"\
+            bstHist\",[location.pathname+location.hash,this.startPath,this.time])}),f\
+            \ in window.performance&&(window.performance[\"c\"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance[\"\
+            c\"+c]()},!1):window.performance[f](\"webkit\"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance[\"\
+            webkitC\"+c]()},!1)),document[f](\"scroll\",r,{passive:!0}),document[f](\"\
+            keypress\",r,!1),document[f](\"click\",r,!1)}},{}],5:[function(t,n,e){function\
+            \ r(t){for(var n=t;n&&!n.hasOwnProperty(u);)n=Object.getPrototypeOf(n);n&&o(n)}function\
+            \ o(t){s.inPlace(t,[u,d],\"-\",i)}function i(t,n){return t[1]}var a=t(\"\
+            ee\").get(\"events\"),s=t(18)(a,!0),c=t(\"gos\"),f=XMLHttpRequest,u=\"\
+            addEventListener\",d=\"removeEventListener\";n.exports=a,\"getPrototypeOf\"\
+            in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+\"\
+            -start\",function(t,n){var e=t[1],r=c(e,\"nr@wrapped\",function(){function\
+            \ t(){if(\"function\"==typeof e.handleEvent)return e.handleEvent.apply(e,arguments)}var\
+            \ n={object:t,\"function\":e}[typeof e];return n?s(n,\"fn-\",null,n.name||\"\
+            anonymous\"):e});this.wrapped=t[1]=r}),a.on(d+\"-start\",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,n,e){var\
+            \ r=t(\"ee\").get(\"history\"),o=t(18)(r);n.exports=r,o.inPlace(window.history,[\"\
+            pushState\",\"replaceState\"],\"-\")},{}],7:[function(t,n,e){var r=t(\"\
+            ee\").get(\"raf\"),o=t(18)(r),i=\"equestAnimationFrame\";n.exports=r,o.inPlace(window,[\"\
+            r\"+i,\"mozR\"+i,\"webkitR\"+i,\"msR\"+i],\"raf-\"),r.on(\"raf-start\"\
+            ,function(t){t[0]=o(t[0],\"fn-\")})},{}],8:[function(t,n,e){function r(t,n,e){t[0]=a(t[0],\"\
+            fn-\",null,e)}function o(t,n,e){this.method=e,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],\"\
+            fn-\",this,e)}var i=t(\"ee\").get(\"timer\"),a=t(18)(i),s=\"setTimeout\"\
+            ,c=\"setInterval\",f=\"clearTimeout\",u=\"-start\",d=\"-\";n.exports=i,a.inPlace(window,[s,\"\
+            setImmediate\"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,\"\
+            clearImmediate\"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],9:[function(t,n,e){function\
+            \ r(t,n){d.inPlace(n,[\"onreadystatechange\"],\"fn-\",s)}function o(){var\
+            \ t=this,n=u.context(t);t.readyState>3&&!n.resolved&&(n.resolved=!0,u.emit(\"\
+            xhr-resolved\",[],t)),d.inPlace(t,y,\"fn-\",s)}function i(t){g.push(t),h&&(x?x.then(a):w?w(a):(E=-E,O.data=E))}function\
+            \ a(){for(var t=0;t<g.length;t++)r([],g[t]);g.length&&(g=[])}function\
+            \ s(t,n){return n}function c(t,n){for(var e in t)n[e]=t[e];return n}t(5);var\
+            \ f=t(\"ee\"),u=f.get(\"xhr\"),d=t(18)(u),l=NREUM.o,p=l.XHR,h=l.MO,m=l.PR,w=l.SI,v=\"\
+            readystatechange\",y=[\"onload\",\"onerror\",\"onabort\",\"onloadstart\"\
+            ,\"onloadend\",\"onprogress\",\"ontimeout\"],g=[];n.exports=u;var b=window.XMLHttpRequest=function(t){var\
+            \ n=new p(t);try{u.emit(\"new-xhr\",[n],n),n.addEventListener(v,o,!1)}catch(e){try{u.emit(\"\
+            internal-error\",[e])}catch(r){}}return n};if(c(p,b),b.prototype=p.prototype,d.inPlace(b.prototype,[\"\
+            open\",\"send\"],\"-xhr-\",s),u.on(\"send-xhr-start\",function(t,n){r(t,n),i(n)}),u.on(\"\
+            open-xhr-start\",r),h){var x=m&&m.resolve();if(!w&&!m){var E=1,O=document.createTextNode(E);new\
+            \ h(a).observe(O,{characterData:!0})}}else f.on(\"fn-end\",function(t){t[0]&&t[0].type===v||a()})},{}],10:[function(t,n,e){function\
+            \ r(t){var n=this.params,e=this.metrics;if(!this.ended){this.ended=!0;for(var\
+            \ r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!n.aborted){if(e.duration=a.now()-this.startTime,4===t.readyState){n.status=t.status;var\
+            \ i=o(t,this.lastSize);if(i&&(e.rxSize=i),this.sameOrigin){var c=t.getResponseHeader(\"\
+            X-NewRelic-App-Data\");c&&(n.cat=c.split(\", \").pop())}}else n.status=0;e.cbTime=this.cbTime,f.emit(\"\
+            xhr-done\",[t],t),s(\"xhr\",[n,e,this.startTime])}}}function o(t,n){var\
+            \ e=t.responseType;if(\"json\"===e&&null!==n)return n;var r=\"arraybuffer\"\
+            ===e||\"blob\"===e||\"json\"===e?t.response:t.responseText;return h(r)}function\
+            \ i(t,n){var e=c(n),r=t.params;r.host=e.hostname+\":\"+e.port,r.pathname=e.pathname,t.sameOrigin=e.sameOrigin}var\
+            \ a=t(\"loader\");if(a.xhrWrappable){var s=t(\"handle\"),c=t(11),f=t(\"\
+            ee\"),u=[\"load\",\"error\",\"abort\",\"timeout\"],d=u.length,l=t(\"id\"\
+            ),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on(\"\
+            new-xhr\",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=r,n.ended=!1,n.xhrGuids={},n.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener(\"\
+            progress\",function(t){n.lastSize=t.loaded},!1)}),f.on(\"open-xhr-start\"\
+            ,function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on(\"\
+            open-xhr-end\",function(t,n){\"loader_config\"in NREUM&&\"xpid\"in NREUM.loader_config&&this.sameOrigin&&n.setRequestHeader(\"\
+            X-NewRelic-ID\",NREUM.loader_config.xpid)}),f.on(\"send-xhr-start\",function(t,n){var\
+            \ e=this.metrics,r=t[0],o=this;if(e&&r){var i=h(r);i&&(e.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{\"\
+            abort\"===t.type&&(o.params.aborted=!0),(\"load\"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||\"\
+            function\"!=typeof n.onload))&&o.end(n)}catch(e){try{f.emit(\"internal-error\"\
+            ,[e])}catch(r){}}};for(var s=0;s<d;s++)n.addEventListener(u[s],this.listener,!1)}),f.on(\"\
+            xhr-cb-time\",function(t,n,e){this.cbTime+=t,n?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&\"\
+            function\"==typeof e.onload||this.end(e)}),f.on(\"xhr-load-added\",function(t,n){var\
+            \ e=\"\"+l(t)+!!n;this.xhrGuids&&!this.xhrGuids[e]&&(this.xhrGuids[e]=!0,this.totalCbs+=1)}),f.on(\"\
+            xhr-load-removed\",function(t,n){var e=\"\"+l(t)+!!n;this.xhrGuids&&this.xhrGuids[e]&&(delete\
+            \ this.xhrGuids[e],this.totalCbs-=1)}),f.on(\"addEventListener-end\",function(t,n){n\
+            \ instanceof m&&\"load\"===t[0]&&f.emit(\"xhr-load-added\",[t[1],t[2]],n)}),f.on(\"\
+            removeEventListener-end\",function(t,n){n instanceof m&&\"load\"===t[0]&&f.emit(\"\
+            xhr-load-removed\",[t[1],t[2]],n)}),f.on(\"fn-start\",function(t,n,e){n\
+            \ instanceof m&&(\"onload\"===e&&(this.onload=!0),(\"load\"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on(\"\
+            fn-end\",function(t,n){this.xhrCbStart&&f.emit(\"xhr-cb-time\",[a.now()-this.xhrCbStart,this.onload,n],n)})}},{}],11:[function(t,n,e){n.exports=function(t){var\
+            \ n=document.createElement(\"a\"),e=window.location,r={};n.href=t,r.port=n.port;var\
+            \ o=n.href.split(\"://\");!r.port&&o[1]&&(r.port=o[1].split(\"/\")[0].split(\"\
+            @\").pop().split(\":\")[1]),r.port&&\"0\"!==r.port||(r.port=\"https\"\
+            ===o[0]?\"443\":\"80\"),r.hostname=n.hostname||e.hostname,r.pathname=n.pathname,r.protocol=o[0],\"\
+            /\"!==r.pathname.charAt(0)&&(r.pathname=\"/\"+r.pathname);var i=!n.protocol||\"\
+            :\"===n.protocol||n.protocol===e.protocol,a=n.hostname===document.domain&&n.port===e.port;return\
+            \ r.sameOrigin=i&&(!n.hostname||a),r}},{}],12:[function(t,n,e){function\
+            \ r(){}function o(t,n,e){return function(){return i(t,[f.now()].concat(s(arguments)),n?null:this,e),n?void\
+            \ 0:this}}var i=t(\"handle\"),a=t(15),s=t(16),c=t(\"ee\").get(\"tracer\"\
+            ),f=t(\"loader\"),u=NREUM;\"undefined\"==typeof window.newrelic&&(newrelic=u);var\
+            \ d=[\"setPageViewName\",\"setCustomAttribute\",\"setErrorHandler\",\"\
+            finished\",\"addToTrace\",\"inlineHit\",\"addRelease\"],l=\"api-\",p=l+\"\
+            ixn-\";a(d,function(t,n){u[n]=o(l+n,!0,\"api\")}),u.addPageAction=o(l+\"\
+            addPageAction\",!0),u.setCurrentRouteName=o(l+\"routeName\",!0),n.exports=newrelic,u.intera\u2026"}
+        childrenids: []
+        localName: script
+        nodeId: 30
+        nodeName: SCRIPT
+        nodeType: 1
+        nodeValue: ''
+        parent: 9
+        props: {type: text/javascript}
+      32:
+        attributes: [name, robots, content, 'index,follow']
+        backendNodeId: 668
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: meta
+        nodeId: 32
+        nodeName: META
+        nodeType: 1
+        nodeValue: ''
+        parent: 9
+        props: {content: 'index,follow', name: robots}
+      33:
+        attributes: [rel, canonical, href, 'https://m.jabong.com/privacy_policy/']
+        backendNodeId: 669
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: link
+        nodeId: 33
+        nodeName: LINK
+        nodeType: 1
+        nodeValue: ''
+        parent: 9
+        props: {href: 'https://m.jabong.com/privacy_policy/', rel: canonical}
+      34:
+        attributes: [rel, shortcut icon, href, 'https://static1.jabong.com/live/images/favicon.ico']
+        backendNodeId: 670
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: link
+        nodeId: 34
+        nodeName: LINK
+        nodeType: 1
+        nodeValue: ''
+        parent: 9
+        props: {href: 'https://static1.jabong.com/live/images/favicon.ico', rel: shortcut
+            icon}
+      35:
+        attributes: [rel, apple-touch-icon, sizes, 76x76, href, 'https://static1.jabong.com/live/images/apple-icon-76x76.png']
+        backendNodeId: 671
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: link
+        nodeId: 35
+        nodeName: LINK
+        nodeType: 1
+        nodeValue: ''
+        parent: 9
+        props: {href: 'https://static1.jabong.com/live/images/apple-icon-76x76.png',
+          rel: apple-touch-icon, sizes: 76x76}
+      36:
+        attributes: [rel, apple-touch-icon, sizes, 180x180, href, 'https://static1.jabong.com/live/images/apple-icon-180x180.png']
+        backendNodeId: 672
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: link
+        nodeId: 36
+        nodeName: LINK
+        nodeType: 1
+        nodeValue: ''
+        parent: 9
+        props: {href: 'https://static1.jabong.com/live/images/apple-icon-180x180.png',
+          rel: apple-touch-icon, sizes: 180x180}
+      37:
+        attributes: [rel, stylesheet, href, 'https://static1.jabong.com/live/css/bootstrap1502276431918.css']
+        backendNodeId: 673
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: link
+        nodeId: 37
+        nodeName: LINK
+        nodeType: 1
+        nodeValue: ''
+        parent: 9
+        props: {href: 'https://static1.jabong.com/live/css/bootstrap1502276431918.css',
+          rel: stylesheet}
+      38:
+        attributes: [rel, stylesheet, href, 'https://static1.jabong.com/live/css/cms1502276431918.css']
+        backendNodeId: 674
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: link
+        nodeId: 38
+        nodeName: LINK
+        nodeType: 1
+        nodeValue: ''
+        parent: 9
+        props: {href: 'https://static1.jabong.com/live/css/cms1502276431918.css',
+          rel: stylesheet}
+      39:
+        backendNodeId: 675
+        childrenids: []
+        localName: ''
+        nodeId: 39
+        nodeName: '#comment'
+        nodeType: 8
+        nodeValue: '[if lte IE 9]><link rel="stylesheet" href="https://static1.jabong.com/live/css/ie1502276431918.css"><![endif]'
+        parent: 9
+        props: {}
+      40:
+        attributes: [type, text/javascript]
+        backendNodeId: 676
+        childNodeCount: 1
+        children:
+        - {backendNodeId: 677, localName: '', nodeId: 41, nodeName: '#text', nodeType: 3,
+          nodeValue: '(function(i,s,o,g,r,a,m){i[''GoogleAnalyticsObject'']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new
+            Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,''script'',''https://www.google-analytics.com/analytics.js'',''ga'');var
+            JABONG = window.JABONG || {};JABONG.app = JABONG.app || {};JABONG.baseUrl
+            = ''https://m.jabong.com'';JABONG.secureBaseUrl = ''https://m.jabong.com'';JABONG.csServerUrl
+            = ''https://analytics.jabong.com/klickstorm'';JABONG.nonSecureBaseUrl
+            = ''https://m.jabong.com'';JABONG.app.baseUrlJS = ''//static1.jabong.com/live/js'';JABONG.app.baseUrlCSS
+            = ''//static1.jabong.com/live/css'';JABONG.app.baseUrlImage = ''//static1.jabong.com/live/images'';JABONG.app.context
+            = "cms".length ? "cms" : "home";JABONG.activeNav = "privacy_policy";JABONG.ResponsiveImgActivated
+            = true;JABONG.adblocker = true;JABONG.recentSearchEnabled = "enabled";JABONG.isAkamaiCacheEnabled
+            = "on";JABONG.isBot = '''';JABONG.isClientNonJS = "chrome webview  mobile";JABONG.bckt
+            = '''';JABONG.isGoogleBot = '''';JABONG.app.webpConfigs = "(pdp|catalog|home|segment)";JABONG.app.isWebpEnabled
+            = false;JABONG.agent = ''Mozilla/5.0 (Linux; Android 6.0; worker Build/MRA58K;
+            wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.108
+            Mobile Safari/537.36; JabongRetailAndroid/4.2.0 (Phone, 420dpi); JabongAndroid/4.2.0
+            (Phone, 420dpi)'';JABONG.add = '''';JABONG.app.http2 = true;JABONG.CONSTANTS
+            = {"CUSTOM_CATEGORY_TREE_SERVER_CONFIG_FOR":"global-custom-category-config","CUSTOM_CATEGORY_TREE_FACET_TO_BE_OVERWRITTEN":"category","CATALOG_GA_PAGE_TYPE_PV":"catalog","CATALOG_SHOW_SHOP_THE_LOOK":"shop-the-look","BASE_URL_CART":"/cart/","URL_PARAMS_FROM_PREPARE_CART":"from=prepare-cart","BASE_URL_VIEW_ORDER":"/customer/order/view/","COOKIE_USER_PERSONALISED":"_up","USER_PERSONALISED_HEADER":"X-Jabong-Personalised","SORT_AB_EXPERIMENT":"sortAb","SORT_AB_COOKIE":"sortTestId"}; '}
+        childrenids: []
+        localName: script
+        nodeId: 40
+        nodeName: SCRIPT
+        nodeType: 1
+        nodeValue: ''
+        parent: 9
+        props: {type: text/javascript}
+      42:
+        attributes: [src, 'https://static1.jabong.com/live/js/require-main1502276431918.js',
+          async, '']
+        backendNodeId: 678
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: script
+        nodeId: 42
+        nodeName: SCRIPT
+        nodeType: 1
+        nodeValue: ''
+        parent: 9
+        props: {async: '', src: 'https://static1.jabong.com/live/js/require-main1502276431918.js'}
+      43:
+        backendNodeId: 679
+        childrenids: []
+        localName: ''
+        nodeId: 43
+        nodeName: '#comment'
+        nodeType: 8
+        nodeValue: '[if lte IE 9]><script src="https://static1.jabong.com/live/js/vendor/crossbrowser/html5shiv.min.js"></script><script
+          src="https://static1.jabong.com/live/js/vendor/crossbrowser/respond.min.js"></script><![endif]'
+        parent: 9
+        props: {}
+      44:
+        attributes: [async, '', src, 'https://ds-aksb-a.akamaihd.net/aksb.min.js']
+        backendNodeId: 680
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: script
+        nodeId: 44
+        nodeName: SCRIPT
+        nodeType: 1
+        nodeValue: ''
+        parent: 9
+        props: {async: '', src: 'https://ds-aksb-a.akamaihd.net/aksb.min.js'}
+      45:
+        attributes: []
+        backendNodeId: 681
+        childNodeCount: 1
+        children:
+        - {backendNodeId: 682, localName: '', nodeId: 46, nodeName: '#text', nodeType: 3,
+          nodeValue: 'var w=window;if(w.performance||w.mozPerformance||w.msPerformance||w.webkitPerformance){var
+            d=document;AKSB=w.AKSB||{},AKSB.q=AKSB.q||[],AKSB.mark=AKSB.mark||function(e,_){AKSB.q.push(["mark",e,_||(new
+            Date).getTime()])},AKSB.measure=AKSB.measure||function(e,_,t){AKSB.q.push(["measure",e,_,t||(new
+            Date).getTime()])},AKSB.done=AKSB.done||function(e){AKSB.q.push(["done",e])},AKSB.mark("firstbyte",(new
+            Date).getTime()),AKSB.prof={custid:"277762",ustr:"cookiepresent",originlat:"0",clientrtt:"2",ghostip:"24.143.199.173",ipv6:false,pct:"10",clientip:"128.59.22.170",requestid:"f4fd970",region:"12147",protocol:"h2",blver:13,akM:"a",akN:"ae",akTT:"O",akTX:"1",akTI:"f4fd970",ai:"235323",ra:"false",pmgn:"",pmgi:"",pmp:"",qc:""},function(e){var
+            _=d.createElement("script");_.async="async",_.src=e;var t=d.getElementsByTagName("script"),t=t[t.length-1];t.parentNode.insertBefore(_,t)}(("https:"===d.location.protocol?"https:":"http:")+"//ds-aksb-a.akamaihd.net/aksb.min.js")}'}
+        childrenids: []
+        localName: script
+        nodeId: 45
+        nodeName: SCRIPT
+        nodeType: 1
+        nodeValue: ''
+        parent: 9
+        props: {}
+      47:
+        attributes: [type, text/javascript, charset, utf-8, async, '', data-requirecontext,
+          _, data-requiremodule, cms/main1502276431918, src, //static1.jabong.com/live/js/cms/main1502276431918.js]
+        backendNodeId: 683
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: script
+        nodeId: 47
+        nodeName: SCRIPT
+        nodeType: 1
+        nodeValue: ''
+        parent: 9
+        props: {async: '', charset: utf-8, data-requirecontext: _, data-requiremodule: cms/main1502276431918,
+          src: //static1.jabong.com/live/js/cms/main1502276431918.js, type: text/javascript}
+      48:
+        attributes: [type, text/javascript]
+        backendNodeId: 684
+        childNodeCount: 1
+        children:
+        - {backendNodeId: 685, localName: '', nodeId: 49, nodeName: '#text', nodeType: 3,
+          nodeValue: 'var globalConfig = {"pagetype":"static","identifier":"","trafficSource":"","osType":"Android","customer":{},"device":"mobile","version":1502284072897,"xhrTrackingEnabled":false};
+
+            '}
+        childrenids: []
+        localName: script
+        nodeId: 48
+        nodeName: SCRIPT
+        nodeType: 1
+        nodeValue: ''
+        parent: 10
+        props: {type: text/javascript}
+      50:
+        attributes: [type, text/javascript]
+        backendNodeId: 686
+        childNodeCount: 1
+        children:
+        - {backendNodeId: 687, localName: '', nodeId: 51, nodeName: '#text', nodeType: 3,
+          nodeValue: 'var globalConfig = (globalConfig || {}),dataLayer = [{''globalConfig''
+            : globalConfig}]; '}
+        childrenids: []
+        localName: script
+        nodeId: 50
+        nodeName: SCRIPT
+        nodeType: 1
+        nodeValue: ''
+        parent: 10
+        props: {type: text/javascript}
+      52:
+        backendNodeId: 688
+        childrenids: []
+        localName: ''
+        nodeId: 52
+        nodeName: '#comment'
+        nodeType: 8
+        nodeValue: ' Google Tag Manager '
+        parent: 10
+        props: {}
+      53:
+        backendNodeId: 689
+        childrenids: []
+        localName: ''
+        nodeId: 53
+        nodeName: '#comment'
+        nodeType: 8
+        nodeValue: ' Google Tag Manager '
+        parent: 10
+        props: {}
+      54:
+        attributes: []
+        backendNodeId: 690
+        childNodeCount: 1
+        children:
+        - {backendNodeId: 691, localName: '', nodeId: 55, nodeName: '#text', nodeType: 3,
+          nodeValue: '<iframe src="//www.googletagmanager.com/ns.html?id=GTM-T37P6Z"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe>'}
+        childrenids: []
+        localName: noscript
+        nodeId: 54
+        nodeName: NOSCRIPT
+        nodeType: 1
+        nodeValue: ''
+        parent: 10
+        props: {}
+      56:
+        attributes: []
+        backendNodeId: 692
+        childNodeCount: 1
+        children:
+        - {backendNodeId: 693, localName: '', nodeId: 57, nodeName: '#text', nodeType: 3,
+          nodeValue: '(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({''gtm.start'':
+            new Date().getTime(),event:''gtm.js''});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!=''dataLayer''?''&l=''+l:'''';j.async=true;j.src=
+            ''//www.googletagmanager.com/gtm.js?id=''+i+dl;f.parentNode.insertBefore(j,f);
+            })(window,document,''script'',''dataLayer'',''GTM-T37P6Z'');'}
+        childrenids: []
+        localName: script
+        nodeId: 56
+        nodeName: SCRIPT
+        nodeType: 1
+        nodeValue: ''
+        parent: 10
+        props: {}
+      58:
+        backendNodeId: 694
+        childrenids: []
+        localName: ''
+        nodeId: 58
+        nodeName: '#comment'
+        nodeType: 8
+        nodeValue: ' End Google Tag Manager '
+        parent: 10
+        props: {}
+      59:
+        attributes: [class, jabong-container, id, content-wrapper]
+        backendNodeId: 695
+        childNodeCount: 1
+        children:
+        - &id012
+          attributes: [class, main-content, id, main, data-view, cms]
+          backendNodeId: 696
+          childNodeCount: 1
+          children:
+          - &id013
+            attributes: [id, main, role, main, data-view, cms, class, main-content]
+            backendNodeId: 697
+            childNodeCount: 1
+            children:
+            - &id014
+              attributes: [class, comman-wrapper privacy-policy]
+              backendNodeId: 698
+              childNodeCount: 18
+              children:
+              - &id015
+                backendNodeId: 699
+                childrenids: []
+                localName: ''
+                nodeId: 63
+                nodeName: '#comment'
+                nodeType: 8
+                nodeValue: ' jabong about start here.'
+                parent: 62
+                props: {}
+              - &id016
+                attributes: [href, /about, class, common-heading]
+                backendNodeId: 700
+                childNodeCount: 3
+                children:
+                - &id017
+                  attributes: [class, yellow-line]
+                  backendNodeId: 701
+                  childNodeCount: 0
+                  children: []
+                  childrenids: []
+                  h: 0.0
+                  localName: span
+                  nodeId: 65
+                  nodeName: SPAN
+                  nodeType: 1
+                  nodeValue: ''
+                  parent: 64
+                  props: {class: yellow-line}
+                  value: ''
+                  w: 0.0
+                  x: 0.0
+                  y: 0.0
+                - &id018
+                  backendNodeId: 702
+                  childrenids: []
+                  localName: ''
+                  nodeId: 66
+                  nodeName: '#text'
+                  nodeType: 3
+                  nodeValue: 'about jabong  '
+                  parent: 64
+                  props: {}
+                - &id019
+                  attributes: [class, arrow extra-sprite]
+                  backendNodeId: 703
+                  childNodeCount: 0
+                  children: []
+                  childrenids: []
+                  h: 15.0
+                  localName: span
+                  nodeId: 67
+                  nodeName: SPAN
+                  nodeType: 1
+                  nodeValue: ''
+                  parent: 64
+                  props: {class: arrow extra-sprite}
+                  value: ''
+                  w: 15.0
+                  x: 366.578125
+                  y: 63.0
+                childrenids: [65, 66, 67]
+                h: 62.0
+                localName: a
+                nodeId: 64
+                nodeName: A
+                nodeType: 1
+                nodeValue: ''
+                parent: 62
+                props: {class: common-heading, href: /about}
+                value: ''
+                w: 381.15625
+                x: 15.421875
+                y: 40.0
+              - &id020
+                attributes: [class, content-wrapper]
+                backendNodeId: 704
+                childNodeCount: 1
+                children:
+                - &id021
+                  backendNodeId: 705
+                  childrenids: []
+                  localName: ''
+                  nodeId: 69
+                  nodeName: '#text'
+                  nodeType: 3
+                  nodeValue: '  about jabong  '
+                  parent: 68
+                  props: {}
+                childrenids: [69]
+                h: 0.0
+                localName: div
+                nodeId: 68
+                nodeName: DIV
+                nodeType: 1
+                nodeValue: ''
+                parent: 62
+                props: {class: content-wrapper}
+                value: ''
+                w: 0.0
+                x: 0.0
+                y: 0.0
+              - &id022
+                backendNodeId: 706
+                childrenids: []
+                localName: ''
+                nodeId: 70
+                nodeName: '#comment'
+                nodeType: 8
+                nodeValue: ' jabong contact start here.'
+                parent: 62
+                props: {}
+              - &id023
+                attributes: [href, /contact, class, common-heading]
+                backendNodeId: 707
+                childNodeCount: 3
+                children:
+                - &id024
+                  attributes: [class, yellow-line]
+                  backendNodeId: 708
+                  childNodeCount: 0
+                  children: []
+                  childrenids: []
+                  h: 0.0
+                  localName: span
+                  nodeId: 72
+                  nodeName: SPAN
+                  nodeType: 1
+                  nodeValue: ''
+                  parent: 71
+                  props: {class: yellow-line}
+                  value: ''
+                  w: 0.0
+                  x: 0.0
+                  y: 0.0
+                - &id025
+                  backendNodeId: 709
+                  childrenids: []
+                  localName: ''
+                  nodeId: 73
+                  nodeName: '#text'
+                  nodeType: 3
+                  nodeValue: 'contact  '
+                  parent: 71
+                  props: {}
+                - &id026
+                  attributes: [class, arrow extra-sprite]
+                  backendNodeId: 710
+                  childNodeCount: 0
+                  children: []
+                  childrenids: []
+                  h: 15.0
+                  localName: span
+                  nodeId: 74
+                  nodeName: SPAN
+                  nodeType: 1
+                  nodeValue: ''
+                  parent: 71
+                  props: {class: arrow extra-sprite}
+                  value: ''
+                  w: 15.0
+                  x: 366.578125
+                  y: 125.0
+                childrenids: [72, 73, 74]
+                h: 62.0
+                localName: a
+                nodeId: 71
+                nodeName: A
+                nodeType: 1
+                nodeValue: ''
+                parent: 62
+                props: {class: common-heading, href: /contact}
+                value: ''
+                w: 381.15625
+                x: 15.421875
+                y: 102.0
+              - &id027
+                attributes: [class, content-wrapper]
+                backendNodeId: 711
+                childNodeCount: 1
+                children:
+                - &id028
+                  backendNodeId: 712
+                  childrenids: []
+                  localName: ''
+                  nodeId: 76
+                  nodeName: '#text'
+                  nodeType: 3
+                  nodeValue: contact
+                  parent: 75
+                  props: {}
+                childrenids: [76]
+                h: 0.0
+                localName: div
+                nodeId: 75
+                nodeName: DIV
+                nodeType: 1
+                nodeValue: ''
+                parent: 62
+                props: {class: content-wrapper}
+                value: ''
+                w: 0.0
+                x: 0.0
+                y: 0.0
+              - &id029
+                backendNodeId: 713
+                childrenids: []
+                localName: ''
+                nodeId: 77
+                nodeName: '#comment'
+                nodeType: 8
+                nodeValue: ' jabong privacy policy start here.'
+                parent: 62
+                props: {}
+              - &id030
+                attributes: [href, /privacy_policy, class, common-heading select]
+                backendNodeId: 714
+                childNodeCount: 3
+                children:
+                - &id031
+                  attributes: [class, yellow-line]
+                  backendNodeId: 715
+                  childNodeCount: 0
+                  children: []
+                  childrenids: []
+                  h: 0.0
+                  localName: span
+                  nodeId: 79
+                  nodeName: SPAN
+                  nodeType: 1
+                  nodeValue: ''
+                  parent: 78
+                  props: {class: yellow-line}
+                  value: ''
+                  w: 0.0
+                  x: 0.0
+                  y: 0.0
+                - &id032
+                  backendNodeId: 716
+                  childrenids: []
+                  localName: ''
+                  nodeId: 80
+                  nodeName: '#text'
+                  nodeType: 3
+                  nodeValue: 'privacy policy  '
+                  parent: 78
+                  props: {}
+                - &id033
+                  attributes: [class, arrow extra-sprite]
+                  backendNodeId: 717
+                  childNodeCount: 0
+                  children: []
+                  childrenids: []
+                  h: 11.0
+                  localName: span
+                  nodeId: 81
+                  nodeName: SPAN
+                  nodeType: 1
+                  nodeValue: ''
+                  parent: 78
+                  props: {class: arrow extra-sprite}
+                  value: ''
+                  w: 15.0
+                  x: 366.578125
+                  y: 191.796875
+                childrenids: [79, 80, 81]
+                h: 62.0
+                localName: a
+                nodeId: 78
+                nodeName: A
+                nodeType: 1
+                nodeValue: ''
+                parent: 62
+                props: {class: common-heading select, href: /privacy_policy}
+                value: ''
+                w: 381.15625
+                x: 15.421875
+                y: 164.0
+              - &id034
+                attributes: [class, content-wrapper select]
+                backendNodeId: 718
+                childNodeCount: 27
+                children:
+                - &id035
+                  attributes: [class, text-uppercase]
+                  backendNodeId: 719
+                  childNodeCount: 1
+                  children:
+                  - &id036
+                    backendNodeId: 720
+                    childrenids: []
+                    localName: ''
+                    nodeId: 84
+                    nodeName: '#text'
+                    nodeType: 3
+                    nodeValue: Privacy Policy
+                    parent: 83
+                    props: {}
+                  childrenids: [84]
+                  h: 0.0
+                  localName: h2
+                  nodeId: 83
+                  nodeName: H2
+                  nodeType: 1
+                  nodeValue: ''
+                  parent: 82
+                  props: {class: text-uppercase}
+                  value: ''
+                  w: 0.0
+                  x: 0.0
+                  y: 0.0
+                - &id037
+                  attributes: []
+                  backendNodeId: 721
+                  childNodeCount: 1
+                  children:
+                  - &id038
+                    backendNodeId: 722
+                    childrenids: []
+                    localName: ''
+                    nodeId: 86
+                    nodeName: '#text'
+                    nodeType: 3
+                    nodeValue: 1. Data Privacy Policy
+                    parent: 85
+                    props: {}
+                  childrenids: [86]
+                  h: 22.0
+                  localName: h3
+                  nodeId: 85
+                  nodeName: H3
+                  nodeType: 1
+                  nodeValue: ''
+                  parent: 82
+                  props: {}
+                  value: ''
+                  w: 350.65625
+                  x: 30.671875
+                  y: 246.0
+                - &id039
+                  attributes: []
+                  backendNodeId: 723
+                  childNodeCount: 3
+                  children:
+                  - &id040
+                    backendNodeId: 724
+                    childrenids: []
+                    localName: ''
+                    nodeId: 88
+                    nodeName: '#text'
+                    nodeType: 3
+                    nodeValue: "1.1. This privacy policy (\u201CPrivacy Policy\u201D\
+                      ) shall form an integral part of the Terms of Use of the Website\
+                      \ (\u201CTerms\u201D) set out at "
+                    parent: 87
+                    props: {}
+                  - &id041
+                    attributes: [href, 'http://www.jabong.com/terms_and_conditions',
+                      target, _blank]
+                    backendNodeId: 725
+                    childNodeCount: 1
+                    children:
+                    - &id042
+                      backendNodeId: 726
+                      childrenids: []
+                      localName: ''
+                      nodeId: 90
+                      nodeName: '#text'
+                      nodeType: 3
+                      nodeValue: http://www.jabong.com/terms_and_conditions
+                      parent: 89
+                      props: {}
+                    childrenids: [90]
+                    h: 20.0
+                    localName: a
+                    nodeId: 89
+                    nodeName: A
+                    nodeType: 1
+                    nodeValue: ''
+                    parent: 87
+                    props: {href: 'http://www.jabong.com/terms_and_conditions', target: _blank}
+                    value: ''
+                    w: 318.125
+                    x: 30.671875
+                    y: 345.0
+                  - &id043
+                    backendNodeId: 727
+                    childrenids: []
+                    localName: ''
+                    nodeId: 91
+                    nodeName: '#text'
+                    nodeType: 3
+                    nodeValue: ' and shall be read along with the Terms. Any capitalized
+                      term not specifically defined herein shall draw its meaning
+                      from the meaning ascribed to such term in the Terms.'
+                    parent: 87
+                    props: {}
+                  childrenids: [88, 89, 91]
+                  h: 176.0
+                  localName: p
+                  nodeId: 87
+                  nodeName: P
+                  nodeType: 1
+                  nodeValue: ''
+                  parent: 82
+                  props: {}
+                  value: ''
+                  w: 350.65625
+                  x: 30.671875
+                  y: 278.0
+                - &id044
+                  attributes: []
+                  backendNodeId: 728
+                  childNodeCount: 1
+                  children:
+                  - &id045
+                    backendNodeId: 729
+                    childrenids: []
+                    localName: ''
+                    nodeId: 93
+                    nodeName: '#text'
+                    nodeType: 3
+                    nodeValue: "1.2. We are Jabong.com, a service provided by Novarris\
+                      \ Fashion Trading Private Limited, a wholly owned subsidiary\
+                      \ of Jade eServices Private Limited from, Gurgaon, Haryana,\
+                      \ India - 122015. In this Privacy Policy, references to \u201C\
+                      you\u201D and \u201CUser\u201D mean any person submitting any\
+                      \ data to us or our agent or the Website."
+                    parent: 92
+                    props: {}
+                  childrenids: [93]
+                  h: 154.0
+                  localName: p
+                  nodeId: 92
+                  nodeName: P
+                  nodeType: 1
+                  nodeValue: ''
+                  parent: 82
+                  props: {}
+                  value: ''
+                  w: 350.65625
+                  x: 30.671875
+                  y: 482.0
+                - &id046
+                  attributes: []
+                  backendNodeId: 730
+                  childNodeCount: 2
+                  children:
+                  - &id047
+                    backendNodeId: 731
+                    childrenids: []
+                    localName: ''
+                    nodeId: 95
+                    nodeName: '#text'
+                    nodeType: 3
+                    nodeValue: '1.3. If you have any comments or suggestions, we would
+                      be pleased to receive them at our Gurgaon address or at our
+                      email address, '
+                    parent: 94
+                    props: {}
+                  - &id048
+                    attributes: [href, 'mailto:service@jabong.com', target, _top]
+                    backendNodeId: 732
+                    childNodeCount: 1
+                    children:
+                    - &id049
+                      backendNodeId: 733
+                      childrenids: []
+                      localName: ''
+                      nodeId: 97
+                      nodeName: '#text'
+                      nodeType: 3
+                      nodeValue: service@jabong.com.
+                      parent: 96
+                      props: {}
+                    childrenids: [97]
+                    h: 20.0
+                    localName: a
+                    nodeId: 96
+                    nodeName: A
+                    nodeType: 1
+                    nodeValue: ''
+                    parent: 94
+                    props: {href: 'mailto:service@jabong.com', target: _top}
+                    value: ''
+                    w: 144.984375
+                    x: 30.671875
+                    y: 731.0
+                  childrenids: [95, 96]
+                  h: 88.0
+                  localName: p
+                  nodeId: 94
+                  nodeName: P
+                  nodeType: 1
+                  nodeValue: ''
+                  parent: 82
+                  props: {}
+                  value: ''
+                  w: 350.65625
+                  x: 30.671875
+                  y: 664.0
+                - &id050
+                  attributes: []
+                  backendNodeId: 734
+                  childNodeCount: 1
+                  children:
+                  - &id051
+                    backendNodeId: 735
+                    childrenids: []
+                    localName: ''
+                    nodeId: 99
+                    nodeName: '#text'
+                    nodeType: 3
+                    nodeValue: 1.4. Data protection is a matter of trust and your
+                      privacy is important to us. We shall therefore only use your
+                      name and other information which relates to you in the manner
+                      set out in this Privacy Policy. We will only collect information
+                      where it is necessary for us to do so and we will only collect
+                      information if it is relevant to our dealings with you.
+                    parent: 98
+                    props: {}
+                  childrenids: [99]
+                  h: 154.0
+                  localName: p
+                  nodeId: 98
+                  nodeName: P
+                  nodeType: 1
+                  nodeValue: ''
+                  parent: 82
+                  props: {}
+                  value: ''
+                  w: 350.65625
+                  x: 30.671875
+                  y: 780.0
+                - &id052
+                  attributes: []
+                  backendNodeId: 736
+                  childNodeCount: 1
+                  children:
+                  - &id053
+                    backendNodeId: 737
+                    childrenids: []
+                    localName: ''
+                    nodeId: 101
+                    nodeName: '#text'
+                    nodeType: 3
+                    nodeValue: 1.5. We will only keep your information for as long
+                      as we are either required to by law or as is relevant for the
+                      purposes for which it was collected.
+                    parent: 100
+                    props: {}
+                  childrenids: [101]
+                  h: 66.0
+                  localName: p
+                  nodeId: 100
+                  nodeName: P
+                  nodeType: 1
+                  nodeValue: ''
+                  parent: 82
+                  props: {}
+                  value: ''
+                  w: 350.65625
+                  x: 30.671875
+                  y: 962.0
+                - &id054
+                  attributes: []
+                  backendNodeId: 738
+                  childNodeCount: 1
+                  children:
+                  - &id055
+                    backendNodeId: 739
+                    childrenids: []
+                    localName: ''
+                    nodeId: 103
+                    nodeName: '#text'
+                    nodeType: 3
+                    nodeValue: 1.6. You can visit the Website and browse without having
+                      to provide personal details. During your visit to the Website
+                      you remain anonymous and at no time can we identify you unless
+                      you have an account on the Website and log on with your user
+                      name and password.
+                    parent: 102
+                    props: {}
+                  childrenids: [103]
+                  h: 132.0
+                  localName: p
+                  nodeId: 102
+                  nodeName: P
+                  nodeType: 1
+                  nodeValue: ''
+                  parent: 82
+                  props: {}
+                  value: ''
+                  w: 350.65625
+                  x: 30.671875
+                  y: 1056.0
+                - &id056
+                  attributes: []
+                  backendNodeId: 740
+                  childNodeCount: 1
+                  children:
+                  - &id057
+                    backendNodeId: 741
+                    childrenids: []
+                    localName: ''
+                    nodeId: 105
+                    nodeName: '#text'
+                    nodeType: 3
+                    nodeValue: 1.7. The Website shall use the information collected
+                      from You in accordance with applicable laws including but not
+                      limited to the Information Technology Act, 2000 and the rules
+                      made there under and use the data only for the purpose of completing
+                      the transaction or for purposes as may be required under the
+                      laws.
+                    parent: 104
+                    props: {}
+                  childrenids: [105]
+                  h: 154.0
+                  localName: p
+                  nodeId: 104
+                  nodeName: P
+                  nodeType: 1
+                  nodeValue: ''
+                  parent: 82
+                  props: {}
+                  value: ''
+                  w: 350.65625
+                  x: 30.671875
+                  y: 1216.0
+                - &id058
+                  attributes: []
+                  backendNodeId: 742
+                  childNodeCount: 1
+                  children:
+                  - &id059
+                    backendNodeId: 743
+                    childrenids: []
+                    localName: ''
+                    nodeId: 107
+                    nodeName: '#text'
+                    nodeType: 3
+                    nodeValue: 1.8. We may collect various information if you seek
+                      to place an order for a product to us on the Website.
+                    parent: 106
+                    props: {}
+                  childrenids: [107]
+                  h: 66.0
+                  localName: p
+                  nodeId: 106
+                  nodeName: P
+                  nodeType: 1
+                  nodeValue: ''
+                  parent: 82
+                  props: {}
+                  value: ''
+                  w: 350.65625
+                  x: 30.671875
+                  y: 1398.0
+                - &id060
+                  attributes: []
+                  backendNodeId: 744
+                  childNodeCount: 1
+                  children:
+                  - &id061
+                    backendNodeId: 745
+                    childrenids: []
+                    localName: ''
+                    nodeId: 109
+                    nodeName: '#text'
+                    nodeType: 3
+                    nodeValue: 1.9. We collect, store and process your data for processing
+                      your purchase on the Website and any possible later claims,
+                      and to provide you with our services. We may collect your title,
+                      name, gender, email address, postal address, delivery address
+                      (if different), telephone number, mobile number, fax number,
+                      payment details, payment card details or bank account details,
+                      Internet protocol(IP) address, personal information received
+                      from social networking sites through which the You have registered
+                      to the Website including name, profile picture, email address
+                      or friends list, and any information made public in connection
+                      with that social media service and such other personal and non-personal
+                      information that may be required to access and operate the Website.
+                    parent: 108
+                    props: {}
+                  childrenids: [109]
+                  h: 352.0
+                  localName: p
+                  nodeId: 108
+                  nodeName: P
+                  nodeType: 1
+                  nodeValue: ''
+                  parent: 82
+                  props: {}
+                  value: ''
+                  w: 350.65625
+                  x: 30.671875
+                  y: 1492.0
+                - &id062
+                  attributes: []
+                  backendNodeId: 746
+                  childNodeCount: 1
+                  children:
+                  - &id063
+                    backendNodeId: 747
+                    childrenids: []
+                    localName: ''
+                    nodeId: 111
+                    nodeName: '#text'
+                    nodeType: 3
+                    nodeValue: 1.10. Please be advised that the duration of use of
+                      the Website by You may also be logged and stored by the Website.
+                    parent: 110
+                    props: {}
+                  childrenids: [111]
+                  h: 66.0
+                  localName: p
+                  nodeId: 110
+                  nodeName: P
+                  nodeType: 1
+                  nodeValue: ''
+                  parent: 82
+                  props: {}
+                  value: ''
+                  w: 350.65625
+                  x: 30.671875
+                  y: 1872.0
+                - &id064
+                  attributes: []
+                  backendNodeId: 748
+                  childNodeCount: 1
+                  children:
+                  - &id065
+                    backendNodeId: 749
+                    childrenids: []
+                    localName: ''
+                    nodeId: 113
+                    nodeName: '#text'
+                    nodeType: 3
+                    nodeValue: 1.11. The information may be collected and/or stored
+                      in electronic form, however, we are hereby authorized by You
+                      to collect/store such information is physical form as well.
+                    parent: 112
+                    props: {}
+                  childrenids: [113]
+                  h: 88.0
+                  localName: p
+                  nodeId: 112
+                  nodeName: P
+                  nodeType: 1
+                  nodeValue: ''
+                  parent: 82
+                  props: {}
+                  value: ''
+                  w: 350.65625
+                  x: 30.671875
+                  y: 1966.0
+                - &id066
+                  attributes: []
+                  backendNodeId: 750
+                  childNodeCount: 1
+                  children:
+                  - &id067
+                    backendNodeId: 751
+                    childrenids: []
+                    localName: ''
+                    nodeId: 115
+                    nodeName: '#text'
+                    nodeType: 3
+                    nodeValue: 1.12. We need this information in order to allow you
+                      to go ahead with placing your order for a product. We may use
+                      that data to process payment for the product and deliver the
+                      product to you. We also use that data to inform you when the
+                      product is about to be delivered.
+                    parent: 114
+                    props: {}
+                  childrenids: [115]
+                  h: 132.0
+                  localName: p
+                  nodeId: 114
+                  nodeName: P
+                  nodeType: 1
+                  nodeValue: ''
+                  parent: 82
+                  props: {}
+                  value: ''
+                  w: 350.65625
+                  x: 30.671875
+                  y: 2082.0
+                - &id068
+                  attributes: []
+                  backendNodeId: 752
+                  childNodeCount: 1
+                  children:
+                  - &id069
+                    backendNodeId: 753
+                    childrenids: []
+                    localName: ''
+                    nodeId: 117
+                    nodeName: '#text'
+                    nodeType: 3
+                    nodeValue: 1.13. We may share the information collected from You
+                      with our affiliates, employees, agents, service provider, sellers,
+                      suppliers, banks, payment gateway operators and such other individuals
+                      and institutions like judicial, quasi-judicial law enforcement
+                      agencies.
+                    parent: 116
+                    props: {}
+                  childrenids: [117]
+                  h: 132.0
+                  localName: p
+                  nodeId: 116
+                  nodeName: P
+                  nodeType: 1
+                  nodeValue: ''
+                  parent: 82
+                  props: {}
+                  value: ''
+                  w: 350.65625
+                  x: 30.671875
+                  y: 2242.0
+                - &id070
+                  attributes: []
+                  backendNodeId: 754
+                  childNodeCount: 1
+                  children:
+                  - &id071
+                    backendNodeId: 755
+                    childrenids: []
+                    localName: ''
+                    nodeId: 119
+                    nodeName: '#text'
+                    nodeType: 3
+                    nodeValue: 1.14. We may pass your name and address on to a third
+                      party in order to make delivery of the product to you (for example
+                      to our courier or supplier).
+                    parent: 118
+                    props: {}
+                  childrenids: [119]
+                  h: 66.0
+                  localName: p
+                  nodeId: 118
+                  nodeName: P
+                  nodeType: 1
+                  nodeValue: ''
+                  parent: 82
+                  props: {}
+                  value: ''
+                  w: 350.65625
+                  x: 30.671875
+                  y: 2402.0
+                - &id072
+                  attributes: []
+                  backendNodeId: 756
+                  childNodeCount: 1
+                  children:
+                  - &id073
+                    backendNodeId: 757
+                    childrenids: []
+                    localName: ''
+                    nodeId: 121
+                    nodeName: '#text'
+                    nodeType: 3
+                    nodeValue: 1.15. We may also use your data in order to manage
+                      the Website, collect payment from you, enable you to subsequently
+                      use parts of the Website, detect any fraud or Website abuses,
+                      send you information relevant to the Website or our products,
+                      and in case we have any queries. Payments that you make through
+                      the Website will be processed by Novarris Fashion Trading Private
+                      Limited, a company registered in India.
+                    parent: 120
+                    props: {}
+                  childrenids: [121]
+                  h: 198.0
+                  localName: p
+                  nodeId: 120
+                  nodeName: P
+                  nodeType: 1
+                  nodeValue: ''
+                  parent: 82
+                  props: {}
+                  value: ''
+                  w: 350.65625
+                  x: 30.671875
+                  y: 2496.0
+                - &id074
+                  attributes: []
+                  backendNodeId: 758
+                  childNodeCount: 1
+                  children:
+                  - &id075
+                    backendNodeId: 759
+                    childrenids: []
+                    localName: ''
+                    nodeId: 123
+                    nodeName: '#text'
+                    nodeType: 3
+                    nodeValue: '1.16. You hereby represent and warrant to the Website
+                      that:'
+                    parent: 122
+                    props: {}
+                  childrenids: [123]
+                  h: 44.0
+                  localName: p
+                  nodeId: 122
+                  nodeName: P
+                  nodeType: 1
+                  nodeValue: ''
+                  parent: 82
+                  props: {}
+                  value: ''
+                  w: 350.65625
+                  x: 30.671875
+                  y: 2722.0
+                - &id076
+                  attributes: []
+                  backendNodeId: 760
+                  childNodeCount: 2
+                  children:
+                  - &id077
+                    attributes: []
+                    backendNodeId: 761
+                    childNodeCount: 1
+                    children:
+                    - &id078
+                      backendNodeId: 762
+                      childrenids: []
+                      localName: ''
+                      nodeId: 126
+                      nodeName: '#text'
+                      nodeType: 3
+                      nodeValue: All information derived from in relation to You are
+                        true, correct, current and updated.
+                      parent: 125
+                      props: {}
+                    childrenids: [126]
+                    h: 40.0
+                    localName: li
+                    nodeId: 125
+                    nodeName: LI
+                    nodeType: 1
+                    nodeValue: ''
+                    parent: 124
+                    props: {}
+                    value: '0'
+                    w: 310.65625
+                    x: 70.671875
+                    y: 2794.0
+                  - &id079
+                    attributes: []
+                    backendNodeId: 763
+                    childNodeCount: 1
+                    children:
+                    - &id080
+                      backendNodeId: 764
+                      childrenids: []
+                      localName: ''
+                      nodeId: 128
+                      nodeName: '#text'
+                      nodeType: 3
+                      nodeValue: All information given do not belong to any third
+                        party, and if they do belong to a third party, you are authorized
+                        by such third party to use, access and disseminate such information.
+                      parent: 127
+                      props: {}
+                    childrenids: [128]
+                    h: 80.0
+                    localName: li
+                    nodeId: 127
+                    nodeName: LI
+                    nodeType: 1
+                    nodeValue: ''
+                    parent: 124
+                    props: {}
+                    value: '0'
+                    w: 310.65625
+                    x: 70.671875
+                    y: 2834.0
+                  childrenids: [125, 127]
+                  h: 120.0
+                  localName: ol
+                  nodeId: 124
+                  nodeName: OL
+                  nodeType: 1
+                  nodeValue: ''
+                  parent: 82
+                  props: {}
+                  value: ''
+                  w: 350.65625
+                  x: 30.671875
+                  y: 2794.0
+                - &id081
+                  attributes: []
+                  backendNodeId: 765
+                  childNodeCount: 1
+                  children:
+                  - &id082
+                    backendNodeId: 766
+                    childrenids: []
+                    localName: ''
+                    nodeId: 130
+                    nodeName: '#text'
+                    nodeType: 3
+                    nodeValue: "1.17. You shall indemnify and hold harmless the Website\
+                      \ and each of the Website\u2019s officers, directors, contracts\
+                      \ or agents and any third party relying on the information provided\
+                      \ by You in the event You are in breach of this Policy."
+                    parent: 129
+                    props: {}
+                  childrenids: [130]
+                  h: 110.0
+                  localName: p
+                  nodeId: 129
+                  nodeName: P
+                  nodeType: 1
+                  nodeValue: ''
+                  parent: 82
+                  props: {}
+                  value: ''
+                  w: 350.65625
+                  x: 30.671875
+                  y: 2924.0
+                - &id083
+                  attributes: []
+                  backendNodeId: 767
+                  childNodeCount: 1
+                  children:
+                  - &id084
+                    backendNodeId: 768
+                    childrenids: []
+                    localName: ''
+                    nodeId: 132
+                    nodeName: '#text'
+                    nodeType: 3
+                    nodeValue: 1.18. Your actual order details may also be stored
+                      with us and you may access this information by logging into
+                      your account on the Website. Here you can view the details of
+                      your orders that have been completed, those which are open and
+                      those which are shortly to be dispatched and administer your
+                      address details, bank details and any newsletter to which you
+                      may have subscribed. You undertake to treat the personal access
+                      data confidentially and not make it available to unauthorized
+                      third parties. We cannot assume any liability for misuse of
+                      passwords unless this misuse is our fault.
+                    parent: 131
+                    props: {}
+                  childrenids: [132]
+                  h: 264.0
+                  localName: p
+                  nodeId: 131
+                  nodeName: P
+                  nodeType: 1
+                  nodeValue: ''
+                  parent: 82
+                  props: {}
+                  value: ''
+                  w: 350.65625
+                  x: 30.671875
+                  y: 3062.0
+                - &id085
+                  attributes: []
+                  backendNodeId: 769
+                  childNodeCount: 1
+                  children:
+                  - &id086
+                    backendNodeId: 770
+                    childrenids: []
+                    localName: ''
+                    nodeId: 134
+                    nodeName: '#text'
+                    nodeType: 3
+                    nodeValue: 1.19. We shall not share any of your personal information
+                      with third parties without your explicit consent. We do not
+                      sell or rent your personal information to third parties for
+                      their marketing purposes without your explicit consent and we
+                      only use your information as described in the Privacy Policy.
+                      We view protection of your privacy as a very important community
+                      principle. We understand clearly that you and Your information
+                      is one of our most important assets. We store and process Your
+                      information on computers located in the India that are protected
+                      by physical as well as technological security devices. We use
+                      third parties to verify and certify our privacy principles.
+                      If you object to your information being transferred or used
+                      in this way please do not use the Website.
+                    parent: 133
+                    props: {}
+                  childrenids: [134]
+                  h: 352.0
+                  localName: p
+                  nodeId: 133
+                  nodeName: P
+                  nodeType: 1
+                  nodeValue: ''
+                  parent: 82
+                  props: {}
+                  value: ''
+                  w: 350.65625
+                  x: 30.671875
+                  y: 3354.0
+                - &id087
+                  attributes: []
+                  backendNodeId: 771
+                  childNodeCount: 1
+                  children:
+                  - &id088
+                    backendNodeId: 772
+                    childrenids: []
+                    localName: ''
+                    nodeId: 136
+                    nodeName: '#text'
+                    nodeType: 3
+                    nodeValue: 1.20. Under no circumstances do we rent, trade or share
+                      your personal information that we have collected with any other
+                      company for their marketing purposes without your consent. We
+                      reserve the right to communicate your personal information to
+                      any third party that makes a legally-compliant request for its
+                      disclosure.
+                    parent: 135
+                    props: {}
+                  childrenids: [136]
+                  h: 154.0
+                  localName: p
+                  nodeId: 135
+                  nodeName: P
+                  nodeType: 1
+                  nodeValue: ''
+                  parent: 82
+                  props: {}
+                  value: ''
+                  w: 350.65625
+                  x: 30.671875
+                  y: 3734.0
+                - &id089
+                  attributes: []
+                  backendNodeId: 773
+                  childNodeCount: 1
+                  children:
+                  - &id090
+                    backendNodeId: 774
+                    childrenids: []
+                    localName: ''
+                    nodeId: 138
+                    nodeName: '#text'
+                    nodeType: 3
+                    nodeValue: 1.21. Notwithstanding anything to the contrary, the
+                      Website shall not be held responsible for any loss, damage or
+                      misuse of the information provided by You.
+                    parent: 137
+                    props: {}
+                  childrenids: [138]
+                  h: 88.0
+                  localName: p
+                  nodeId: 137
+                  nodeName: P
+                  nodeType: 1
+                  nodeValue: ''
+                  parent: 82
+                  props: {}
+                  value: ''
+                  w: 350.65625
+                  x: 30.671875
+                  y: 3916.0
+                - &id091
+                  attributes: []
+                  backendNodeId: 775
+                  childNodeCount: 1
+                  children:
+                  - &id092
+                    backendNodeId: 776
+                    childrenids: []
+                    localName: ''
+                    nodeId: 140
+                    nodeName: '#text'
+                    nodeType: 3
+                    nodeValue: 1.22. When you download or use Jabong mobile apps,
+                      we may receive information about your location and your mobile
+                      device, including a unique identifier for your device. We may
+                      use this information to provide you with location-based services,
+                      such as advertising, search results, and other personalized
+                      content. You can also turn off the location services using your
+                      mobile phone settings.
+                    parent: 139
+                    props: {}
+                  childrenids: [140]
+                  h: 198.0
+                  localName: p
+                  nodeId: 139
+                  nodeName: P
+                  nodeType: 1
+                  nodeValue: ''
+                  parent: 82
+                  props: {}
+                  value: ''
+                  w: 350.65625
+                  x: 30.671875
+                  y: 4032.0
+                - &id093
+                  attributes: []
+                  backendNodeId: 777
+                  childNodeCount: 1
+                  children:
+                  - &id094
+                    backendNodeId: 778
+                    childrenids: []
+                    localName: ''
+                    nodeId: 142
+                    nodeName: '#text'
+                    nodeType: 3
+                    nodeValue: 1.23. When you download or use Jabong mobile apps,
+                      we also collect various device specific details like Device
+                      ID, Device Contacts, and Device Accounts including third-party
+                      accounts or MAC-address. This data is used to resolve technical
+                      difficulties and to provide you with the correct and most recent
+                      version of our mobile apps.
+                    parent: 141
+                    props: {}
+                  childrenids: [142]
+                  h: 154.0
+                  localName: p
+                  nodeId: 141
+                  nodeName: P
+                  nodeType: 1
+                  nodeValue: ''
+                  parent: 82
+                  props: {}
+                  value: ''
+                  w: 350.65625
+                  x: 30.671875
+                  y: 4258.0
+                - &id095
+                  attributes: []
+                  backendNodeId: 779
+                  childNodeCount: 1
+                  children:
+                  - &id096
+                    backendNodeId: 780
+                    childrenids: []
+                    localName: ''
+                    nodeId: 144
+                    nodeName: '#text'
+                    nodeType: 3
+                    nodeValue: 1.24. We store small text files called Cookies in your
+                      device in order to enable various features of our apps. They
+                      are used to store user preferences and trends which can be used
+                      to improve user experience. Settings can be changed to accept
+                      or not accept Cookies in your browser settings. If you do accept
+                      a Cookie, you thereby agree to our use of any information collected
+                      by us through that Cookie. Any such information collected will
+                      only be used for improving the website experience.
+                    parent: 143
+                    props: {}
+                  childrenids: [144]
+                  h: 220.0
+                  localName: p
+                  nodeId: 143
+                  nodeName: P
+                  nodeType: 1
+                  nodeValue: ''
+                  parent: 82
+                  props: {}
+                  value: ''
+                  w: 350.65625
+                  x: 30.671875
+                  y: 4440.0
+                childrenids: [83, 85, 87, 92, 94, 98, 100, 102, 104, 106, 108, 110,
+                  112, 114, 116, 118, 120, 122, 124, 129, 131, 133, 135, 137, 139,
+                  141, 143]
+                h: 4414.0
+                localName: div
+                nodeId: 82
+                nodeName: DIV
+                nodeType: 1
+                nodeValue: ''
+                parent: 62
+                props: {class: content-wrapper select}
+                value: ''
+                w: 350.65625
+                x: 30.671875
+                y: 246.0
+              - &id097
+                backendNodeId: 781
+                childrenids: []
+                localName: ''
+                nodeId: 145
+                nodeName: '#comment'
+                nodeType: 8
+                nodeValue: ' jabong trems and condition start here.'
+                parent: 62
+                props: {}
+              - &id098
+                attributes: [href, /terms_and_conditions, class, common-heading]
+                backendNodeId: 782
+                childNodeCount: 3
+                children:
+                - &id099
+                  attributes: [class, yellow-line]
+                  backendNodeId: 783
+                  childNodeCount: 0
+                  children: []
+                  childrenids: []
+                  h: 0.0
+                  localName: span
+                  nodeId: 147
+                  nodeName: SPAN
+                  nodeType: 1
+                  nodeValue: ''
+                  parent: 146
+                  props: {class: yellow-line}
+                  value: ''
+                  w: 0.0
+                  x: 0.0
+                  y: 0.0
+                - &id100
+                  backendNodeId: 784
+                  childrenids: []
+                  localName: ''
+                  nodeId: 148
+                  nodeName: '#text'
+                  nodeType: 3
+                  nodeValue: 'terms and conditions  '
+                  parent: 146
+                  props: {}
+                - &id101
+                  attributes: [class, arrow extra-sprite]
+                  backendNodeId: 785
+                  childNodeCount: 0
+                  children: []
+                  childrenids: []
+                  h: 15.0
+                  localName: span
+                  nodeId: 149
+                  nodeName: SPAN
+                  nodeType: 1
+                  nodeValue: ''
+                  parent: 146
+                  props: {class: arrow extra-sprite}
+                  value: ''
+                  w: 15.0
+                  x: 366.578125
+                  y: 4711.0
+                childrenids: [147, 148, 149]
+                h: 62.0
+                localName: a
+                nodeId: 146
+                nodeName: A
+                nodeType: 1
+                nodeValue: ''
+                parent: 62
+                props: {class: common-heading, href: /terms_and_conditions}
+                value: ''
+                w: 381.15625
+                x: 15.421875
+                y: 4688.0
+              - &id102
+                attributes: [class, content-wrapper]
+                backendNodeId: 786
+                childNodeCount: 1
+                children:
+                - &id103
+                  backendNodeId: 787
+                  childrenids: []
+                  localName: ''
+                  nodeId: 151
+                  nodeName: '#text'
+                  nodeType: 3
+                  nodeValue: terms and conditions
+                  parent: 150
+                  props: {}
+                childrenids: [151]
+                h: 0.0
+                localName: div
+                nodeId: 150
+                nodeName: DIV
+                nodeType: 1
+                nodeValue: ''
+                parent: 62
+                props: {class: content-wrapper}
+                value: ''
+                w: 0.0
+                x: 0.0
+                y: 0.0
+              - &id104
+                backendNodeId: 788
+                childrenids: []
+                localName: ''
+                nodeId: 152
+                nodeName: '#comment'
+                nodeType: 8
+                nodeValue: ' jabong vendors code of conduct start here.'
+                parent: 62
+                props: {}
+              - &id105
+                attributes: [href, /vendor-code-conduct, class, common-heading]
+                backendNodeId: 789
+                childNodeCount: 3
+                children:
+                - &id106
+                  attributes: [class, yellow-line]
+                  backendNodeId: 790
+                  childNodeCount: 0
+                  children: []
+                  childrenids: []
+                  h: 0.0
+                  localName: span
+                  nodeId: 154
+                  nodeName: SPAN
+                  nodeType: 1
+                  nodeValue: ''
+                  parent: 153
+                  props: {class: yellow-line}
+                  value: ''
+                  w: 0.0
+                  x: 0.0
+                  y: 0.0
+                - &id107
+                  backendNodeId: 791
+                  childrenids: []
+                  localName: ''
+                  nodeId: 155
+                  nodeName: '#text'
+                  nodeType: 3
+                  nodeValue: 'vendors code of conduct  '
+                  parent: 153
+                  props: {}
+                - &id108
+                  attributes: [class, arrow extra-sprite]
+                  backendNodeId: 792
+                  childNodeCount: 0
+                  children: []
+                  childrenids: []
+                  h: 15.0
+                  localName: span
+                  nodeId: 156
+                  nodeName: SPAN
+                  nodeType: 1
+                  nodeValue: ''
+                  parent: 153
+                  props: {class: arrow extra-sprite}
+                  value: ''
+                  w: 15.0
+                  x: 366.578125
+                  y: 4773.0
+                childrenids: [154, 155, 156]
+                h: 62.0
+                localName: a
+                nodeId: 153
+                nodeName: A
+                nodeType: 1
+                nodeValue: ''
+                parent: 62
+                props: {class: common-heading, href: /vendor-code-conduct}
+                value: ''
+                w: 381.15625
+                x: 15.421875
+                y: 4750.0
+              - &id109
+                attributes: [class, content-wrapper]
+                backendNodeId: 793
+                childNodeCount: 1
+                children:
+                - &id110
+                  backendNodeId: 794
+                  childrenids: []
+                  localName: ''
+                  nodeId: 158
+                  nodeName: '#text'
+                  nodeType: 3
+                  nodeValue: vendors code of conduct
+                  parent: 157
+                  props: {}
+                childrenids: [158]
+                h: 0.0
+                localName: div
+                nodeId: 157
+                nodeName: DIV
+                nodeType: 1
+                nodeValue: ''
+                parent: 62
+                props: {class: content-wrapper}
+                value: ''
+                w: 0.0
+                x: 0.0
+                y: 0.0
+              - &id111
+                backendNodeId: 795
+                childrenids: []
+                localName: ''
+                nodeId: 159
+                nodeName: '#comment'
+                nodeType: 8
+                nodeValue: ' jabong Offers Terms and Conditions start here.'
+                parent: 62
+                props: {}
+              - &id112
+                attributes: [href, /offers-terms-and-conditions, class, common-heading]
+                backendNodeId: 796
+                childNodeCount: 3
+                children:
+                - &id113
+                  attributes: [class, yellow-line]
+                  backendNodeId: 797
+                  childNodeCount: 0
+                  children: []
+                  childrenids: []
+                  h: 0.0
+                  localName: span
+                  nodeId: 161
+                  nodeName: SPAN
+                  nodeType: 1
+                  nodeValue: ''
+                  parent: 160
+                  props: {class: yellow-line}
+                  value: ''
+                  w: 0.0
+                  x: 0.0
+                  y: 0.0
+                - &id114
+                  backendNodeId: 798
+                  childrenids: []
+                  localName: ''
+                  nodeId: 162
+                  nodeName: '#text'
+                  nodeType: 3
+                  nodeValue: 'Offers Terms and Conditions  '
+                  parent: 160
+                  props: {}
+                - &id115
+                  attributes: [class, arrow extra-sprite]
+                  backendNodeId: 799
+                  childNodeCount: 0
+                  children: []
+                  childrenids: []
+                  h: 15.0
+                  localName: span
+                  nodeId: 163
+                  nodeName: SPAN
+                  nodeType: 1
+                  nodeValue: ''
+                  parent: 160
+                  props: {class: arrow extra-sprite}
+                  value: ''
+                  w: 15.0
+                  x: 366.578125
+                  y: 4835.0
+                childrenids: [161, 162, 163]
+                h: 62.0
+                localName: a
+                nodeId: 160
+                nodeName: A
+                nodeType: 1
+                nodeValue: ''
+                parent: 62
+                props: {class: common-heading, href: /offers-terms-and-conditions}
+                value: ''
+                w: 381.15625
+                x: 15.421875
+                y: 4812.0
+              - &id116
+                attributes: [class, content-wrapper]
+                backendNodeId: 800
+                childNodeCount: 1
+                children:
+                - &id117
+                  backendNodeId: 801
+                  childrenids: []
+                  localName: ''
+                  nodeId: 165
+                  nodeName: '#text'
+                  nodeType: 3
+                  nodeValue: Offers Terms and Conditions
+                  parent: 164
+                  props: {}
+                childrenids: [165]
+                h: 0.0
+                localName: div
+                nodeId: 164
+                nodeName: DIV
+                nodeType: 1
+                nodeValue: ''
+                parent: 62
+                props: {class: content-wrapper}
+                value: ''
+                w: 0.0
+                x: 0.0
+                y: 0.0
+              childrenids: [63, 64, 68, 70, 71, 75, 77, 78, 82, 145, 146, 150, 152,
+                153, 157, 159, 160, 164]
+              h: 4835.0
+              localName: div
+              nodeId: 62
+              nodeName: DIV
+              nodeType: 1
+              nodeValue: ''
+              parent: 61
+              props: {class: comman-wrapper privacy-policy}
+              value: ''
+              w: 383.15625
+              x: 14.421875
+              y: 40.0
+            childrenids: [62]
+            h: 4835.0
+            localName: section
+            nodeId: 61
+            nodeName: SECTION
+            nodeType: 1
+            nodeValue: ''
+            parent: 60
+            props: {class: main-content, data-view: cms, id: main, role: main}
+            value: ''
+            w: 412.0
+            x: 0.0
+            y: 40.0
+          childrenids: [61]
+          h: 4835.0
+          localName: section
+          nodeId: 60
+          nodeName: SECTION
+          nodeType: 1
+          nodeValue: ''
+          parent: 59
+          props: {class: main-content, data-view: cms, id: main}
+          value: ''
+          w: 412.0
+          x: 0.0
+          y: 40.0
+        childrenids: [60]
+        h: 4835.0
+        localName: section
+        nodeId: 59
+        nodeName: SECTION
+        nodeType: 1
+        nodeValue: ''
+        parent: 10
+        props: {class: jabong-container, id: content-wrapper}
+        value: ''
+        w: 412.0
+        x: 0.0
+        y: 40.0
+      60: *id012
+      61: *id013
+      62: *id014
+      63: *id015
+      64: *id016
+      65: *id017
+      66: *id018
+      67: *id019
+      68: *id020
+      69: *id021
+      70: *id022
+      71: *id023
+      72: *id024
+      73: *id025
+      74: *id026
+      75: *id027
+      76: *id028
+      77: *id029
+      78: *id030
+      79: *id031
+      80: *id032
+      81: *id033
+      82: *id034
+      83: *id035
+      84: *id036
+      85: *id037
+      86: *id038
+      87: *id039
+      88: *id040
+      89: *id041
+      90: *id042
+      91: *id043
+      92: *id044
+      93: *id045
+      94: *id046
+      95: *id047
+      96: *id048
+      97: *id049
+      98: *id050
+      99: *id051
+      100: *id052
+      101: *id053
+      102: *id054
+      103: *id055
+      104: *id056
+      105: *id057
+      106: *id058
+      107: *id059
+      108: *id060
+      109: *id061
+      110: *id062
+      111: *id063
+      112: *id064
+      113: *id065
+      114: *id066
+      115: *id067
+      116: *id068
+      117: *id069
+      118: *id070
+      119: *id071
+      120: *id072
+      121: *id073
+      122: *id074
+      123: *id075
+      124: *id076
+      125: *id077
+      126: *id078
+      127: *id079
+      128: *id080
+      129: *id081
+      130: *id082
+      131: *id083
+      132: *id084
+      133: *id085
+      134: *id086
+      135: *id087
+      136: *id088
+      137: *id089
+      138: *id090
+      139: *id091
+      140: *id092
+      141: *id093
+      142: *id094
+      143: *id095
+      144: *id096
+      145: *id097
+      146: *id098
+      147: *id099
+      148: *id100
+      149: *id101
+      150: *id102
+      151: *id103
+      152: *id104
+      153: *id105
+      154: *id106
+      155: *id107
+      156: *id108
+      157: *id109
+      158: *id110
+      159: *id111
+      160: *id112
+      161: *id113
+      162: *id114
+      163: *id115
+      164: *id116
+      165: *id117
+      166:
+        attributes: [type, text/javascript]
+        backendNodeId: 802
+        childNodeCount: 1
+        children:
+        - {backendNodeId: 803, localName: '', nodeId: 167, nodeName: '#text', nodeType: 3,
+          nodeValue: 'var JABONG = window.JABONG || {} ;JABONG.User = {"id_customer":"","first_name":"","gender":"","store_credits_available":"","giftcard_credits_available":"","order_count":"","isUser":"","total_store_credits":"","address":[]};'}
+        childrenids: []
+        localName: script
+        nodeId: 166
+        nodeName: SCRIPT
+        nodeType: 1
+        nodeValue: ''
+        parent: 10
+        props: {type: text/javascript}
+      168:
+        attributes: [class, link, href, 'https://ad.doubleclick.net/ddm/jump/N7304.889084.JABONG.COM/B8796043.121840956;sz=800x470;ord=[timestamp]?']
+        backendNodeId: 804
+        childNodeCount: 1
+        children:
+        - &id118
+          attributes: []
+          backendNodeId: 805
+          childNodeCount: 1
+          children:
+          - &id119
+            backendNodeId: 806
+            childrenids: []
+            localName: ''
+            nodeId: 170
+            nodeName: '#text'
+            nodeType: 3
+            nodeValue: "\_"
+            parent: 169
+            props: {}
+          childrenids: [170]
+          h: 17.0
+          localName: span
+          nodeId: 169
+          nodeName: SPAN
+          nodeType: 1
+          nodeValue: ''
+          parent: 168
+          props: {}
+          value: ''
+          w: 3.359375
+          x: 0.0
+          y: 4906.0
+        childrenids: [169]
+        h: 17.0
+        localName: a
+        nodeId: 168
+        nodeName: A
+        nodeType: 1
+        nodeValue: ''
+        parent: 10
+        props: {class: link, href: 'https://ad.doubleclick.net/ddm/jump/N7304.889084.JABONG.COM/B8796043.121840956;sz=800x470;ord=[timestamp]?'}
+        value: ''
+        w: 3.359375
+        x: 0.0
+        y: 4906.0
+      169: *id118
+      170: *id119
+      171:
+        attributes: [id, staticImageUrl, data-static-url, 'https://static1.jabong.com']
+        backendNodeId: 807
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        h: 17.0
+        localName: span
+        nodeId: 171
+        nodeName: SPAN
+        nodeType: 1
+        nodeValue: ''
+        parent: 10
+        props: {data-static-url: 'https://static1.jabong.com', id: staticImageUrl}
+        value: ''
+        w: 0.0
+        x: 3.359375
+        y: 4906.0
+      172:
+        attributes: [type, text/javascript, id, '']
+        backendNodeId: 808
+        childNodeCount: 1
+        children:
+        - {backendNodeId: 809, localName: '', nodeId: 173, nodeName: '#text', nodeType: 3,
+          nodeValue: '(function(a){if("undefined"!==typeof a)a(document.body).on("shown.bs.modal",function(b){try{if("signin"===b.target.id&&("catalog"===a("#main").data("view")||"pdp"===a("#main").data("view"))){var
+            c=a("#"+b.target.id).find("input[name\x3d''_csrf'']").val();c&&a("input[name\x3d''_csrf'']").val(c)}}catch(d){}})})(window.jQuery);'}
+        childrenids: []
+        localName: script
+        nodeId: 172
+        nodeName: SCRIPT
+        nodeType: 1
+        nodeValue: ''
+        parent: 10
+        props: {id: '', type: text/javascript}
+      174:
+        attributes: [style, 'display: none; visibility: hidden;']
+        backendNodeId: 810
+        childNodeCount: 1
+        children:
+        - &id120
+          attributes: [type, text/javascript]
+          backendNodeId: 811
+          childNodeCount: 1
+          children:
+          - {backendNodeId: 812, localName: '', nodeId: 176, nodeName: '#text', nodeType: 3,
+            nodeValue: 'var tpuEnabled=1,pageTypeVal=getGlobalConfigVar("globalConfig.pagetype");function
+              getUrlParameters(b){b=b.split("+").join(" ");for(var c={},a,d=/[?&]?([^=]+)=([^&]*)/g;a=d.exec(b);)c[decodeURIComponent(a[1])]=decodeURIComponent(a[2]);return
+              c}function loadScript(b){$.getScript(b)}
+
+              function loadImages(b,c,a,d){if("undefined"!==typeof jQuery){"undefined"===typeof
+              d&&(d="img");var e="";switch(c){case "class":e="."+b;break;case "tag":e=b;break;default:e="#"+b}if($(e).length){if("undefined"===typeof
+              a||""==a)a="data-src";$(e+" "+d+"["+a+"]").each(function(){var b=$(this);b.attr(a)&&(b.attr("src",b.attr(a)),b.removeAttr(a))})}}}loadImages("body","tag","data-src-onload","iframe");function
+              getGlobalConfigVar(b){var c="";try{c=eval(b)}catch(a){}return c}
+
+              function getParammeterArray(b){for(x in b)if("string"==typeof b[x]){var
+              c=b[x].match(/\*\*(.*?)\*\*/g);for(i in c)if($.isNumeric(i)&&0==c[i].indexOf("**globalConfig.")){var
+              a=c[i].substr(2,c[i].length-4);try{var d=eval(a);b[x]="undefined"!=typeof
+              d?b[x].replace(c[i],d):b[x].replace(c[i],"")}catch(e){console.log(c[i])}}}return
+              b}function buildQueryString(b){getParammeterArray(b);var c="";for(x
+              in b)c+="\x26"+x+"\x3d"+b[x];return c}
+
+              function getCookie(b){var c,a=document.cookie.split(";");for(c=0;c<a.length;c++){var
+              d=a[c].substr(0,a[c].indexOf("\x3d"));var e=a[c].substr(a[c].indexOf("\x3d")+1);d=d.replace(/^\s+|\s+$/g,"");if(d==b)return
+              unescape(e)}}function readCookie(b){b+="\x3d";for(var c=document.cookie.split(";"),a=0;a<c.length;a++){for(var
+              d=c[a];" "==d.charAt(0);)d=d.substring(1,d.length);if(0==d.indexOf(b))return
+              d.substring(b.length,d.length)}return""}
+
+              setCookie=function(b,c,a){if(a){var d=new Date;d.setTime(d.getTime()+864E5*a);a=";
+              expires\x3d"+d.toGMTString()}else a="";document.cookie=b+"\x3d"+c+a+";
+              path\x3d/"};
+
+              function handleReferrerCookie(){try{var b=location.protocol+"//",c=b.concat(window.location.hostname)+"/";var
+              a=getUrlParameters(document.location.search);0===Object.keys(a).length&&(a=getUrlParameters(document.location.href));b="";if("undefined"!=typeof
+              document.referrer||""!=document.referrer){var d=document.createElement("a");d.href=document.referrer;b=d.protocol+"//"+d.host+"/"}var
+              e="undefined"!=typeof b?b.search(/www.google/i):-1,f="undefined"!=typeof
+              a.gclid?!0:!1,g="undefined"!=typeof a.utm_source?
+
+              a.utm_source:"",h="undefined"!=typeof a.utm_campaign?a.utm_campaign:"",k="undefined"!=typeof
+              a.utm_content?a.utm_content:"",l="undefined"!=typeof a.clickid?a.clickid:"",m="undefined"!=typeof
+              a.utm_medium?a.utm_medium:"";""!==m&&setCookie("utm_medium",m,{expires:30,path:"/"});""!=l&&setCookie("dgm_clickId",l,30);""!=h&&setCookie("utmCampaign",h,30);""!=k&&setCookie("aff_sub",k,30);a="";""!=g?a=g:"undefined"!=typeof
+              b&-1!=e?a=f?"sem":"seo":f?a="gdn":""!=b&&b!=c||getCookie("referrer")||(a="direct");
+
+              ""!=a&&setCookie("referrer",a,30);var n="undefined"!=typeof globalConfig.pagetype?globalConfig.pagetype:"";if("success"==n){var
+              p="undefined"!=typeof globalConfig.customerType?globalConfig.customerType:"";setCookie("customertype",p,90)}}catch(q){}}tpuEnabled&&handleReferrerCookie();'}
+          childrenids: []
+          localName: script
+          nodeId: 175
+          nodeName: SCRIPT
+          nodeType: 1
+          nodeValue: ''
+          parent: 174
+          props: {type: text/javascript}
+        childrenids: [175]
+        h: 0.0
+        localName: div
+        nodeId: 174
+        nodeName: DIV
+        nodeType: 1
+        nodeValue: ''
+        parent: 10
+        props: {style: 'display: none; visibility: hidden;'}
+        value: ''
+        w: 0.0
+        x: 0.0
+        y: 0.0
+      175: *id120
+      177:
+        attributes: [type, text/javascript, id, '']
+        backendNodeId: 813
+        childNodeCount: 1
+        children:
+        - {backendNodeId: 814, localName: '', nodeId: 178, nodeName: '#text', nodeType: 3,
+          nodeValue: 'var glC=globalConfig||{};
+
+            function criteo_pixel(){if("undefined"!==typeof glC&&glC.hasOwnProperty("pagetype")){switch(glC.pagetype){case
+            "homepage":case "segment":var a={event:"viewHome"};break;case "catalog":a={event:"viewList",item:glC.items,keywords:glC.keywords,email_encripted:d};break;case
+            "product_details":var d=glC.customer.email_encrypted||"";a={event:"viewItem",item:glC.product.id,email_encripted:d};break;case
+            "cart":var c=[];basketList=glC.basketVar;if("undefined"!=typeof basketList)for(var
+            b in basketList)c[c.length]={id:basketList[b].identifier,
+
+            price:basketList[b].amount,quantity:basketList[b].quantity};a={event:"viewBasket",item:c};break;case
+            "success":c=[];d=glC.customer.email_encrypted||"";basketList=glC.basketVar;if("undefined"!=typeof
+            basketList)for(b in basketList)c[c.length]={id:basketList[b].identifier,price:basketList[b].amount,quantity:basketList[b].quantity,email_encripted:d};b=readCookie("referrer");a={event:"trackTransaction",id:glC.transaction.order_id,new_customer:glC.isNewCustomer,item:c,email_encripted:d,deduplication:0<=
+
+            b.indexOf("criteo")?1:0};break;case "product_quickview":a={event:"viewItem",item:glC.product.id}}customerId="undefined"!==typeof
+            glC.identifier?glC.identifier:"";a&&(d=glC.customer.email_encrypted||"",$.getScript("//static.criteo.net/js/ld/ld.js",function(c,b,e){window.criteo_q=window.criteo_q||[];window.criteo_q.push({event:"setAccount",account:11501},{event:"setHashedEmail",email:d},{event:"setCustomerId",id:customerId},{event:"setSiteType",type:"d"},a)}),"mobile"==glC.device&&$.getScript("//static.criteo.net/js/ld/ld.js",
+
+            function(c,b,d){window.criteo_q=window.criteo_q||[];window.criteo_q.push({event:"setAccount",account:15156},{event:"setCustomerId",id:customerId},{event:"setSiteType",type:"d"},a)}))}}
+
+            function vizuryPixel(){try{window.vizLayer={};switch(glC.pagetype){case
+            "product_details":vizLayer={type:"product_page",pid:"undefined"!==typeof
+            glC.product.id?glC.product.id:"",pname:"undefined"!==typeof glC.product.name?glC.product.name:"",lp:"undefined"!==typeof
+            glC.product.url?glC.product.url:"",image:"undefined"!==typeof glC.product.image?glC.product.image:"",availability:"undefined"!==typeof
+            glC.product.availability?glC.product.availability:"",currency:"INR",newprice:"undefined"!==typeof
+            glC.product.price?
+
+            glC.product.price:"",oldprice:"undefined"!==typeof glC.product.listPrice?glC.product.listPrice:"",catid:"undefined"!==typeof
+            glC.product.rDetails.catId?glC.product.rDetails.catId:"",catname:"undefined"!==typeof
+            glC.product.rDetails.cat?glC.product.rDetails.cat:"",subcatid:"undefined"!==typeof
+            glC.product.subcategoryId?glC.product.subcategoryId:"",subcatname:"undefined"!==typeof
+            glC.product.subcategory?glC.product.subcategory:"",subsubcatid:"undefined"!==typeof
+            glC.product.rDetails.brickId?glC.product.rDetails.brickId:
+
+            "",subsubcatname:"undefined"!==typeof glC.product.rDetails.brick?glC.product.rDetails.brick:"",pdesc:"undefined"!==typeof
+            glC.product.description?glC.product.description:"",brand:"undefined"!==typeof
+            glC.product.rDetails.brand?glC.product.rDetails.brand:"",color:"color",prodrating:"color",numratings:"color",customer_type:"undefined"!==typeof
+            glC.customertype?glC.customertype:""};break;case "catalog":vizLayer={type:"category_page",catid:glC.productCategories[0],subcatid:glC.productCategories[1],subsubcatid:glC.productCategories[2]};
+
+            break;case "cart":glC.basketVar.sort(function(a,b){return b.amount-a.amount});vizLayer={type:"shopping_cart",currency:"INR",cartval:"undefined"!==typeof
+            glC.ordervalue?glC.ordervalue:"",pid1:"undefined"!==typeof glC.basketVar[0]?glC.basketVar[0].identifier:"",catid1:"undefined"!==typeof
+            glC.basketVar[0]?glC.basketVar[0].categoryId:"",price1:"undefined"!==typeof
+            glC.basketVar[0]?glC.basketVar[0].amount:"",quantity1:"undefined"!==typeof
+            glC.basketVar[0]?glC.basketVar[0].quantity:"",pid2:"undefined"!==
+
+            typeof glC.basketVar[1]?glC.basketVar[1].identifier:"",catid2:"undefined"!==typeof
+            glC.basketVar[1]?glC.basketVar[1].categoryId:"",price2:"undefined"!==typeof
+            glC.basketVar[1]?glC.basketVar[1].amount:"",quantity2:"undefined"!==typeof
+            glC.basketVar[1]?glC.basketVar[1].quantity:"",pid3:"undefined"!==typeof
+            glC.basketVar[2]?glC.basketVar[2].identifier:"",catid3:"undefined"!==typeof
+            glC.basketVar[2]?glC.basketVar[2].categoryId:"",price3:"undefined"!==typeof
+            glC.basketVar[2]?glC.basketVar[2].amount:"",
+
+            quantity3:"undefined"!==typeof glC.basketVar[2]?glC.basketVar[2].quantity:"",customer_type:"undefined"!==typeof
+            glC.customertype?glC.customertype:""};break;case "success":vizLayer={type:"thank_you",orderid:"undefined"!==typeof
+            glC.transaction.orderNumber?glC.transaction.orderNumber:"",orderprice:"undefined"!==typeof
+            glC.transaction.totalPrice?glC.transaction.totalPrice:"",currency:"INR",pid1:"undefined"!==typeof
+            glC.basketVar[0]?glC.basketVar[0].identifier:"",catid1:"undefined"!==typeof
+            glC.basketVar[0]?
+
+            glC.basketVar[0].categoryId:"",price1:"undefined"!==typeof glC.basketVar[0]?glC.basketVar[0].amount:"",quantity1:"undefined"!==typeof
+            glC.basketVar[0]?glC.basketVar[0].quantity:"",pid2:"undefined"!==typeof
+            glC.basketVar[1]?glC.basketVar[1].identifier:"",catid2:"undefined"!==typeof
+            glC.basketVar[1]?glC.basketVar[1].categoryId:"",price2:"undefined"!==typeof
+            glC.basketVar[1]?glC.basketVar[1].amount:"",quantity2:"undefined"!==typeof
+            glC.basketVar[1]?glC.basketVar[1].quantity:"",pid3:"undefined"!==typeof
+            glC.basketVar[2]?
+
+            glC.basketVar[2].identifier:"",catid3:"undefined"!==typeof glC.basketVar[2]?glC.basketVar[2].categoryId:"",price3:"undefined"!==typeof
+            glC.basketVar[2]?glC.basketVar[2].amount:"",quantity3:"undefined"!==typeof
+            glC.basketVar[2]?glC.basketVar[2].quantity:"",customer_type:"undefined"!==typeof
+            glC.customerType?glC.customerType:""};break;case "homepage":vizLayer={type:"home_page"};break;default:vizLayer={type:"other_page"}}var
+            a=document.createElement("script");a.type="text/javascript";a.async=!0;a.src=
+
+            ("https:"==document.location.protocol?"https://in-tags.vizury.com":"http://in-tags.vizury.com")+"/analyze/pixel.php?account_id\x3dVIZVRM4273";var
+            d=document.getElementsByTagName("script")[0];d.parentNode.insertBefore(a,d);a.onload=function(){try{pixel.parse()}catch(c){}};a.onreadystatechange=function(){if("complete"==a.readyState||"loaded"==a.readyState)try{pixel.parse()}catch(c){}}}catch(c){}}var
+            src=("https:"==location.protocol?"https://s.yimg.com":"http://d.yimg.com")+"/wi/ytc.js";criteo_pixel();
+
+            var cookieValNew=readCookie("referrer");"checkout"!==glC.pagetype&&vizuryPixel();'}
+        childrenids: []
+        localName: script
+        nodeId: 177
+        nodeName: SCRIPT
+        nodeType: 1
+        nodeValue: ''
+        parent: 10
+        props: {id: '', type: text/javascript}
+      179:
+        attributes: [type, text/javascript, id, '']
+        backendNodeId: 815
+        childNodeCount: 1
+        children:
+        - {backendNodeId: 816, localName: '', nodeId: 180, nodeName: '#text', nodeType: 3,
+          nodeValue: 'var customData,tpuEnabled=1,glC=globalConfig||{},traffic_source=getGlobalConfigVar("globalConfig.trafficSource");if(traffic_source){var
+            levelArr={seo_brand:1,sem_brand:1,seo_nonbrand:2,sem_nonbrand:2,external_display:3,external_fbpaid:3,external_thirdpartyemail:3,direct:4,crm_newsletter:5,loggedin_seo_sem:6,gdn:7,retargeting:8,affiliate:8,social_media:9,internal_search:11,special_promo:12};levelArr[traffic_source]&&setCookie("level",levelArr[traffic_source],30)}
+
+            try{var pageType="undefined"!=typeof glC.pagetype?glC.pagetype:"",fbUserData={Stage:pageType,"logged-in":"undefined"!=typeof
+            glC.customertype&&"new"==glC.customertype?0:1,Device:"Desktop",OS:"undefined"!=typeof
+            glC.osType?glC.osType:""};"catalog"==pageType?customData={gender:"undefined"!=typeof
+            glC.gender?glC.gender:"NULL",category:"undefined"!==typeof glC.page.category?glC.page.category:"NULL",subcategory:"undefined"!==typeof
+            glC.page.subcategory?glC.page.subcategory:"NULL",brand:"undefined"!==typeof
+            glC.brand?
+
+            glC.brand:""}:"product_details"==pageType?customData={gender:"undefined"!=typeof
+            glC.product.gender?glC.product.gender:"",category:"undefined"!==typeof
+            glC.product.category?glC.product.category:"",subcategory:"undefined"!==typeof
+            glC.product.subcategory?glC.product.subcategory:"",brand:"undefined"!==typeof
+            glC.product.brand?glC.product.brand:"",price:"undefined"!==typeof glC.product.rDetails.price?glC.product.rDetails.price:"",discount:"undefined"!==typeof
+            glC.product.discount?glC.product.discount:
+
+            ""}:"cart"==pageType&&(customData={cart_value:"undefined"!=typeof glC.ordervalue?parseInt(glC.ordervalue):"",implied_category:"undefined"!==typeof
+            glC.category?glC.category:"",implied_brand:"undefined"!=typeof glC.mostimpbrand?glC.mostimpbrand:""});$.extend(fbUserData,customData);(function(){!function(a,b,c,e,d,f,g){a.fbq||(d=a.fbq=function(){d.callMethod?d.callMethod.apply(d,arguments):d.queue.push(arguments)},a._fbq||(a._fbq=d),d.push=d,d.loaded=!0,d.version="2.0",d.queue=[],f=b.createElement(c),
+
+            f.async=!0,f.src=e,g=b.getElementsByTagName(c)[0],g.parentNode.insertBefore(f,g))}(window,document,"script","//connect.facebook.net/en_US/fbevents.js");fbq("init","616471315093196")})();window._fbq=window._fbq||[];window._fbq.push(["track",pageType,fbUserData])}catch(a){}
+
+            function enricherPixel(a){var b="//jabong.enr-api.m-bazaar.in/?";latestCartItemSku=readCookie("latestCartItemSku");simpleSkuList="undefined"!=typeof
+            simpleSkuList?simpleSkuList:[];pdpSku=glC.product.sku_code;loadPixelFlag=!0;if("product_details"==a&&null!=pdpSku)b+="s\x3d"+pdpSku+"\x26flag\x3d0\x26url\x3d";else
+            if("cart"==a&&0<simpleSkuList.length){a=1;var c="/cart/addMulti/?skus\x3d"+simpleSkuList.join(",");null==latestCartItemSku&&(a=0,latestCartItemSku="");b+="s\x3d"+latestCartItemSku+"\x26flag\x3d"+
+
+            a;b+="\x26url\x3d"+c}else loadPixelFlag=!1;1==loadPixelFlag&&$("body").append(''\x3ciframe
+            src\x3d"''+b+''" width\x3d"0" height\x3d"0" frameborder\x3d"0"\x3e\x3c/iframe\x3e'')}var
+            qc_proto="http:"==window.location.protocol?"http":"https";function qc_create_cookie(a,b,c){if(c){var
+            e=new Date;e.setTime(e.getTime()+864E5*c);c="; expires\x3d"+e.toGMTString()}else
+            c="";document.cookie=a+"\x3d"+b+c+"; path\x3d/;"}
+
+            function qc_load_qc_pixel(a){var b=document.createElement("img"),c="";try{c=encodeURI(top.document.location.href||window.location.href)}catch(e){}b.src=qc_proto+"://affiliate.jabong.com/go.cgi?cpid\x3d1\x26clickid\x3d"+encodeURI(a)+"\x26wmid\x3dbcc\x26target\x3d"+encodeURI(document.location.href)+"\x26ref\x3d"+encodeURI(document.referrer)+"\x26top\x3d"+c;b.height=1;b.width=2;(document.getElementsByTagName("head")[0]||document.body).appendChild(b)}
+
+            if(location.hash){var qc_anchortags=location.hash.substr(1);if("Q"==qc_anchortags.substr(0,1)&&"product_quickview"!=pageTypeVal){var
+            qc_date=(new Date).getTime();qc_clickid=qc_date+"."+qc_anchortags+"."+Math.random().toString(36).substring(4);qc_create_cookie("referrer","network1",30);qc_create_cookie("qc_cid",qc_clickid,30);qc_load_qc_pixel(qc_clickid)}};'}
+        childrenids: []
+        localName: script
+        nodeId: 179
+        nodeName: SCRIPT
+        nodeType: 1
+        nodeValue: ''
+        parent: 10
+        props: {id: '', type: text/javascript}
+      181:
+        attributes: [type, text/javascript, id, '']
+        backendNodeId: 817
+        childNodeCount: 1
+        children:
+        - {backendNodeId: 818, localName: '', nodeId: 182, nodeName: '#text', nodeType: 3,
+          nodeValue: 'var tpuEnabled=1;
+
+            try{var sourceLevel=getCookie("level")?getCookie("level"):"",cartIds="";"cart"==globalConfig.pagetype&&(cartIds=globalConfig.basket.line_items[0].split(","));var
+            googleTagParams={cart:{page:"**globalConfig.pageRank**.cart",category:"**globalConfig.pageRank**.**globalConfig.category**",subcategory:""!=globalConfig.subcategory?"**globalConfig.pageRank**.**globalConfig.subcategory**":"",prodid:cartIds,brand:"",gender:"",customertype:"**globalConfig.pageRank**.**globalConfig.customertype**",price:"",
+
+            mostimpbrand:"**globalConfig.pageRank**.**globalConfig.mostimpbrand**",ordervalue:"**globalConfig.ordervalue**",impliedgender:"**globalConfig.pageRank**.**globalConfig.impliedgender**",source:sourceLevel},catalog:{page:"**globalConfig.pageRank**.**globalConfig.pageName**",category:"**globalConfig.pageRank**.**globalConfig.page.category**",subcategory:globalConfig.page&&""!=globalConfig.page.subcategory?"**globalConfig.pageRank**.**globalConfig.page.subcategory**":"",prodid:"",brand:"**globalConfig.pageRank**.**globalConfig.brand**",
+
+            gender:"**globalConfig.pageRank**.**globalConfig.gender**",customertype:"**globalConfig.pageRank**.**globalConfig.customertype**",price:"",mostimpbrand:"",ordervalue:"",impliedgender:"",source:sourceLevel},homepage:{page:"**globalConfig.pageRank**.homepage",category:"",subcategory:"",prodid:"",brand:"",gender:"",customertype:"**globalConfig.pageRank**.**globalConfig.customertype**",price:"",mostimpbrand:"",ordervalue:"",impliedgender:"",source:sourceLevel},checkout:{page:"**globalConfig.pageRank**.checkout",
+
+            category:"**globalConfig.pageRank**.**globalConfig.category**",subcategory:""!=globalConfig.subcategory?"**globalConfig.pageRank**.**globalConfig.subcategory**":"",prodid:"",brand:"",gender:"",customertype:"**globalConfig.pageRank**.**globalConfig.customertype**",price:"",mostimpbrand:"**globalConfig.pageRank**.**globalConfig.brand**",ordervalue:"**globalConfig.ordervalue**",impliedgender:"**globalConfig.pageRank**.**globalConfig.gender**",source:sourceLevel},product_details:{page:"**globalConfig.pageRank**.product",
+
+            category:"**globalConfig.pageRank**.**globalConfig.product.category**",subcategory:globalConfig.product&&""!=globalConfig.product.subcategory?"**globalConfig.pageRank**.**globalConfig.product.subcategory**":"",prodid:"**globalConfig.product.id**",brand:"**globalConfig.pageRank**.**globalConfig.product.brand**",gender:"**globalConfig.pageRank**.**globalConfig.product.gender**",customertype:"**globalConfig.pageRank**.**globalConfig.customertype**",price:"**globalConfig.product.price**",mostimpbrand:"",
+
+            ordervalue:"",impliedgender:"",source:sourceLevel},product_quickview:{page:"**globalConfig.pageRank**.product",category:"**globalConfig.pageRank**.**globalConfig.product.category**",subcategory:globalConfig.product&&""!=globalConfig.product.subcategory?"**globalConfig.pageRank**.**globalConfig.product.subcategory**":"",prodid:"**globalConfig.product.id**",brand:"**globalConfig.pageRank**.**globalConfig.product.brand**",gender:"**globalConfig.pageRank**.**globalConfig.product.gender**",customertype:"**globalConfig.pageRank**.**globalConfig.customertype**",
+
+            price:"**globalConfig.product.price**",mostimpbrand:"",ordervalue:"",impliedgender:"",source:sourceLevel},segment:{page:"**globalConfig.pageRank**.**globalConfig.pageName**",category:"**globalConfig.pageRank**.**globalConfig.category**",subcategory:""!=globalConfig.subcategory?"**globalConfig.pageRank**.**globalConfig.subcategory**":"",prodid:"",brand:"**globalConfig.pageRank**.**globalConfig.brand**",gender:"**globalConfig.pageRank**.**globalConfig.gender**",customertype:"**globalConfig.pageRank**.**globalConfig.customertype**",
+
+            price:"",mostimpbrand:"",ordervalue:"",impliedgender:"",source:sourceLevel},wishlist:{page:"**globalConfig.pageRank**.wishlist",category:"**globalConfig.pageRank**.**globalConfig.category**",subcategory:""!=globalConfig.subcategory?"**globalConfig.pageRank**.**globalConfig.subcategory**":"",prodid:"",brand:"",gender:"",customertype:"**globalConfig.pageRank**.**globalConfig.customertype**",price:"",mostimpbrand:"**globalConfig.pageRank**.**globalConfig.brand**",ordervalue:"**globalConfig.totalprice**",
+
+            impliedgender:"**globalConfig.pageRank**.**globalConfig.gender**",source:sourceLevel},success:{page:"**globalConfig.pageRank**.thank
+            you",category:"**globalConfig.pageRank**.**globalConfig.transaction.category**",subcategory:globalConfig.transaction&&""!=globalConfig.transaction.subcategory?"**globalConfig.pageRank**.**globalConfig.transaction.subcategory**":"",prodid:"",brand:"",gender:"",customertype:"**globalConfig.pageRank**.**globalConfig.customertype2**",price:"",mostimpbrand:"**globalConfig.pageRank**.**globalConfig.transaction.brand**",
+
+            ordervalue:"**globalConfig.transaction.total**",impliedgender:"**globalConfig.pageRank**.**globalConfig.transaction.gender**",source:sourceLevel}},google_custom_params={},google_tag_params={},google_remarketing_only=!0;if(window.jQuery&&"undefined"!==typeof
+            globalConfig&&globalConfig.hasOwnProperty("pagetype")&&googleTagParams[globalConfig.pagetype]){var
+            parameters=googleTagParams[globalConfig.pagetype];google_tag_params=google_custom_params=getParammeterArray(parameters);dataLayer.push({event:"fireRemarketingTag",
+
+            google_tag_params:google_custom_params})}}catch(a){};'}
+        childrenids: []
+        localName: script
+        nodeId: 181
+        nodeName: SCRIPT
+        nodeType: 1
+        nodeValue: ''
+        parent: 10
+        props: {id: '', type: text/javascript}
+      183:
+        attributes: [type, text/javascript, id, _webengage_script_tag]
+        backendNodeId: 819
+        childNodeCount: 1
+        children:
+        - {backendNodeId: 820, localName: '', nodeId: 184, nodeName: '#text', nodeType: 3,
+          nodeValue: 'var customerType="old";"new"==globalConfig.customertype&&(customerType="new");var
+            rtgsettings={};
+
+            if("homepage"===globalConfig.pagetype)rtgsettings={pdt_url:window.location.pathname,pagetype:"home",key:"NB",token:"Jabong_IN",layer:"iframe",ty_custype:customerType};else
+            if("catalog"===globalConfig.pagetype)rtgsettings={pdt_url:window.location.pathname,pdt_category_list:globalConfig.page.category,pagetype:"category",key:"NB",token:"Jabong_IN",layer:"iframe",ty_custype:customerType};else
+            if("cart"===globalConfig.pagetype){rtgsettings={pagetype:"basket",key:"NB",token:"Jabong_IN",layer:"iframe",pdt_sku:"",
+
+            ty_orderamt:""+globalConfig.ordervalue,ty_orderdate:""+Date.now(),ty_custype:customerType};for(var
+            i=0;i<globalConfig.basketVar.length;i++)rtgsettings.pdt_id&&(rtgsettings.pdt_id+="|"+globalConfig.basketVar[i].identifier,rtgsettings.pdt_category_list+="|"+globalConfig.basketVar[i].categoryId),rtgsettings.pdt_id=""+globalConfig.basketVar[i].identifier,rtgsettings.pdt_category_list=""+globalConfig.basketVar[i].categoryId;$("body").append(''\x3ciframe
+            src\x3d"https://www.remintrex.com/ceng/pub/c-remintrex.html?advertiserId\x3daxblvzlfzg-0971-EN\x26pageType\x3dbasket\x26productId\x3d''+
+
+            rtgsettings.pdt_id+"\x26category\x3d"+rtgsettings.pdt_category_list+"\x26totalamount\x3d"+globalConfig.ordervalue+''"
+            scrolling\x3d"no" frameborder\x3d"0" width\x3d"1" height\x3d"1"\x3e\x3c/iframe\x3e'')}else"product_details"===globalConfig.pagetype&&(rtgsettings={pagetype:"product",key:"NB",token:"Jabong_IN",layer:"iframe",pdt_id:""+globalConfig.product.id,pdt_sku:globalConfig.product.sku_code,pdt_name:globalConfig.product.name,pdt_price:""+globalConfig.product.price,pdt_amount:""+globalConfig.product.price,
+
+            pdt_currency:"INR",pdt_category_list:globalConfig.product.category,ty_custype:customerType});'}
+        childrenids: []
+        localName: script
+        nodeId: 183
+        nodeName: SCRIPT
+        nodeType: 1
+        nodeValue: ''
+        parent: 10
+        props: {id: _webengage_script_tag, type: text/javascript}
+      185:
+        attributes: [type, text/javascript, id, '']
+        backendNodeId: 821
+        childNodeCount: 1
+        children:
+        - {backendNodeId: 822, localName: '', nodeId: 186, nodeName: '#text', nodeType: 3,
+          nodeValue: 'var PixelGlobalConfig=globalConfig||{};'}
+        childrenids: []
+        localName: script
+        nodeId: 185
+        nodeName: SCRIPT
+        nodeType: 1
+        nodeValue: ''
+        parent: 10
+        props: {id: '', type: text/javascript}
+      187:
+        attributes: [type, text/javascript, id, '']
+        backendNodeId: 823
+        childNodeCount: 1
+        children:
+        - {backendNodeId: 824, localName: '', nodeId: 188, nodeName: '#text', nodeType: 3,
+          nodeValue: '(function(){function a(){if("undefined"!==typeof globalConfig){var
+            a=PixelGlobalConfig.identifier||PixelGlobalConfig.customerId||"",b=PixelGlobalConfig.customertype||PixelGlobalConfig.customerType,c="undefined"===typeof
+            PixelGlobalConfig.customer?"":PixelGlobalConfig.customer.email,d="undefined"===typeof
+            PixelGlobalConfig.customer?"":PixelGlobalConfig.customer.first_name,e="undefined"===typeof
+            PixelGlobalConfig.customer?"":PixelGlobalConfig.customer.last_name;blueshift.identify({customer_id:a,email:c,
+
+            joined_at:"",firstname:d,lastname:e,customer_type:b});clearInterval(f)}}var
+            f=setInterval(a,1E3)})();'}
+        childrenids: []
+        localName: script
+        nodeId: 187
+        nodeName: SCRIPT
+        nodeType: 1
+        nodeValue: ''
+        parent: 10
+        props: {id: '', type: text/javascript}
+      189:
+        attributes: [type, text/javascript, id, '']
+        backendNodeId: 825
+        childNodeCount: 1
+        children:
+        - {backendNodeId: 826, localName: '', nodeId: 190, nodeName: '#text', nodeType: 3,
+          nodeValue: 'window._blueshiftid="39a57c807f642ba0c2b04cce99ea9d77";window.blueshift=window.blueshift||[];blueshift.constructor===Array&&(blueshift.load=function(){for(var
+            a=function(a){return function(){blueshift.push([a].concat(Array.prototype.slice.call(arguments,0)))}},b="identify
+            track click pageload capture retarget".split(" "),c=0;c<b.length;c++)blueshift[b[c]]=a(b[c])});blueshift.load();blueshift.pageload();
+
+            blueshift.constructor===Array&&function(){var a=document.createElement("script");a.type="text/javascript";a.async=!0;a.src=("https:"===document.location.protocol?"https:":"http:")+"//cdn.getblueshift.com/blueshift.js";var
+            b=document.getElementsByTagName("script")[0];b.parentNode.insertBefore(a,b)}();'}
+        childrenids: []
+        localName: script
+        nodeId: 189
+        nodeName: SCRIPT
+        nodeType: 1
+        nodeValue: ''
+        parent: 10
+        props: {id: '', type: text/javascript}
+      191:
+        attributes: [type, text/javascript, id, '', src, 'https://cdn.izooto.com/scripts/launchpad.871.min.js']
+        backendNodeId: 827
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: script
+        nodeId: 191
+        nodeName: SCRIPT
+        nodeType: 1
+        nodeValue: ''
+        parent: 10
+        props: {id: '', src: 'https://cdn.izooto.com/scripts/launchpad.871.min.js',
+          type: text/javascript}
+      192:
+        attributes: [id, izootoAlt, src, 'https://cdn.izooto.com/scripts/sdk/izooto.871.js']
+        backendNodeId: 828
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: script
+        nodeId: 192
+        nodeName: SCRIPT
+        nodeType: 1
+        nodeValue: ''
+        parent: 10
+        props: {id: izootoAlt, src: 'https://cdn.izooto.com/scripts/sdk/izooto.871.js'}
+      193:
+        attributes: [type, text/javascript, id, '']
+        backendNodeId: 829
+        childNodeCount: 1
+        children:
+        - {backendNodeId: 830, localName: '', nodeId: 194, nodeName: '#text', nodeType: 3,
+          nodeValue: '(function(a){if("undefined"!==typeof a&&a.hasOwnProperty("pagetype"))switch(a.pagetype){case
+            "homepage":window._izq=window._izq||[];window._izq.push(["add_tag","Home"]);break;case
+            "segment":a=a.pageSegment;window._izq=window._izq||[];window._izq.push(["add_tag",a]);break;case
+            "catalog":a=a.page.category;window._izq=window._izq||[];window._izq.push(["add_tag",a]);break;case
+            "cart":window._izq=window._izq||[];window._izq.push(["add_tag","cart"]);break;case
+            "quicklist":window._izq=window._izq||[];window._izq.push(["add_tag",
+
+            "Quicklist"]);break;case "success":window._izq=window._izq||[],window._izq.push(["add_tag","Thankyou"])}})(globalConfig||{});'}
+        childrenids: []
+        localName: script
+        nodeId: 193
+        nodeName: SCRIPT
+        nodeType: 1
+        nodeValue: ''
+        parent: 10
+        props: {id: '', type: text/javascript}
+      195:
+        attributes: [id, izootoSdk, src, 'https://cdn.izooto.com/scripts/sdk/izooto.js?v=3.7.2']
+        backendNodeId: 831
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: script
+        nodeId: 195
+        nodeName: SCRIPT
+        nodeType: 1
+        nodeValue: ''
+        parent: 10
+        props: {id: izootoSdk, src: 'https://cdn.izooto.com/scripts/sdk/izooto.js?v=3.7.2'}
+      196:
+        attributes: [src, 'https://events.izooto.com/index.php?s=1&pid=871&izid=iz-svzncvt7it40b7&btype=1&dtype=3&tz=570&bver=57.0.2987.108&os=4&pt=0',
+          visibility, hidden, style, 'width: 0px; height: 0px; border: 0px; display:
+            none;']
+        backendNodeId: 832
+        childNodeCount: 0
+        children: []
+        childrenids: [197]
+        contentDocument: &id121
+          backendNodeId: 833
+          baseURL: https://events.izooto.com/index.php?s=1&pid=871&izid=iz-svzncvt7it40b7&btype=1&dtype=3&tz=570&bver=57.0.2987.108&os=4&pt=0
+          childNodeCount: 1
+          childrenids: [206]
+          documentURL: https://events.izooto.com/index.php?s=1&pid=871&izid=iz-svzncvt7it40b7&btype=1&dtype=3&tz=570&bver=57.0.2987.108&os=4&pt=0
+          localName: ''
+          nodeId: 197
+          nodeName: '#document'
+          nodeType: 9
+          nodeValue: ''
+          parent: 196
+          props: {}
+          xmlVersion: ''
+        frameId: '4990.19'
+        h: 0.0
+        localName: iframe
+        nodeId: 196
+        nodeName: IFRAME
+        nodeType: 1
+        nodeValue: ''
+        parent: 10
+        props: {src: 'https://events.izooto.com/index.php?s=1&pid=871&izid=iz-svzncvt7it40b7&btype=1&dtype=3&tz=570&bver=57.0.2987.108&os=4&pt=0',
+          style: 'width: 0px; height: 0px; border: 0px; display: none;', visibility: hidden}
+        value: ''
+        w: 0.0
+        x: 0.0
+        y: 0.0
+      197: *id121
+      198:
+        attributes: []
+        backendNodeId: 834
+        childNodeCount: 2
+        children:
+        - &id122
+          attributes: []
+          backendNodeId: 835
+          childNodeCount: 0
+          children: []
+          childrenids: []
+          h: 0.0
+          localName: head
+          nodeId: 199
+          nodeName: HEAD
+          nodeType: 1
+          nodeValue: ''
+          parent: 198
+          props: {}
+          value: ''
+          w: 0.0
+          x: 0.0
+          y: 0.0
+        - &id123
+          attributes: [onload, timeLoadImage();]
+          backendNodeId: 836
+          childNodeCount: 3
+          children:
+          - &id124
+            attributes: [id, imageContainer]
+            backendNodeId: 837
+            childNodeCount: 1
+            children:
+            - &id125
+              attributes: [src, 'https://cm.g.doubleclick.net/pixel?google_nid=viz&google_cm&google_hm=B64VIZID&google_ula=30892794&rtb=0',
+                width, '1', height, '1']
+              backendNodeId: 838
+              childNodeCount: 0
+              children: []
+              childrenids: []
+              h: 1.0
+              localName: img
+              nodeId: 202
+              nodeName: IMG
+              nodeType: 1
+              nodeValue: ''
+              parent: 201
+              props: {height: '1', src: 'https://cm.g.doubleclick.net/pixel?google_nid=viz&google_cm&google_hm=B64VIZID&google_ula=30892794&rtb=0',
+                width: '1'}
+              value: ''
+              w: 1.0
+              x: 8.0
+              y: 8.0
+            childrenids: [202]
+            h: 1.0
+            localName: div
+            nodeId: 201
+            nodeName: DIV
+            nodeType: 1
+            nodeValue: ''
+            parent: 200
+            props: {id: imageContainer}
+            value: ''
+            w: 0.0
+            x: 8.0
+            y: 8.0
+          - &id126
+            attributes: [id, logContainer]
+            backendNodeId: 839
+            childNodeCount: 0
+            children: []
+            childrenids: []
+            h: 0.0
+            localName: div
+            nodeId: 203
+            nodeName: DIV
+            nodeType: 1
+            nodeValue: ''
+            parent: 200
+            props: {id: logContainer}
+            value: ''
+            w: 0.0
+            x: 8.0
+            y: 9.0
+          - &id127
+            attributes: [language, javascript, type, text/javascript]
+            backendNodeId: 840
+            childNodeCount: 1
+            children:
+            - {backendNodeId: 841, localName: '', nodeId: 205, nodeName: '#text',
+              nodeType: 3, nodeValue: "\n      \n\t\t\tvar beforeLoad = Math.round((new\
+                \ Date()).getTime());\n\t\t\tvar isLoadCalled = false;\n      \t\t\
+                var csm = 5;\n      \t\tvar isFP = true;\n\t\t\t\n\t\t\tvar doLog\
+                \ = false;\n \t\t\t\n     \t\tvar loggerPixel = \"<img src = 'https://sg-pl.vizury.com/analyze/log.php?account_id=VIZVRM4273&tpcns=viz_599375b83d723\"\
+                ; // width=1 height=1 />      \t\t\n\t\t\t\n\t\t\tfunction isCookieSet(){\n\
+                \t\t\t\tvar bool = false;\n\t\t\t        var cookie=document.cookie;\n\
+                \t\t\t        uid  = cookie.split('=');\n\t\t\t        if(uid[1] !==\
+                \ undefined){ // check if the cookie is set\n\t\t\t              \
+                \  bool = true;\n\t\t\t        }\n\t\t\t        return bool;\n\t\t\
+                \t}\n\t\t\tvar varCookieSet = isCookieSet();\n\t\t\tvar cookiePresent\
+                \ = 'true';\n\t\t\tvar pixelContent = '<img src=\"https://cm.g.doubleclick.net/pixel?google_nid=viz&google_cm&google_hm=B64VIZID&google_ula=30892794&rtb=0\"\
+                \ width=1 height=1 />';\n\t\t\tvar scrPixelContent = '';\n\t\t\tif(\
+                \ varCookieSet == true || cookiePresent == \"true\"){\n\t\t\t\tif(\
+                \ varCookieSet == true ){\n\t\t\t\t\tpixelContent = '<img src=\"https://cm.g.doubleclick.net/pixel?google_nid=viz&google_cm&google_hm=B64VIZID&google_ula=30892794&rtb=0\"\
+                \ width=1 height=1 />';\n\t\t\t\t\tscrPixelContent = '';\n\t\t\t\t\
+                }\n\t\t\t\tdocument.getElementById(\"imageContainer\").innerHTML =\
+                \ pixelContent;\n\t\t\t\tdocument.write(scrPixelContent);\n\t\t\t\
+                }\n\n                function timeout(){\n                if( isLoadCalled\
+                \ == false  && doLog ){\n                    loggerPixel = loggerPixel\
+                \ + \"&time=6000&cset=\"+varCookieSet+\"' \" + \"width=1 height=1\
+                \ />\";\n                    document.getElementById(\"logContainer\"\
+                ).innerHTML = loggerPixel;\n                }\n                //document.body.innerHTML\
+                \ = \"\";\n                var m_u = 'cdn8.vizury.com/analyze/utm.html';\n\
+                \                var m_fu = (location.protocol=='https:')? 'https://'\
+                \ + m_u : 'http://' + m_u;\n                location.replace(m_fu);\n\
+                \                }\n                setTimeout(timeout, 6000);\n\n\
+                \t\t\tfunction timeLoadImage(){\n\t\t\t\tisLoadCalled = true;\n\t\t\
+                \t\tvar afterLoad = Math.round((new Date()).getTime());\n\t\t\t\t\
+                var finalLoadTime = (parseInt(afterLoad) - parseInt(beforeLoad))/1000;\n\
+                \t\t\t\tif(doLog){\n\t\t\t\t\tloggerPixel = loggerPixel + \"&time=\"\
+                +finalLoadTime +\"&cset=\"+varCookieSet+\"' \" + \"width=1 height=1\
+                \ />\";\n\t\t\t\t\tdocument.getElementById(\"logContainer\").innerHTML\
+                \ = loggerPixel\n\t\t\t\t}\n\t\t\t}\n\t\t"}
+            childrenids: []
+            localName: script
+            nodeId: 204
+            nodeName: SCRIPT
+            nodeType: 1
+            nodeValue: ''
+            parent: 200
+            props: {language: javascript, type: text/javascript}
+          childrenids: [201, 203, 204]
+          h: 1.0
+          localName: body
+          nodeId: 200
+          nodeName: BODY
+          nodeType: 1
+          nodeValue: ''
+          parent: 198
+          props: {onload: timeLoadImage();}
+          value: ''
+          w: 0.0
+          x: 8.0
+          y: 8.0
+        childrenids: [199, 200]
+        frameId: '4990.20'
+        h: 17.0
+        localName: html
+        nodeId: 198
+        nodeName: HTML
+        nodeType: 1
+        nodeValue: ''
+        parent: 20
+        props: {}
+        value: ''
+        w: 0.0
+        x: 0.0
+        y: 0.0
+      199: *id122
+      200: *id123
+      201: *id124
+      202: *id125
+      203: *id126
+      204: *id127
+      206:
+        attributes: []
+        backendNodeId: 842
+        childNodeCount: 2
+        children:
+        - &id128
+          attributes: []
+          backendNodeId: 843
+          childNodeCount: 0
+          children: []
+          childrenids: []
+          h: 0.0
+          localName: head
+          nodeId: 207
+          nodeName: HEAD
+          nodeType: 1
+          nodeValue: ''
+          parent: 206
+          props: {}
+          value: ''
+          w: 0.0
+          x: 0.0
+          y: 0.0
+        - &id129
+          attributes: []
+          backendNodeId: 844
+          childNodeCount: 0
+          children: []
+          childrenids: []
+          h: 0.0
+          localName: body
+          nodeId: 208
+          nodeName: BODY
+          nodeType: 1
+          nodeValue: ''
+          parent: 206
+          props: {}
+          value: ''
+          w: 0.0
+          x: 8.0
+          y: 8.0
+        childrenids: [207, 208]
+        frameId: '4990.19'
+        h: 8.0
+        localName: html
+        nodeId: 206
+        nodeName: HTML
+        nodeType: 1
+        nodeValue: ''
+        parent: 197
+        props: {}
+        value: ''
+        w: 0.0
+        x: 0.0
+        y: 0.0
+      207: *id128
+      208: *id129
+    page: {base_h: 1584, base_w: 1080, base_x: 0, base_y: 210, empty: false, title: Privacy
+        Policy - Jabong.com, url: 'https://m.jabong.com/privacy_policy/', ws_url: 'ws://127.0.0.1:12345/devtools/page/27a92a73-e944-42c8-9c55-6fb8b962b752'}
+    parents: {2: 1, 3: 1, 4: 1, 5: 1, 6: 1, 7: 1, 8: 7, 9: 7, 10: 7, 11: 9, 12: 9,
+      13: 9, 14: 13, 15: 9, 16: 9, 17: 9, 18: 9, 19: 9, 20: 19, 21: 9, 22: 9, 23: 9,
+      24: 9, 25: 9, 26: 9, 27: 9, 28: 9, 29: 9, 30: 9, 31: 30, 32: 9, 33: 9, 34: 9,
+      35: 9, 36: 9, 37: 9, 38: 9, 39: 9, 40: 9, 41: 40, 42: 9, 43: 9, 44: 9, 45: 9,
+      46: 45, 47: 9, 48: 10, 49: 48, 50: 10, 51: 50, 52: 10, 53: 10, 54: 10, 55: 54,
+      56: 10, 57: 56, 58: 10, 59: 10, 60: 59, 61: 60, 62: 61, 63: 62, 64: 62, 65: 64,
+      66: 64, 67: 64, 68: 62, 69: 68, 70: 62, 71: 62, 72: 71, 73: 71, 74: 71, 75: 62,
+      76: 75, 77: 62, 78: 62, 79: 78, 80: 78, 81: 78, 82: 62, 83: 82, 84: 83, 85: 82,
+      86: 85, 87: 82, 88: 87, 89: 87, 90: 89, 91: 87, 92: 82, 93: 92, 94: 82, 95: 94,
+      96: 94, 97: 96, 98: 82, 99: 98, 100: 82, 101: 100, 102: 82, 103: 102, 104: 82,
+      105: 104, 106: 82, 107: 106, 108: 82, 109: 108, 110: 82, 111: 110, 112: 82,
+      113: 112, 114: 82, 115: 114, 116: 82, 117: 116, 118: 82, 119: 118, 120: 82,
+      121: 120, 122: 82, 123: 122, 124: 82, 125: 124, 126: 125, 127: 124, 128: 127,
+      129: 82, 130: 129, 131: 82, 132: 131, 133: 82, 134: 133, 135: 82, 136: 135,
+      137: 82, 138: 137, 139: 82, 140: 139, 141: 82, 142: 141, 143: 82, 144: 143,
+      145: 62, 146: 62, 147: 146, 148: 146, 149: 146, 150: 62, 151: 150, 152: 62,
+      153: 62, 154: 153, 155: 153, 156: 153, 157: 62, 158: 157, 159: 62, 160: 62,
+      161: 160, 162: 160, 163: 160, 164: 62, 165: 164, 166: 10, 167: 166, 168: 10,
+      169: 168, 170: 169, 171: 10, 172: 10, 173: 172, 174: 10, 175: 174, 176: 175,
+      177: 10, 178: 177, 179: 10, 180: 179, 181: 10, 182: 181, 183: 10, 184: 183,
+      185: 10, 186: 185, 187: 10, 188: 187, 189: 10, 190: 189, 191: 10, 192: 10, 193: 10,
+      194: 193, 195: 10, 196: 10, 197: 196, 198: 20, 199: 198, 200: 198, 201: 200,
+      202: 201, 203: 200, 204: 200, 205: 204, 206: 197, 207: 206, 208: 206}
+    scaling: 2.625
+  pageinfo: {base_h: 1584, base_w: 1080, base_x: 0, base_y: 210, empty: false, title: Privacy
+      Policy - Jabong.com, url: 'https://m.jabong.com/privacy_policy/', ws_url: 'ws://127.0.0.1:12345/devtools/page/27a92a73-e944-42c8-9c55-6fb8b962b752'}
+  title: Privacy Policy - Jabong.com

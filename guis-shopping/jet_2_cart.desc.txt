@@ -1,0 +1,11 @@
+9 back
+11 cart_list
+32 cart_subtotal
+36 cart_shipping
+41 cart_tax
+46 cart_total
+52 cart_item
+56 item_image
+59 item_title
+63 item_price
+72 checkout

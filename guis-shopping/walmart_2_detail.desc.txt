@@ -1,0 +1,7 @@
+10 menu
+13 search
+15 share
+16 cart
+21 detail_title
+26 detail_image
+36 detail_price

@@ -1,0 +1,13 @@
+10 menu
+22 cart_item
+23 item_image
+24 item_title
+31 item_count
+33 item_price
+36 item_remove
+43 cart_item
+44 item_image
+45 item_title
+52 item_count
+54 item_price
+57 item_remove

@@ -1,0 +1,5 @@
+9 back
+23 image
+28 title
+33 text
+37 text

@@ -1,0 +1,395 @@
+- page:
+    base_h: 6239
+    base_w: 1006
+    base_x: 37
+    base_y: 655
+    html_h: 2376.5625
+    html_w: 384.0
+    nodes:
+      1:
+        baseURL: https://www.yahoo.com/news/live-st-petersburg-metro-explosion-131231080.html
+        childNodeCount: 1
+        children:
+        - &id001
+          attributes: []
+          childNodeCount: 2
+          children:
+          - &id002
+            attributes: []
+            childNodeCount: 3
+            childrenids: [5, 6, 7]
+            h: 0.0
+            localName: head
+            nodeId: 3
+            nodeName: HEAD
+            nodeType: 1
+            nodeValue: ''
+            parent: 2
+            props: {}
+            value: ''
+            w: 0.0
+            x: 0.0
+            y: 0.0
+          - &id003
+            attributes: []
+            childNodeCount: 3
+            childrenids: [8, 12, 21]
+            h: 2352.5625
+            localName: body
+            nodeId: 4
+            nodeName: BODY
+            nodeType: 1
+            nodeValue: ''
+            parent: 2
+            props: {}
+            value: ''
+            w: 384.0
+            x: 0.0
+            y: 8.0
+          childrenids: [3, 4]
+          h: 2376.5625
+          localName: html
+          nodeId: 2
+          nodeName: HTML
+          nodeType: 1
+          nodeValue: ''
+          parent: 1
+          props: {}
+          value: ''
+          w: 384.0
+          x: 0.0
+          y: 0.0
+        childrenids: [2]
+        documentURL: https://www.yahoo.com/news/live-st-petersburg-metro-explosion-131231080.html
+        localName: ''
+        nodeId: 1
+        nodeName: '#document'
+        nodeType: 9
+        nodeValue: ''
+        parent: -1
+        props: {}
+        xmlVersion: ''
+      2: *id001
+      3: *id002
+      4: *id003
+      5:
+        attributes: [http-equiv, Content-Security-Policy, content, upgrade-insecure-requests]
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: meta
+        nodeId: 5
+        nodeName: META
+        nodeType: 1
+        nodeValue: ''
+        parent: 3
+        props: {content: upgrade-insecure-requests, http-equiv: Content-Security-Policy}
+      6:
+        attributes: [rel, stylesheet, type, text/css, href, android_asset/article-style.css]
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: link
+        nodeId: 6
+        nodeName: LINK
+        nodeType: 1
+        nodeValue: ''
+        parent: 3
+        props: {href: android_asset/article-style.css, rel: stylesheet, type: text/css}
+      7:
+        attributes: [type, text/javascript, src, android_asset/article-script.js,
+          async, '']
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: script
+        nodeId: 7
+        nodeName: SCRIPT
+        nodeType: 1
+        nodeValue: ''
+        parent: 3
+        props: {async: '', src: android_asset/article-script.js, type: text/javascript}
+      8:
+        attributes: []
+        childNodeCount: 1
+        children:
+        - &id004
+          attributes: [class, hr-iframe-wrapper, style, 'position: relative; padding-bottom:
+              56.25%;']
+          childNodeCount: 1
+          children:
+          - &id005
+            attributes: [src, 'https://www.yahoo.com/ynn/least-10-people-killed-st-161659114.html?format=embed&region=US&lang=en-US&site=news&player_autoplay=true',
+              data-yom-embed-source, '{media_id_1:eae60a75-034e-3faf-8749-ee93321b37d4}',
+              data-yahoo-uuid, eae60a75-034e-3faf-8749-ee93321b37d4, width, 100% !important,
+              height, 100% !important, frameborder, '0', style, 'position: absolute;
+                left: 0px; top: 0px;', id, yvapview_1491243544224]
+            childNodeCount: 0
+            children: []
+            childrenids: []
+            contentDocument: {baseURL: 'https://www.yahoo.com/ynn/least-10-people-killed-st-161659114.html?format=embed&region=US&lang=en-US&site=news&player_autoplay=true',
+              childNodeCount: 6, documentURL: 'https://www.yahoo.com/ynn/least-10-people-killed-st-161659114.html?format=embed&region=US&lang=en-US&site=news&player_autoplay=true',
+              localName: '', nodeId: 11, nodeName: '#document', nodeType: 9, nodeValue: '',
+              xmlVersion: ''}
+            frameId: '9244.1'
+            h: 216.0
+            localName: iframe
+            nodeId: 10
+            nodeName: IFRAME
+            nodeType: 1
+            nodeValue: ''
+            parent: 9
+            props: {data-yahoo-uuid: eae60a75-034e-3faf-8749-ee93321b37d4, data-yom-embed-source: '{media_id_1:eae60a75-034e-3faf-8749-ee93321b37d4}',
+              frameborder: '0', height: 100% !important, id: yvapview_1491243544224,
+              src: 'https://www.yahoo.com/ynn/least-10-people-killed-st-161659114.html?format=embed&region=US&lang=en-US&site=news&player_autoplay=true',
+              style: 'position: absolute; left: 0px; top: 0px;', width: 100% !important}
+            value: ''
+            w: 384.0
+            x: 0.0
+            y: 8.0
+          childrenids: [10]
+          h: 216.0
+          localName: div
+          nodeId: 9
+          nodeName: DIV
+          nodeType: 1
+          nodeValue: ''
+          parent: 8
+          props: {class: hr-iframe-wrapper, style: 'position: relative; padding-bottom:
+              56.25%;'}
+          value: ''
+          w: 384.0
+          x: 0.0
+          y: 8.0
+        childrenids: [9]
+        h: 216.0
+        localName: p
+        nodeId: 8
+        nodeName: P
+        nodeType: 1
+        nodeValue: ''
+        parent: 4
+        props: {}
+        value: ''
+        w: 384.0
+        x: 0.0
+        y: 8.0
+      9: *id004
+      10: *id005
+      12:
+        attributes: []
+        childNodeCount: 1
+        children:
+        - &id006
+          attributes: []
+          childNodeCount: 5
+          children:
+          - &id007
+            childrenids: []
+            localName: ''
+            nodeId: 14
+            nodeName: '#text'
+            nodeType: 3
+            nodeValue: 'At least '
+            parent: 13
+            props: {}
+          - &id008
+            attributes: [href, 'https://www.yahoo.com/news/st-petersburg-explosion-early-videos-from-scene-131414536.html']
+            childNodeCount: 1
+            children:
+            - &id009
+              childrenids: []
+              localName: ''
+              nodeId: 16
+              nodeName: '#text'
+              nodeType: 3
+              nodeValue: 10 people were killed Monday
+              parent: 15
+              props: {}
+            childrenids: [16]
+            h: 19.0
+            localName: a
+            nodeId: 15
+            nodeName: A
+            nodeType: 1
+            nodeValue: ''
+            parent: 13
+            props: {href: 'https://www.yahoo.com/news/st-petersburg-explosion-early-videos-from-scene-131414536.html'}
+            value: ''
+            w: 206.4609375
+            x: 57.0859375
+            y: 242.0
+          - &id010
+            childrenids: []
+            localName: ''
+            nodeId: 17
+            nodeName: '#text'
+            nodeType: 3
+            nodeValue: ' in an explosion on a '
+            parent: 13
+            props: {}
+          - &id011
+            attributes: [href, 'https://www.yahoo.com/news/st-petersburg-metro-blast-least-slideshow-wp-134154647.html']
+            childNodeCount: 1
+            children:
+            - &id012
+              childrenids: []
+              localName: ''
+              nodeId: 19
+              nodeName: '#text'
+              nodeType: 3
+              nodeValue: metro train in St. Petersburg
+              parent: 18
+              props: {}
+            childrenids: [19]
+            h: 19.0
+            localName: a
+            nodeId: 18
+            nodeName: A
+            nodeType: 1
+            nodeValue: ''
+            parent: 13
+            props: {href: 'https://www.yahoo.com/news/st-petersburg-metro-blast-least-slideshow-wp-134154647.html'}
+            value: ''
+            w: 196.1953125
+            x: 33.9375
+            y: 270.0
+          - &id013
+            childrenids: []
+            localName: ''
+            nodeId: 20
+            nodeName: '#text'
+            nodeType: 3
+            nodeValue: ", Russia, authorities there said. Russian President Vladimir\
+              \ Putin, who was in St. Petersburg for a meeting with Belarusian President\_\
+              Alexander Lukashenko, said the cause of the blast was not clear. The\
+              \ Russian antiterrorism committee says it has found and deactivated\
+              \ a bomb at another St. Petersburg subway station. Reuters is providing\
+              \ live coverage of the explosion and its aftermath. See below for the\
+              \ latest updates."
+            parent: 13
+            props: {}
+          childrenids: [14, 15, 17, 18, 20]
+          h: 271.0
+          localName: em
+          nodeId: 13
+          nodeName: EM
+          nodeType: 1
+          nodeValue: ''
+          parent: 12
+          props: {}
+          value: ''
+          w: 380.234375
+          x: 0.0
+          y: 242.0
+        childrenids: [13]
+        h: 280.0
+        localName: p
+        nodeId: 12
+        nodeName: P
+        nodeType: 1
+        nodeValue: ''
+        parent: 4
+        props: {}
+        value: ''
+        w: 384.0
+        x: 0.0
+        y: 238.0
+      13: *id006
+      14: *id007
+      15: *id008
+      16: *id009
+      17: *id010
+      18: *id011
+      19: *id012
+      20: *id013
+      21:
+        attributes: []
+        childNodeCount: 1
+        children:
+        - &id014
+          attributes: [class, hr-iframe-wrapper, style, 'position: relative; padding-bottom:
+              476.190476190476%;']
+          childNodeCount: 2
+          children:
+          - &id015
+            attributes: [src, 'https://embed.scribblelive.com/Embed/v7.aspx?Id=2541165&ThemeId=',
+              width, 100% !important, height, 100% !important, frameborder, '0', style,
+              'position: absolute; left: 0px; top: 0px;']
+            childNodeCount: 0
+            children: []
+            childrenids: []
+            contentDocument: {baseURL: 'https://embed.scribblelive.com/Embed/v7.aspx?Id=2541165&ThemeId=',
+              childNodeCount: 5, documentURL: 'https://embed.scribblelive.com/Embed/v7.aspx?Id=2541165&ThemeId=',
+              localName: '', nodeId: 24, nodeName: '#document', nodeType: 9, nodeValue: '',
+              xmlVersion: ''}
+            frameId: '9244.2'
+            h: 1828.5625
+            localName: iframe
+            nodeId: 23
+            nodeName: IFRAME
+            nodeType: 1
+            nodeValue: ''
+            parent: 22
+            props: {frameborder: '0', height: 100% !important, src: 'https://embed.scribblelive.com/Embed/v7.aspx?Id=2541165&ThemeId=',
+              style: 'position: absolute; left: 0px; top: 0px;', width: 100% !important}
+            value: ''
+            w: 384.0
+            x: 0.0
+            y: 532.0
+          - &id016
+            attributes: [class, hr-iframe-link, href, 'https://embed.scribblelive.com/Embed/v7.aspx?Id=2541165&ThemeId=',
+              target, _top]
+            childNodeCount: 0
+            children: []
+            childrenids: []
+            h: 1828.5625
+            localName: a
+            nodeId: 25
+            nodeName: A
+            nodeType: 1
+            nodeValue: ''
+            parent: 22
+            props: {class: hr-iframe-link, href: 'https://embed.scribblelive.com/Embed/v7.aspx?Id=2541165&ThemeId=',
+              target: _top}
+            value: ''
+            w: 384.0
+            x: 0.0
+            y: 532.0
+          childrenids: [23, 25]
+          h: 1828.5625
+          localName: div
+          nodeId: 22
+          nodeName: DIV
+          nodeType: 1
+          nodeValue: ''
+          parent: 21
+          props: {class: hr-iframe-wrapper, style: 'position: relative; padding-bottom:
+              476.190476190476%;'}
+          value: ''
+          w: 384.0
+          x: 0.0
+          y: 532.0
+        childrenids: [22]
+        h: 1828.5625
+        localName: p
+        nodeId: 21
+        nodeName: P
+        nodeType: 1
+        nodeValue: ''
+        parent: 4
+        props: {}
+        value: ''
+        w: 384.0
+        x: 0.0
+        y: 532.0
+      22: *id014
+      23: *id015
+      25: *id016
+    page: {base_h: 6239, base_w: 1006, base_x: 37, base_y: 655, empty: false, title: 'about:blank',
+      url: 'about:blank', ws_url: 'ws://127.0.0.1:12345/devtools/page/D7A909C8-92FF-46D6-A812-4DCDCE3F5D7E'}
+    parents: {2: 1, 3: 2, 4: 2, 5: 3, 6: 3, 7: 3, 8: 4, 9: 8, 10: 9, 12: 4, 13: 12,
+      14: 13, 15: 13, 16: 15, 17: 13, 18: 13, 19: 18, 20: 13, 21: 4, 22: 21, 23: 22,
+      25: 22}
+    scaling: 2.625
+  title: about:blank

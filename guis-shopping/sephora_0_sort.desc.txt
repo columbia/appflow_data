@@ -1,0 +1,8 @@
+12 menu
+15 search
+16 cart
+42 sort_popular
+43 sort_recent
+44 sort_review
+46 sort_pricehigh
+47 sort_pricelow

@@ -1,0 +1,1 @@
+com.amazon.mShop.android.shopping/com.amazon.identity.auth.device.AuthPortalUIActivity

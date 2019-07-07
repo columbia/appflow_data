@@ -1,0 +1,1 @@
+jp.gocro.smartnews.android/jp.gocro.smartnews.android.activity.MainActivity

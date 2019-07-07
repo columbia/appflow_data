@@ -1,0 +1,6 @@
+8 back
+47 addr_zipcode
+53 addr_name
+59 addr_phone
+69 addr_line1
+71 addr_save

@@ -1,0 +1,1 @@
+com.sephora/com.sephora.appmodules.account.MyAccountActivity

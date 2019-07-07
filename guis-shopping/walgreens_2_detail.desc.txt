@@ -1,0 +1,7 @@
+7 searchbox
+9 back
+24 detail_title
+26 detail_price
+32 detail_image
+33 detail_count
+45 detail_addcart

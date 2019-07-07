@@ -1,0 +1,6 @@
+17 email
+21 password
+25 register_name
+35 register
+40 signin
+47 menu

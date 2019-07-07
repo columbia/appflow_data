@@ -1,0 +1,9 @@
+7 back
+10 apply
+17 sort
+21 filter_list
+28 filter_category
+40 filter_brand
+52 filter_size
+64 filter_color
+71 filter_reset

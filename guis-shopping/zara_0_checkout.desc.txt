@@ -1,0 +1,7 @@
+10 back
+23 shippingcost
+25 addresses
+27 shipmethod
+39 payments
+56 totalcost
+59 placeorder

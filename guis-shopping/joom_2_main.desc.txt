@@ -1,0 +1,3 @@
+16 search
+76 cart
+82 account

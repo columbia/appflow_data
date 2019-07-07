@@ -1,0 +1,11 @@
+7 back
+17 cart_item
+19 item_title
+20 item_price
+23 item_count
+25 cart_item
+27 item_title
+28 item_price
+31 item_count
+51 cart_subtotal
+53 checkout

@@ -1,0 +1,6 @@
+9 menu
+13 search
+16 cart
+18 cart_count
+34 cart_list
+35 empty_msg

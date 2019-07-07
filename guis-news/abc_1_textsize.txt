@@ -1,0 +1,1 @@
+com.abc.abcnews/com.abc.abcnews.ui.SettingsActivity

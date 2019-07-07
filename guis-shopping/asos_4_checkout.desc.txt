@@ -1,0 +1,6 @@
+8 back
+13 paypal
+22 subtotal
+25 shippingcost
+28 totalcost
+29 placeorder

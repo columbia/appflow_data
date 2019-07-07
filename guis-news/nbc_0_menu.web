@@ -1,0 +1,1354 @@
+- page:
+    base_h: 131
+    base_w: 840
+    base_x: 120
+    base_y: 1704
+    html_h: 50.0
+    html_w: 320.0
+    nodes:
+      1:
+        baseURL: https://pubads.g.doubleclick.net/gampad/ads?_activity_context=false&android_num_video_cache_tasks=0&caps=inlineVideo_interactiveVideo_mraid1_mraid2_sdkVideo_th_autoplay_mediation_av_transparentBackground_sdkAdmobApiForAds_di_aso_sfv_dinm_dim_nav_dinmo_gcache&eid=318475406%2C318477040%2C318476426%2C318476960%2C318477768%2C318477714&format=320x50_mb&heap_free=10013312&heap_max=268435456&heap_total=72578448&js=afma-sdk-a-v10298470.10084000.2&msid=com.zumobi.msnbc&request_pkg=com.nbcnews.newsappui.adapters.component.AdComponent&scroll_index=-1&seq_num=1&target_api=23
+        childNodeCount: 2
+        children:
+        - &id001
+          childrenids: []
+          localName: ''
+          nodeId: 2
+          nodeName: html
+          nodeType: 10
+          nodeValue: ''
+          parent: 1
+          props: {}
+          publicId: ''
+          systemId: ''
+        - &id002
+          attributes: []
+          childNodeCount: 2
+          children:
+          - &id003
+            attributes: []
+            childNodeCount: 4
+            childrenids: [6, 7, 9, 11]
+            h: 0.0
+            localName: head
+            nodeId: 4
+            nodeName: HEAD
+            nodeType: 1
+            nodeValue: ''
+            parent: 3
+            props: {}
+            value: ''
+            w: 0.0
+            x: 0.0
+            y: 0.0
+          - &id004
+            attributes: [leftmargin, '0', topmargin, '0', marginwidth, '0', marginheight,
+              '0', style, 'margin: 0px; padding: 0px;']
+            childNodeCount: 10
+            childrenids: [13, 65, 66, 68, 70, 71, 73, 75, 77, 79]
+            h: 50.0
+            localName: body
+            nodeId: 5
+            nodeName: BODY
+            nodeType: 1
+            nodeValue: ''
+            parent: 3
+            props: {leftmargin: '0', marginheight: '0', marginwidth: '0', style: 'margin:
+                0px; padding: 0px;', topmargin: '0'}
+            value: ''
+            w: 320.0
+            x: 0.0
+            y: 0.0
+          childrenids: [4, 5]
+          h: 50.0
+          localName: html
+          nodeId: 3
+          nodeName: HTML
+          nodeType: 1
+          nodeValue: ''
+          parent: 1
+          props: {}
+          value: ''
+          w: 320.0
+          x: 0.0
+          y: 0.0
+        childrenids: [2, 3]
+        documentURL: https://pubads.g.doubleclick.net/gampad/ads?_activity_context=false&android_num_video_cache_tasks=0&caps=inlineVideo_interactiveVideo_mraid1_mraid2_sdkVideo_th_autoplay_mediation_av_transparentBackground_sdkAdmobApiForAds_di_aso_sfv_dinm_dim_nav_dinmo_gcache&eid=318475406%2C318477040%2C318476426%2C318476960%2C318477768%2C318477714&format=320x50_mb&heap_free=10013312&heap_max=268435456&heap_total=72578448&js=afma-sdk-a-v10298470.10084000.2&msid=com.zumobi.msnbc&request_pkg=com.nbcnews.newsappui.adapters.component.AdComponent&scroll_index=-1&seq_num=1&target_api=23#_activity_context=false&android_num_video_cache_tasks=0&caps=inlineVideo_interactiveVideo_mraid1_mraid2_sdkVideo_th_autoplay_mediation_av_transparentBackground_sdkAdmobApiForAds_di_aso_sfv_dinm_dim_nav_dinmo_gcache&eid=318475406%252C318477040%252C318476426%252C318476960%252C318477768%252C318477714&format=320x50_mb&heap_free=10013312&heap_max=268435456&heap_total=72578448&js=afma-sdk-a-v10298470.10084000.2&msid=com.zumobi.msnbc&request_pkg=com.nbcnews.newsappui.adapters.component.AdComponent&scroll_index=-1&seq_num=1&target_api=23
+        localName: ''
+        nodeId: 1
+        nodeName: '#document'
+        nodeType: 9
+        nodeValue: ''
+        parent: -1
+        props: {}
+        xmlVersion: ''
+      2: *id001
+      3: *id002
+      4: *id003
+      5: *id004
+      6:
+        attributes: [name, viewport, content, 'width=320, initial-scale=1.0, minimum-scale=1.0,
+            maximum-scale=1.0, user-scalable=no']
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        localName: meta
+        nodeId: 6
+        nodeName: META
+        nodeType: 1
+        nodeValue: ''
+        parent: 4
+        props: {content: 'width=320, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0,
+            user-scalable=no', name: viewport}
+      7:
+        attributes: []
+        childNodeCount: 1
+        children:
+        - {localName: '', nodeId: 8, nodeName: '#text', nodeType: 3, nodeValue: 'var
+            google_casm=["afma-sdk-a-v10298470.10084000.2",0,null,0,0];'}
+        childrenids: []
+        localName: script
+        nodeId: 7
+        nodeName: SCRIPT
+        nodeType: 1
+        nodeValue: ''
+        parent: 4
+        props: {}
+      9:
+        attributes: []
+        childNodeCount: 1
+        children:
+        - &id005
+          childrenids: []
+          localName: ''
+          nodeId: 10
+          nodeName: '#text'
+          nodeType: 3
+          nodeValue: '.fit-one-line, .fit-n-lines { visibility: hidden; }
+
+            .fit-one-line { white-space: nowrap; }'
+          parent: 9
+          props: {}
+        childrenids: [10]
+        h: 0.0
+        localName: style
+        nodeId: 9
+        nodeName: STYLE
+        nodeType: 1
+        nodeValue: ''
+        parent: 4
+        props: {}
+        value: ''
+        w: 0.0
+        x: 0.0
+        y: 0.0
+      10: *id005
+      11:
+        attributes: []
+        childNodeCount: 1
+        children:
+        - &id006
+          childrenids: []
+          localName: ''
+          nodeId: 12
+          nodeName: '#text'
+          nodeType: 3
+          nodeValue: '#liftoff-snippet * { -webkit-animation: none !important; }'
+          parent: 11
+          props: {}
+        childrenids: [12]
+        h: 0.0
+        localName: style
+        nodeId: 11
+        nodeName: STYLE
+        nodeType: 1
+        nodeValue: ''
+        parent: 4
+        props: {}
+        value: ''
+        w: 0.0
+        x: 0.0
+        y: 0.0
+      12: *id006
+      13:
+        attributes: [id, liftoff-snippet, style, 'width:320px;height:50px', class,
+          "liftoff-android v4 doubleclick s320x50\n            a-com-zumobi-msnbc\
+            \ visible"]
+        childNodeCount: 13
+        children:
+        - &id007
+          attributes: [name, viewport, content, user-scalable=no]
+          childNodeCount: 0
+          children: []
+          childrenids: []
+          localName: meta
+          nodeId: 14
+          nodeName: META
+          nodeType: 1
+          nodeValue: ''
+          parent: 13
+          props: {content: user-scalable=no, name: viewport}
+        - &id008
+          attributes: [src, mraid.js]
+          childNodeCount: 0
+          children: []
+          childrenids: []
+          localName: script
+          nodeId: 15
+          nodeName: SCRIPT
+          nodeType: 1
+          nodeValue: ''
+          parent: 13
+          props: {src: mraid.js}
+        - &id009
+          attributes: [rel, stylesheet, href, 'https://build-cdn.liftoff.io/ad_markup/product-tile-banner-d-8f459a31d56814b8f5a08bc74126379a.min.css.gz']
+          childNodeCount: 0
+          children: []
+          childrenids: []
+          localName: link
+          nodeId: 16
+          nodeName: LINK
+          nodeType: 1
+          nodeValue: ''
+          parent: 13
+          props: {href: 'https://build-cdn.liftoff.io/ad_markup/product-tile-banner-d-8f459a31d56814b8f5a08bc74126379a.min.css.gz',
+            rel: stylesheet}
+        - &id010
+          attributes: [rel, stylesheet, href, 'https://build-cdn.liftoff.io/ad_markup/ck-credit-meter-banner-d3da43c61323f85f1741170186e35cee.min.css.gz']
+          childNodeCount: 0
+          children: []
+          childrenids: []
+          localName: link
+          nodeId: 17
+          nodeName: LINK
+          nodeType: 1
+          nodeValue: ''
+          parent: 13
+          props: {href: 'https://build-cdn.liftoff.io/ad_markup/ck-credit-meter-banner-d3da43c61323f85f1741170186e35cee.min.css.gz',
+            rel: stylesheet}
+        - &id011
+          attributes: [id, liftoff-link, href, 'https://adclick.g.doubleclick.net/aclk?sa=L&ai=C02A6U6riWLa6OJKnMcavoLgBw5j2lEagmtSmbcCNtwEQASAAYMnGqYvApNgPggEeY2EtbWItYXBwLXB1Yi01NjcyNTU3NDU3ODM0NDU0yAEJ4AIAqAMBqgT6AU_Q74bwPANvdAF3R3qCSlrv2eXvsuB-wov5LPJZK8UuSIgylNRG8uxfCd-JAPejWN6FZmM4WJsZp-bU8wlW0AuWHsh7EY8V0AGpnUryLwf4wUpzAswNUxTlJfa2KlgNVVOpBBFON3VHmzrP36mHTbmZ_tqiydGa2cQzdQYg3eckZGOV4sqQpfpsTlfcalDUFLKD97PlW7QYUMN7WaJZIwrxRW-cNSFuSjb9eEvFpxG2fgPlnd1jXtqHo7a9Le2RqEt5TzsT4fP0buGkHqPBPlthTuUafJsYqHy6AxTB-S0QL-fhhV9sFTQ-x_uBN9htfqHtWUObx2Krtk3gBAGABoXq0Y7rxtCkKaAGIagHpr4b2AcA0ggFCIAhEAE&num=1&sig=AOD64_3HO-OdCfpdlp7f6bspSKxjy1YQng&client=ca-mb-app-pub-5672557457834454&adurl=https%3A%2F%2Fanalytics.liftoff.io%2Fv1%2Fcampaign_click%3Fchannel%3Ddoubleclick%26ad_group_id%3D25678%26creative_id%3D25637%26auction_id%3D58e2aa53000e1d360a0c5392170817c6%26device_id%3D52e517b0-1940-4d01-914e-4dc3d59a0f44%26device_id_sha1%3Ddf779e856bd828e0b9fccb26a48fd1982eded853%26device_id_type%3Dgoogle-aid%26device_family%3DMobile%26device_model%3D+Unknown%26os_version%3D6.0%26source_app_store_id%3Dcom.zumobi.msnbc%26targeted_country_id%3D184%26bid_ts%3D1491249748020%26source_app_name%3DNBCNews%26test_groups%3D%26doubleclick_source_app_category_ids%3D60016%252C60000%252C69500%26t%3D1491249748020%26u%3D8c1QUlf1FKbabBFaFibvEHjZx0AlCCKyPN1PPykbZzU',
+            target, _blank]
+          childNodeCount: 0
+          children: []
+          childrenids: []
+          h: 48.0
+          localName: a
+          nodeId: 18
+          nodeName: A
+          nodeType: 1
+          nodeValue: ''
+          parent: 13
+          props: {href: 'https://adclick.g.doubleclick.net/aclk?sa=L&ai=C02A6U6riWLa6OJKnMcavoLgBw5j2lEagmtSmbcCNtwEQASAAYMnGqYvApNgPggEeY2EtbWItYXBwLXB1Yi01NjcyNTU3NDU3ODM0NDU0yAEJ4AIAqAMBqgT6AU_Q74bwPANvdAF3R3qCSlrv2eXvsuB-wov5LPJZK8UuSIgylNRG8uxfCd-JAPejWN6FZmM4WJsZp-bU8wlW0AuWHsh7EY8V0AGpnUryLwf4wUpzAswNUxTlJfa2KlgNVVOpBBFON3VHmzrP36mHTbmZ_tqiydGa2cQzdQYg3eckZGOV4sqQpfpsTlfcalDUFLKD97PlW7QYUMN7WaJZIwrxRW-cNSFuSjb9eEvFpxG2fgPlnd1jXtqHo7a9Le2RqEt5TzsT4fP0buGkHqPBPlthTuUafJsYqHy6AxTB-S0QL-fhhV9sFTQ-x_uBN9htfqHtWUObx2Krtk3gBAGABoXq0Y7rxtCkKaAGIagHpr4b2AcA0ggFCIAhEAE&num=1&sig=AOD64_3HO-OdCfpdlp7f6bspSKxjy1YQng&client=ca-mb-app-pub-5672557457834454&adurl=https%3A%2F%2Fanalytics.liftoff.io%2Fv1%2Fcampaign_click%3Fchannel%3Ddoubleclick%26ad_group_id%3D25678%26creative_id%3D25637%26auction_id%3D58e2aa53000e1d360a0c5392170817c6%26device_id%3D52e517b0-1940-4d01-914e-4dc3d59a0f44%26device_id_sha1%3Ddf779e856bd828e0b9fccb26a48fd1982eded853%26device_id_type%3Dgoogle-aid%26device_family%3DMobile%26device_model%3D+Unknown%26os_version%3D6.0%26source_app_store_id%3Dcom.zumobi.msnbc%26targeted_country_id%3D184%26bid_ts%3D1491249748020%26source_app_name%3DNBCNews%26test_groups%3D%26doubleclick_source_app_category_ids%3D60016%252C60000%252C69500%26t%3D1491249748020%26u%3D8c1QUlf1FKbabBFaFibvEHjZx0AlCCKyPN1PPykbZzU',
+            id: liftoff-link, target: _blank}
+          value: ''
+          w: 318.0
+          x: 1.0
+          y: 1.0
+        - &id012
+          attributes: [id, background-component]
+          childNodeCount: 0
+          children: []
+          childrenids: []
+          h: 48.0
+          localName: div
+          nodeId: 19
+          nodeName: DIV
+          nodeType: 1
+          nodeValue: ''
+          parent: 13
+          props: {id: background-component}
+          value: ''
+          w: 318.0
+          x: 1.0
+          y: 1.0
+        - &id013
+          attributes: [id, container]
+          childNodeCount: 4
+          children:
+          - &id014
+            attributes: [id, icon, style, 'width: 48px;']
+            childNodeCount: 1
+            children:
+            - &id015
+              attributes: [id, app-icon, src, 'https://cdn.liftoff.io/customers/96/images/4195fe742f.png']
+              childNodeCount: 0
+              children: []
+              childrenids: []
+              h: 42.0
+              localName: img
+              nodeId: 22
+              nodeName: IMG
+              nodeType: 1
+              nodeValue: ''
+              parent: 21
+              props: {id: app-icon, src: 'https://cdn.liftoff.io/customers/96/images/4195fe742f.png'}
+              value: ''
+              w: 42.0
+              x: 4.0
+              y: 4.0
+            childrenids: [22]
+            h: 48.0
+            localName: div
+            nodeId: 21
+            nodeName: DIV
+            nodeType: 1
+            nodeValue: ''
+            parent: 20
+            props: {id: icon, style: 'width: 48px;'}
+            value: ''
+            w: 48.0
+            x: 1.0
+            y: 1.0
+          - &id016
+            attributes: [id, cta-container]
+            childNodeCount: 1
+            children:
+            - &id017
+              attributes: []
+              childNodeCount: 1
+              children:
+              - &id018
+                attributes: [class, liftoff-cta common-cta large, dir, auto]
+                childNodeCount: 1
+                children:
+                - &id019
+                  childrenids: []
+                  localName: ''
+                  nodeId: 26
+                  nodeName: '#text'
+                  nodeType: 3
+                  nodeValue: INSTALL
+                  parent: 25
+                  props: {}
+                childrenids: [26]
+                h: 32.0
+                localName: button
+                nodeId: 25
+                nodeName: BUTTON
+                nodeType: 1
+                nodeValue: ''
+                parent: 24
+                props: {class: liftoff-cta common-cta large, dir: auto}
+                value: ''
+                w: 81.8125
+                x: 234.0
+                y: 9.0
+              childrenids: [25]
+              h: 48.0
+              localName: div
+              nodeId: 24
+              nodeName: DIV
+              nodeType: 1
+              nodeValue: ''
+              parent: 23
+              props: {}
+              value: ''
+              w: 82.0
+              x: 234.0
+              y: 1.0
+            childrenids: [24]
+            h: 48.0
+            localName: div
+            nodeId: 23
+            nodeName: DIV
+            nodeType: 1
+            nodeValue: ''
+            parent: 20
+            props: {id: cta-container}
+            value: ''
+            w: 85.0
+            x: 234.0
+            y: 1.0
+          - &id020
+            attributes: [id, text-container]
+            childNodeCount: 1
+            children:
+            - &id021
+              attributes: []
+              childNodeCount: 1
+              children:
+              - &id022
+                attributes: []
+                childNodeCount: 4
+                children:
+                - &id023
+                  attributes: [id, app-name, class, fit-one-line, dir, auto, style,
+                    'visibility: visible;']
+                  childNodeCount: 1
+                  children:
+                  - &id024
+                    childrenids: []
+                    localName: ''
+                    nodeId: 31
+                    nodeName: '#text'
+                    nodeType: 3
+                    nodeValue: Credit Karma
+                    parent: 30
+                    props: {}
+                  childrenids: [31]
+                  h: 20.0
+                  localName: div
+                  nodeId: 30
+                  nodeName: DIV
+                  nodeType: 1
+                  nodeValue: ''
+                  parent: 29
+                  props: {class: fit-one-line, dir: auto, id: app-name, style: 'visibility:
+                      visible;'}
+                  value: ''
+                  w: 178.0
+                  x: 51.0
+                  y: 8.0
+                - &id025
+                  attributes: [id, star-rating, class, stars]
+                  childNodeCount: 0
+                  children: []
+                  childrenids: []
+                  h: 0.0
+                  localName: div
+                  nodeId: 32
+                  nodeName: DIV
+                  nodeType: 1
+                  nodeValue: ''
+                  parent: 29
+                  props: {class: stars, id: star-rating}
+                  value: ''
+                  w: 178.0
+                  x: 51.0
+                  y: 28.0
+                - &id026
+                  attributes: [id, caption, class, fit-one-line, style, 'visibility:
+                      visible;']
+                  childNodeCount: 1
+                  children:
+                  - &id027
+                    childrenids: []
+                    localName: ''
+                    nodeId: 34
+                    nodeName: '#text'
+                    nodeType: 3
+                    nodeValue: Free
+                    parent: 33
+                    props: {}
+                  childrenids: [34]
+                  h: 14.0
+                  localName: div
+                  nodeId: 33
+                  nodeName: DIV
+                  nodeType: 1
+                  nodeValue: ''
+                  parent: 29
+                  props: {class: fit-one-line, id: caption, style: 'visibility: visible;'}
+                  value: ''
+                  w: 178.0
+                  x: 51.0
+                  y: 28.0
+                - &id028
+                  childrenids: []
+                  localName: ''
+                  nodeId: 35
+                  nodeName: '#comment'
+                  nodeType: 8
+                  nodeValue: ' <div id="caption2" class="fit-one-line"></div> '
+                  parent: 29
+                  props: {}
+                childrenids: [30, 32, 33, 35]
+                h: 48.0
+                localName: div
+                nodeId: 29
+                nodeName: DIV
+                nodeType: 1
+                nodeValue: ''
+                parent: 28
+                props: {}
+                value: ''
+                w: 178.0
+                x: 51.0
+                y: 1.0
+              childrenids: [29]
+              h: 48.0
+              localName: div
+              nodeId: 28
+              nodeName: DIV
+              nodeType: 1
+              nodeValue: ''
+              parent: 27
+              props: {}
+              value: ''
+              w: 178.0
+              x: 51.0
+              y: 1.0
+            childrenids: [28]
+            h: 48.0
+            localName: div
+            nodeId: 27
+            nodeName: DIV
+            nodeType: 1
+            nodeValue: ''
+            parent: 20
+            props: {id: text-container}
+            value: ''
+            w: 185.0
+            x: 49.0
+            y: 1.0
+          - &id029
+            attributes: [id, component, style, 'right: 85px;']
+            childNodeCount: 1
+            children:
+            - &id030
+              attributes: [id, ck-credit-meter-banner]
+              childNodeCount: 2
+              children:
+              - &id031
+                attributes: [class, score-container]
+                childNodeCount: 1
+                children:
+                - &id032
+                  attributes: []
+                  childNodeCount: 1
+                  children:
+                  - &id033
+                    attributes: [class, score, style, 'height: 30px; margin-top: 4px;
+                        line-height: 30px;']
+                    childNodeCount: 1
+                    children:
+                    - &id034
+                      childrenids: []
+                      localName: ''
+                      nodeId: 41
+                      nodeName: '#text'
+                      nodeType: 3
+                      nodeValue: '420'
+                      parent: 40
+                      props: {}
+                    childrenids: [41]
+                    h: 30.0
+                    localName: span
+                    nodeId: 40
+                    nodeName: SPAN
+                    nodeType: 1
+                    nodeValue: ''
+                    parent: 39
+                    props: {class: score, style: 'height: 30px; margin-top: 4px; line-height:
+                        30px;'}
+                    value: ''
+                    w: 60.0
+                    x: 1.0
+                    y: 53.0
+                  childrenids: [40]
+                  h: 0.0
+                  localName: div
+                  nodeId: 39
+                  nodeName: DIV
+                  nodeType: 1
+                  nodeValue: ''
+                  parent: 38
+                  props: {}
+                  value: ''
+                  w: 223.0
+                  x: 1.0
+                  y: 49.0
+                childrenids: [39]
+                h: 0.0
+                localName: div
+                nodeId: 38
+                nodeName: DIV
+                nodeType: 1
+                nodeValue: ''
+                parent: 37
+                props: {class: score-container}
+                value: ''
+                w: 223.0
+                x: 1.0
+                y: 49.0
+              - &id035
+                attributes: [class, meter-container]
+                childNodeCount: 1
+                children:
+                - &id036
+                  attributes: []
+                  childNodeCount: 1
+                  children:
+                  - &id037
+                    attributes: []
+                    childNodeCount: 2
+                    children:
+                    - &id038
+                      attributes: [class, credit-meter-container]
+                      childNodeCount: 1
+                      children:
+                      - &id039
+                        attributes: [class, credit-meter]
+                        childNodeCount: 2
+                        children:
+                        - &id040
+                          attributes: [class, bar, style, 'background-image: url(https://cdn.liftoff.io/customers/96/images/ed5ce993d5.png);']
+                          childNodeCount: 1
+                          children:
+                          - &id041
+                            attributes: [class, inner overlay]
+                            childNodeCount: 0
+                            children: []
+                            childrenids: []
+                            h: 22.0
+                            localName: div
+                            nodeId: 48
+                            nodeName: DIV
+                            nodeType: 1
+                            nodeValue: ''
+                            parent: 47
+                            props: {class: inner overlay}
+                            value: ''
+                            w: 163.0
+                            x: 61.0
+                            y: 57.0
+                          childrenids: [48]
+                          h: 22.0
+                          localName: div
+                          nodeId: 47
+                          nodeName: DIV
+                          nodeType: 1
+                          nodeValue: ''
+                          parent: 46
+                          props: {class: bar, style: 'background-image: url(https://cdn.liftoff.io/customers/96/images/ed5ce993d5.png);'}
+                          value: ''
+                          w: 163.0
+                          x: 61.0
+                          y: 57.0
+                        - &id042
+                          attributes: [class, outer overlay, style, 'transform: translate3d(21.8181818181818%,
+                              0px, 0px);']
+                          childNodeCount: 1
+                          children:
+                          - &id043
+                            attributes: [src, 'https://cdn.liftoff.io/customers/96/images/2bf0e14578.png']
+                            childNodeCount: 0
+                            children: []
+                            childrenids: []
+                            h: 30.0
+                            localName: img
+                            nodeId: 50
+                            nodeName: IMG
+                            nodeType: 1
+                            nodeValue: ''
+                            parent: 49
+                            props: {src: 'https://cdn.liftoff.io/customers/96/images/2bf0e14578.png'}
+                            value: ''
+                            w: 30.0
+                            x: 81.56363677978516
+                            y: 53.0
+                          childrenids: [50]
+                          h: 30.0
+                          localName: div
+                          nodeId: 49
+                          nodeName: DIV
+                          nodeType: 1
+                          nodeValue: ''
+                          parent: 46
+                          props: {class: outer overlay, style: 'transform: translate3d(21.8181818181818%,
+                              0px, 0px);'}
+                          value: ''
+                          w: 163.0
+                          x: 96.56363677978516
+                          y: 53.0
+                        childrenids: [47, 49]
+                        h: 30.0
+                        localName: div
+                        nodeId: 46
+                        nodeName: DIV
+                        nodeType: 1
+                        nodeValue: ''
+                        parent: 45
+                        props: {class: credit-meter}
+                        value: ''
+                        w: 163.0
+                        x: 61.0
+                        y: 53.0
+                      childrenids: [46]
+                      h: 30.0
+                      localName: div
+                      nodeId: 45
+                      nodeName: DIV
+                      nodeType: 1
+                      nodeValue: ''
+                      parent: 44
+                      props: {class: credit-meter-container}
+                      value: ''
+                      w: 163.0
+                      x: 61.0
+                      y: 53.0
+                    - &id044
+                      attributes: [class, labels]
+                      childNodeCount: 2
+                      children:
+                      - &id045
+                        attributes: [class, start]
+                        childNodeCount: 1
+                        children:
+                        - &id046
+                          childrenids: []
+                          localName: ''
+                          nodeId: 53
+                          nodeName: '#text'
+                          nodeType: 3
+                          nodeValue: Poor
+                          parent: 52
+                          props: {}
+                        childrenids: [53]
+                        h: 10.0
+                        localName: div
+                        nodeId: 52
+                        nodeName: DIV
+                        nodeType: 1
+                        nodeValue: ''
+                        parent: 51
+                        props: {class: start}
+                        value: ''
+                        w: 19.265625
+                        x: 61.0
+                        y: 83.0
+                      - &id047
+                        attributes: [class, end]
+                        childNodeCount: 1
+                        children:
+                        - &id048
+                          childrenids: []
+                          localName: ''
+                          nodeId: 55
+                          nodeName: '#text'
+                          nodeType: 3
+                          nodeValue: Good
+                          parent: 54
+                          props: {}
+                        childrenids: [55]
+                        h: 10.0
+                        localName: div
+                        nodeId: 54
+                        nodeName: DIV
+                        nodeType: 1
+                        nodeValue: ''
+                        parent: 51
+                        props: {class: end}
+                        value: ''
+                        w: 21.390625
+                        x: 202.609375
+                        y: 83.0
+                      childrenids: [52, 54]
+                      h: 10.0
+                      localName: div
+                      nodeId: 51
+                      nodeName: DIV
+                      nodeType: 1
+                      nodeValue: ''
+                      parent: 44
+                      props: {class: labels}
+                      value: ''
+                      w: 163.0
+                      x: 61.0
+                      y: 83.0
+                    childrenids: [45, 51]
+                    h: 48.0
+                    localName: div
+                    nodeId: 44
+                    nodeName: DIV
+                    nodeType: 1
+                    nodeValue: ''
+                    parent: 43
+                    props: {}
+                    value: ''
+                    w: 163.0
+                    x: 61.0
+                    y: 49.0
+                  childrenids: [44]
+                  h: 48.0
+                  localName: div
+                  nodeId: 43
+                  nodeName: DIV
+                  nodeType: 1
+                  nodeValue: ''
+                  parent: 42
+                  props: {}
+                  value: ''
+                  w: 163.0
+                  x: 61.0
+                  y: 49.0
+                childrenids: [43]
+                h: 48.0
+                localName: div
+                nodeId: 42
+                nodeName: DIV
+                nodeType: 1
+                nodeValue: ''
+                parent: 37
+                props: {class: meter-container}
+                value: ''
+                w: 163.0
+                x: 61.0
+                y: 49.0
+              childrenids: [38, 42]
+              h: 48.0
+              localName: div
+              nodeId: 37
+              nodeName: DIV
+              nodeType: 1
+              nodeValue: ''
+              parent: 36
+              props: {id: ck-credit-meter-banner}
+              value: ''
+              w: 228.0
+              x: 1.0
+              y: 49.0
+            childrenids: [37]
+            h: 48.0
+            localName: div
+            nodeId: 36
+            nodeName: DIV
+            nodeType: 1
+            nodeValue: ''
+            parent: 20
+            props: {id: component, style: 'right: 85px;'}
+            value: ''
+            w: 233.0
+            x: 1.0
+            y: 49.0
+          childrenids: [21, 23, 27, 36]
+          h: 48.0
+          localName: div
+          nodeId: 20
+          nodeName: DIV
+          nodeType: 1
+          nodeValue: ''
+          parent: 13
+          props: {id: container}
+          value: ''
+          w: 318.0
+          x: 1.0
+          y: 1.0
+        - &id049
+          attributes: [src, 'https://build-cdn.liftoff.io/ad_markup/product-tile-banner-d-b037885e061b00aadc06cfa3b9c4e2b3.min.js.gz']
+          childNodeCount: 0
+          children: []
+          childrenids: []
+          localName: script
+          nodeId: 56
+          nodeName: SCRIPT
+          nodeType: 1
+          nodeValue: ''
+          parent: 13
+          props: {src: 'https://build-cdn.liftoff.io/ad_markup/product-tile-banner-d-b037885e061b00aadc06cfa3b9c4e2b3.min.js.gz'}
+        - &id050
+          attributes: [src, 'https://build-cdn.liftoff.io/ad_markup/ck-credit-meter-banner-48a1e70ced1165c66df82a4deae5bfc5.min.js.gz']
+          childNodeCount: 0
+          children: []
+          childrenids: []
+          localName: script
+          nodeId: 57
+          nodeName: SCRIPT
+          nodeType: 1
+          nodeValue: ''
+          parent: 13
+          props: {src: 'https://build-cdn.liftoff.io/ad_markup/ck-credit-meter-banner-48a1e70ced1165c66df82a4deae5bfc5.min.js.gz'}
+        - &id051
+          attributes: []
+          childNodeCount: 1
+          children:
+          - {localName: '', nodeId: 59, nodeName: '#text', nodeType: 3, nodeValue: "\n\
+              \    var params = {\n      variation: Number(4),\n      width: 320,\n\
+              \      height: 50,\n      stars: Number(0),\n      imageDuration: Number(4)\n\
+              \    };\n    ProductTileBannerD.init(params, {\"component\":{\"component\"\
+              :\"ck-credit-meter-banner\",\"variation\":0,\"params\":{\"border-style\"\
+              :\"transparency: 0;\",\"end-label\":\"Good\",\"bar-image\":\"https://cdn.liftoff.io/customers/96/images/ed5ce993d5.png\"\
+              ,\"start-label\":\"Poor\",\"handle-image\":\"https://cdn.liftoff.io/customers/96/images/2bf0e14578.png\"\
+              ,\"colors\":[{\"color\":\"#FF6161\"},{\"color\":\"#FF863B\"},{\"color\"\
+              :\"#FFD324\"},{\"color\":\"#9EEDC9\"},{\"color\":\"#3DDB93\"}],\"fill-type\"\
+              :\"image\",\"bar-style\":\"image\",\"end-score\":751.0,\"start-score\"\
+              :420.0},\"styles\":{\"meter-container\":\"\"}}});\n  "}
+          childrenids: []
+          localName: script
+          nodeId: 58
+          nodeName: SCRIPT
+          nodeType: 1
+          nodeValue: ''
+          parent: 13
+          props: {}
+        - &id052
+          attributes: []
+          childNodeCount: 1
+          children:
+          - {localName: '', nodeId: 61, nodeName: '#text', nodeType: 3, nodeValue: "\n\
+              \    Liftoff.init({\"adexp_logging_frequency\":0.075,\"is_rewarded\"\
+              :false,\"dest_app_platform\":\"android\",\"dest_app_id\":104,\"ad_group_id\"\
+              :25678,\"app_id_external\":\"a4b301640e\",\"bid_request_at\":\"2017-04-03T20:02:28Z\"\
+              ,\"ec2_region\":\"us-east-1\",\"enable_html_return\":false,\"city\"\
+              :null,\"creative_id\":25637,\"force_custom_close\":false,\"source_app_name\"\
+              :\"NBC News\",\"longitude\":null,\"is_reengagement\":false,\"size\"\
+              :\"320x50\",\"channel_id\":16,\"source_app_genre\":\"News & Magazines\"\
+              ,\"connection_type\":\"wifi\",\"source_app_id\":\"com.zumobi.msnbc\"\
+              ,\"device_family\":\"Mobile\",\"language\":\"en\",\"zip\":null,\"region_code\"\
+              :null,\"bid_request_id\":\"58e2aa53000e1d360a0c5392170817c6\",\"device_id_type\"\
+              :\"google-aid\",\"latitude\":null,\"template_md5\":\"product-tile-banner-d-56f94fcf5f066abc422c46eabaf1494f\"\
+              ,\"exchange\":\"doubleclick\",\"is_skippable\":null,\"device_id\":\"\
+              52e517b0-1940-4d01-914e-4dc3d59a0f44\",\"vast_companion_types\":null,\"\
+              country\":\"USA\",\"ab_tests\":[],\"platform\":\"android\"}, false,\
+              \ \"https://adexp.liftoff.io\", false,\n        \"https://adexp.liftoff.io/html_return\"\
+              );\n  "}
+          childrenids: []
+          localName: script
+          nodeId: 60
+          nodeName: SCRIPT
+          nodeType: 1
+          nodeValue: ''
+          parent: 13
+          props: {}
+        - &id053
+          attributes: [id, liftoff-beacon, src, 'https://haggler-doubleclick228-us-e-ec2.liftoff.io/doubleclick/win_notice.gif?ad_group_id=25678&channel_id=16&creative_id=25637&device_id_sha1=df779e856bd828e0b9fccb26a48fd1982eded853&source_app_store_id=com.zumobi.msnbc&bid_ts=1491249748021&auction_id=58e2aa53000e1d360a0c5392170817c6&auction_price_doubleclick=WOKqUwAOHTYKDFOSAAgXxjle71QFzSjTHyHoIQ',
+            style, 'display:none']
+          childNodeCount: 0
+          children: []
+          childrenids: []
+          h: 0.0
+          localName: img
+          nodeId: 62
+          nodeName: IMG
+          nodeType: 1
+          nodeValue: ''
+          parent: 13
+          props: {id: liftoff-beacon, src: 'https://haggler-doubleclick228-us-e-ec2.liftoff.io/doubleclick/win_notice.gif?ad_group_id=25678&channel_id=16&creative_id=25637&device_id_sha1=df779e856bd828e0b9fccb26a48fd1982eded853&source_app_store_id=com.zumobi.msnbc&bid_ts=1491249748021&auction_id=58e2aa53000e1d360a0c5392170817c6&auction_price_doubleclick=WOKqUwAOHTYKDFOSAAgXxjle71QFzSjTHyHoIQ',
+            style: 'display:none'}
+          shadowRoots:
+          - {childNodeCount: 1, localName: '', nodeId: 63, nodeName: '#document-fragment',
+            nodeType: 11, nodeValue: '', shadowRootType: user-agent}
+          value: ''
+          w: 0.0
+          x: 0.0
+          y: 0.0
+        - &id054
+          attributes: [id, impression-tags, style, 'display:none']
+          childNodeCount: 0
+          children: []
+          childrenids: []
+          h: 0.0
+          localName: div
+          nodeId: 64
+          nodeName: DIV
+          nodeType: 1
+          nodeValue: ''
+          parent: 13
+          props: {id: impression-tags, style: 'display:none'}
+          value: ''
+          w: 0.0
+          x: 0.0
+          y: 0.0
+        childrenids: [14, 15, 16, 17, 18, 19, 20, 56, 57, 58, 60, 62, 64]
+        h: 50.0
+        localName: div
+        nodeId: 13
+        nodeName: DIV
+        nodeType: 1
+        nodeValue: ''
+        parent: 5
+        props: {class: "liftoff-android v4 doubleclick s320x50\n            a-com-zumobi-msnbc\
+            \ visible", id: liftoff-snippet, style: 'width:320px;height:50px'}
+        value: ''
+        w: 320.0
+        x: 0.0
+        y: 0.0
+      14: *id007
+      15: *id008
+      16: *id009
+      17: *id010
+      18: *id011
+      19: *id012
+      20: *id013
+      21: *id014
+      22: *id015
+      23: *id016
+      24: *id017
+      25: *id018
+      26: *id019
+      27: *id020
+      28: *id021
+      29: *id022
+      30: *id023
+      31: *id024
+      32: *id025
+      33: *id026
+      34: *id027
+      35: *id028
+      36: *id029
+      37: *id030
+      38: *id031
+      39: *id032
+      40: *id033
+      41: *id034
+      42: *id035
+      43: *id036
+      44: *id037
+      45: *id038
+      46: *id039
+      47: *id040
+      48: *id041
+      49: *id042
+      50: *id043
+      51: *id044
+      52: *id045
+      53: *id046
+      54: *id047
+      55: *id048
+      56: *id049
+      57: *id050
+      58: *id051
+      60: *id052
+      62: *id053
+      64: *id054
+      65:
+        attributes: []
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        h: 0.0
+        localName: div
+        nodeId: 65
+        nodeName: DIV
+        nodeType: 1
+        nodeValue: ''
+        parent: 5
+        props: {}
+        value: ''
+        w: 320.0
+        x: 0.0
+        y: 50.0
+      66:
+        attributes: []
+        childNodeCount: 1
+        children:
+        - {localName: '', nodeId: 67, nodeName: '#text', nodeType: 3, nodeValue: '(function(){var
+            e=this,g=function(a,b,c){return a.call.apply(a.bind,arguments)},h=function(a,b,c){if(!a)throw
+            Error();if(2<arguments.length){var d=Array.prototype.slice.call(arguments,2);return
+            function(){var c=Array.prototype.slice.call(arguments);Array.prototype.unshift.apply(c,d);return
+            a.apply(b,c)}}return function(){return a.apply(b,arguments)}},k=function(a,b,c){Function.prototype.bind&&-1!=Function.prototype.bind.toString().indexOf("native
+            code")?k=g:k=h;return k.apply(null,arguments)},m=Date.now||function(){return+new
+            Date};var n=Array.prototype.forEach?function(a,b,c){Array.prototype.forEach.call(a,b,c)}:function(a,b,c){for(var
+            d=a.length,l="string"==typeof a?a.split(""):a,f=0;f<d;f++)f in l&&b.call(c,l[f],f,a)};var
+            p=function(a){p[" "](a);return a};p[" "]=function(){};var q=function(){var
+            a=!1;try{var b=Object.defineProperty({},"passive",{get:function(){a=!0}});e.addEventListener("test",null,b)}catch(c){}return
+            a}(),r=function(a,b,c){a.addEventListener?a.addEventListener(b,c,q?void
+            0:!1):a.attachEvent&&a.attachEvent("on"+b,c)};var t=function(a,b){var
+            c;c=(c=e.performance)&&c.now?c.now():m();this.label=a;this.type=b;this.value=c;this.duration=0;this.uniqueId=this.label+"_"+this.type+"_"+Math.random()};var
+            u=function(a,b){this.h=[];this.i=b||e;var c=null;b&&(b.google_js_reporting_queue=b.google_js_reporting_queue||[],this.h=b.google_js_reporting_queue,c=b.google_measure_js_timing);this.g=null!=c?c:Math.random()<a};u.prototype.j=function(a){var
+            b=this.i.performance;a&&b&&b.clearMarks&&(b.clearMarks("goog_"+a.uniqueId+"_start"),b.clearMarks("goog_"+a.uniqueId+"_end"))};u.prototype.start=function(a,b){if(!this.g)return
+            null;a=new t(a,b);(b=this.i.performance)&&b.mark&&b.mark("goog_"+a.uniqueId+"_start");return
+            a};var v=/^(?:([^:/?#.]+):)?(?:\/\/(?:([^/?#]*)@)?([^/#?]*?)(?::([0-9]+))?(?=[/#?]|$))?([^?#]+)?(?:\?([^#]*))?(?:#([\s\S]*))?$/,w=function(a){return
+            a?decodeURI(a):a};var y=function(){var a=x;try{var b;if(b=!!a&&null!=a.location.href)a:{try{p(a.foo);b=!0;break
+            a}catch(c){}b=!1}return b}catch(c){return!1}};var z=document,A=window;var
+            B=!!window.google_async_iframe_id,x=B&&window.parent||window;var C;if(B&&!y()){var
+            F="."+z.domain;try{for(;2<F.split(".").length&&!y();)z.domain=F=F.substr(F.indexOf(".")+1),x=window.parent}catch(a){}y()||(x=window)}C=x;var
+            G=new u(1,C),H=function(){C.google_measure_js_timing||(n(G.h,G.j,G),G.h.length=0,G.g=!1)};"complete"==C.document.readyState?H():G.g&&r(C,"load",function(){H()});var
+            L=function(a,b,c,d,l,f,D,E,Q){I(z.hidden)?(this.h="hidden",this.j="visibilitychange"):I(z.mozHidden)?(this.h="mozHidden",this.j="mozvisibilitychange"):I(z.msHidden)?(this.h="msHidden",this.j="msvisibilitychange"):I(z.webkitHidden)&&(this.h="webkitHidden",this.j="webkitvisibilitychange");this.o=!1;this.g=a;this.i=-1;this.s=b;this.u=c;this.I=d;this.F=f;this.A=D?"mousedown":"click";l&&z[this.h]&&J(this,2);this.G=E;this.D=Q||0;this.v=this.B=this.l=this.w=null;a=k(this.H,this);r(z,this.j,a);K(this)};L.prototype.H=function(){if(z[this.h])this.o&&(this.C(),this.i=m(),J(this,0));else{if(-1!=this.i){var
+            a=m()-this.i;a>this.D&&(this.i=-1,J(this,1,a),null!==this.g&&(this.g.registerFinalizeCallback(k(this.g.fireOnObject,this.g,"attempt_survey_trigger",["wfocus",this.u,this.s,this.l,this.B,this.v,a])),5E3<a&&this.g.fireOnObject("should_show_thank_you",{})))}this.F&&J(this,3)}};var
+            K=function(a){if(null!==a.g){var b=k(function(a,b,c){this.l=b.L().K();this.l||(a=b.J(),this.l=""+w(a.match(v)[3]||null)+w(a.match(v)[5]||null));this.B=b.creativeConversionUrl();this.v=b.adGroupCreativeId();this.m(c)},a),c=a.A;a.g.forEachAd(function(a){a.forEachNavigationAdPiece(function(d){a.listen(d,c,b)})})}else{var
+            d=k(a.m,a);r(A,a.A,d)}};L.prototype.m=function(a){this.w=a.button;this.o=!0;a=k(this.C,this);A.setTimeout(a,5E3)};L.prototype.handleClick=L.prototype.m;L.prototype.C=function(){this.o=!1};var
+            J=function(a,b,c){var d=["//",a.I?"googleads.g.doubleclick.net":"pagead2.googlesyndication.com","/pagead/gen_204?id=wfocus","&gqid="+a.s,"&qqid="+a.u].join("");0==b&&(d+="&return=0");1==b&&(d+="&return=1&timeDelta="+c,a.G&&(d+="&cbtn="+a.w));2==b&&(d+="&bgload=1");3==b&&(d+="&fg=1");A.google_image_requests||(A.google_image_requests=[]);a=A.document.createElement("img");a.src=d;A.google_image_requests.push(a)},I=function(a){return"undefined"!==typeof
+            a};var M=function(a,b,c,d,l,f,D,E){return new L(null,a,b,c,d,l,f,D,E)},N=["wfocusnhinit"],O=e;N[0]in
+            O||!O.execScript||O.execScript("var "+N[0]);for(var P;N.length&&(P=N.shift());){var
+            R;if(R=!N.length)R=void 0!==M;R?O[P]=M:O[P]&&O[P]!==Object.prototype[P]?O=O[P]:O=O[P]={}};}).call(this);window[''window_focus_for_click'']
+            =wfocusnhinit("","CPav_JuKidMCFZJTDAodxhcIFw",true,true,true,false,false,0);'}
+        childrenids: []
+        localName: script
+        nodeId: 66
+        nodeName: SCRIPT
+        nodeType: 1
+        nodeValue: ''
+        parent: 5
+        props: {}
+      68:
+        attributes: []
+        childNodeCount: 1
+        children:
+        - {localName: '', nodeId: 69, nodeName: '#text', nodeType: 3, nodeValue: '(function(){var
+            k="function"==typeof Object.defineProperties?Object.defineProperty:function(a,b,c){if(c.get||c.set)throw
+            new TypeError("ES3 does not support getters and setters.");a!=Array.prototype&&a!=Object.prototype&&(a[b]=c.value)},n="undefined"!=typeof
+            window&&window===this?this:"undefined"!=typeof global&&null!=global?global:this,p=function(){p=function(){};n.Symbol||(n.Symbol=q)},t=0,q=function(a){return"jscomp_symbol_"+(a||"")+t++},w=function(){p();var
+            a=n.Symbol.iterator;a||(a=n.Symbol.iterator=n.Symbol("iterator"));"function"!=typeof
+            Array.prototype[a]&&k(Array.prototype,a,{configurable:!0,writable:!0,value:function(){return
+            u(this)}});w=function(){}},u=function(a){var b=0;return x(function(){return
+            b<a.length?{done:!1,value:a[b++]}:{done:!0}})},x=function(a){w();a={next:a};a[n.Symbol.iterator]=function(){return
+            this};return a},y=function(a){w();var b=a[Symbol.iterator];return b?b.call(a):u(a)},z=this,A=function(a,b){a=a.split(".");var
+            c=z;a[0]in c||!c.execScript||c.execScript("var "+a[0]);for(var d;a.length&&(d=a.shift());)a.length||void
+            0===b?c[d]&&c[d]!==Object.prototype[d]?c=c[d]:c=c[d]={}:c[d]=b},B=function(a){var
+            b=typeof a;if("object"==b)if(a){if(a instanceof Array)return"array";if(a
+            instanceof Object)return b;var c=Object.prototype.toString.call(a);if("[object
+            Window]"==c)return"object";if("[object Array]"==c||"number"==typeof a.length&&"undefined"!=typeof
+            a.splice&&"undefined"!=typeof a.propertyIsEnumerable&&!a.propertyIsEnumerable("splice"))return"array";if("[object
+            Function]"==c||"undefined"!=typeof a.call&&"undefined"!=typeof a.propertyIsEnumerable&&!a.propertyIsEnumerable("call"))return"function"}else
+            return"null";else if("function"==b&&"undefined"==typeof a.call)return"object";return
+            b},C=function(a,b,c){return a.call.apply(a.bind,arguments)},D=function(a,b,c){if(!a)throw
+            Error();if(2<arguments.length){var d=Array.prototype.slice.call(arguments,2);return
+            function(){var c=Array.prototype.slice.call(arguments);Array.prototype.unshift.apply(c,d);return
+            a.apply(b,c)}}return function(){return a.apply(b,arguments)}},E=function(a,b,c){Function.prototype.bind&&-1!=Function.prototype.bind.toString().indexOf("native
+            code")?E=C:E=D;return E.apply(null,arguments)},F=Date.now||function(){return+new
+            Date},G=function(a,b){function c(){}c.prototype=b.prototype;a.F=b.prototype;a.prototype=new
+            c;a.prototype.constructor=a;a.H=function(a,c,r){for(var d=Array(arguments.length-2),f=2;f<arguments.length;f++)d[f-2]=arguments[f];return
+            b.prototype[c].apply(a,d)}};var H=function(a){this.data=a||[]},I=function(a,b,c){a=a.data[b];return
+            null!=a?a:c},J=function(a,b){a=a.data;a[0]||(a[0]=[]);return a[0][b]};var
+            K=function(a){this.data=a||[]};G(K,H);var L=function(a){this.data=a||[]};G(L,H);var
+            M=function(a){this.data=a||[]};G(M,H);var N=document,P=window;var aa={capture:!0},ba=function(){var
+            a=!1;try{var b=Object.defineProperty({},"passive",{get:function(){a=!0}});z.addEventListener("test",null,b)}catch(c){}return
+            a}(),Q=function(a,b,c,d){a.addEventListener?a.addEventListener(b,c,ba?d:d?d.capture||!1:!1):a.attachEvent&&a.attachEvent("on"+b,c)};var
+            ca=Object.prototype.hasOwnProperty,da=function(a,b){for(var c in a)ca.call(a,c)&&b.call(void
+            0,a[c],c,a)},R=function(a,b){a&&da(b,function(b,d){a.style[d]=b})},ea=function(a){for(var
+            b=N.body,c=document.createDocumentFragment(),d=a.length,f=0;f<d;++f)c.appendChild(a[f]);b.appendChild(c)};var
+            S=function(){this.i=this.i;this.j=this.j};S.prototype.i=!1;var fa=function(a){a.i||(a.i=!0,a.l())};S.prototype.l=function(){if(this.j)for(;this.j.length;)this.j.shift()()};var
+            T=function(a,b,c){S.call(this);this.m=a;this.A=b||0;this.o=c;this.u=E(this.v,this)};G(T,S);T.prototype.g=0;T.prototype.l=function(){T.F.l.call(this);this.g&&z.clearTimeout(this.g);this.g=0;delete
+            this.m;delete this.o};T.prototype.start=function(a){this.g&&z.clearTimeout(this.g);this.g=0;var
+            b=this.u;a=void 0!==a?a:this.A;if("function"!=B(b))if(b&&"function"==typeof
+            b.handleEvent)b=E(b.handleEvent,b);else throw Error("Invalid listener
+            argument");this.g=2147483647<Number(a)?-1:z.setTimeout(b,a||0)};T.prototype.v=function(){this.g=0;this.m&&this.m.call(this.o)};var
+            ga=function(a){return/^\s*$/.test(a)?!1:/^[\],:{}\s\u2028\u2029]*$/.test(a.replace(/\\["\\\/bfnrtu]/g,"@").replace(/(?:"[^"\\\n\r\u2028\u2029\x00-\x08\x0a-\x1f]*"|true|false|null|-?\d+(?:\.\d*)?(?:[eE][+\-]?\d+)?)[\s\u2028\u2029]*(?=:|,|]|}|$)/g,"]").replace(/(?:^|:|,)(?:[\s\u2028\u2029]*\[)+/g,""))},ha=function(a){a=String(a);if(ga(a))try{return
+            eval("("+a+")")}catch(b){}throw Error("Invalid JSON string: "+a);};var
+            ia=function(a){Q(P,"message",function(b){var c;try{c=ha(b.data)}catch(d){return}!c||"ig"!==c.googMsgType||a(c,b)})};var
+            ka={display:"inline-block",position:"absolute","z-index":"2147483647"},la={width:"50px",height:"50px",top:"0",left:"0"},ma={display:"none",width:"100%",height:"100%",top:"0",left:"0"},U=function(){this.j=[];this.m=this.u=this.g=null;this.C=[];this.l=null;this.A=[];this.i=[];this.o=[];this.v={}};U.prototype.G=function(a){var
+            b=this;this.l=new M(a);a=new K(this.l.data[0]);for(var c=a.data[0]?a.data[0].length:0,d=0;d<c;++d){var
+            f=new L(J(a,d));this.o.push({B:0,s:!1,h:f,w:-1})}if(I(this.l,3,void 0)){try{this.i=N.querySelectorAll("*[data-ifc]")}catch(r){}a=this.i.length;for(c=0;c<a;++c)for(d=new
+            K(JSON.parse(this.i[c].getAttribute("data-ifc")||"[]")),f=0;f<(d.data[0]?d.data[0].length:0);++f)this.o.push({B:0,s:!1,h:new
+            L(J(d,f)),w:c})}a=y(this.o);for(c=a.next();!c.done;c=a.next())c=c.value,d=c.h,null!=d.data[1]&&null!=d.data[4]?(!this.g&&I(d,8,void
+            0)&&(this.g=V(ma)),na(this,c)):null!=d.data[0]&&I(d,8,void 0)&&oa(this,I(d,0,""));I(this.l,2,void
+            0)&&(this.u=V(la));a=this.j.slice(0);this.g&&a.push(this.g);this.u&&a.push(this.u);N.body&&ea(a);Q(N,"click",function(a){for(var
+            c,d=-1,g=[],f=y(b.o),m=f.next();!m.done;m=f.next()){var m=m.value,e=m.w,l=-1!==e;if(!(I(m.h,2,0)<=d||m.s||l&&!1===g[e])){var
+            h=!l||g[e]||b.i[e].contains(a.target);l&&h&&(g[e]=!0);if(e=h)if(l=a,e=m,h=e.h,null!=h.data[1]&&null!=h.data[4])e=b.v[I(h,4,1)],e=void
+            0!==e&&F()<e+I(h,1,0);else if(null!=h.data[0]){var h=(0<=e.w?b.i[e.w]:N.body).getBoundingClientRect(),v=y([l.clientX-h.left,l.clientY-h.top,h.width,h.height]),l=v.next().value,h=v.next().value,r=v.next().value,v=v.next().value;!(0<r&&0<v)||isNaN(l)||isNaN(h)||0>l||0>h?e=!1:(e=W(I(e.h,0,"")),e=!(l>=e.left&&r-l>e.right&&h>=e.top&&v-h>e.bottom))}else
+            e=!0;e&&(c=m,d=I(m.h,2,0))}}if(c)switch(d=c.h,I(d,3,1)){case 2:case 3:case
+            4:a.preventDefault?a.preventDefault():a.returnValue=!1;g=c.h;if(null!=g.data[7]&&++c.B>=I(g,7,0))if(c.s=!0,b.g&&null!=g.data[1])X(b);else
+            if(0<b.j.length&&null!=g.data[0])for(c=y(b.j),g=c.next();!g.done;g=c.next())g.value.style.display="none";c=y(b.A);for(g=c.next();!g.done;g=c.next())g=g.value,g(a,d)}},aa)};U.prototype.D=function(a){this.A.push(a)};var
+            oa=function(a,b){b=W(b);a.j=[{width:"100%",height:b.top+"px",top:"0",left:"0"},{width:b.right+"px",height:"100%",top:"0",right:"0"},{width:"100%",height:b.bottom+"px",bottom:"0",left:"0"},{width:b.left+"px",height:"100%",top:"0",left:"0"}].map(function(a){return
+            V(a)})},Y=function(a,b){b.s||(a.v[I(b.h,4,1)]=F(),I(b.h,8,void 0)&&(a.C.push(b),X(a)))},na=function(a,b){switch(I(b.h,4,1)){case
+            2:P.AFMA_Communicator&&P.AFMA_Communicator.addEventListener&&Q(P.AFMA_Communicator,"onshow",function(){Y(a,b)});break;case
+            4:Q(N,"DOMContentLoaded",function(){Y(a,b)});break;case 7:P.mraid&&P.mraid.isViewable&&Q(P.mraid,"viewableChange",function(){var
+            c=P.mraid;"function"==B(c.isViewable)&&c.isViewable()&&Y(a,b)});break;case
+            8:ia(function(c){c.rr&&Y(a,b)})}},X=function(a){for(var b=0,c=y(a.C),d=c.next();!d.done;d=c.next()){var
+            d=d.value,f=d.h,r=a.v[I(f,4,1)];d.s||void 0===r||(b=Math.max(b,r+I(f,1,0)))}b-=F();a.m&&fa(a.m);if(0<b){var
+            O=a.g;O.style.display="inline-block";a.m=new T(function(){O.style.display="none"},b);a.m.start()}else
+            a.g.style.display="none"},V=function(a){var b=N.createElement("DIV");R(b,ka);R(b,a);return
+            b},W=function(a){a=void 0===a?"":a;var b={top:0,right:0,bottom:0,left:0};a&&(a=a.split(","),4==a.length&&a.reduce(function(a,b){return
+            a&&!isNaN(b)},!0)&&(a=y(a.map(function(a){return+a})),b.top=a.next().value,b.right=a.next().value,b.bottom=a.next().value,b.left=a.next().value));return
+            b};var Z=new U;A("googqscp",Z);var pa=E(Z.G,Z);A("googqscp.init",pa);var
+            qa=E(Z.D,Z);A("googqscp.registerCallback",qa);}).call(this);googqscp.init([[[[null,1000,10,2,4,null,null,null,1]]],null,0,1]);'}
+        childrenids: []
+        localName: script
+        nodeId: 68
+        nodeName: SCRIPT
+        nodeType: 1
+        nodeValue: ''
+        parent: 5
+        props: {}
+      70:
+        attributes: [style, 'display: none; position: absolute; z-index: 2147483647;
+            width: 100%; height: 100%; top: 0px; left: 0px;']
+        childNodeCount: 0
+        children: []
+        childrenids: []
+        h: 0.0
+        localName: div
+        nodeId: 70
+        nodeName: DIV
+        nodeType: 1
+        nodeValue: ''
+        parent: 5
+        props: {style: 'display: none; position: absolute; z-index: 2147483647; width:
+            100%; height: 100%; top: 0px; left: 0px;'}
+        value: ''
+        w: 0.0
+        x: 0.0
+        y: 0.0
+      71:
+        attributes: []
+        childNodeCount: 1
+        children:
+        - {localName: '', nodeId: 72, nodeName: '#text', nodeType: 3, nodeValue: 'if
+            (window.top && window.top.postMessage) {window.top.postMessage(''{"googMsgType":"adpnt"}'',''*'');}'}
+        childrenids: []
+        localName: script
+        nodeId: 71
+        nodeName: SCRIPT
+        nodeType: 1
+        nodeValue: ''
+        parent: 5
+        props: {}
+      73:
+        attributes: []
+        childNodeCount: 1
+        children:
+        - {localName: '', nodeId: 74, nodeName: '#text', nodeType: 3, nodeValue: '(function(){var
+            g=this,h=function(a){var b=typeof a;if("object"==b)if(a){if(a instanceof
+            Array)return"array";if(a instanceof Object)return b;var c=Object.prototype.toString.call(a);if("[object
+            Window]"==c)return"object";if("[object Array]"==c||"number"==typeof a.length&&"undefined"!=typeof
+            a.splice&&"undefined"!=typeof a.propertyIsEnumerable&&!a.propertyIsEnumerable("splice"))return"array";if("[object
+            Function]"==c||"undefined"!=typeof a.call&&"undefined"!=typeof a.propertyIsEnumerable&&!a.propertyIsEnumerable("call"))return"function"}else
+            return"null";else if("function"==b&&"undefined"==typeof a.call)return"object";return
+            b},l=function(a,b,c){return a.call.apply(a.bind,arguments)},m=function(a,b,c){if(!a)throw
+            Error();if(2<arguments.length){var d=Array.prototype.slice.call(arguments,2);return
+            function(){var c=Array.prototype.slice.call(arguments);Array.prototype.unshift.apply(c,d);return
+            a.apply(b,c)}}return function(){return a.apply(b,arguments)}},n=function(a,b,c){Function.prototype.bind&&-1!=Function.prototype.bind.toString().indexOf("native
+            code")?n=l:n=m;return n.apply(null,arguments)},q=Date.now||function(){return+new
+            Date},t=function(a){var b=r;function c(){}c.prototype=b.prototype;a.v=b.prototype;a.prototype=new
+            c;a.prototype.constructor=a;a.D=function(a,c,f){for(var d=Array(arguments.length-2),e=2;e<arguments.length;e++)d[e-2]=arguments[e];return
+            b.prototype[c].apply(a,d)}};var u=document,v=window;var x=Array.prototype.forEach?function(a,b,c){Array.prototype.forEach.call(a,b,c)}:function(a,b,c){for(var
+            d=a.length,e="string"==typeof a?a.split(""):a,f=0;f<d;f++)f in e&&b.call(c,e[f],f,a)};var
+            y=function(a){y[" "](a);return a};y[" "]=function(){};var z=function(a,b){var
+            c;c=(c=g.performance)&&c.now?c.now():q();this.label=a;this.type=b;this.value=c;this.duration=0;this.uniqueId=this.label+"_"+this.type+"_"+Math.random()};var
+            A=function(a,b){this.i=[];this.h=b||g;var c=null;b&&(b.google_js_reporting_queue=b.google_js_reporting_queue||[],this.i=b.google_js_reporting_queue,c=b.google_measure_js_timing);this.g=null!=c?c:Math.random()<a};A.prototype.j=function(a){var
+            b=this.h.performance;a&&b&&b.clearMarks&&(b.clearMarks("goog_"+a.uniqueId+"_start"),b.clearMarks("goog_"+a.uniqueId+"_end"))};A.prototype.start=function(a,b){if(!this.g)return
+            null;a=new z(a,b);(b=this.h.performance)&&b.mark&&b.mark("goog_"+a.uniqueId+"_start");return
+            a};var B=function(){var a=!1;try{var b=Object.defineProperty({},"passive",{get:function(){a=!0}});g.addEventListener("test",null,b)}catch(c){}return
+            a}(),C=function(a,b,c){a.addEventListener?a.addEventListener(b,c,B?void
+            0:!1):a.attachEvent&&a.attachEvent("on"+b,c)};var E=function(){var a=D;try{var
+            b;if(b=!!a&&null!=a.location.href)a:{try{y(a.foo);b=!0;break a}catch(c){}b=!1}return
+            b}catch(c){return!1}},G=function(a,b){for(var c in a)Object.prototype.hasOwnProperty.call(a,c)&&b.call(void
+            0,a[c],c,a)};var H=function(a,b,c,d,e){this.l=c||4E3;this.j=a||"&";this.m=b||",$";this.i=void
+            0!==d?d:"trn";this.s=e||null;this.h={};this.o=0;this.g=[]},K=function(a,b,c,d){b=b+"//"+c+d;var
+            e=I(a)-d.length-0;if(0>e)return"";a.g.sort(function(a,b){return a-b});d=null;c="";for(var
+            f=0;f<a.g.length;f++)for(var k=a.g[f],w=a.h[k],F=0;F<w.length;F++){if(!e){d=null==d?k:d;break}var
+            p=J(w[F],a.j,a.m);if(p){p=c+p;if(e>=p.length){e-=p.length;b+=p;c=a.j;break}d=null==d?k:d}}e="";a.i&&null!=d&&(e=c+a.i+"="+(a.s||d));return
+            b+e+""},I=function(a){if(!a.i)return a.l;var b=1,c;for(c in a.h)b=c.length>b?c.length:b;return
+            a.l-a.i.length-b-a.j.length-1},J=function(a,b,c,d,e){var f=[];G(a,function(a,w){(a=L(a,b,c,d,e))&&f.push(w+"="+a)});return
+            f.join(b)},L=function(a,b,c,d,e){if(null==a)return"";b=b||"&";c=c||",$";"string"==typeof
+            c&&(c=c.split(""));if(a instanceof Array){if(d=d||0,d<c.length){for(var
+            f=[],k=0;k<a.length;k++)f.push(L(a[k],b,c,d+1,e));return f.join(c[d])}}else
+            if("object"==typeof a)return e=e||0,2>e?encodeURIComponent(J(a,b,c,d,e+1)):"...";return
+            encodeURIComponent(String(a))};var aa=function(a,b,c){var d=M;if(.1>(c?d.j:Math.random()))try{var
+            e;b instanceof H?e=b:(e=new H,G(b,function(a,b){var c=e,d=c.o++,f={};f[b]=a;a=[f];c.g.push(d);c.h[d]=a}));var
+            f=K(e,d.h,d.g,d.i+a+"&");f&&N(f)}catch(k){}},N=function(a){g.google_image_requests||(g.google_image_requests=[]);var
+            b=g.document.createElement("img");b.src=a;g.google_image_requests.push(b)};var
+            O=!!window.google_async_iframe_id,D=O&&window.parent||window;var M,P;if(O&&!E()){var
+            Q="."+u.domain;try{for(;2<Q.split(".").length&&!E();)u.domain=Q=Q.substr(Q.indexOf(".")+1),D=window.parent}catch(a){}E()||(D=window)}P=D;var
+            R=new A(1,P),S=function(){P.google_measure_js_timing||(x(R.i,R.j,R),R.i.length=0,R.g=!1)};M=new
+            function(){this.h="http:"===v.location.protocol?"http:":"https:";this.g="pagead2.googlesyndication.com";this.i="/pagead/gen_204?id=";this.j=Math.random()};"complete"==P.document.readyState?S():R.g&&C(P,"load",function(){S()});var
+            r=function(){this.j=this.j;this.l=this.l};r.prototype.j=!1;var ba=function(a){a.j||(a.j=!0,a.i())};r.prototype.i=function(){if(this.l)for(;this.l.length;)this.l.shift()()};var
+            T=function(a,b,c){r.call(this);this.h=a;this.u=b||0;this.m=c;this.o=n(this.s,this)};t(T);T.prototype.g=0;T.prototype.i=function(){T.v.i.call(this);this.g&&g.clearTimeout(this.g);this.g=0;delete
+            this.h;delete this.m};T.prototype.start=function(a){this.g&&g.clearTimeout(this.g);this.g=0;var
+            b=this.o;a=void 0!==a?a:this.u;if("function"!=h(b))if(b&&"function"==typeof
+            b.handleEvent)b=n(b.handleEvent,b);else throw Error("Invalid listener
+            argument");this.g=2147483647<Number(a)?-1:g.setTimeout(b,a||0)};T.prototype.s=function(){this.g=0;this.h&&this.h.call(this.m)};var
+            V=function(a,b,c){r.call(this);this.h=[];this.u=q();this.B=c;this.s=0;this.g=null;this.m=u.getElementsByClassName("click_blocker_glasspane")[0];"DOMContentLoaded"==a&&(U(this,u,a,b),"undefined"!==typeof
+            AFMA_Communicator&&AFMA_Communicator&&AFMA_Communicator.addEventListener&&U(this,AFMA_Communicator,"onshow",b));"onshow"==a&&(U(this,v,a,b),b||C(this.m,"click",n(this.o,this)))};t(V);V.prototype.o=function(a){var
+            b=this.B||"";a={dt:q()-this.u,gpc:++this.s,x:a.clientX,y:a.clientY};aa(b,a,"jserror"!=b)};V.prototype.C=function(a){var
+            b=this.m;b&&(a?(b.style.display="block",this.g&&(ba(this.g),this.g=null),this.g=new
+            T(function(){b.style.display="none"},a),this.g.start()):b.style.display="none")};var
+            U=function(a,b,c,d){d=n(a.C,a,d);C(b,c,d);a.h.push({target:b,A:c,w:d})};V.prototype.i=function(){for(var
+            a=0;a<this.h.length;++a){var b=this.h[a].target,c=this.h[a].A,d=this.h[a].w;b.removeEventListener?b.removeEventListener(c,d,B?void
+            0:!1):b.detachEvent&&b.detachEvent("on"+c,d)}V.v.i.call(this)};var W=function(a,b,c){return
+            new V(a,b,c)},X=["googleInitCd"],Y=g;X[0]in Y||!Y.execScript||Y.execScript("var
+            "+X[0]);for(var Z;X.length&&(Z=X.shift());)X.length||void 0===W?Y[Z]&&Y[Z]!==Object.prototype[Z]?Y=Y[Z]:Y=Y[Z]={}:Y[Z]=W;}).call(this);googleInitCd(''DOMContentLoaded'',
+            1000);'}
+        childrenids: []
+        localName: script
+        nodeId: 73
+        nodeName: SCRIPT
+        nodeType: 1
+        nodeValue: ''
+        parent: 5
+        props: {}
+      75:
+        attributes: []
+        childNodeCount: 1
+        children:
+        - {localName: '', nodeId: 76, nodeName: '#text', nodeType: 3, nodeValue: '(function(){var
+            e=this,f=function(a){return"number"==typeof a},g=function(a,b,c){return
+            a.call.apply(a.bind,arguments)},h=function(a,b,c){if(!a)throw Error();if(2<arguments.length){var
+            d=Array.prototype.slice.call(arguments,2);return function(){var c=Array.prototype.slice.call(arguments);Array.prototype.unshift.apply(c,d);return
+            a.apply(b,c)}}return function(){return a.apply(b,arguments)}},k=function(a,b,c){Function.prototype.bind&&-1!=Function.prototype.bind.toString().indexOf("native
+            code")?k=g:k=h;return k.apply(null,arguments)};var m=function(){var a=!1;try{var
+            b=Object.defineProperty({},"passive",{get:function(){a=!0}});e.addEventListener("test",null,b)}catch(c){}return
+            a}();var n=function(a){this.h=null;var b={top:10,right:10,bottom:10,left:10};a&&(a=a.split(","),4!=a.length||isNaN(a[0])||isNaN(a[1])||isNaN(a[2])||isNaN(a[3])||(b.top=+a[0],b.right=+a[1],b.bottom=+a[2],b.left=+a[3]));this.g=b};n.prototype.i=function(a){for(var
+            b=!1,c=a.target;c;c=c.parentNode)if("abgc"==c.id){b=!0;break}if(!b)var
+            d=this.h.getBoundingClientRect(),b=d.width,c=d.height,l=a.clientX-d.left,d=a.clientY-d.top,b=!(f(b)&&f(c)&&f(a.clientX)&&f(a.clientY))||0>=b||0>=c||0>l||0>d?!0:l>=this.g.left&&b-l>=this.g.right&&d>=this.g.top&&c-d>=this.g.bottom;b||(a.preventDefault?a.preventDefault():a.returnValue=!1)};var
+            p=function(a,b){b||(b="");b=new n(b);b.h=a;a=b.h;var c=k(b.i,b);a.addEventListener?a.addEventListener("click",c,m?void
+            0:!1):a.attachEvent&&a.attachEvent("onclick",c);return b},q=["googleInitIc"],r=e;q[0]in
+            r||!r.execScript||r.execScript("var "+q[0]);for(var t;q.length&&(t=q.shift());){var
+            u;if(u=!q.length)u=void 0!==p;u?r[t]=p:r[t]&&r[t]!==Object.prototype[t]?r=r[t]:r=r[t]={}};}).call(this);googleInitIc(document.body,''10,10,10,10'');'}
+        childrenids: []
+        localName: script
+        nodeId: 75
+        nodeName: SCRIPT
+        nodeType: 1
+        nodeValue: ''
+        parent: 5
+        props: {}
+      77:
+        attributes: []
+        childNodeCount: 1
+        children:
+        - &id055
+          childrenids: []
+          localName: ''
+          nodeId: 78
+          nodeName: '#text'
+          nodeType: 3
+          nodeValue: '.click_blocker_glasspane {display: none;height: 50px;left: 0;position:
+            absolute;top: 0;width: 320px;z-index: 1;}'
+          parent: 77
+          props: {}
+        childrenids: [78]
+        h: 0.0
+        localName: style
+        nodeId: 77
+        nodeName: STYLE
+        nodeType: 1
+        nodeValue: ''
+        parent: 5
+        props: {}
+        value: ''
+        w: 0.0
+        x: 0.0
+        y: 0.0
+      78: *id055
+      79:
+        attributes: [class, click_blocker_glasspane]
+        childNodeCount: 1
+        children:
+        - &id056
+          attributes: [src, //tpc.googlesyndication.com/pagead/images/transparent.png,
+            style, 'height:100%; width:100%;']
+          childNodeCount: 0
+          children: []
+          childrenids: []
+          h: 0.0
+          localName: img
+          nodeId: 80
+          nodeName: IMG
+          nodeType: 1
+          nodeValue: ''
+          parent: 79
+          props: {src: //tpc.googlesyndication.com/pagead/images/transparent.png,
+            style: 'height:100%; width:100%;'}
+          value: ''
+          w: 0.0
+          x: 0.0
+          y: 0.0
+        childrenids: [80]
+        h: 0.0
+        localName: div
+        nodeId: 79
+        nodeName: DIV
+        nodeType: 1
+        nodeValue: ''
+        parent: 5
+        props: {class: click_blocker_glasspane}
+        value: ''
+        w: 0.0
+        x: 0.0
+        y: 0.0
+      80: *id056
+    page: {base_h: 131, base_w: 840, base_x: 120, base_y: 1704, empty: false, title: 'about:blank',
+      url: 'about:blank', ws_url: 'ws://127.0.0.1:12345/devtools/page/E86D6786-A003-4273-859C-390BCBF5BD8D'}
+    parents: {2: 1, 3: 1, 4: 3, 5: 3, 6: 4, 7: 4, 8: 7, 9: 4, 10: 9, 11: 4, 12: 11,
+      13: 5, 14: 13, 15: 13, 16: 13, 17: 13, 18: 13, 19: 13, 20: 13, 21: 20, 22: 21,
+      23: 20, 24: 23, 25: 24, 26: 25, 27: 20, 28: 27, 29: 28, 30: 29, 31: 30, 32: 29,
+      33: 29, 34: 33, 35: 29, 36: 20, 37: 36, 38: 37, 39: 38, 40: 39, 41: 40, 42: 37,
+      43: 42, 44: 43, 45: 44, 46: 45, 47: 46, 48: 47, 49: 46, 50: 49, 51: 44, 52: 51,
+      53: 52, 54: 51, 55: 54, 56: 13, 57: 13, 58: 13, 59: 58, 60: 13, 61: 60, 62: 13,
+      64: 13, 65: 5, 66: 5, 67: 66, 68: 5, 69: 68, 70: 5, 71: 5, 72: 71, 73: 5, 74: 73,
+      75: 5, 76: 75, 77: 5, 78: 77, 79: 5, 80: 79}
+    scaling: 2.625
+  title: about:blank

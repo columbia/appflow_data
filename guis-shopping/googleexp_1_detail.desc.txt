@@ -1,0 +1,4 @@
+12 detail_price
+54 back
+57 search
+60 cart

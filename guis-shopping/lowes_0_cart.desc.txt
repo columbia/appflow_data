@@ -1,0 +1,8 @@
+8 back
+17 item_image
+19 item_title
+23 item_count
+24 item_price
+27 item_remove
+44 item_image
+46 item_title

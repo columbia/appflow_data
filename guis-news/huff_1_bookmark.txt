@@ -1,0 +1,1 @@
+com.huffingtonpost.android/com.huffingtonpost.android.entry.bookmarkrecent.SimpleEntryActivity
